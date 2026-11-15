@@ -6,8 +6,9 @@ AI 行业速递 · 自动版 —— 每日播客生成器（GitHub Actions 里�
 流程：读 feed.xml 最近 26 小时的条目 -> DeepSeek 写双人对谈稿（无 key 时用标题播报稿兜底）
 -> edge-tts 双音色逐句合成 -> ffmpeg 拼接 -> episodes/ep-YYYYMMDD.mp3 + podcast.xml
 订阅地址：https://<用户名>.github.io/ai-news-feed/podcast.xml
-依赖：edge-tts（pip）、ffmpeg（系统）。DeepSeek key 从环境变量 DEEPSEEK_API_KEY 读。
+依赖：edge-tts（pip）。MP3 拼接为纯字节合并，不需要 ffmpeg。DeepSeek key 从环境变量 DEEPSEEK_API_KEY 读。
 """
+import base64
 import json
 import os
 import re
@@ -27,6 +28,64 @@ CST = timezone(timedelta(hours=8))
 
 VOICE_A = "zh-CN-YunyangNeural"   # 男声，新闻播报腔
 VOICE_B = "zh-CN-XiaoxiaoNeural"  # 女声
+
+# 0.4 秒静音片段（24kHz/48kbps/单声道，与 edge-tts 输出同规格），作句间间隔与失败占位
+SILENCE_B64 = (
+    "SUQzBAAAAAAAI1RTU0UAAAAPAAADTGF2ZjYyLjEyLjEwMgAAAAAAAAAAAAAA//OEwAAAAAAAAAAA"
+    "AEluZm8AAAAPAAAAEwAAC3AAHR0dHR0pKSkpKTY2NjY2Q0NDQ0NDT09PT09cXFxcXGhoaGhodXV1"
+    "dXV1goKCgoKOjo6Ojpubm5ubp6enp6entLS0tLTBwcHBwc3Nzc3N2tra2tra5ubm5ubz8/Pz8///"
+    "////AAAAAExhdmM2Mi4yOAAAAAAAAAAAAAAAACQDAAAAAAAAAAtwBmwvuQAAAAAAAAAAAAAAAAAA"
+    "AAAAAAAAAAAA//NkxAAAAANIAAAAAExBTUVVVVVMQU1FMy4xMDBVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV//NkxHwAAANIAAAAAFVVVVVV"
+    "VVVMQU1FMy4xMDBVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVV//NkxHwAAANIAAAAAFVVVVVVVVVMQU1FMy4xMDBVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV//NkxHwAAANIAAAAAFVV"
+    "VVVVVVVMQU1FMy4xMDBVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVV//NkxHwAAANIAAAAAFVVVVVVVVVMQU1FMy4xMDBVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV//NkxHwAAANIAAAA"
+    "AFVVVVVVVVVMQU1FMy4xMDBVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVV//NkxHwAAANIAAAAAFVVVVVVVVVMQU1FMy4xMDBVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV//NkxHwAAANI"
+    "AAAAAFVVVVVVVVVMQU1FMy4xMDBVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVV//NkxHwAAANIAAAAAFVVVVVVVVVMQU1FMy4xMDBVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV//NkxHwA"
+    "AANIAAAAAFVVVVVVVVVMQU1FMy4xMDBVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV//NkxHwAAANIAAAAAFVVVVVVVVVMQU1FMy4xMDBVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV//Nk"
+    "xHwAAANIAAAAAFVVVVVVVVVMQU1FMy4xMDBVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV//NkxHwAAANIAAAAAFVVVVVVVVVMQU1FMy4xMDBV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "//NkxHwAAANIAAAAAFVVVVVVVVVMQU1FMy4xMDBVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV//NkxHwAAANIAAAAAFVVVVVVVVVMQU1FMy4x"
+    "MDBVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVV//NkxHwAAANIAAAAAFVVVVVVVVVMQU1FMy4xMDBVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV//NkxHwAAANIAAAAAFVVVVVVVVVMQU1F"
+    "My4xMDBVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVV//NkxHwAAANIAAAAAFVVVVVVVVVMQU1FMy4xMDBVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV//NkxHwAAANIAAAAAFVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV"
+    "VVVVVVVVVVVV"
+)
+SILENCE_MP3 = base64.b64decode(SILENCE_B64)
 
 
 def recent_items(feed_path, hours=26, fallback_n=20):
@@ -69,8 +128,12 @@ def script_via_deepseek(items):
     req = urllib.request.Request(
         "https://api.deepseek.com/chat/completions", data=body,
         headers={"Content-Type": "application/json", "Authorization": f"Bearer {key}"})
-    with urllib.request.urlopen(req, timeout=180) as r:
-        text = json.loads(r.read().decode("utf-8"))["choices"][0]["message"]["content"]
+    try:
+        with urllib.request.urlopen(req, timeout=180) as r:
+            text = json.loads(r.read().decode("utf-8"))["choices"][0]["message"]["content"]
+    except Exception as e:
+        print(f"[warn] DeepSeek 写稿失败，降级为标题播报稿：{e}")
+        return None
     lines = []
     for raw in text.splitlines():
         m = re.match(r"^\s*([AB])\s*[:：]\s*(.+)$", raw)
@@ -92,29 +155,27 @@ def script_fallback(items, date_str):
 def synth(lines, out_mp3):
     tmp = os.path.join(EP_DIR, "_parts")
     os.makedirs(tmp, exist_ok=True)
-    parts = []
+    chunks = []
     for idx, (who, text) in enumerate(lines):
         voice = VOICE_A if who == "A" else VOICE_B
         p = os.path.join(tmp, f"{idx:03d}.mp3")
-        subprocess.run([sys.executable, "-m", "edge_tts", "--voice", voice,
-                        "--text", text, "--write-media", p],
-                       check=True, capture_output=True, timeout=120)
-        parts.append(p)
-    silence = os.path.join(tmp, "sil.mp3")
-    subprocess.run(["ffmpeg", "-y", "-f", "lavfi", "-i",
-                    "anullsrc=r=24000:cl=mono", "-t", "0.35", silence],
-                   check=True, capture_output=True)
-    lst = os.path.join(tmp, "list.txt")
-    with open(lst, "w", encoding="utf-8") as f:
-        for p in parts:
-            f.write(f"file '{p}'\nfile '{silence}'\n")
-    subprocess.run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", lst,
-                    "-c:a", "libmp3lame", "-q:a", "4", out_mp3],
-                   check=True, capture_output=True)
-    for p in parts:
-        os.remove(p)
-    os.remove(silence)
-    os.remove(lst)
+        data = None
+        for attempt in range(2):  # 单句失败重试一次，再失败用静音占位，不让整期崩掉
+            try:
+                subprocess.run([sys.executable, "-m", "edge_tts", "--voice", voice,
+                                "--text", text, "--write-media", p],
+                               check=True, capture_output=True, timeout=120)
+                data = open(p, "rb").read()
+                break
+            except Exception as e:
+                print(f"[warn] 第 {idx + 1} 句合成失败（第 {attempt + 1} 次）：{e}")
+                time.sleep(3)
+        chunks.append(data if data else SILENCE_MP3 * 3)
+        chunks.append(SILENCE_MP3)
+        if os.path.exists(p):
+            os.remove(p)
+    with open(out_mp3, "wb") as f:
+        f.write(b"".join(chunks))  # MP3 帧可直接字节拼接，主流播放器均可播
     os.rmdir(tmp)
 
 
