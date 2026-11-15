@@ -1,4 +1,39 @@
 {
+ "https://www.iimedia.cn/c1061/120072.html": {
+  "title": "2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴",
+  "source": "艾媒网",
+  "ts": 1794776539.4226813,
+  "desc": "",
+  "ord": 1
+ },
+ "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed": {
+  "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+  "source": "The Verge AI",
+  "ts": 1794775429.0,
+  "desc": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a ",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/": {
+  "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+  "source": "TechCrunch AI",
+  "ts": 1794774057.0,
+  "desc": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+  "ord": 0
+ },
+ "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/": {
+  "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+  "source": "Hacker News 头版",
+  "ts": 1794771586.0,
+  "desc": "Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/\nComments URL: https://news.ycombinator.com/item?id=50509953\nPoints: 38\n# Comments: 24",
+  "ord": 0
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china": {
+  "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+  "source": "The Verge AI",
+  "ts": 1794770143.0,
+  "desc": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded th",
+  "ord": 1
+ },
  "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy": {
   "title": "black-forest-labs/flux-3-image-klein-comfy Image-to-Image • Updated 13 days ago • 1.18M • 3.23k",
   "source": "Hugging Face Trending",
@@ -325,14 +360,14 @@
   "source": "艾媒网",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 1
+  "ord": 2
  },
  "https://www.iimedia.cn/c1088/119988.html": {
   "title": "11月11日AI新产品讯息：千问大模型Qwen4即将发布、蚂蚁灵波发布LingBot-Touch模型、上药云健康首发“益药·智能服务矩阵”",
   "source": "艾媒网",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 2
+  "ord": 3
  },
  "https://www.anthropic.com/claude-fable-and-mythos-5-2": {
   "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
@@ -885,7 +920,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 25
+  "ord": 26
  },
  "https://huggingface.co/moonshotai/Kimi-K3.1-Pro": {
   "title": "moonshotai/Kimi-K3.1-Pro Image-Text-to-Text • 2.8T • Updated 10 days ago • 46.8k • • 2.09k",
@@ -899,7 +934,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 26
+  "ord": 25
  },
  "https://huggingface.co/higurashi-ai/Haru-4B": {
   "title": "higurashi-ai/Haru-4B Audio-to-Audio • 5B • Updated 3 days ago • 2.1k • 277",
@@ -912,7 +947,8 @@
   "title": "Edge0/Edge0-145B-NVFP4 Text Generation • 5B • Updated about 3 hours ago • 41.6k • 277",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 29
  },
  "https://github.com/platform": {
   "title": "GitHubRepository hosting, code review, and collaboration",
@@ -1170,7 +1206,7 @@
   "title": "Court denies motion to dismiss DRAM price fixing case",
   "source": "Hacker News 头版",
   "ts": 1794705516.0,
-  "desc": "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal\nComments URL: https://news.ycombinator.com/item?id=50502988\nPoints: 393\n# Comments: 177",
+  "desc": "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal\nComments URL: https://news.ycombinator.com/item?id=50502988\nPoints: 452\n# Comments: 206",
   "ord": 3
  },
  "https://daily.ai225.com/daily/2026-11-15": {
