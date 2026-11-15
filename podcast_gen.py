@@ -3,7 +3,7 @@
 """
 AI 行业速递 · 自动版 —— 每日播客生成器（GitHub Actions 里运行）
 
-流程：读 feed.xml 最近 26 小时的条目 -> DeepSeek 写双人对谈稿（无 key 时用标题播报稿兜底）
+流程：读 feed.xml 最近 26 小时的条目 -> 大模型写双人对谈稿（优先 GitHub Models 免费额度，其次 DeepSeek；都不可用时用标题播报稿兜底）
 -> edge-tts 双音色逐句合成 -> ffmpeg 拼接 -> episodes/ep-YYYYMMDD.mp3 + podcast.xml
 订阅地址：https://<用户名>.github.io/ai-news-feed/podcast.xml
 依赖：edge-tts（pip）。MP3 拼接为纯字节合并，不需要 ffmpeg。DeepSeek key 从环境变量 DEEPSEEK_API_KEY 读。
@@ -107,10 +107,21 @@ def recent_items(feed_path, hours=26, fallback_n=20):
     return fresh if len(fresh) >= 5 else items[:fallback_n]
 
 
-def script_via_deepseek(items):
-    key = os.environ.get("DEEPSEEK_API_KEY", "").strip()
-    if not key:
-        return None
+def _chat_completion(base_url, token, model, prompt):
+    body = json.dumps({
+        "model": model,
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0.7,
+    }).encode("utf-8")
+    req = urllib.request.Request(
+        base_url, data=body,
+        headers={"Content-Type": "application/json", "Authorization": f"Bearer {token}"})
+    with urllib.request.urlopen(req, timeout=180) as r:
+        return json.loads(r.read().decode("utf-8"))["choices"][0]["message"]["content"]
+
+
+def script_via_llm(items):
+    """按顺序尝试各写稿模型：GitHub Models（免费）-> DeepSeek -> 都不行返回 None（走标题播报稿）。"""
     news = "\n".join(f"- [{i['source']}] {i['title']}。{i['desc']}" for i in items[:25])
     prompt = (
         "你是播客编剧。把下面今天的 AI 行业新闻改写成一期 5 到 7 分钟的中文双人对谈播客稿。\n"
@@ -120,26 +131,29 @@ def script_via_deepseek(items):
         "不要括号里的舞台说明，不要 markdown。\n"
         "格式：每一行一句台词，以「A：」或「B：」开头，每句 20 到 60 字。\n\n今日新闻：\n" + news
     )
-    body = json.dumps({
-        "model": "deepseek-chat",
-        "messages": [{"role": "user", "content": prompt}],
-        "temperature": 0.7,
-    }).encode("utf-8")
-    req = urllib.request.Request(
-        "https://api.deepseek.com/chat/completions", data=body,
-        headers={"Content-Type": "application/json", "Authorization": f"Bearer {key}"})
-    try:
-        with urllib.request.urlopen(req, timeout=180) as r:
-            text = json.loads(r.read().decode("utf-8"))["choices"][0]["message"]["content"]
-    except Exception as e:
-        print(f"[warn] DeepSeek 写稿失败，降级为标题播报稿：{e}")
-        return None
-    lines = []
-    for raw in text.splitlines():
-        m = re.match(r"^\s*([AB])\s*[:：]\s*(.+)$", raw)
-        if m:
-            lines.append((m.group(1), m.group(2).strip()))
-    return lines or None
+    providers = []
+    gh_token = os.environ.get("GH_MODELS_TOKEN", "").strip()
+    if gh_token:
+        providers.append(("GitHub Models", "https://models.github.ai/inference/chat/completions",
+                          gh_token, os.environ.get("PODCAST_LLM_MODEL", "deepseek/DeepSeek-V3-0324")))
+    ds_key = os.environ.get("DEEPSEEK_API_KEY", "").strip()
+    if ds_key:
+        providers.append(("DeepSeek", "https://api.deepseek.com/chat/completions", ds_key, "deepseek-chat"))
+    for name, url, token, model in providers:
+        try:
+            text = _chat_completion(url, token, model, prompt)
+            lines = []
+            for raw in text.splitlines():
+                m = re.match(r"^\s*([AB])\s*[:：]\s*(.+)$", raw)
+                if m:
+                    lines.append((m.group(1), m.group(2).strip()))
+            if lines:
+                print(f"script by {name} ({model}): {len(lines)} lines")
+                return lines
+            print(f"[warn] {name} 返回内容没有可解析的台词，换下一个")
+        except Exception as e:
+            print(f"[warn] {name} 写稿失败，换下一个：{e}")
+    return None
 
 
 def script_fallback(items, date_str):
@@ -223,7 +237,7 @@ def main():
     if not items:
         print("no items, abort")
         return
-    lines = script_via_deepseek(items) or script_fallback(items, date_str)
+    lines = script_via_llm(items) or script_fallback(items, date_str)
     print(f"script lines: {len(lines)}")
     fname = f"ep-{date_key}.mp3"
     out = os.path.join(EP_DIR, fname)
