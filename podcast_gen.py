@@ -26,8 +26,8 @@ SITE = os.environ.get("SITE_BASE", "https://emtion.github.io/ai-news-feed")
 KEEP_EPISODES = 30
 CST = timezone(timedelta(hours=8))
 
-VOICE_A = "zh-CN-YunxiaNeural"   # 男声，年轻活泼（云夏）
-VOICE_B = "zh-CN-XiaomengNeural"  # 女声，甜美年轻（晓萌）
+VOICE_A = "zh-CN-YunjianNeural"   # 男声，成熟稳重（云健，edge-tts 名录已核实）
+VOICE_B = "zh-CN-XiaoxiaoNeural"  # 女声（晓晓，已验证可用；晓萌不在 edge-tts 目录里，整轨静音）
 
 # 0.4 秒静音片段（24kHz/48kbps/单声道，与 edge-tts 输出同规格），作句间间隔与失败占位
 SILENCE_B64 = (
@@ -185,12 +185,11 @@ def synth(lines, out_mp3):
     tmp = os.path.join(EP_DIR, "_parts")
     os.makedirs(tmp, exist_ok=True)
     chunks = []
-    ok_count = 0
     for idx, (who, text) in enumerate(lines):
         voice = VOICE_A if who == "A" else VOICE_B
         p = os.path.join(tmp, f"{idx:03d}.mp3")
-        data = None
-        for attempt in range(2):  # 单句失败重试一次，再失败用静音占位，不让整期崩掉
+        data, last_err = None, None
+        for attempt in range(3):  # 单句失败最多重试 3 次
             try:
                 subprocess.run([sys.executable, "-m", "edge_tts", "--voice", voice,
                                 "--text", text, "--write-media", p],
@@ -198,16 +197,15 @@ def synth(lines, out_mp3):
                 data = open(p, "rb").read()
                 break
             except Exception as e:
+                last_err = e
                 print(f"[warn] 第 {idx + 1} 句合成失败（第 {attempt + 1} 次）：{e}")
                 time.sleep(3)
-        if data:
-            ok_count += 1
-        chunks.append(data if data else SILENCE_MP3 * 3)
+        if data is None:  # 半静音的节目比不发更糟：整期取消，日志里写明是哪个音色
+            raise RuntimeError(f"第 {idx + 1} 句合成失败（音色 {voice}），已取消发布：{last_err}")
+        chunks.append(data)
         chunks.append(SILENCE_MP3)
         if os.path.exists(p):
             os.remove(p)
-    if ok_count == 0:
-        raise RuntimeError("全部句子合成失败，取消发布（可能是音色名不对或 TTS 服务不可用）")
     with open(out_mp3, "wb") as f:
         f.write(b"".join(chunks))  # MP3 帧可直接字节拼接，主流播放器均可播
     os.rmdir(tmp)
@@ -221,13 +219,16 @@ def esc(s):
 def write_podcast_xml(episodes):
     items = ""
     for ep in episodes:
-        dt = datetime.strptime(ep["date"], "%Y%m%d").replace(tzinfo=CST)
+        if ep.get("ts"):
+            dt = datetime.fromtimestamp(ep["ts"], CST)
+        else:
+            dt = datetime.strptime(ep["date"], "%Y%m%d").replace(tzinfo=CST)
         url = f"{SITE}/episodes/{ep['file']}"
         items += f"""  <item>
     <title>{esc(ep['title'])}</title>
     <description>{esc(ep['desc'] + (("\n\n【本期文字稿】\n" + ep["script"]) if ep.get("script") else ""))}</description>
     <link>{SITE}/</link>
-    <guid isPermaLink="false">ep-{ep['date']}</guid>
+    <guid isPermaLink="false">{ep['file'].replace('.mp3', '')}</guid>
     <pubDate>{format_datetime(dt)}</pubDate>
     <enclosure url="{url}" length="{ep['size']}" type="audio/mpeg"/>
   </item>
@@ -259,28 +260,40 @@ def main():
         return
     lines = script_via_llm(items) or script_fallback(items, date_str)
     print(f"script lines: {len(lines)}")
-    fname = f"ep-{date_key}.mp3"
-    out = os.path.join(EP_DIR, fname)
-    synth(lines, out)
-    print("wrote", fname, os.path.getsize(out), "bytes")
-    script_text = "\n".join(f"{who}：{text}" for who, text in lines)
-    with open(os.path.join(EP_DIR, f"ep-{date_key}.txt"), "w", encoding="utf-8") as f:
-        f.write(f"AI 行业速递 · 自动版 {date_str}\n\n{script_text}\n")
 
     manifest_path = os.path.join(EP_DIR, "episodes.json")
     manifest = {}
     if os.path.exists(manifest_path):
         manifest = json.load(open(manifest_path, encoding="utf-8"))
+    for v in manifest.values():  # 老条目补 ts（按日期零点），供排序与发布时间用
+        if not v.get("ts"):
+            v["ts"] = int(datetime.strptime(v["date"], "%Y%m%d").replace(tzinfo=CST).timestamp())
+    # 同一天重复运行不覆盖旧期：已有当天节目时依次用 -2、-3 后缀另存一期
+    stem, seq = f"ep-{date_key}", 1
+    while stem in manifest or os.path.exists(os.path.join(EP_DIR, stem + ".mp3")):
+        seq += 1
+        stem = f"ep-{date_key}-{seq}"
+    fname = stem + ".mp3"
+    out = os.path.join(EP_DIR, fname)
+    synth(lines, out)
+    print("wrote", fname, os.path.getsize(out), "bytes")
+    script_text = "\n".join(f"{who}：{text}" for who, text in lines)
+    with open(os.path.join(EP_DIR, stem + ".txt"), "w", encoding="utf-8") as f:
+        f.write(f"AI 行业速递 · 自动版 {date_str}\n\n{script_text}\n")
+
     top = items[0]["title"].split("|")[-1].strip()[:40] if items else ""
-    manifest[date_key] = {
-        "date": date_key, "file": fname,
-        "title": f"{today.month}月{today.day}日速递：{top}",
+    title = f"{today.month}月{today.day}日速递：{top}"
+    if seq >= 2:
+        title += f"（第{seq}版）"
+    manifest[stem] = {
+        "date": date_key, "file": fname, "ts": int(time.time()), "seq": seq,
+        "title": title,
         "desc": "今日要点：" + "；".join(i["title"].split("|")[-1].strip()[:30] for i in items[:5]),
         "size": os.path.getsize(out),
         "script": script_text,
     }
-    # 只保留最近 KEEP_EPISODES 期，删掉更旧的音频
-    keys = sorted(manifest.keys(), reverse=True)
+    # 只保留最近 KEEP_EPISODES 期（按生成时间），删掉更旧的音频
+    keys = sorted(manifest.keys(), key=lambda k: -manifest[k].get("ts", 0))
     for old in keys[KEEP_EPISODES:]:
         p = os.path.join(EP_DIR, manifest[old]["file"])
         if os.path.exists(p):
@@ -290,7 +303,7 @@ def main():
             os.remove(t)
         del manifest[old]
     json.dump(manifest, open(manifest_path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    write_podcast_xml([manifest[k] for k in sorted(manifest.keys(), reverse=True)])
+    write_podcast_xml([manifest[k] for k in sorted(manifest.keys(), key=lambda k: -manifest[k].get("ts", 0))])
     print("podcast.xml updated,", len(manifest), "episodes")
 
 
