@@ -103,8 +103,23 @@ def recent_items(feed_path, hours=26, fallback_n=20):
             "source": (it.findtext("source") or "").strip(),
             "ts": ts,
         })
+    def interleave(pool, limit):
+        """按来源轮转交错取条目，保证写稿素材各源平均，不被单个源刷屏。"""
+        by = {}
+        for i in pool:
+            by.setdefault(i["source"], []).append(i)
+        out = []
+        while len(out) < limit:
+            progressed = False
+            for s in by:
+                if by[s] and len(out) < limit:
+                    out.append(by[s].pop(0))
+                    progressed = True
+            if not progressed:
+                break
+        return out
     fresh = [i for i in items if i["ts"] >= cutoff]
-    return fresh if len(fresh) >= 5 else items[:fallback_n]
+    return interleave(fresh, 25) if len(fresh) >= 5 else interleave(items, fallback_n)
 
 
 def _chat_completion(base_url, token, model, prompt):
