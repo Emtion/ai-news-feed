@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>AI 新闻聚合</title>
+  <link>https://aiindaily.com/</link>
+  <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
+  <language>zh-cn</language>
+  <lastBuildDate>Sun, 15 Nov 2026 15:30:21 +0000</lastBuildDate>
+  <item>
+    <title>October 2026 releases, in depth</title>
+    <link>https://www.cloudquell.com/blog/new-ai-models-october-2026/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/blog/new-ai-models-october-2026/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>September 2026 releases, in depth</title>
+    <link>https://www.cloudquell.com/blog/new-ai-models-september-2026/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/blog/new-ai-models-september-2026/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>LLM API pricing comparison (all providers)</title>
+    <link>https://www.cloudquell.com/blog/llm-api-pricing-comparison/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/blog/llm-api-pricing-comparison/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>The cheapest LLM API per million tokens</title>
+    <link>https://www.cloudquell.com/blog/cheapest-llm-api/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/blog/cheapest-llm-api/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>OpenAI vs Anthropic API pricing</title>
+    <link>https://www.cloudquell.com/blog/openai-vs-anthropic-api-pricing/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/blog/openai-vs-anthropic-api-pricing/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>AI cost management: track AI spend next to your cloud bill</title>
+    <link>https://www.cloudquell.com/ai-cost-management/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/ai-cost-management/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Set a budget on your AI spend before the invoice does</title>
+    <link>https://www.cloudquell.com/blog/ai-spend-budget-alerts/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/blog/ai-spend-budget-alerts/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Anthropic API cost tracking</title>
+    <link>https://www.cloudquell.com/blog/anthropic-api-cost-tracking/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/blog/anthropic-api-cost-tracking/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>How to track OpenAI API costs</title>
+    <link>https://www.cloudquell.com/blog/track-openai-api-costs/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/blog/track-openai-api-costs/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>← Back to all posts</title>
+    <link>https://www.cloudquell.com/blog/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/blog/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Cloud cost optimization</title>
+    <link>https://www.cloudquell.com/cloud-cost-optimization/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/cloud-cost-optimization/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Multi-cloud cost management</title>
+    <link>https://www.cloudquell.com/multi-cloud-cost-management/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/multi-cloud-cost-management/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Cloud cost allocation</title>
+    <link>https://www.cloudquell.com/cloud-cost-allocation/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/cloud-cost-allocation/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>AWS cost anomaly detection</title>
+    <link>https://www.cloudquell.com/aws-cost-anomaly-detection/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/aws-cost-anomaly-detection/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>FinOps MCP server</title>
+    <link>https://www.cloudquell.com/finops-mcp-server/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/finops-mcp-server/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Effective Coverage %</title>
+    <link>https://www.cloudquell.com/effective-coverage/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/effective-coverage/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>AWS integration</title>
+    <link>https://www.cloudquell.com/integrations/aws/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/integrations/aws/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Bedrock cost tracking</title>
+    <link>https://www.cloudquell.com/integrations/bedrock/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/integrations/bedrock/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Snowflake integration</title>
+    <link>https://www.cloudquell.com/integrations/snowflake/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/integrations/snowflake/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>OpenAI integration</title>
+    <link>https://www.cloudquell.com/integrations/openai/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/integrations/openai/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Anthropic integration</title>
+    <link>https://www.cloudquell.com/integrations/anthropic/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/integrations/anthropic/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Azure integration</title>
+    <link>https://www.cloudquell.com/integrations/azure/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/integrations/azure/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Azure OpenAI cost tracking</title>
+    <link>https://www.cloudquell.com/integrations/azure-openai/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/integrations/azure-openai/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>GCP integration</title>
+    <link>https://www.cloudquell.com/integrations/gcp/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/integrations/gcp/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Vertex AI cost tracking</title>
+    <link>https://www.cloudquell.com/integrations/vertex-ai/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/integrations/vertex-ai/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Sub-processors</title>
+    <link>https://www.cloudquell.com/subprocessors/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/subprocessors/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Artificial Analysis</title>
+    <link>https://artificialanalysis.ai/</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>Multimodal Knowledge Agent (MKA) benchmark: testing knowledge work capabilities with complex visual filesNovember 10, 2026</title>
+    <link>https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>Endpoint Accuracy Index v1.1: Tighter long context intervals and expanded model coverageNovember 9, 2026</title>
+    <link>https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>Meta's Muse Ember is the cheapest model scoring 36 on the Intelligence IndexNovember 9, 2026</title>
+    <link>https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>Introducing the Artificial Analysis Decision Index v2November 8, 2026</title>
+    <link>https://artificialanalysis.ai/articles/decision-index-v2</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/decision-index-v2</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>VIALS-AA: different paths to scientific image reasoningNovember 6, 2026</title>
+    <link>https://artificialanalysis.ai/articles/vials-aa</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/vials-aa</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>Thinking Machines Inkling 2 Small: the highest scoring open weights model outside of China pending weights releaseNovember 5, 2026</title>
+    <link>https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>Nanbeige has released Nanbeige4.3-33B scoring 20 on the Intelligence IndexNovember 5, 2026</title>
+    <link>https://artificialanalysis.ai/articles/nanbeige-has-released-nanbeige4-3-33b-scoring-20-on-the-intelligence-index</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/nanbeige-has-released-nanbeige4-3-33b-scoring-20-on-the-intelligence-index</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5October 28, 2026</title>
+    <link>https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>GitHub Copilot Fusion orchestrates Anthropic and OpenAI models to balance performance and costOctober 28, 2026</title>
+    <link>https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>Announcing Artificial Analysis Intelligence Index v5October 27, 2026</title>
+    <link>https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>GPT-6.1 Terra pushes the cost efficiency frontierOctober 26, 2026</title>
+    <link>https://artificialanalysis.ai/articles/gpt-6-1-terra-pushes-the-cost-efficiency-frontier</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/gpt-6-1-terra-pushes-the-cost-efficiency-frontier</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>Code2Video-AA: how well do AI models design videos in code?October 26, 2026</title>
+    <link>https://artificialanalysis.ai/articles/code2video-aa</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/code2video-aa</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>LLM Leaderboard</title>
+    <link>https://artificialanalysis.ai/leaderboards/models</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/leaderboards/models</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>Model Recommender</title>
+    <link>https://artificialanalysis.ai/models/recommend</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/models/recommend</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>Data Playground</title>
+    <link>https://artificialanalysis.ai/data-playground</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/data-playground</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>艾媒咨询 | 数实融合 场景创新——2026年乡村数字经济市场用户观察报告</title>
+    <link>https://www.iimedia.cn/c400/119322.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/119322.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒咨询 | 捕捉颜值经济 深耕家居美学——2026年家清产品行业消费观察报告</title>
+    <link>https://www.iimedia.cn/c400/119664.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/119664.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒咨询 | 悦己理性 日常轻养——2026年中国轻医美行业消费洞察报告</title>
+    <link>https://www.iimedia.cn/c400/119172.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/119172.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒咨询 | 现制鲜食成刚需——2026年便利店行业消费者行为调研报告</title>
+    <link>https://www.iimedia.cn/c400/119730.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/119730.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒咨询 | 不卷低价 品质为先——2026年果切市场消费趋势研究报告</title>
+    <link>https://www.iimedia.cn/c400/119306.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/119306.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒咨询 | 2026年中国政企数智采购市场发展白皮书</title>
+    <link>https://www.iimedia.cn/c400/119616.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/119616.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒咨询 | 2026-2027年中国新鲜零食行业发展研究报告</title>
+    <link>https://www.iimedia.cn/c400/113554.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/113554.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒咨询 | 2026年中国电商“双十一”消费大数据监测报告</title>
+    <link>https://www.iimedia.cn/c400/120074.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/120074.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/119852.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119852.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒金榜 | 2026年中国国产面膜十大品牌</title>
+    <link>https://www.iimedia.cn/c880/120082.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c880/120082.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒鼎榜 | 2026年上半年中国计算机行业上市公司营收50强</title>
+    <link>https://www.iimedia.cn/c1106/120038.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/120038.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒鼎榜 | 2026年中国AI会议耳机品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/119848.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119848.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒咨询 | 2026-2027年中国抹茶产业发展现状及趋势研究报告</title>
+    <link>https://www.iimedia.cn/c400/112390.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/112390.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒咨询 | 2026年中国亚麻籽油行业发展趋势报告</title>
+    <link>https://www.iimedia.cn/c400/112822.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/112822.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒咨询 | 2026年上半年中国先进制造业投融资市场监测与分析报告</title>
+    <link>https://www.iimedia.cn/c400/119520.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/119520.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒咨询 | 撑起半边天——2026年男性颜值经济消费趋势研究报告</title>
+    <link>https://www.iimedia.cn/c400/119500.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/119500.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>短故事行业发展驱动力：中国微短剧市场规模数据分析及预测</title>
+    <link>https://www.iimedia.cn/c1061/107931.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/107931.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>2025 年中国智能手机消费者手机品牌使用情况数据分析</title>
+    <link>https://www.iimedia.cn/c1061/109243.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/109243.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>2026年中国消费者对冻干方便速食细分品类期待数据分析：地域风味与一人食场景领跑，速食创新走向精准分层</title>
+    <link>https://www.iimedia.cn/c1061/120096.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120096.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>2026年中国消费者暑假出游防晒及降温用品洞察：物理防晒为主流，多品类组合成标配</title>
+    <link>https://www.iimedia.cn/c1061/120022.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120022.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒鼎榜 | 2026年上半年中国计算机行业上市公司研发投入占比50强</title>
+    <link>https://www.iimedia.cn/c1106/120088.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/120088.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒鼎榜 | 2026年上半年中国计算机行业上市公司研发投入50强</title>
+    <link>https://www.iimedia.cn/c1106/120086.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/120086.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒鼎榜 | 2026年上半年中国计算机行业上市公司归母净利润50强</title>
+    <link>https://www.iimedia.cn/c1106/120034.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/120034.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>2026年中国AI会议耳机十大品牌出炉！科大讯飞、华为、sanag位列前三</title>
+    <link>https://www.iimedia.cn/c1088/120050.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1088/120050.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>2026年中国职场人群在短途通勤方式上的选择分析：超半数职场人首选个人两轮电动车</title>
+    <link>https://www.iimedia.cn/c1061/120078.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120078.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>2026年中国消费者对轻食不满意原因分析：品类单一成主要不满点，消费体验短板待补齐</title>
+    <link>https://www.iimedia.cn/c1061/119986.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/119986.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>2019-2028年罗马尼亚Snapchat用户洞察：规模温和扩张，后期增长显露疲态</title>
+    <link>https://www.iimedia.cn/c1094/120018.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1094/120018.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>11月11日AI新产品讯息：千问大模型Qwen4即将发布、蚂蚁灵波发布LingBot-Touch模型、上药云健康首发“益药·智能服务矩阵”</title>
+    <link>https://www.iimedia.cn/c1088/119988.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1088/119988.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒金榜 | 2026年中国防脱洗发水品牌TOP10</title>
+    <link>https://www.iimedia.cn/c880/119000.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c880/119000.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>艾媒金榜 | 2026年中国蓝牙耳机品牌TOP10榜单</title>
+    <link>https://www.iimedia.cn/c880/117532.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c880/117532.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>Introducing Claude Fable 5.2 and Claude Mythos 5.2Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</title>
+    <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
+    <guid isPermaLink="true">https://www.anthropic.com/claude-fable-and-mythos-5-2</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</title>
+    <link>https://www.anthropic.com/news/public-benefit-fund</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Anthropic files S-1 with the SEC for proposed initial public offeringToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.</title>
+    <link>https://www.anthropic.com/news/s1-sec</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/s1-sec</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Early progress on accelerating drug development with ClaudeWe're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.</title>
+    <link>https://www.anthropic.com/research/early-progress-drug-development</link>
+    <guid isPermaLink="true">https://www.anthropic.com/research/early-progress-drug-development</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Introducing Claude Haiku 5.5Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.</title>
+    <link>https://www.anthropic.com/claude-haiku-5-5</link>
+    <guid isPermaLink="true">https://www.anthropic.com/claude-haiku-5-5</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Introducing Claude Opus 5.5Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</title>
+    <link>https://www.anthropic.com/claude-opus-5-5</link>
+    <guid isPermaLink="true">https://www.anthropic.com/claude-opus-5-5</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>The Situation Report</title>
+    <link>https://www.anthropic.com/features/ebola-response</link>
+    <guid isPermaLink="true">https://www.anthropic.com/features/ebola-response</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Scenarios for our economic future</title>
+    <link>https://www.anthropic.com/institute/econ-scenarios</link>
+    <guid isPermaLink="true">https://www.anthropic.com/institute/econ-scenarios</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>The making of Claude Code</title>
+    <link>https://www.anthropic.com/features/making-of-claude-code</link>
+    <guid isPermaLink="true">https://www.anthropic.com/features/making-of-claude-code</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Project Deal: our Claude-run marketplace experiment</title>
+    <link>https://www.anthropic.com/features/project-deal</link>
+    <guid isPermaLink="true">https://www.anthropic.com/features/project-deal</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>The first AI-planned drive on Mars</title>
+    <link>https://www.anthropic.com/features/claude-on-mars</link>
+    <guid isPermaLink="true">https://www.anthropic.com/features/claude-on-mars</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Anthropic launches roadshow for proposed initial public offering</title>
+    <link>https://www.anthropic.com/news/roadshow-launch</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/roadshow-launch</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>AI for Science expands to foundations and research institutions</title>
+    <link>https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
+    <link>https://www.anthropic.com/news/expanding-partnership-gsa</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/expanding-partnership-gsa</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Donating Agent Skills to the Agentic AI Foundation</title>
+    <link>https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Open call for guest investigators in the life sciences</title>
+    <link>https://www.anthropic.com/news/open-call-guest-investigators-life-sciences</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/open-call-guest-investigators-life-sciences</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust</title>
+    <link>https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>An update on independent evaluators</title>
+    <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/an-update-on-independent-evaluators</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Preparing for the 2026 US midterms</title>
+    <link>https://www.anthropic.com/news/2026-us-midterms</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/2026-us-midterms</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Anthropic opens Singapore office and signs MOU with the Government of Singapore</title>
+    <link>https://www.anthropic.com/news/singapore-office-opening</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/singapore-office-opening</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Strengthening our defenses against distillation attacks</title>
+    <link>https://www.anthropic.com/news/distillation-defenses</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/distillation-defenses</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Introducing the Anthropic Cyber Mission</title>
+    <link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-cyber-mission</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>2026 Usage Policy update</title>
+    <link>https://www.anthropic.com/news/2026-usage-policy-update</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/2026-usage-policy-update</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Building on our commitment to American scientific discovery</title>
+    <link>https://www.anthropic.com/news/genesis-mission-commitment</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/genesis-mission-commitment</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Expanding the Cyber Verification Program</title>
+    <link>https://www.anthropic.com/news/cyber-verification-program</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/cyber-verification-program</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</title>
+    <link>https://www.anthropic.com/news/claude-frontier-academy</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/claude-frontier-academy</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Barclays scales Claude to upgrade operations and improve client experience</title>
+    <link>https://www.anthropic.com/news/barclays-scales-claude</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/barclays-scales-claude</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Introducing Claude Sonnet 5.5</title>
+    <link>https://www.anthropic.com/claude-sonnet-5-5</link>
+    <guid isPermaLink="true">https://www.anthropic.com/claude-sonnet-5-5</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+</channel>
+</rss>
