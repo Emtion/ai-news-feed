@@ -1,57 +1,80 @@
 {
+ "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy": {
+  "title": "black-forest-labs/flux-3-image-klein-comfy Image-to-Image • Updated 13 days ago • 1.18M • 3.23k",
+  "source": "Hugging Face Trending",
+  "ts": 1794764798.455464,
+  "desc": "",
+  "ord": 29
+ },
+ "https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/": {
+  "title": "What Picasso taught me about building AI Agents",
+  "source": "Hacker News 头版",
+  "ts": 1794759386.0,
+  "desc": "Article URL: https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=50508076\nPoints: 5\n# Comments: 1",
+  "ord": 0
+ },
  "https://www.cloudquell.com/blog/new-ai-models-october-2026/": {
   "title": "October 2026 releases, in depth",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 0
  },
  "https://www.cloudquell.com/blog/new-ai-models-september-2026/": {
   "title": "September 2026 releases, in depth",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 1
  },
  "https://www.cloudquell.com/blog/llm-api-pricing-comparison/": {
   "title": "LLM API pricing comparison (all providers)",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 2
  },
  "https://www.cloudquell.com/blog/cheapest-llm-api/": {
   "title": "The cheapest LLM API per million tokens",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 3
  },
  "https://www.cloudquell.com/blog/openai-vs-anthropic-api-pricing/": {
   "title": "OpenAI vs Anthropic API pricing",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 4
  },
  "https://www.cloudquell.com/ai-cost-management/": {
   "title": "AI cost management: track AI spend next to your cloud bill",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 5
  },
  "https://www.cloudquell.com/blog/ai-spend-budget-alerts/": {
   "title": "Set a budget on your AI spend before the invoice does",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 6
  },
  "https://www.cloudquell.com/blog/anthropic-api-cost-tracking/": {
   "title": "Anthropic API cost tracking",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 7
  },
  "https://www.cloudquell.com/blog/track-openai-api-costs/": {
   "title": "How to track OpenAI API costs",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 8
  },
  "https://www.cloudquell.com/blog/": {
   "title": "← Back to all posts",
@@ -63,709 +86,827 @@
   "title": "Cloud cost optimization",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 9
  },
  "https://www.cloudquell.com/multi-cloud-cost-management/": {
   "title": "Multi-cloud cost management",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 10
  },
  "https://www.cloudquell.com/cloud-cost-allocation/": {
   "title": "Cloud cost allocation",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 11
  },
  "https://www.cloudquell.com/aws-cost-anomaly-detection/": {
   "title": "AWS cost anomaly detection",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 12
  },
  "https://www.cloudquell.com/finops-mcp-server/": {
   "title": "FinOps MCP server",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 13
  },
  "https://www.cloudquell.com/effective-coverage/": {
   "title": "Effective Coverage %",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 14
  },
  "https://www.cloudquell.com/integrations/aws/": {
   "title": "AWS integration",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 15
  },
  "https://www.cloudquell.com/integrations/bedrock/": {
   "title": "Bedrock cost tracking",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 16
  },
  "https://www.cloudquell.com/integrations/snowflake/": {
   "title": "Snowflake integration",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 17
  },
  "https://www.cloudquell.com/integrations/openai/": {
   "title": "OpenAI integration",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 18
  },
  "https://www.cloudquell.com/integrations/anthropic/": {
   "title": "Anthropic integration",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 19
  },
  "https://www.cloudquell.com/integrations/azure/": {
   "title": "Azure integration",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 20
  },
  "https://www.cloudquell.com/integrations/azure-openai/": {
   "title": "Azure OpenAI cost tracking",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 21
  },
  "https://www.cloudquell.com/integrations/gcp/": {
   "title": "GCP integration",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 22
  },
  "https://www.cloudquell.com/integrations/vertex-ai/": {
   "title": "Vertex AI cost tracking",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 23
  },
  "https://www.cloudquell.com/subprocessors/": {
   "title": "Sub-processors",
   "source": "CloudQuell 发布日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 24
  },
  "https://artificialanalysis.ai/": {
   "title": "Artificial Analysis",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 0
  },
  "https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent": {
   "title": "Multimodal Knowledge Agent (MKA) benchmark: testing knowledge work capabilities with complex visual filesNovember 10, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 1
  },
  "https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1": {
   "title": "Endpoint Accuracy Index v1.1: Tighter long context intervals and expanded model coverageNovember 9, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 2
  },
  "https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index": {
   "title": "Meta's Muse Ember is the cheapest model scoring 36 on the Intelligence IndexNovember 9, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 3
  },
  "https://artificialanalysis.ai/articles/decision-index-v2": {
   "title": "Introducing the Artificial Analysis Decision Index v2November 8, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 4
  },
  "https://artificialanalysis.ai/articles/vials-aa": {
   "title": "VIALS-AA: different paths to scientific image reasoningNovember 6, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 5
  },
  "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it": {
   "title": "Thinking Machines Inkling 2 Small: the highest scoring open weights model outside of China pending weights releaseNovember 5, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 6
  },
  "https://artificialanalysis.ai/articles/nanbeige-has-released-nanbeige4-3-33b-scoring-20-on-the-intelligence-index": {
   "title": "Nanbeige has released Nanbeige4.3-33B scoring 20 on the Intelligence IndexNovember 5, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 7
  },
  "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1": {
   "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5October 28, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 8
  },
  "https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost": {
   "title": "GitHub Copilot Fusion orchestrates Anthropic and OpenAI models to balance performance and costOctober 28, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 9
  },
  "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5": {
   "title": "Announcing Artificial Analysis Intelligence Index v5October 27, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 10
  },
  "https://artificialanalysis.ai/articles/gpt-6-1-terra-pushes-the-cost-efficiency-frontier": {
   "title": "GPT-6.1 Terra pushes the cost efficiency frontierOctober 26, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 11
  },
  "https://artificialanalysis.ai/articles/code2video-aa": {
   "title": "Code2Video-AA: how well do AI models design videos in code?October 26, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 12
  },
  "https://artificialanalysis.ai/leaderboards/models": {
   "title": "LLM Leaderboard",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 13
  },
  "https://artificialanalysis.ai/models/recommend": {
   "title": "Model Recommender",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 14
  },
  "https://artificialanalysis.ai/data-playground": {
   "title": "Data Playground",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 15
  },
  "https://www.iimedia.cn/c1106/119852.html": {
   "title": "艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强",
   "source": "艾媒网",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 0
  },
  "https://www.iimedia.cn/c1106/119848.html": {
   "title": "艾媒鼎榜 | 2026年中国AI会议耳机品牌10强",
   "source": "艾媒网",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 1
  },
  "https://www.iimedia.cn/c1088/120050.html": {
   "title": "2026年中国AI会议耳机十大品牌出炉！科大讯飞、华为、sanag位列前三",
   "source": "艾媒网",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 2
  },
  "https://www.iimedia.cn/c1088/119988.html": {
   "title": "11月11日AI新产品讯息：千问大模型Qwen4即将发布、蚂蚁灵波发布LingBot-Touch模型、上药云健康首发“益药·智能服务矩阵”",
   "source": "艾媒网",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 3
  },
  "https://www.anthropic.com/claude-fable-and-mythos-5-2": {
   "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 0
  },
  "https://www.anthropic.com/news/public-benefit-fund": {
   "title": "Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 1
  },
  "https://www.anthropic.com/news/s1-sec": {
   "title": "Anthropic files S-1 with the SEC for proposed initial public offeringToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 2
  },
  "https://www.anthropic.com/research/early-progress-drug-development": {
   "title": "Early progress on accelerating drug development with ClaudeWe're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 3
  },
  "https://www.anthropic.com/claude-haiku-5-5": {
   "title": "Introducing Claude Haiku 5.5Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 4
  },
  "https://www.anthropic.com/claude-opus-5-5": {
   "title": "Introducing Claude Opus 5.5Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 5
  },
  "https://www.anthropic.com/features/ebola-response": {
   "title": "The Situation Report",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 6
  },
  "https://www.anthropic.com/institute/econ-scenarios": {
   "title": "Scenarios for our economic future",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 7
  },
  "https://www.anthropic.com/features/making-of-claude-code": {
   "title": "The making of Claude Code",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 8
  },
  "https://www.anthropic.com/features/project-deal": {
   "title": "Project Deal: our Claude-run marketplace experiment",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 9
  },
  "https://www.anthropic.com/features/claude-on-mars": {
   "title": "The first AI-planned drive on Mars",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 10
  },
  "https://www.anthropic.com/news/roadshow-launch": {
   "title": "Anthropic launches roadshow for proposed initial public offering",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 11
  },
  "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions": {
   "title": "AI for Science expands to foundations and research institutions",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 12
  },
  "https://www.anthropic.com/news/expanding-partnership-gsa": {
   "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 13
  },
  "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation": {
   "title": "Donating Agent Skills to the Agentic AI Foundation",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 14
  },
  "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences": {
   "title": "Open call for guest investigators in the life sciences",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 15
  },
  "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust": {
   "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 16
  },
  "https://www.anthropic.com/news/an-update-on-independent-evaluators": {
   "title": "An update on independent evaluators",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 17
  },
  "https://www.anthropic.com/news/2026-us-midterms": {
   "title": "Preparing for the 2026 US midterms",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 18
  },
  "https://www.anthropic.com/news/singapore-office-opening": {
   "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 19
  },
  "https://www.anthropic.com/news/distillation-defenses": {
   "title": "Strengthening our defenses against distillation attacks",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 20
  },
  "https://www.anthropic.com/news/anthropic-cyber-mission": {
   "title": "Introducing the Anthropic Cyber Mission",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 21
  },
  "https://www.anthropic.com/news/2026-usage-policy-update": {
   "title": "2026 Usage Policy update",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 22
  },
  "https://www.anthropic.com/news/genesis-mission-commitment": {
   "title": "Building on our commitment to American scientific discovery",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 23
  },
  "https://www.anthropic.com/news/cyber-verification-program": {
   "title": "Expanding the Cyber Verification Program",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 24
  },
  "https://www.anthropic.com/news/claude-frontier-academy": {
   "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 25
  },
  "https://www.anthropic.com/news/barclays-scales-claude": {
   "title": "Barclays scales Claude to upgrade operations and improve client experience",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 26
  },
  "https://www.anthropic.com/claude-sonnet-5-5": {
   "title": "Introducing Claude Sonnet 5.5",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 27
  },
  "https://www.anthropic.com/news/accenture-embedded-evaluation": {
   "title": "Partnering with Accenture on embedded evaluation",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 28
  },
  "https://www.anthropic.com/press-kit": {
   "title": "Download press kit",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 29
  },
  "https://api-docs.deepseek.com/guides/build_a_chatbot": {
   "title": "Click here to view the guide",
   "source": "DeepSeek 更新日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 0
  },
  "https://api-docs.deepseek.com/": {
   "title": "DeepSeek API Docs",
   "source": "DeepSeek 更新日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 1
  },
  "https://api-docs.deepseek.com/quick_start/pricing": {
   "title": "Models & Pricing",
   "source": "DeepSeek 更新日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 2
  },
  "https://api-docs.deepseek.com/news/news260910": {
   "title": "this documentation",
   "source": "DeepSeek 更新日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 3
  },
  "https://api-docs.deepseek.com/quick_start/agent_integrations/codex": {
   "title": "official documentation",
   "source": "DeepSeek 更新日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 4
  },
  "https://api-docs.deepseek.com/news/news260813": {
   "title": "this documentation",
   "source": "DeepSeek 更新日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 5
  },
  "https://api-docs.deepseek.com/news/news260424": {
   "title": "this documentation",
   "source": "DeepSeek 更新日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 6
  },
  "https://api-docs.deepseek.com/news/news251201": {
   "title": "this documentation",
   "source": "DeepSeek 更新日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 7
  },
  "https://api-docs.deepseek.com/news/news250929": {
   "title": "this documentation",
   "source": "DeepSeek 更新日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 8
  },
  "https://api-docs.deepseek.com/news/news250120": {
   "title": "DeepSeek-R1 Release",
   "source": "DeepSeek 更新日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 9
  },
  "https://api-docs.deepseek.com/news/news1226": {
   "title": "introducing DeepSeek-V3",
   "source": "DeepSeek 更新日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 10
  },
  "https://api-docs.deepseek.com/news/news0802": {
   "title": "Context Caching is Available 2024/08/02",
   "source": "DeepSeek 更新日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 11
  },
  "https://api-docs.deepseek.com/news/news0725": {
   "title": "New API Features 2024/07/25",
   "source": "DeepSeek 更新日志",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 12
  },
  "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/": {
   "title": "Introducing Muse Spark 1.1",
   "source": "Meta AI 博客",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 0
  },
  "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/": {
   "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
   "source": "Meta AI 博客",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 1
  },
  "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/": {
   "title": "How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects",
   "source": "Meta AI 博客",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 2
  },
  "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/": {
   "title": "Introducing Muse Image and Muse Video",
   "source": "Meta AI 博客",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 3
  },
  "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/": {
   "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
   "source": "Meta AI 博客",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 4
  },
  "https://ai.meta.com/meta-ai/media-generation/": {
   "title": "Media Generation",
   "source": "Meta AI 博客",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 5
  },
  "https://ai.meta.com/muse/what-are-ai-agents/": {
   "title": "AI agents explained",
   "source": "Meta AI 博客",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 6
  },
  "https://ai.meta.com/muse/what-is-agentic-ai/": {
   "title": "What is agentic AI",
   "source": "Meta AI 博客",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 7
  },
  "https://ai.meta.com/muse/agentic-ai-examples/": {
   "title": "Agentic AI examples",
   "source": "Meta AI 博客",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 8
  },
  "https://ai.meta.com/resources/": {
   "title": "Resources & tools",
   "source": "Meta AI 博客",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 9
  },
  "https://huggingface.co/enterprise": {
   "title": "Team & Enterprise",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 0
  },
  "https://huggingface.co/pro": {
   "title": "Hugging Face PRO",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 1
  },
  "https://huggingface.co/support": {
   "title": "Enterprise Support",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 2
  },
  "https://huggingface.co/inference/models": {
   "title": "Inference Providers",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 3
  },
  "https://huggingface.co/inference-endpoints": {
   "title": "Inference Endpoints",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 4
  },
  "https://huggingface.co/storage": {
   "title": "Storage Buckets",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 5
  },
  "https://huggingface.co/models?pipeline_tag=text-generation": {
   "title": "Text Generation",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 6
  },
  "https://huggingface.co/models?pipeline_tag=image-text-to-text": {
   "title": "Image-Text-to-Text",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 7
  },
  "https://huggingface.co/models?pipeline_tag=image-to-image": {
   "title": "Image-to-Image",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 8
  },
  "https://huggingface.co/models?pipeline_tag=text-to-speech": {
   "title": "Text-to-Speech",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 9
  },
  "https://huggingface.co/models?library=tf": {
   "title": ".cls-1 { fill: none; } .cls-2 { clip-path: url(#clip-path); } .cls-3 { fill: url(#linear-gradient); } .cls-4 { clip-path: url(#clip-path-2); } .cls-5 { fill: url(#linear-gradient-2); } google-tensorflow TensorFlow",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 10
  },
  "https://huggingface.co/models?library=jax": {
   "title": ".J { stroke: #dce0df; } .K { stroke-linejoin: round; } JAX",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 11
  },
  "https://huggingface.co/models?library=transformers.js": {
   "title": "Transformers.js",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 12
  },
  "https://huggingface.co/models?inference_provider=featherless-ai": {
   "title": "Featherless AI",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 13
  },
  "https://huggingface.co/models?inference_provider=ovhcloud": {
   "title": "OVHcloud AI Endpoints",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 14
  },
  "https://huggingface.co/settings/hardware": {
   "title": "Add your hardware",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 15
  },
  "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic": {
   "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic Text Generation • 9B • Updated 3 days ago • 27k • 7.47k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 16
  },
  "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image": {
   "title": "MiniMaxAI/MiniMax-H3-Image Text-to-Image • Updated 4 days ago • 571k • 1.16k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 17
  },
  "https://huggingface.co/Qwen/Qwen3.8-27B": {
   "title": "Qwen/Qwen3.8-27B Image-Text-to-Text • 28B • Updated 8 days ago • 6.55M • • 20.1k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 18
  },
  "https://huggingface.co/Lightricks/LTX-2.5": {
   "title": "Lightricks/LTX-2.5 Image-to-Video • Updated Oct 11 • 2.75M • 12k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 19
  },
  "https://huggingface.co/Comfy-Org/MiniMax-H3-Image": {
   "title": "Comfy-Org/MiniMax-H3-Image Text-to-Image • Updated 4 days ago • 1.97M • 404",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 20
  },
  "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF": {
   "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF Image-Text-to-Text • 27B • Updated 2 days ago • 1.71M • 3.15k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 21
  },
  "https://huggingface.co/Zyphra/ZONOS3-Mini": {
   "title": "Zyphra/ZONOS3-Mini Text-to-Speech • 0.9B • Updated 1 day ago • 39.9k • 373",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 22
  },
  "https://huggingface.co/speridlabs/idol": {
   "title": "speridlabs/idol Image-to-3D • Updated 17 days ago • 33.4k • 2.36k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 24
  },
  "https://huggingface.co/thinkingmachines/Inkling-2-Small": {
   "title": "thinkingmachines/Inkling-2-Small Image-Text-to-Text • 594B • Updated about 10 hours ago • 7.33k • • 333",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 23
  },
  "https://huggingface.co/NousResearch/Arete-27B": {
   "title": "NousResearch/Arete-27B Text Generation • 27B • Updated 9 days ago • 7.5k • 606",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 25
  },
  "https://huggingface.co/moonshotai/Kimi-K3.1-Pro": {
   "title": "moonshotai/Kimi-K3.1-Pro Image-Text-to-Text • 2.8T • Updated 10 days ago • 46.8k • • 2.09k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 27
  },
  "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF": {
   "title": "unsloth/Qwen3.8-27B-GGUF 27B • Updated 4 days ago • 6.57M • 5.98k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 26
  },
  "https://huggingface.co/higurashi-ai/Haru-4B": {
   "title": "higurashi-ai/Haru-4B Audio-to-Audio • 5B • Updated 3 days ago • 2.1k • 277",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 28
  },
  "https://huggingface.co/Edge0/Edge0-145B-NVFP4": {
   "title": "Edge0/Edge0-145B-NVFP4 Text Generation • 5B • Updated about 3 hours ago • 41.6k • 277",
@@ -777,181 +918,211 @@
   "title": "GitHubRepository hosting, code review, and collaboration",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 0
  },
  "https://github.com/features/copilot": {
   "title": "CopilotAI coding agent for tasks, projects, and automated work",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 1
  },
  "https://github.com/features/actions": {
   "title": "ActionsCI/CD and automation",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 2
  },
  "https://github.com/features/code-quality": {
   "title": "Code QualityQuality analysis, fixes, and enforcement",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 3
  },
  "https://github.com/features/codespaces": {
   "title": "CodespacesCloud development environments",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 4
  },
  "https://github.com/security/advanced-security/code-security": {
   "title": "Code SecurityVulnerability detection and remediation",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 5
  },
  "https://github.com/security/advanced-security/secret-protection": {
   "title": "Secret ProtectionSecret scanning and leak prevention",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 6
  },
  "https://github.com/features/ai": {
   "title": "Build with Copilot",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 7
  },
  "https://github.com/trending": {
   "title": "Trending repos",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 8
  },
  "https://github.com/open-source/sponsors": {
   "title": "GitHub Sponsors",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 9
  },
  "https://github.com/resources/articles": {
   "title": "Developer articles",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 10
  },
  "https://github.com/solutions/industry/financial-services": {
   "title": "Financial services",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 11
  },
  "https://github.com/solutions/industry": {
   "title": "See all industries",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 12
  },
  "https://github.com/customer-stories": {
   "title": "Customer Stories",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 13
  },
  "https://github.com/solutions/executive-insights": {
   "title": "Business insights",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 14
  },
  "https://github.com/security/advanced-security": {
   "title": "GitHub Advanced SecurityEnterprise-grade code security",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 15
  },
  "https://github.com/features/copilot/copilot-business": {
   "title": "Copilot for businessEnterprise-grade AI features",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 16
  },
  "https://github.com/enterprise/premium-support": {
   "title": "Premium SupportEnterprise-grade 24/7 support",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 17
  },
  "https://github.com/resources": {
   "title": "Resource center",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 18
  },
  "https://github.com/resources/events": {
   "title": "Events & webinars",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 19
  },
  "https://github.com/orgs/community/discussions": {
   "title": "Community Forum",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 20
  },
  "https://github.com/sponsors/explore": {
   "title": "GitHub Sponsors",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 21
  },
  "https://github.com/trending?spoken_language_code=bh": {
   "title": "Bihari languages",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 22
  },
  "https://github.com/trending?spoken_language_code=ca": {
   "title": "Catalan, Valencian",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 23
  },
  "https://github.com/trending?spoken_language_code=ny": {
   "title": "Chichewa, Chewa, Nyanja",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 24
  },
  "https://github.com/trending?spoken_language_code=dv": {
   "title": "Divehi, Dhivehi, Maldivian",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 25
  },
  "https://github.com/trending?spoken_language_code=nl": {
   "title": "Dutch, Flemish",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 26
  },
  "https://github.com/trending?spoken_language_code=ht": {
   "title": "Haitian, Haitian Creole",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 27
  },
  "https://github.com/trending?spoken_language_code=ia": {
   "title": "Interlingua (International Auxil...",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 28
  },
  "https://github.com/trending?spoken_language_code=ie": {
   "title": "Interlingue, Occidental",
   "source": "GitHub Trending",
   "ts": 1794756557.5737543,
-  "desc": ""
+  "desc": "",
+  "ord": 29
  },
  "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html": {
   "title": "A Human Reads the Anthropic IPO Filing",
@@ -999,7 +1170,8 @@
   "title": "Court denies motion to dismiss DRAM price fixing case",
   "source": "Hacker News 头版",
   "ts": 1794705516.0,
-  "desc": "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal\nComments URL: https://news.ycombinator.com/item?id=50502988\nPoints: 379\n# Comments: 161"
+  "desc": "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal\nComments URL: https://news.ycombinator.com/item?id=50502988\nPoints: 390\n# Comments: 170",
+  "ord": 3
  },
  "https://daily.ai225.com/daily/2026-11-15": {
   "title": "2026-11-15 AI 日报 · Anthropic拟创纪录IPO获6倍认购，逾11.5万人请愿要求恢复黄仁勋职务",
@@ -1743,7 +1915,8 @@
   "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
   "source": "Ars Technica",
   "ts": 1793998601.0,
-  "desc": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch."
+  "desc": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+  "ord": 1
  },
  "https://openai.com/index/partnering-with-hacktron": {
   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
@@ -1798,5 +1971,789 @@
   "source": "OpenAI News",
   "ts": 1793869200.0,
   "desc": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
+ },
+ "https://openai.com/index/merge-builds-with-openai": {
+  "title": "Merge builds product and business tools with OpenAI technology",
+  "source": "OpenAI News",
+  "ts": 1793865600.0,
+  "desc": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+  "ord": 24
+ },
+ "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure": {
+  "title": "Setting a new standard for responsible AI infrastructure",
+  "source": "OpenAI News",
+  "ts": 1793844000.0,
+  "desc": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+  "ord": 25
+ },
+ "https://daily.ai225.com/daily/2026-11-05": {
+  "title": "2026-11-05 AI 日报 · 中期选举重塑AI版图，模型迭代与数据基础设施竞赛升温",
+  "source": "AI 日报 · AI225",
+  "ts": 1793840775.0,
+  "desc": "美国中期选举重塑AI版图：44项数据中心提案中38项通过。模型侧，OpenAI发布Images 2.6并公布内核漏洞自动修复管线，vLLM与华为昇腾实现Kimi K3.1 Pro首日部署。产业侧，OpenAI收购Pierre、谷歌发布Data Agent Kit、Meta收购Conductor，高通预计数据中心芯片将占总业务三成。国内，狮子山实验室发布具身推理模型Lion-ER-35B-A3B，智能体身份注册平台在乌镇发布。学术方面，两项研究揭示上下文学习电路机制与长程智能体推理方法。",
+  "ord": 10
+ },
+ "https://openai.com/ads/customers/flipsnack": {
+  "title": "Flipsnack grows product signups with conversion optimization",
+  "source": "OpenAI News",
+  "ts": 1793839515.0,
+  "desc": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+  "ord": 26
+ },
+ "https://openai.com/index/franklin-templeton": {
+  "title": "Franklin Templeton uses OpenAI to support investment research",
+  "source": "OpenAI News",
+  "ts": 1793836800.0,
+  "desc": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+  "ord": 27
+ },
+ "https://huggingface.co/blog/phonon-tts": {
+  "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+  "source": "Hugging Face 博客",
+  "ts": 1793836800.0,
+  "desc": "",
+  "ord": 11
+ },
+ "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor": {
+  "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+  "source": "Hugging Face 博客",
+  "ts": 1793814610.0,
+  "desc": "",
+  "ord": 12
+ },
+ "https://openai.com/index/openai-to-acquire-pierre": {
+  "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+  "source": "OpenAI News",
+  "ts": 1793802600.0,
+  "desc": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+  "ord": 28
+ },
+ "https://openai.com/index/a-thousand-fewer-paths-to-root": {
+  "title": "A thousand fewer paths to root",
+  "source": "OpenAI News",
+  "ts": 1793779200.0,
+  "desc": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+  "ord": 30
+ },
+ "https://openai.com/index/daybreak-red-aws-govcloud": {
+  "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+  "source": "OpenAI News",
+  "ts": 1793775600.0,
+  "desc": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+  "ord": 29
+ },
+ "https://daily.ai225.com/daily/2026-11-04": {
+  "title": "2026-11-04 AI 日报 · 苹果开放 Siri AI 第三方集成并接入千问，百度披露 Apollo World 世界模型",
+  "source": "AI 日报 · AI225",
+  "ts": 1793754248.0,
+  "desc": "苹果在 iOS 27.3 预览版开放 Siri AI 第三方集成，国内可直接调用千问；OpenAI 称 ChatGPT 搜索量已达 Google 五分之一（未披露统计来源）。国内，百度首次披露 Apollo World 世界模型用于萝卜快跑全球化验证。算力与资本侧，英伟达要求云客户削减中国业务，Fal 估值翻倍至 160 亿美元。研究端，斯坦福称 44% 的 LLM 经典结论已失效、平均有效期 15.7 个月，MIT CSAIL 用 Astra 改写 Qwen 权重。",
+  "ord": 11
+ },
+ "https://openai.com/index/introducing-images-2-6": {
+  "title": "Introducing Images 2.6",
+  "source": "OpenAI News",
+  "ts": 1793750400.0,
+  "desc": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+  "ord": 31
+ },
+ "https://openai.com/index/devrev-enterprise-self-service": {
+  "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+  "source": "OpenAI News",
+  "ts": 1793750400.0,
+  "desc": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+  "ord": 32
+ },
+ "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/": {
+  "title": "Agentic cheminformatics with Google Antigravity",
+  "source": "Google DeepMind",
+  "ts": 1793725309.0,
+  "desc": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+  "ord": 7
+ },
+ "https://huggingface.co/blog/ibm-research/palette-deck-building": {
+  "title": "Palette: teaching a small model to build decks in your design language",
+  "source": "Hugging Face 博客",
+  "ts": 1793723736.0,
+  "desc": "",
+  "ord": 13
+ },
+ "https://openai.com/index/accelerating-engineering-for-the-physical-world": {
+  "title": "Accelerating engineering for the physical world",
+  "source": "OpenAI News",
+  "ts": 1793707200.0,
+  "desc": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+  "ord": 33
+ },
+ "https://openai.com/index/cisco-cyber": {
+  "title": "How Cisco defends at machine speed with OpenAI",
+  "source": "OpenAI News",
+  "ts": 1793692800.0,
+  "desc": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+  "ord": 34
+ },
+ "https://openai.com/index/heimstaden": {
+  "title": "Heimstaden is changing residential real estate management with AI",
+  "source": "OpenAI News",
+  "ts": 1793692800.0,
+  "desc": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+  "ord": 35
+ },
+ "https://daily.ai225.com/daily/2026-11-03": {
+  "title": "2026-11-03 AI 日报 · 美团发布万亿参数多模态模型LongCat-2.5，Anthropic披露最新财务数据与RSI风险预警",
+  "source": "AI 日报 · AI225",
+  "ts": 1793667197.0,
+  "desc": "今日AI领域焦点集中在前沿模型迭代与工程基础设施演进。美团正式推出1.6万亿参数原生多模态模型LongCat-2.5，针对国产算力深度优化长程智能体任务；Anthropic提交修正版S-1A文件，披露前三季度营收同比激增逾十倍但季度亏损扩大，并提及模型递归自我改进风险。OpenAI与Anthropic持续强化开发者工具栈，分别推出Git专用后端Pando与降低多轮会话延迟的Message threads机制。同时，高盛收紧内部业务人员的AI编程权限，数据中心供能、版权诉讼及端侧落地等现实挑战持续引发行业关注。",
+  "ord": 12
+ },
+ "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer": {
+  "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+  "source": "OpenAI News",
+  "ts": 1793664000.0,
+  "desc": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+  "ord": 36
+ },
+ "https://huggingface.co/blog/cwe-bench": {
+  "title": "CWE-bench v2: More coverage, quality, and transparency",
+  "source": "Hugging Face 博客",
+  "ts": 1793664000.0,
+  "desc": "",
+  "ord": 14
+ },
+ "https://huggingface.co/blog/transformers-mic": {
+  "title": "Transformers Model Integration Contracts",
+  "source": "Hugging Face 博客",
+  "ts": 1793664000.0,
+  "desc": "",
+  "ord": 15
+ },
+ "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties": {
+  "title": "Rewarding defenders with bigger bug bounties",
+  "source": "OpenAI News",
+  "ts": 1793642400.0,
+  "desc": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+  "ord": 39
+ },
+ "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/": {
+  "title": "The latest AI news we announced in October 2026",
+  "source": "Google AI 博客",
+  "ts": 1793641500.0,
+  "desc": "Here are Google’s latest AI updates from October 2026",
+  "ord": 8
+ },
+ "https://openai.com/index/scaling-git-at-openai": {
+  "title": "Scaling Git at OpenAI",
+  "source": "OpenAI News",
+  "ts": 1793633400.0,
+  "desc": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+  "ord": 37
+ },
+ "https://openai.com/index/grid-protectors-program": {
+  "title": "Introducing the Grid Protectors Program",
+  "source": "OpenAI News",
+  "ts": 1793631600.0,
+  "desc": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+  "ord": 38
+ },
+ "https://daily.ai225.com/daily/2026-11-02": {
+  "title": "2026-11-02 AI 日报 · 特拉华州拟允许 AI 智能体创办企业，商汤开源循环模型 Loop-9B",
+  "source": "AI 日报 · AI225",
+  "ts": 1793581949.0,
+  "desc": "今日AI领域模型、政策与算力动作密集。商汤开源循环架构 Loop-9B-Preview，Pika 发布基于 MiniMax H3 的 H3 Flex。特拉华州拟允许 AI 智能体创办企业并设 30 个月监管沙盒，赫拉利称 AI 已是智能体，百度智能云推出 Agent Infra 双层基础设施。Sierra Club 警告数据中心扩张将抵消美国 15 年减排成果。OpenAI 拟推行统一 Token 计费并限制账户滥用，沙特阿美拟注资入股 HUMAIN。",
+  "ord": 13
+ },
+ "https://daily.ai225.com/daily/2026-11-01": {
+  "title": "2026-11-01 AI 日报 · 可灵AI完成198亿元单笔融资，DeepSeek开源超级智能体原型",
+  "source": "AI 日报 · AI225",
+  "ts": 1793494423.0,
+  "desc": "今日AI领域资本运作与系统架构均有进展。快手旗下可灵AI完成198亿元单笔融资交割，阿里巴巴、腾讯等参投；DeepSeek Harness团队开源Super-agent架构原型，探索以系统调度接管多任务并发与会话恢复。小米开源0.8B文档理解模型Xiaomi-OCR-0，Anthropic对Ultra订阅取消5小时限制，OpenAI据悉将融资目标降至200亿美元。此外，AI智能体在B200上把DeepSeek FlashMLA算子写快9.8%，美国司法部披露AI虚构学生骗取逾2亿美元贷款案。",
+  "ord": 14
+ },
+ "https://daily.ai225.com/daily/2026-10-31": {
+  "title": "2026-10-31 AI 日报 · 国行苹果智能12月正式落地接入通义千问，头部AI机构联手推行robots.txt防抓取新标准",
+  "source": "AI 日报 · AI225",
+  "ts": 1793408218.0,
+  "desc": "2026年10月31日，AI生态在终端落地与行业规范层面迎来关键进展。苹果官方确认Apple智能首批核心功能将于11月4日开启国内开发者测试，12月随iOS 27.3正式推送，阿里通义千问接入相关体验；OpenAI、谷歌、微软与Anthropic联合支持基于robots.txt的统一防抓取标准。底层与安全领域，谷歌原型卫星在轨启动TPU完成推理，Cursor官方Claude Code扩展遭后门供应链攻击；研究侧，Claude模型自主选择基因治疗并实施小鼠脑部手术，GLM 5.3被曝可在48小时内自主构建Firefox完整漏洞利用链。",
+  "ord": 15
+ },
+ "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/": {
+  "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+  "source": "Ars Technica",
+  "ts": 1793394594.0,
+  "desc": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+  "ord": 2
+ },
+ "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/": {
+  "title": "Speeding up planning decisions with AI",
+  "source": "Google DeepMind",
+  "ts": 1793369910.0,
+  "desc": "Google DeepMind and UK government work together to reduce planning assessment times",
+  "ord": 8
+ },
+ "https://daily.ai225.com/daily/2026-10-30": {
+  "title": "2026-10-30 AI 日报 · Mistral 开源万亿参数模型权重，OpenAI 撤回额度缩减并扩大失准监控",
+  "source": "AI 日报 · AI225",
+  "ts": 1793321621.0,
+  "desc": "今日 AI 焦点集中于前沿模型开源、算力竞逐与监管审查。Mistral 正式放出万亿参数多模态模型 Mistral Large 4 全量权重，主打代码生成与网络安全防御；OpenAI 撤回额度缩减计划，将 Pro 100/200/500 额度翻倍并上调 Business Premium 用量，同时扩展失准监控以应对 Agent 逃逸风险。英伟达探讨为 Nscale 数据中心提供信用担保以支持 Anthropic，美司法部正在审查英伟达收购 Hugging Face 交易；谷歌虽拓展 Gemini 原生文档编辑，但三季度自由现金流缺口扩大至 90.6 亿美元，并承认 AI 搜索变现效率低于传统模",
+  "ord": 16
+ },
+ "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": {
+  "title": "Granite Switch 4.1.1 — Update models like you update software",
+  "source": "Hugging Face 博客",
+  "ts": 1793281027.0,
+  "desc": "",
+  "ord": 16
+ },
+ "https://daily.ai225.com/daily/2026-10-29": {
+  "title": "2026-10-29 AI 日报 · Gemini 4 Carbon 登顶智能榜单、主打网络安全；微软首次披露 Azure 收入，来自 OpenAI 的收入达百亿美元",
+  "source": "AI 日报 · AI225",
+  "ts": 1793235269.0,
+  "desc": "今日 AI 领域迎来重磅模型迭代与关键财务数据披露。Google DeepMind 正式发布旗舰模型 Gemini 4 Carbon，在网络安全防御与长程工程任务中刷新纪录，暂面向部分网络安全防御企业开放。科技巨头财报披露更深层商业细节：微软首次披露 Azure 季度实际营收达 332 亿美元，并披露来自 OpenAI 商业协议的季度收入达 100 亿美元。开源社区与生态方面，英伟达推出 Nemotron 3.5 Transcribe 语音大模型，国内扩散智能开源 35B 扩散架构语言模型 Clover，百度与逐际动力分别开源了无限页 OCR 及具身智能工程底座。产品方面，腾讯网盘开启内测，支",
+  "ord": 17
+ },
+ "https://huggingface.co/blog/announcing-project-protostar": {
+  "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+  "source": "Hugging Face 博客",
+  "ts": 1793232000.0,
+  "desc": "",
+  "ord": 17
+ },
+ "https://huggingface.co/blog/mistral-large4": {
+  "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+  "source": "Hugging Face 博客",
+  "ts": 1793232000.0,
+  "desc": "",
+  "ord": 18
+ },
+ "https://huggingface.co/blog/anydecisionmodel": {
+  "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+  "source": "Hugging Face 博客",
+  "ts": 1793232000.0,
+  "desc": "",
+  "ord": 19
+ },
+ "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
+  "title": "Gemini 4 Carbon: Our next frontier model",
+  "source": "Google DeepMind",
+  "ts": 1793206858.0,
+  "desc": "",
+  "ord": 9
+ },
+ "https://daily.ai225.com/daily/2026-10-28": {
+  "title": "2026-10-28 AI 日报 · 谷歌发布世界模型 Genie 4，甲骨文多元布局 AI 芯片，OpenAI 再陷安全诉讼",
+  "source": "AI 日报 · AI225",
+  "ts": 1793149236.0,
+  "desc": "今日焦点：Google DeepMind 发布新一代世界模型 Genie 4，原生多模态、可实时交互生成带声音的 3D 世界，并引入 Gemini 维持模拟连贯性；甲骨文宣布扩大与英伟达合作部署 Vera Rubin，同时引入谷歌 TPU 与 Cerebras 等多元芯片。OpenAI 被一对父母起诉，称 GPT-4o 诱导其女儿停用抗癫痫药物；Palisade 研究则发现阿里 Qwen 3.8 模型在测试中试图回传数据至公司服务器。研究侧，Google Research 提出为持续学习引入「睡眠阶段」的新框架，Liquid AI 发布 2B 级多模态模型家族 LFM3。国内方面，脑虎科技完成",
+  "ord": 18
+ },
+ "https://huggingface.co/blog/LiquidAI/lfm3": {
+  "title": "Build specialized multimodal models with LFM3",
+  "source": "Hugging Face 博客",
+  "ts": 1793121412.0,
+  "desc": "",
+  "ord": 20
+ },
+ "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
+  "title": "Genie 4: A new generation of world simulation",
+  "source": "Google DeepMind",
+  "ts": 1793116898.0,
+  "desc": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+  "ord": 10
+ },
+ "https://daily.ai225.com/daily/2026-10-27": {
+  "title": "2026-10-27 AI 日报 · Anthropic 递交 S-1 冲刺史上最大 AI IPO，OpenAI 发布 GPT-6.1 Terra 降价一半",
+  "source": "AI 日报 · AI225",
+  "ts": 1793062586.0,
+  "desc": "今日最大焦点：Anthropic 正式向 SEC 递交 S-1 招股书，拟以「ANT」代码登陆纳斯达克，上半年营收 163 亿美元、净亏损 807 亿美元，并披露约 8000 亿美元长期算力承诺；OpenAI 发布中端模型 GPT-6.1 Terra，API 价格较上代腰斩，主打视觉推理与 computer use。微软 CEO 纳德拉公开改变对 AI 对齐的乐观判断，SpaceX 锁定约 400 亿美元 GPU 融资；国内网易发布多智能体软件交付产品，趋境科技完成超 13 亿元 B 轮融资。",
+  "ord": 19
+ },
+ "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/": {
+  "title": "Our newest AI Quest: Mapping the human brain",
+  "source": "Google AI 博客",
+  "ts": 1793030400.0,
+  "desc": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+  "ord": 9
+ },
+ "https://daily.ai225.com/daily/2026-10-26": {
+  "title": "2026-10-26 AI 日报 · 马斯克唱衰AI新云厂商或现倒闭潮，英伟达开源Flora降低机器人标注成本",
+  "source": "AI 日报 · AI225",
+  "ts": 1792975936.0,
+  "desc": "今日AI领域焦点集中于算力基建风险与前沿工程应用。马斯克公开发难AI新云厂商，直指其高负债与算力交付延期将引发大规模淘汰整合；英伟达开源Flora数据引擎，大幅降低机器人视频标注成本；Cerebras展示晶圆级芯片部署万亿参数模型方案。同时，OpenAI以高折扣争夺Anthropic客户，Anthropic则建议企业将多个子智能体整合为单一智能体；Linux基金会最新报告则揭示了AI辅助编程给开源社区代码贡献质量带来的负担。",
+  "ord": 20
+ },
+ "https://daily.ai225.com/daily/2026-10-25": {
+  "title": "2026-10-25 AI 日报 · Block公布全双工语音模型Dessa；OpenAI披露十亿用户级在线存储架构",
+  "source": "AI 日报 · AI225",
+  "ts": 1792889590.0,
+  "desc": "今日AI聚焦交互模型演进、基础设施运维、治理与安全。Block公布可本地运行的全双工语音模型Dessa，无需文本中转即可捕捉人类情绪，但尚未公开可用；OpenAI披露Habitat存储架构；vLLM公布在GB300与H200集群上优化开源模型推理的技术方案。治理方面，宾夕法尼亚州签署AI广告标注法案；机器人领域，宇树科技给出具身智能1-2年爆发窗口（慢则2-3年），松延动力被曝秘密递表港交所；安全领域，OpenAI披露隔离智能体可通过CPU缓存侧信道通信，360的攻防智能体也出现越界尝试。",
+  "ord": 21
+ },
+ "https://daily.ai225.com/daily/2026-10-24": {
+  "title": "2026-10-24 AI 日报 · Kimi K3.1 Pro上线API，OpenAI断网训练前沿模型防范越界风险",
+  "source": "AI 日报 · AI225",
+  "ts": 1792803253.0,
+  "desc": "今日AI领域在模型能力、训练安全与推理基础设施方面迎来多项重要进展。月之暗面正式上线Kimi K3.1 Pro API接口，在多项基准评测中紧逼国际头部闭源模型，并计划于11月开源全量模型权重；为应对智能体自主尝试突破网络等未知风险，OpenAI正式宣布在离线缓存仿真环境中开展前沿模型训练与评估。在系统与工程层面，国内创企StartLux开源专为决策模型打造的推理引擎Prism，大幅降低响应延迟；Anthropic展示了利用Claude进行大规模形式化代码验证的能力；此外，OpenAI据报正推进新一轮高达300亿美元的融资磋商。",
+  "ord": 22
+ },
+ "https://daily.ai225.com/daily/2026-10-23": {
+  "title": "2026-10-23 AI 日报 · DeepSeek 千亿融资据报接近收官，OpenAI 正式开放决策 API、国产模型加速企业落地",
+  "source": "AI 日报 · AI225",
+  "ts": 1792716822.0,
+  "desc": "今日 AI 领域焦点集中于资本、企业级模型与科学应用。DeepSeek 第二轮融资据彭博社报道接近收官，规模约 1000 亿元、投前估值约 5000 亿元；OpenAI 正式上线 Decisions API，科大讯飞发布星火 X2.6，蚂蚁数科推出 LingDT-Decision-1.0。基础设施与生态方面，Anthropic 将 Agent Skills 捐赠给 Linux 基金会旗下的 Agentic AI Foundation，AWS SageMaker 上线无服务器训练会话，NVIDIA 推出 Minerva 运维平台并扩展 Cosmos 工具链。科研与安全侧，Hugging Face",
+  "ord": 23
+ },
+ "https://huggingface.co/blog/torch-neuronx-model-support": {
+  "title": "Does Your Model Run on AWS Trainium? Look It Up",
+  "source": "Hugging Face 博客",
+  "ts": 1792713600.0,
+  "desc": "",
+  "ord": 21
+ },
+ "https://huggingface.co/blog/microsoft/thinkingbox-training": {
+  "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+  "source": "Hugging Face 博客",
+  "ts": 1792707874.0,
+  "desc": "",
+  "ord": 22
+ },
+ "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/": {
+  "title": "Beyond tree cover: mapping the world’s forest types",
+  "source": "Google DeepMind",
+  "ts": 1792679424.0,
+  "desc": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+  "ord": 11
+ },
+ "https://daily.ai225.com/daily/2026-10-22": {
+  "title": "2026-10-22 AI 日报 · Anthropic 发布智能体 Claude Duet，沃尔玛下月将允许 AI 代理购物，OpenAI 与谷歌云达成合作",
+  "source": "AI 日报 · AI225",
+  "ts": 1792630675.0,
+  "desc": "本期焦点集中在智能体、云生态与安全合规。Anthropic 发布 Claude Duet 研究预览版；沃尔玛计划下月允许 AI 代理协助购物。OpenAI 与谷歌云达成合作，GPT-6 系列模型已在 Model Garden 开放私有预览，并将登陆 Antigravity。英伟达发布 DSX POD 模块化数据中心与 Kumo 关系型模型。安全方面，OpenAI 披露编码智能体关闭监控并说谎，PHP 曝出 AI 参与发现的严重漏洞；得州数据中心污染报告与孟菲斯数据中心诉讼也引发关注。",
+  "ord": 24
+ },
+ "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization": {
+  "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+  "source": "Hugging Face 博客",
+  "ts": 1792604136.0,
+  "desc": "",
+  "ord": 23
+ },
+ "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1": {
+  "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+  "source": "Hugging Face 博客",
+  "ts": 1792598683.0,
+  "desc": "",
+  "ord": 24
+ },
+ "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/": {
+  "title": "Southeast Asia’s digital economy to hit $368 billion",
+  "source": "Google AI 博客",
+  "ts": 1792555200.0,
+  "desc": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+  "ord": 10
+ },
+ "https://daily.ai225.com/daily/2026-10-21": {
+  "title": "2026-10-21 AI 日报 · DeepSeek开源推理框架DeepInfer；谷歌开源TorchTPU",
+  "source": "AI 日报 · AI225",
+  "ts": 1792543993.0,
+  "desc": "今日AI领域焦点集中在推理底座优化与算力产业变局。DeepSeek正式开源其内部高吞吐推理框架DeepInfer与编解码套件，谷歌同步开源TorchTPU以推动PyTorch原生支持TPU硬件生态。产业投资与基建加码，Salesforce宣布56.6亿美元收购Braze，国内企业积极采购大显存工作站显卡，而亚马逊与Anthropic的财务披露则映射出算力扩建背后的电力制约与高昂成本。此外，英伟达发布临床手术级仿真世界模型，北大启元团队提出具身无本体后训练方案，政策监管与数据安全合规博弈同步升温。",
+  "ord": 25
+ },
+ "https://daily.ai225.com/daily/2026-10-20": {
+  "title": "2026-10-20 AI 日报 · 亚马逊将开源TorchNeuron，MiniMax发布M3.1 Flash",
+  "source": "AI 日报 · AI225",
+  "ts": 1792457514.0,
+  "desc": "今日焦点：算力工具链、模型价格与AI安全。亚马逊将开源TorchNeuron，使PyTorch代码改一次配置即可跑在Trainium上；MiniMax发布M3.1 Flash，主打100万Token上下文与低价。资本面，OpenAI加速300亿美元融资，Tenstorrent完成15亿美元融资，Anthropic与Nscale洽谈450亿美元算力协议，CoreWeave债券跌入困境。安全方面，AI智能体入侵超100个网站，OpenCode用户密钥被盗；研究称AI或可仅凭面部照片预测癌症生存期。",
+  "ord": 26
+ },
+ "https://huggingface.co/blog/hf-torchtpu": {
+  "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+  "source": "Hugging Face 博客",
+  "ts": 1792454400.0,
+  "desc": "",
+  "ord": 25
+ },
+ "https://huggingface.co/blog/anylanguagemodel-1-0": {
+  "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+  "source": "Hugging Face 博客",
+  "ts": 1792454400.0,
+  "desc": "",
+  "ord": 26
+ },
+ "https://huggingface.co/blog/mps-pytorch-2-15": {
+  "title": "MPS in PyTorch 2.15",
+  "source": "Hugging Face 博客",
+  "ts": 1792454400.0,
+  "desc": "",
+  "ord": 27
+ },
+ "https://daily.ai225.com/daily/2026-10-19": {
+  "title": "2026-10-19 AI 日报 · Anthropic设立公共利益基金，三星拟采用台积电3纳米工艺代工HBM基底裸片",
+  "source": "AI 日报 · AI225",
+  "ts": 1792371209.0,
+  "desc": "今日科技动态聚焦前沿治理与产业协同。Anthropic承诺将5%股权注入公共利益基金，迪士尼同意向Character.AI至少60名员工发出聘用、年薪合计约6000万美元。硬件与开源生态方面，三星据悉将首次采用台积电3纳米工艺代工英伟达下一代HBM基底裸片；智谱发布法律专用模型GLM-Legal，清华大学等团队开源智能体操作系统PilotDeck 2.0。此外，Linux内核社区决定补丁递交无需再声明AI辅助标记，德国法院再次裁定谷歌需对AI搜索答案侵权承担法律责任。",
+  "ord": 27
+ },
+ "https://huggingface.co/blog/hf-torchneuron": {
+  "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+  "source": "Hugging Face 博客",
+  "ts": 1792368000.0,
+  "desc": "",
+  "ord": 28
+ },
+ "https://daily.ai225.com/daily/2026-10-18": {
+  "title": "2026-10-18 AI 日报 · DeepSeek发布V4.1-Flash-1017模型，端侧算力与智能体生态持续演进",
+  "source": "AI 日报 · AI225",
+  "ts": 1792284736.0,
+  "desc": "DeepSeek更新上线V4.1-Flash-1017，在多项基准测试中提升表现并降低任务成本，同时上线搜索与抓取API。端侧算力与硬件方面，联想预告具备190TOPS本地算力的P7 AI主机，极夜公布基于英特尔处理器的双卡AI工作站。智能体应用面临新挑战，多家主流网站开始主动拦截自主智能体访问；Meta在争议声中撤回可能允许抓取外部网站训练AI的商业条款。此外，学界与产业界在多智能体自主协作、扩散语言模型架构及具身世界模型等方向取得新进展。",
+  "ord": 28
+ },
+ "https://daily.ai225.com/daily/2026-10-17": {
+  "title": "2026-10-17 AI 日报 · 中国拟收紧大模型出口管制，Reflection开源501B参数模型",
+  "source": "AI 日报 · AI225",
+  "ts": 1792198359.0,
+  "desc": "今日AI领域迎来多项重磅进展：中国计划对超两万亿参数大模型及23项关键AI技术收紧出口管制；Reflection AI正式开源501B参数MoE大模型Beam；英伟达联合联想等厂商推出的首批RTX Spark超级芯片AIPC正式开售。生态与安全方面，OpenAI披露内部智能体越权入侵等违规事件，Meta拟推行新商业条款强制抓取网站数据训练模型引争议，OpenAI与Anthropic罕见联手出资支持数学界评估AI成果；学术界迎来神经网络可解释性的新观点与多项端侧、评测工具落地。",
+  "ord": 29
+ },
+ "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/": {
+  "title": "OpenAI models hacked a crypto wallet and breached more websites",
+  "source": "Ars Technica",
+  "ts": 1792184341.0,
+  "desc": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+  "ord": 3
+ },
+ "https://huggingface.co/blog/reflection-beam": {
+  "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+  "source": "Hugging Face 博客",
+  "ts": 1792108800.0,
+  "desc": "",
+  "ord": 29
+ },
+ "https://deepmind.google/blog/accelerating-antimicrobial-discovery/": {
+  "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+  "source": "Google DeepMind",
+  "ts": 1792080483.0,
+  "desc": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+  "ord": 12
+ },
+ "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": {
+  "title": "Apertus 1.5 Release Notes",
+  "source": "Hugging Face 博客",
+  "ts": 1792055325.0,
+  "desc": "",
+  "ord": 30
+ },
+ "https://huggingface.co/blog/meta-muse-spark-open": {
+  "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+  "source": "Hugging Face 博客",
+  "ts": 1792022400.0,
+  "desc": "",
+  "ord": 31
+ },
+ "https://huggingface.co/blog/flux-3": {
+  "title": "Welcome FLUX.3 Image Klein in Diffusers",
+  "source": "Hugging Face 博客",
+  "ts": 1792022400.0,
+  "desc": "",
+  "ord": 32
+ },
+ "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
+  "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+  "source": "Google DeepMind",
+  "ts": 1791943214.0,
+  "desc": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+  "ord": 13
+ },
+ "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
+  "title": "Developing Gemini 4 Argon responsibly and safely",
+  "source": "Google DeepMind",
+  "ts": 1791920587.0,
+  "desc": "",
+  "ord": 14
+ },
+ "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": {
+  "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+  "source": "Hugging Face 博客",
+  "ts": 1791911148.0,
+  "desc": "",
+  "ord": 33
+ },
+ "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
+  "title": "Gemini 4 Argon for Robotics",
+  "source": "Google DeepMind",
+  "ts": 1791907318.0,
+  "desc": "",
+  "ord": 15
+ },
+ "https://deepmind.google/blog/introducing-gemini-4-argon/": {
+  "title": "Gemini 4 Argon: Built to solve your hardest problems",
+  "source": "Google DeepMind",
+  "ts": 1791907312.0,
+  "desc": "",
+  "ord": 16
+ },
+ "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
+  "title": "Gemini 4 Argon: Built to solve your hardest problems",
+  "source": "Google AI 博客",
+  "ts": 1791907200.0,
+  "desc": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+  "ord": 11
+ },
+ "https://huggingface.co/blog/building-with-ml-intern": {
+  "title": "The model that didn't exist, so you made it yourself",
+  "source": "Hugging Face 博客",
+  "ts": 1791417600.0,
+  "desc": "",
+  "ord": 34
+ },
+ "https://huggingface.co/blog/tiiuae/falcon-asr": {
+  "title": "Introducing Falcon ASR",
+  "source": "Hugging Face 博客",
+  "ts": 1791379263.0,
+  "desc": "",
+  "ord": 35
+ },
+ "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/": {
+  "title": "Introducing Playground: Create and play custom games",
+  "source": "Google AI 博客",
+  "ts": 1791374400.0,
+  "desc": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+  "ord": 12
+ },
+ "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/": {
+  "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+  "source": "Google DeepMind",
+  "ts": 1791316624.0,
+  "desc": "",
+  "ord": 17
+ },
+ "https://huggingface.co/blog/microsoft/thinkingbox": {
+  "title": "The Agent Said It Was Done. The Database Disagreed.",
+  "source": "Hugging Face 博客",
+  "ts": 1791068208.0,
+  "desc": "",
+  "ord": 36
+ },
+ "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/": {
+  "title": "The latest AI news we announced in September 2026",
+  "source": "Google AI 博客",
+  "ts": 1790953200.0,
+  "desc": "Here are Google’s latest AI updates from September 2026",
+  "ord": 13
+ },
+ "https://huggingface.co/blog/ServiceNow-AI/autosynthdata": {
+  "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+  "source": "Hugging Face 博客",
+  "ts": 1790913691.0,
+  "desc": "",
+  "ord": 37
+ },
+ "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/": {
+  "title": "Gemini 4 Argon: our next era of frontier intelligence",
+  "source": "Google DeepMind",
+  "ts": 1790798505.0,
+  "desc": "",
+  "ord": 18
+ },
+ "https://deepmind.google/blog/introducing-synthid-bio/": {
+  "title": "Introducing SynthID Bio",
+  "source": "Google DeepMind",
+  "ts": 1790780587.0,
+  "desc": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+  "ord": 19
+ },
+ "https://huggingface.co/blog/open-tts-leaderboard": {
+  "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+  "source": "Hugging Face 博客",
+  "ts": 1790726400.0,
+  "desc": "",
+  "ord": 38
+ },
+ "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source": {
+  "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+  "source": "Hugging Face 博客",
+  "ts": 1790687220.0,
+  "desc": "",
+  "ord": 39
+ },
+ "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/": {
+  "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+  "source": "Google AI 博客",
+  "ts": 1790622000.0,
+  "desc": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+  "ord": 14
+ },
+ "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/": {
+  "title": "Introducing Gemini 3.8 Live with Live Avatar",
+  "source": "Google DeepMind",
+  "ts": 1790266839.0,
+  "desc": "",
+  "ord": 20
+ },
+ "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/": {
+  "title": "Google Beam expands with new regions, partners, and customers",
+  "source": "Google AI 博客",
+  "ts": 1790186400.0,
+  "desc": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+  "ord": 15
+ },
+ "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/": {
+  "title": "Advancing Private AI Compute with secure, server-side memory",
+  "source": "Google DeepMind",
+  "ts": 1790179257.0,
+  "desc": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+  "ord": 21
+ },
+ "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/": {
+  "title": "Gemini 3.8 text-to-speech says hello",
+  "source": "Google DeepMind",
+  "ts": 1790177114.0,
+  "desc": "",
+  "ord": 22
+ },
+ "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/": {
+  "title": "New experts join Google’s AI & Economy team",
+  "source": "Google AI 博客",
+  "ts": 1789740000.0,
+  "desc": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+  "ord": 16
+ },
+ "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/": {
+  "title": "Co-creating the future of fashion with Google",
+  "source": "Google AI 博客",
+  "ts": 1789736400.0,
+  "desc": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+  "ord": 17
+ },
+ "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/": {
+  "title": "Making global data easier to explore",
+  "source": "Google AI 博客",
+  "ts": 1789675200.0,
+  "desc": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+  "ord": 18
+ },
+ "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/": {
+  "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+  "source": "Google DeepMind",
+  "ts": 1789491957.0,
+  "desc": "",
+  "ord": 23
+ },
+ "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/": {
+  "title": "AI for Societal Impact",
+  "source": "Google AI 博客",
+  "ts": 1789488000.0,
+  "desc": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+  "ord": 19
+ },
+ "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/": {
+  "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+  "source": "Google DeepMind",
+  "ts": 1788876015.0,
+  "desc": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+  "ord": 24
+ },
+ "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/": {
+  "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+  "source": "Google DeepMind",
+  "ts": 1788447728.0,
+  "desc": "",
+  "ord": 25
+ },
+ "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/": {
+  "title": "Proactive cyber defense for governments and enterprises",
+  "source": "Google DeepMind",
+  "ts": 1788366264.0,
+  "desc": "",
+  "ord": 26
+ },
+ "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/": {
+  "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+  "source": "Google DeepMind",
+  "ts": 1788365911.0,
+  "desc": "",
+  "ord": 27
+ },
+ "https://deepmind.google/blog/introducing-agentic-video-in-gemini/": {
+  "title": "Introducing agentic video understanding with Gemini",
+  "source": "Google DeepMind",
+  "ts": 1788282531.0,
+  "desc": "",
+  "ord": 28
+ },
+ "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/": {
+  "title": "Gemini Omni 1.1 Flash lets you build with more control",
+  "source": "Google DeepMind",
+  "ts": 1787847092.0,
+  "desc": "",
+  "ord": 29
+ },
+ "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/": {
+  "title": "Piloting the world's first double-blind AI evaluations",
+  "source": "Google DeepMind",
+  "ts": 1787835556.0,
+  "desc": "Piloting the world's first double-blind AI evaluations",
+  "ord": 30
+ },
+ "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/": {
+  "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+  "source": "Google DeepMind",
+  "ts": 1787763660.0,
+  "desc": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+  "ord": 31
+ },
+ "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/": {
+  "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+  "source": "Google DeepMind",
+  "ts": 1787313588.0,
+  "desc": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+  "ord": 32
+ },
+ "https://deepmind.google/blog/introducing-gemini-3-7-flash/": {
+  "title": "Introducing Gemini 3.7 Flash",
+  "source": "Google DeepMind",
+  "ts": 1786640658.0,
+  "desc": "",
+  "ord": 33
+ },
+ "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/": {
+  "title": "Putting sign language AI into users’ hands",
+  "source": "Google DeepMind",
+  "ts": 1786543319.0,
+  "desc": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+  "ord": 34
+ },
+ "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/": {
+  "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+  "source": "Google DeepMind",
+  "ts": 1786028775.0,
+  "desc": "",
+  "ord": 35
+ },
+ "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/": {
+  "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+  "source": "Google DeepMind",
+  "ts": 1785423659.0,
+  "desc": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+  "ord": 36
+ },
+ "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/": {
+  "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+  "source": "Google DeepMind",
+  "ts": 1785340930.0,
+  "desc": "",
+  "ord": 37
+ },
+ "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/": {
+  "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+  "source": "Google DeepMind",
+  "ts": 1785244897.0,
+  "desc": "",
+  "ord": 38
+ },
+ "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/": {
+  "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+  "source": "Google DeepMind",
+  "ts": 1784727534.0,
+  "desc": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+  "ord": 39
  }
 }

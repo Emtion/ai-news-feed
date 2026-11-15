@@ -5,186 +5,29 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sun, 15 Nov 2026 17:05:43 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 17:47:00 +0000</lastBuildDate>
+  <item>
+    <title>Team &amp; Enterprise</title>
+    <link>https://huggingface.co/enterprise</link>
+    <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>What Picasso taught me about building AI Agents</title>
+    <link>https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/</link>
+    <guid isPermaLink="true">https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/</guid>
+    <pubDate>Sun, 15 Nov 2026 16:16:26 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/
+Comments URL: https://news.ycombinator.com/item?id=50508076
+Points: 5
+# Comments: 1</description>
+  </item>
   <item>
     <title>October 2026 releases, in depth</title>
     <link>https://www.cloudquell.com/blog/new-ai-models-october-2026/</link>
     <guid isPermaLink="true">https://www.cloudquell.com/blog/new-ai-models-october-2026/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>September 2026 releases, in depth</title>
-    <link>https://www.cloudquell.com/blog/new-ai-models-september-2026/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/blog/new-ai-models-september-2026/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>LLM API pricing comparison (all providers)</title>
-    <link>https://www.cloudquell.com/blog/llm-api-pricing-comparison/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/blog/llm-api-pricing-comparison/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>The cheapest LLM API per million tokens</title>
-    <link>https://www.cloudquell.com/blog/cheapest-llm-api/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/blog/cheapest-llm-api/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>OpenAI vs Anthropic API pricing</title>
-    <link>https://www.cloudquell.com/blog/openai-vs-anthropic-api-pricing/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/blog/openai-vs-anthropic-api-pricing/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>AI cost management: track AI spend next to your cloud bill</title>
-    <link>https://www.cloudquell.com/ai-cost-management/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/ai-cost-management/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Set a budget on your AI spend before the invoice does</title>
-    <link>https://www.cloudquell.com/blog/ai-spend-budget-alerts/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/blog/ai-spend-budget-alerts/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Anthropic API cost tracking</title>
-    <link>https://www.cloudquell.com/blog/anthropic-api-cost-tracking/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/blog/anthropic-api-cost-tracking/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>How to track OpenAI API costs</title>
-    <link>https://www.cloudquell.com/blog/track-openai-api-costs/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/blog/track-openai-api-costs/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>← Back to all posts</title>
-    <link>https://www.cloudquell.com/blog/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/blog/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Cloud cost optimization</title>
-    <link>https://www.cloudquell.com/cloud-cost-optimization/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/cloud-cost-optimization/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Multi-cloud cost management</title>
-    <link>https://www.cloudquell.com/multi-cloud-cost-management/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/multi-cloud-cost-management/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Cloud cost allocation</title>
-    <link>https://www.cloudquell.com/cloud-cost-allocation/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/cloud-cost-allocation/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>AWS cost anomaly detection</title>
-    <link>https://www.cloudquell.com/aws-cost-anomaly-detection/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/aws-cost-anomaly-detection/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>FinOps MCP server</title>
-    <link>https://www.cloudquell.com/finops-mcp-server/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/finops-mcp-server/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Effective Coverage %</title>
-    <link>https://www.cloudquell.com/effective-coverage/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/effective-coverage/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>AWS integration</title>
-    <link>https://www.cloudquell.com/integrations/aws/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/integrations/aws/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Bedrock cost tracking</title>
-    <link>https://www.cloudquell.com/integrations/bedrock/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/integrations/bedrock/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Snowflake integration</title>
-    <link>https://www.cloudquell.com/integrations/snowflake/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/integrations/snowflake/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>OpenAI integration</title>
-    <link>https://www.cloudquell.com/integrations/openai/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/integrations/openai/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Anthropic integration</title>
-    <link>https://www.cloudquell.com/integrations/anthropic/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/integrations/anthropic/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Azure integration</title>
-    <link>https://www.cloudquell.com/integrations/azure/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/integrations/azure/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Azure OpenAI cost tracking</title>
-    <link>https://www.cloudquell.com/integrations/azure-openai/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/integrations/azure-openai/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>GCP integration</title>
-    <link>https://www.cloudquell.com/integrations/gcp/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/integrations/gcp/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Vertex AI cost tracking</title>
-    <link>https://www.cloudquell.com/integrations/vertex-ai/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/integrations/vertex-ai/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Sub-processors</title>
-    <link>https://www.cloudquell.com/subprocessors/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/subprocessors/</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>CloudQuell 发布日志</source>
   </item>
@@ -196,135 +39,9 @@
     <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
-    <title>Multimodal Knowledge Agent (MKA) benchmark: testing knowledge work capabilities with complex visual filesNovember 10, 2026</title>
-    <link>https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
-    <title>Endpoint Accuracy Index v1.1: Tighter long context intervals and expanded model coverageNovember 9, 2026</title>
-    <link>https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
-    <title>Meta's Muse Ember is the cheapest model scoring 36 on the Intelligence IndexNovember 9, 2026</title>
-    <link>https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
-    <title>Introducing the Artificial Analysis Decision Index v2November 8, 2026</title>
-    <link>https://artificialanalysis.ai/articles/decision-index-v2</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/decision-index-v2</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
-    <title>VIALS-AA: different paths to scientific image reasoningNovember 6, 2026</title>
-    <link>https://artificialanalysis.ai/articles/vials-aa</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/vials-aa</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
-    <title>Thinking Machines Inkling 2 Small: the highest scoring open weights model outside of China pending weights releaseNovember 5, 2026</title>
-    <link>https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
-    <title>Nanbeige has released Nanbeige4.3-33B scoring 20 on the Intelligence IndexNovember 5, 2026</title>
-    <link>https://artificialanalysis.ai/articles/nanbeige-has-released-nanbeige4-3-33b-scoring-20-on-the-intelligence-index</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/nanbeige-has-released-nanbeige4-3-33b-scoring-20-on-the-intelligence-index</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
-    <title>Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5October 28, 2026</title>
-    <link>https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
-    <title>GitHub Copilot Fusion orchestrates Anthropic and OpenAI models to balance performance and costOctober 28, 2026</title>
-    <link>https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
-    <title>Announcing Artificial Analysis Intelligence Index v5October 27, 2026</title>
-    <link>https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
-    <title>GPT-6.1 Terra pushes the cost efficiency frontierOctober 26, 2026</title>
-    <link>https://artificialanalysis.ai/articles/gpt-6-1-terra-pushes-the-cost-efficiency-frontier</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/gpt-6-1-terra-pushes-the-cost-efficiency-frontier</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
-    <title>Code2Video-AA: how well do AI models design videos in code?October 26, 2026</title>
-    <link>https://artificialanalysis.ai/articles/code2video-aa</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/code2video-aa</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
-    <title>LLM Leaderboard</title>
-    <link>https://artificialanalysis.ai/leaderboards/models</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/leaderboards/models</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
-    <title>Model Recommender</title>
-    <link>https://artificialanalysis.ai/models/recommend</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/models/recommend</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
-    <title>Data Playground</title>
-    <link>https://artificialanalysis.ai/data-playground</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/data-playground</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
     <title>艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强</title>
     <link>https://www.iimedia.cn/c1106/119852.html</link>
     <guid isPermaLink="true">https://www.iimedia.cn/c1106/119852.html</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>艾媒网</source>
-  </item>
-  <item>
-    <title>艾媒鼎榜 | 2026年中国AI会议耳机品牌10强</title>
-    <link>https://www.iimedia.cn/c1106/119848.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119848.html</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>艾媒网</source>
-  </item>
-  <item>
-    <title>2026年中国AI会议耳机十大品牌出炉！科大讯飞、华为、sanag位列前三</title>
-    <link>https://www.iimedia.cn/c1088/120050.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1088/120050.html</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>艾媒网</source>
-  </item>
-  <item>
-    <title>11月11日AI新产品讯息：千问大模型Qwen4即将发布、蚂蚁灵波发布LingBot-Touch模型、上药云健康首发“益药·智能服务矩阵”</title>
-    <link>https://www.iimedia.cn/c1088/119988.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1088/119988.html</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>艾媒网</source>
   </item>
@@ -336,296 +53,9 @@
     <source>Anthropic Newsroom</source>
   </item>
   <item>
-    <title>Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</title>
-    <link>https://www.anthropic.com/news/public-benefit-fund</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Anthropic files S-1 with the SEC for proposed initial public offeringToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.</title>
-    <link>https://www.anthropic.com/news/s1-sec</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/s1-sec</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Early progress on accelerating drug development with ClaudeWe're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.</title>
-    <link>https://www.anthropic.com/research/early-progress-drug-development</link>
-    <guid isPermaLink="true">https://www.anthropic.com/research/early-progress-drug-development</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Introducing Claude Haiku 5.5Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.</title>
-    <link>https://www.anthropic.com/claude-haiku-5-5</link>
-    <guid isPermaLink="true">https://www.anthropic.com/claude-haiku-5-5</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Introducing Claude Opus 5.5Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</title>
-    <link>https://www.anthropic.com/claude-opus-5-5</link>
-    <guid isPermaLink="true">https://www.anthropic.com/claude-opus-5-5</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>The Situation Report</title>
-    <link>https://www.anthropic.com/features/ebola-response</link>
-    <guid isPermaLink="true">https://www.anthropic.com/features/ebola-response</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Scenarios for our economic future</title>
-    <link>https://www.anthropic.com/institute/econ-scenarios</link>
-    <guid isPermaLink="true">https://www.anthropic.com/institute/econ-scenarios</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>The making of Claude Code</title>
-    <link>https://www.anthropic.com/features/making-of-claude-code</link>
-    <guid isPermaLink="true">https://www.anthropic.com/features/making-of-claude-code</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Project Deal: our Claude-run marketplace experiment</title>
-    <link>https://www.anthropic.com/features/project-deal</link>
-    <guid isPermaLink="true">https://www.anthropic.com/features/project-deal</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>The first AI-planned drive on Mars</title>
-    <link>https://www.anthropic.com/features/claude-on-mars</link>
-    <guid isPermaLink="true">https://www.anthropic.com/features/claude-on-mars</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Anthropic launches roadshow for proposed initial public offering</title>
-    <link>https://www.anthropic.com/news/roadshow-launch</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/roadshow-launch</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>AI for Science expands to foundations and research institutions</title>
-    <link>https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Expanding our partnership with GSA to bring Claude to all levels of government</title>
-    <link>https://www.anthropic.com/news/expanding-partnership-gsa</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/expanding-partnership-gsa</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Donating Agent Skills to the Agentic AI Foundation</title>
-    <link>https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Open call for guest investigators in the life sciences</title>
-    <link>https://www.anthropic.com/news/open-call-guest-investigators-life-sciences</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/open-call-guest-investigators-life-sciences</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust</title>
-    <link>https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>An update on independent evaluators</title>
-    <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/an-update-on-independent-evaluators</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Preparing for the 2026 US midterms</title>
-    <link>https://www.anthropic.com/news/2026-us-midterms</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/2026-us-midterms</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Anthropic opens Singapore office and signs MOU with the Government of Singapore</title>
-    <link>https://www.anthropic.com/news/singapore-office-opening</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/singapore-office-opening</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Strengthening our defenses against distillation attacks</title>
-    <link>https://www.anthropic.com/news/distillation-defenses</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/distillation-defenses</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Introducing the Anthropic Cyber Mission</title>
-    <link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/anthropic-cyber-mission</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>2026 Usage Policy update</title>
-    <link>https://www.anthropic.com/news/2026-usage-policy-update</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/2026-usage-policy-update</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Building on our commitment to American scientific discovery</title>
-    <link>https://www.anthropic.com/news/genesis-mission-commitment</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/genesis-mission-commitment</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Expanding the Cyber Verification Program</title>
-    <link>https://www.anthropic.com/news/cyber-verification-program</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/cyber-verification-program</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap</title>
-    <link>https://www.anthropic.com/news/claude-frontier-academy</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/claude-frontier-academy</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Barclays scales Claude to upgrade operations and improve client experience</title>
-    <link>https://www.anthropic.com/news/barclays-scales-claude</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/barclays-scales-claude</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Introducing Claude Sonnet 5.5</title>
-    <link>https://www.anthropic.com/claude-sonnet-5-5</link>
-    <guid isPermaLink="true">https://www.anthropic.com/claude-sonnet-5-5</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Partnering with Accenture on embedded evaluation</title>
-    <link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/accenture-embedded-evaluation</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Download press kit</title>
-    <link>https://www.anthropic.com/press-kit</link>
-    <guid isPermaLink="true">https://www.anthropic.com/press-kit</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
     <title>Click here to view the guide</title>
     <link>https://api-docs.deepseek.com/guides/build_a_chatbot</link>
     <guid isPermaLink="true">https://api-docs.deepseek.com/guides/build_a_chatbot</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>DeepSeek 更新日志</source>
-  </item>
-  <item>
-    <title>DeepSeek API Docs</title>
-    <link>https://api-docs.deepseek.com/</link>
-    <guid isPermaLink="true">https://api-docs.deepseek.com/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>DeepSeek 更新日志</source>
-  </item>
-  <item>
-    <title>Models &amp; Pricing</title>
-    <link>https://api-docs.deepseek.com/quick_start/pricing</link>
-    <guid isPermaLink="true">https://api-docs.deepseek.com/quick_start/pricing</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>DeepSeek 更新日志</source>
-  </item>
-  <item>
-    <title>this documentation</title>
-    <link>https://api-docs.deepseek.com/news/news260910</link>
-    <guid isPermaLink="true">https://api-docs.deepseek.com/news/news260910</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>DeepSeek 更新日志</source>
-  </item>
-  <item>
-    <title>official documentation</title>
-    <link>https://api-docs.deepseek.com/quick_start/agent_integrations/codex</link>
-    <guid isPermaLink="true">https://api-docs.deepseek.com/quick_start/agent_integrations/codex</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>DeepSeek 更新日志</source>
-  </item>
-  <item>
-    <title>this documentation</title>
-    <link>https://api-docs.deepseek.com/news/news260813</link>
-    <guid isPermaLink="true">https://api-docs.deepseek.com/news/news260813</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>DeepSeek 更新日志</source>
-  </item>
-  <item>
-    <title>this documentation</title>
-    <link>https://api-docs.deepseek.com/news/news260424</link>
-    <guid isPermaLink="true">https://api-docs.deepseek.com/news/news260424</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>DeepSeek 更新日志</source>
-  </item>
-  <item>
-    <title>this documentation</title>
-    <link>https://api-docs.deepseek.com/news/news251201</link>
-    <guid isPermaLink="true">https://api-docs.deepseek.com/news/news251201</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>DeepSeek 更新日志</source>
-  </item>
-  <item>
-    <title>this documentation</title>
-    <link>https://api-docs.deepseek.com/news/news250929</link>
-    <guid isPermaLink="true">https://api-docs.deepseek.com/news/news250929</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>DeepSeek 更新日志</source>
-  </item>
-  <item>
-    <title>DeepSeek-R1 Release</title>
-    <link>https://api-docs.deepseek.com/news/news250120</link>
-    <guid isPermaLink="true">https://api-docs.deepseek.com/news/news250120</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>DeepSeek 更新日志</source>
-  </item>
-  <item>
-    <title>introducing DeepSeek-V3</title>
-    <link>https://api-docs.deepseek.com/news/news1226</link>
-    <guid isPermaLink="true">https://api-docs.deepseek.com/news/news1226</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>DeepSeek 更新日志</source>
-  </item>
-  <item>
-    <title>Context Caching is Available 2024/08/02</title>
-    <link>https://api-docs.deepseek.com/news/news0802</link>
-    <guid isPermaLink="true">https://api-docs.deepseek.com/news/news0802</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>DeepSeek 更新日志</source>
-  </item>
-  <item>
-    <title>New API Features 2024/07/25</title>
-    <link>https://api-docs.deepseek.com/news/news0725</link>
-    <guid isPermaLink="true">https://api-docs.deepseek.com/news/news0725</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>DeepSeek 更新日志</source>
   </item>
@@ -637,11 +67,326 @@
     <source>Meta AI 博客</source>
   </item>
   <item>
+    <title>GitHubRepository hosting, code review, and collaboration</title>
+    <link>https://github.com/platform</link>
+    <guid isPermaLink="true">https://github.com/platform</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>An overview of Jensen Huang’s messy days</title>
+    <link>https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation</link>
+    <guid isPermaLink="true">https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation</guid>
+    <pubDate>Sun, 15 Nov 2026 13:00:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepb</description>
+  </item>
+  <item>
+    <title>AI DJs Completely Kill My Groove</title>
+    <link>https://www.wired.com/story/ai-djs-completely-kill-my-groove/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/ai-djs-completely-kill-my-groove/</guid>
+    <pubDate>Sun, 15 Nov 2026 12:00:00 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.</description>
+  </item>
+  <item>
+    <title>Canvas by AgentGrid.io</title>
+    <link>https://www.producthunt.com/products/agentgrid-io</link>
+    <guid isPermaLink="true">https://www.producthunt.com/products/agentgrid-io</guid>
+    <pubDate>Sun, 15 Nov 2026 06:22:09 +0000</pubDate>
+    <source>Product Hunt</source>
+  </item>
+  <item>
+    <title>2026-11-15 AI 日报 · Anthropic拟创纪录IPO获6倍认购，逾11.5万人请愿要求恢复黄仁勋职务</title>
+    <link>https://daily.ai225.com/daily/2026-11-15</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-15</guid>
+    <pubDate>Sun, 15 Nov 2026 00:53:06 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>今日AI行业聚焦资本与治理震荡：Anthropic IPO据报获约6倍认购、拟最高募资904亿美元；CEO称算力采购是最深层商业困境，近9010亿美元承诺能否被未来营收覆盖仍不明朗。超11.5万人请愿要求恢复黄仁勋职务，报道称其离职或涉高风险商业担保，亚洲多国政府与风投机构正评估影响；超聚变创业板IPO过会。技术侧，Runway开源机器人模型Praxis-1，OpenAI重组机器人团队，Gemini 4 Carbon登顶MathArena；arXiv论文披露大模型隐写泄露风险与RLVR优化新法。</description>
+  </item>
+  <item>
+    <title>Where was Nvidia’s security team?</title>
+    <link>https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</guid>
+    <pubDate>Sun, 15 Nov 2026 00:08:07 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which </description>
+  </item>
+  <item>
+    <title>英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！</title>
+    <link>https://www.qbitai.com/2026/11/510297.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/510297.html</guid>
+    <pubDate>Sat, 14 Nov 2026 10:08:08 +0000</pubDate>
+    <source>量子位</source>
+    <description>马斯克也签名了</description>
+  </item>
+  <item>
+    <title>百度词元所发布首日：供应商暴增超100家，客户新增超1000家</title>
+    <link>https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html</guid>
+    <pubDate>Sat, 14 Nov 2026 05:45:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>11月14日，从百度获悉，百度词元所发布首日，新增申请入驻的供应商已超过100家，新增超过1000家客户接入。 词元所在11月12日举行的百度世界2026上正式发布，百度创始人李彦宏将其称为“大模型的交易所”。据介绍，词元所一端汇聚模型和模型提供商，另一端服务企业和个人，让用户便捷地找到、购买和使用可信的模型Token。 词元所主打验真与征信两大能力：模型入平台前需通过模型指纹比对、模型能力测试、性能指标与可用性测试等准入核验，上线后接受定期抽检拨测与全链路实时监测，相关结果沉淀为供应商的信用评级。 李彦宏提到，今年前9个月几乎每天都有不止一款新模型发布，调用需求同步爆发，而市面上的词元中转站</description>
+  </item>
+  <item>
+    <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
+    <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
+    <guid isPermaLink="true">https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
+    <pubDate>Fri, 13 Nov 2026 18:00:39 +0000</pubDate>
+    <source>Hugging Face 博客</source>
+  </item>
+  <item>
+    <title>Introducing ChatGPT Wallet</title>
+    <link>https://openai.com/index/introducing-chatgpt-wallet</link>
+    <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-wallet</guid>
+    <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
+    <source>OpenAI News</source>
+    <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.</description>
+  </item>
+  <item>
+    <title>DeepSeek opens built-in tools and the full application API suite on V4.1-Flash, with new per-use tool fees</title>
+    <link>https://themodelgap.com/new-ai-models</link>
+    <guid isPermaLink="true">https://themodelgap.com/new-ai-models</guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    <source>The Model Gap</source>
+    <description>Separate API-suite event on the model first logged 2026-09-10; that launch entry and its RSS guid stay unchanged. DeepSeek's news post and the changelog dated 2026-11-13 open built-in tools on the existing deepseek-flash endpoint, still served as DeepSeek-V4.1-Flash-1017. @deepseek_ai posted at 2026</description>
+  </item>
+  <item>
+    <title>Introducing Gemini 4 Hydrogen</title>
+    <link>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</link>
+    <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-hydrogen/</guid>
+    <pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
+    <source>Google DeepMind</source>
+  </item>
+  <item>
+    <title>Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
+    <link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/</link>
+    <guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/</guid>
+    <pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
+    <source>Google AI 博客</source>
+    <description>We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.</description>
+  </item>
+  <item>
+    <title>Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI</title>
+    <link>https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/</link>
+    <guid isPermaLink="true">https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/</guid>
+    <pubDate>Tue, 10 Nov 2026 21:12:59 +0000</pubDate>
+    <source>Ars Technica</source>
+    <description>Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.</description>
+  </item>
+  <item>
+    <title>Hugging Face PRO</title>
+    <link>https://huggingface.co/pro</link>
+    <guid isPermaLink="true">https://huggingface.co/pro</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>A Human Reads the Anthropic IPO Filing</title>
+    <link>https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html</link>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:18:06 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html
+Comments URL: https://news.ycombinator.com/item?id=50507517
+Points: 7
+# Comments: 1</description>
+  </item>
+  <item>
+    <title>September 2026 releases, in depth</title>
+    <link>https://www.cloudquell.com/blog/new-ai-models-september-2026/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/blog/new-ai-models-september-2026/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Multimodal Knowledge Agent (MKA) benchmark: testing knowledge work capabilities with complex visual filesNovember 10, 2026</title>
+    <link>https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>艾媒鼎榜 | 2026年中国AI会议耳机品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/119848.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119848.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</title>
+    <link>https://www.anthropic.com/news/public-benefit-fund</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>DeepSeek API Docs</title>
+    <link>https://api-docs.deepseek.com/</link>
+    <guid isPermaLink="true">https://api-docs.deepseek.com/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>DeepSeek 更新日志</source>
+  </item>
+  <item>
     <title>Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics</title>
     <link>https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/</link>
     <guid isPermaLink="true">https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Meta AI 博客</source>
+  </item>
+  <item>
+    <title>CopilotAI coding agent for tasks, projects, and automated work</title>
+    <link>https://github.com/features/copilot</link>
+    <guid isPermaLink="true">https://github.com/features/copilot</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs</title>
+    <link>https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</link>
+    <guid isPermaLink="true">https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</guid>
+    <pubDate>Sat, 14 Nov 2026 15:00:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for</description>
+  </item>
+  <item>
+    <title>This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets</title>
+    <link>https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/</guid>
+    <pubDate>Sun, 15 Nov 2026 11:00:00 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.</description>
+  </item>
+  <item>
+    <title>ByteAsk Cloud Agents</title>
+    <link>https://www.producthunt.com/products/byteask-cloud-agents</link>
+    <guid isPermaLink="true">https://www.producthunt.com/products/byteask-cloud-agents</guid>
+    <pubDate>Sat, 14 Nov 2026 06:54:44 +0000</pubDate>
+    <source>Product Hunt</source>
+  </item>
+  <item>
+    <title>2026-11-14 AI 日报 · ChatGPT Wallet上线开启智能体代付，llama.cpp步入1.0稳定时代</title>
+    <link>https://daily.ai225.com/daily/2026-11-14</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-14</guid>
+    <pubDate>Sat, 14 Nov 2026 01:08:46 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>今日AI领域迎来多项底层与应用层重要进展。OpenAI正式推出ChatGPT Wallet，支持智能体在生物认证确认下代行在线支付，亚马逊亦推进全球商品图谱项目以应对智能体电商变革；核心本地推理基础设施llama.cpp与ggml正式迈入1.0.0版本，确立以主版本号标记API/ABI破坏性变更的版本规则。DeepSeek全面开放其App同款的全家桶API与独立工具接口；李飞飞联合创办的World Labs向公众开放Atlas世界模型。此外，前研究员披露在多家国产模型权重中检测到Blackwell芯片特征，投行则援引出口管制禁止中港投资者认购Anthropic IPO。学术界在像素空间视频生成</description>
+  </item>
+  <item>
+    <title>Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang</title>
+    <link>https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/</guid>
+    <pubDate>Sat, 14 Nov 2026 21:41:22 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>The petition had attracted more than 115,000 signatures as of Saturday afternoon.</description>
+  </item>
+  <item>
+    <title>「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭</title>
+    <link>https://www.qbitai.com/2026/11/510232.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/510232.html</guid>
+    <pubDate>Sat, 14 Nov 2026 09:58:22 +0000</pubDate>
+    <source>量子位</source>
+    <description>斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了</description>
+  </item>
+  <item>
+    <title>浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年 | 世界模型50人</title>
+    <link>https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html</guid>
+    <pubDate>Fri, 13 Nov 2026 16:50:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>八年研究，两个落地系统，超六万GitHub Stars。    作者丨李秋悦    编辑丨吴   彤                                                                                                       一支女团跳舞，镜头不必再听导演安排，观众甚至能看到拍摄时不存在的机位。传统MV拍摄，摄影机架在哪里，观众看到的就是哪个角度。现在用多台摄像机同时记录舞者动作，再重建出一个三维动态场景，镜头可以任意调换位置；从队形正面绕到侧面，穿过舞者之间，甚至换一个从未真正架设过的机位，重新观看刚才的表演。今</description>
+  </item>
+  <item>
+    <title>XYBench: Helping with the problem behind the question</title>
+    <link>https://huggingface.co/blog/allenai/xybench</link>
+    <guid isPermaLink="true">https://huggingface.co/blog/allenai/xybench</guid>
+    <pubDate>Fri, 13 Nov 2026 17:02:35 +0000</pubDate>
+    <source>Hugging Face 博客</source>
+  </item>
+  <item>
+    <title>Shield helps technicians hand off legacy portal work with OpenAI</title>
+    <link>https://openai.com/business/customer-stories/shield</link>
+    <guid isPermaLink="true">https://openai.com/business/customer-stories/shield</guid>
+    <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+    <source>OpenAI News</source>
+    <description>Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.</description>
+  </item>
+  <item>
+    <title>AlphaGenome 2: Deciphering how cells read DNA to better understand disease</title>
+    <link>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</link>
+    <guid isPermaLink="true">https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</guid>
+    <pubDate>Wed, 11 Nov 2026 15:00:15 +0000</pubDate>
+    <source>Google DeepMind</source>
+    <description>Predicting how DNA sequences and their variations impact specific human cell types and disease.</description>
+  </item>
+  <item>
+    <title>Gemini Decisions API: Fast, calibrated multimodal decisions</title>
+    <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
+    <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</guid>
+    <pubDate>Wed, 11 Nov 2026 18:00:00 +0000</pubDate>
+    <source>Google AI 博客</source>
+    <description>Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.</description>
+  </item>
+  <item>
+    <title>Chainalysis says hackers stole credentials and tokens for all of its customers</title>
+    <link>https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/</link>
+    <guid isPermaLink="true">https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/</guid>
+    <pubDate>Fri, 06 Nov 2026 20:56:41 +0000</pubDate>
+    <source>Ars Technica</source>
+    <description>Company said a "multifront cyberattack" included AI agents and an on-path data snatch.</description>
+  </item>
+  <item>
+    <title>Enterprise Support</title>
+    <link>https://huggingface.co/support</link>
+    <guid isPermaLink="true">https://huggingface.co/support</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>All AI-generated code should be Open Source</title>
+    <link>https://jakub.jankiewicz.org/blog/ai-code-open-source/</link>
+    <guid isPermaLink="true">https://jakub.jankiewicz.org/blog/ai-code-open-source/</guid>
+    <pubDate>Sun, 15 Nov 2026 14:46:58 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/
+Comments URL: https://news.ycombinator.com/item?id=50507303
+Points: 43
+# Comments: 14</description>
+  </item>
+  <item>
+    <title>LLM API pricing comparison (all providers)</title>
+    <link>https://www.cloudquell.com/blog/llm-api-pricing-comparison/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/blog/llm-api-pricing-comparison/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Endpoint Accuracy Index v1.1: Tighter long context intervals and expanded model coverageNovember 9, 2026</title>
+    <link>https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>2026年中国AI会议耳机十大品牌出炉！科大讯飞、华为、sanag位列前三</title>
+    <link>https://www.iimedia.cn/c1088/120050.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1088/120050.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>Anthropic files S-1 with the SEC for proposed initial public offeringToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.</title>
+    <link>https://www.anthropic.com/news/s1-sec</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/s1-sec</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>Models &amp; Pricing</title>
+    <link>https://api-docs.deepseek.com/quick_start/pricing</link>
+    <guid isPermaLink="true">https://api-docs.deepseek.com/quick_start/pricing</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>DeepSeek 更新日志</source>
   </item>
   <item>
     <title>How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects</title>
@@ -651,11 +396,311 @@
     <source>Meta AI 博客</source>
   </item>
   <item>
+    <title>ActionsCI/CD and automation</title>
+    <link>https://github.com/features/actions</link>
+    <guid isPermaLink="true">https://github.com/features/actions</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>Jensen Huang and the decline of the visionary showman founder CEO</title>
+    <link>https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo</link>
+    <guid isPermaLink="true">https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo</guid>
+    <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leat</description>
+  </item>
+  <item>
+    <title>Beware the New AI-Fueled Ransomware Boom</title>
+    <link>https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/</guid>
+    <pubDate>Sat, 14 Nov 2026 13:00:00 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.</description>
+  </item>
+  <item>
+    <title>Businesses in ChatGPT</title>
+    <link>https://www.producthunt.com/products/openai</link>
+    <guid isPermaLink="true">https://www.producthunt.com/products/openai</guid>
+    <pubDate>Fri, 13 Nov 2026 08:53:51 +0000</pubDate>
+    <source>Product Hunt</source>
+  </item>
+  <item>
+    <title>2026-11-13 AI 日报 · 黄仁勋离任震动硅谷，Gemini 4 Hydrogen 普惠化落地</title>
+    <link>https://daily.ai225.com/daily/2026-11-13</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-13</guid>
+    <pubDate>Fri, 13 Nov 2026 01:11:28 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>英伟达因黄仁勋婚外情报道迎来 33 年来的首次换帅，其离任引发硅谷关于芯片出口管制与 AI 行业未来的广泛讨论，众议院民主党人已就英伟达芯片出口发起问询。与此同时，Google 发布 Gemini 4 Hydrogen，以更快的推理速度和更低成本把 Gemini 4 能力推向大众市场；百度在世界大会上推出文心 5.5 Flash Preview 并上线大模型交易所。Anthropic 除推出 Claude Meetings 和自托管 Managed Agents 外，还发布面向制造业的 Claude 插件。在算力端，AI 芯片初创 Fractile 完成 7.2 亿美元融资，Nebius 公布</description>
+  </item>
+  <item>
+    <title>The AI graveyard: a running list of projects and startups that didn’t make it</title>
+    <link>https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</guid>
+    <pubDate>Sat, 14 Nov 2026 17:30:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.</description>
+  </item>
+  <item>
+    <title>程序员集体沉迷折纸飞机！最长滞空31.2秒</title>
+    <link>https://www.qbitai.com/2026/11/510150.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/510150.html</guid>
+    <pubDate>Sat, 14 Nov 2026 09:48:34 +0000</pubDate>
+    <source>量子位</source>
+    <description>童年的纸飞机，现在终于飞回我手里～</description>
+  </item>
+  <item>
+    <title>独家｜燧原科技首席生态官李星宇离职</title>
+    <link>https://www.leiphone.com/category/chips/G6AiPuplIGyPkaQL.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/chips/G6AiPuplIGyPkaQL.html</guid>
+    <pubDate>Fri, 13 Nov 2026 10:00:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>作者｜包永刚编辑｜刘伟雷峰网独家获悉，燧原科技首席生态官李星宇已于近日离职。他离职后已入读港大-北大联合DBA博士项目，但尚未披露下一步职业计划。李星宇拥有超过20年的半导体行业从业经验，工作经历涵盖云端AI计算芯片、自动驾驶AI芯片、智能座舱芯片等领域。加入燧原科技之前，他曾在地平线任职8年，担任生态发展与战略规划副总裁，是地平线创始管理团队成员。更早之前，他曾任职于恩智浦半导体。从地平线的创始管理团队成员，到燧原科技首席生态官，李星宇在企业战略规划和产业生态建设方面积累了丰富经验。他先后任职的地平线与燧原科技，分别于2024年10月和2026年9月上市。据雷峰网了解，李星宇长期看好国内AI</description>
+  </item>
+  <item>
+    <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
+    <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
+    <guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
+    <pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
+    <source>Hugging Face 博客</source>
+  </item>
+  <item>
+    <title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
+    <link>https://openai.com/business/customer-stories/amplitude</link>
+    <guid isPermaLink="true">https://openai.com/business/customer-stories/amplitude</guid>
+    <pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
+    <source>OpenAI News</source>
+    <description>Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.</description>
+  </item>
+  <item>
+    <title>Gemini 4 Carbon is now available</title>
+    <link>https://deepmind.google/blog/gemini-4-carbon-is-now-available/</link>
+    <guid isPermaLink="true">https://deepmind.google/blog/gemini-4-carbon-is-now-available/</guid>
+    <pubDate>Tue, 10 Nov 2026 16:03:47 +0000</pubDate>
+    <source>Google DeepMind</source>
+  </item>
+  <item>
+    <title>Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.</title>
+    <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/</link>
+    <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/</guid>
+    <pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
+    <source>Google AI 博客</source>
+    <description>Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.</description>
+  </item>
+  <item>
+    <title>Anthropic VS code extension on Cursor backdoored for nearly 12 hours</title>
+    <link>https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/</link>
+    <guid isPermaLink="true">https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/</guid>
+    <pubDate>Fri, 30 Oct 2026 21:09:54 +0000</pubDate>
+    <source>Ars Technica</source>
+    <description>It's still unknown how attackers got access to Anthropic's verified Cursor account.</description>
+  </item>
+  <item>
+    <title>Inference Providers</title>
+    <link>https://huggingface.co/inference/models</link>
+    <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>Understanding Positional Embeddings in Modern LLMs</title>
+    <link>https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</link>
+    <guid isPermaLink="true">https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</guid>
+    <pubDate>Sun, 15 Nov 2026 12:14:06 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings
+Comments URL: https://news.ycombinator.com/item?id=50506376
+Points: 71
+# Comments: 0</description>
+  </item>
+  <item>
+    <title>The cheapest LLM API per million tokens</title>
+    <link>https://www.cloudquell.com/blog/cheapest-llm-api/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/blog/cheapest-llm-api/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Meta's Muse Ember is the cheapest model scoring 36 on the Intelligence IndexNovember 9, 2026</title>
+    <link>https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>11月11日AI新产品讯息：千问大模型Qwen4即将发布、蚂蚁灵波发布LingBot-Touch模型、上药云健康首发“益药·智能服务矩阵”</title>
+    <link>https://www.iimedia.cn/c1088/119988.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1088/119988.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>Early progress on accelerating drug development with ClaudeWe're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.</title>
+    <link>https://www.anthropic.com/research/early-progress-drug-development</link>
+    <guid isPermaLink="true">https://www.anthropic.com/research/early-progress-drug-development</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>this documentation</title>
+    <link>https://api-docs.deepseek.com/news/news260910</link>
+    <guid isPermaLink="true">https://api-docs.deepseek.com/news/news260910</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>DeepSeek 更新日志</source>
+  </item>
+  <item>
     <title>Introducing Muse Image and Muse Video</title>
     <link>https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/</link>
     <guid isPermaLink="true">https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Meta AI 博客</source>
+  </item>
+  <item>
+    <title>Code QualityQuality analysis, fixes, and enforcement</title>
+    <link>https://github.com/features/code-quality</link>
+    <guid isPermaLink="true">https://github.com/features/code-quality</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>Amazon has a plan to index the world’s online shopping data</title>
+    <link>https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search</link>
+    <guid isPermaLink="true">https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search</guid>
+    <pubDate>Fri, 13 Nov 2026 23:49:11 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the "World Product Graph," is meant to make it less likely that shoppers lea</description>
+  </item>
+  <item>
+    <title>No Pilots. Few Air Traffic Controllers. What Could Go Wrong?</title>
+    <link>https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/</guid>
+    <pubDate>Sat, 14 Nov 2026 11:00:00 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>Normally, aviation is slow to embrace new technology—but AI has come for the skies.</description>
+  </item>
+  <item>
+    <title>Gemini Robotics 2.5</title>
+    <link>https://www.producthunt.com/products/gemini-robotics-2-5</link>
+    <guid isPermaLink="true">https://www.producthunt.com/products/gemini-robotics-2-5</guid>
+    <pubDate>Thu, 12 Nov 2026 20:18:13 +0000</pubDate>
+    <source>Product Hunt</source>
+  </item>
+  <item>
+    <title>2026-11-12 AI 日报 · 英伟达董事会据报酝酿罢免黄仁勋，Google（DeepMind）与百度接连发新模型</title>
+    <link>https://daily.ai225.com/daily/2026-11-12</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-12</guid>
+    <pubDate>Thu, 12 Nov 2026 01:03:56 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>今日焦点集中在英伟达：董事会据报酝酿罢免CEO黄仁勋，叠加婚外情传闻与第二名下属涉入的报道，股价盘后重挫逾9%，成为全行业最大不确定性。模型侧，Google旗下DeepMind发布DNA模型AlphaGenome 2，Google推出单次可评估上千问题的Gemini Decisions API，百度发布文心5.5 Flash Preview并宣布11月25日开源权重；北大系aiXcoder开源4B上下文压缩模型。资本与算力层面，台积电拟各投OpenAI与Anthropic五亿美元，英国Fractile获7.2亿美元融资，CoreWeave转向预付款模式，而美国企业AI支出增速已放缓至1.65%</description>
+  </item>
+  <item>
+    <title>Asian governments react to Nvidia CEO Jensen Huang’s exit</title>
+    <link>https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/</guid>
+    <pubDate>Sat, 14 Nov 2026 16:34:15 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.</description>
+  </item>
+  <item>
+    <title>绿电进Token出！联想重新定义词元工厂</title>
+    <link>https://www.qbitai.com/2026/11/510094.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/510094.html</guid>
+    <pubDate>Sat, 14 Nov 2026 09:41:02 +0000</pubDate>
+    <source>量子位</source>
+    <description>年产2000万亿Token，成本狂降70%</description>
+  </item>
+  <item>
+    <title>9.99万的ID.ERA 5X，大众开始用中国效率打价格战</title>
+    <link>https://www.leiphone.com/category/transportation/vNdfiZqSJgLMJc3M.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/transportation/vNdfiZqSJgLMJc3M.html</guid>
+    <pubDate>Fri, 13 Nov 2026 09:38:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>从过去全球技术导入中国，转向中国本土研发定义产品，并反哺全球，大众在华的研发模式迎来的关键转身，集中在一款新车型中。11月12日，上汽大众ID.ERA 5X正式上市，限时权益价9.99万起，共推出四款配置。定位都市纯电SUV，瞄准年轻用户与家庭市场。作为一款主打高性价比的紧凑型纯电SUV，上汽大众ID.ERA 5X是德系品质与中国智能共同发力的代表。新车车长4560mm，但轴距达到 2815mm，采用短前后悬设计，把车轮推向四角，主打“小车身、大空间”，后排腿部空间比较宽裕。德系车的安全品质也严格呈现。全系标配83%高强度钢的笼式车身，关键受力部位采用热成型钢补强。在上市发布会的压力测试中，车</description>
+  </item>
+  <item>
+    <title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
+    <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
+    <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
+    <pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
+    <source>Hugging Face 博客</source>
+  </item>
+  <item>
+    <title>Gondola doubles revenue as its team builds more with Codex</title>
+    <link>https://openai.com/business/customer-stories/gondola</link>
+    <guid isPermaLink="true">https://openai.com/business/customer-stories/gondola</guid>
+    <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+    <source>OpenAI News</source>
+    <description>Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.</description>
+  </item>
+  <item>
+    <title>Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</title>
+    <link>https://deepmind.google/blog/introducing-alphaproof-code/</link>
+    <guid isPermaLink="true">https://deepmind.google/blog/introducing-alphaproof-code/</guid>
+    <pubDate>Tue, 10 Nov 2026 12:02:28 +0000</pubDate>
+    <source>Google DeepMind</source>
+    <description>AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.</description>
+  </item>
+  <item>
+    <title>Experience the art and legacy of Dr. Esther Mahlangu</title>
+    <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/</link>
+    <guid isPermaLink="true">https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/</guid>
+    <pubDate>Wed, 11 Nov 2026 09:00:00 +0000</pubDate>
+    <source>Google AI 博客</source>
+    <description>A new online archive of Esther Mahlangu’s life and art is now on Google Arts &amp; Culture.</description>
+  </item>
+  <item>
+    <title>OpenAI models hacked a crypto wallet and breached more websites</title>
+    <link>https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/</link>
+    <guid isPermaLink="true">https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/</guid>
+    <pubDate>Fri, 16 Oct 2026 20:59:01 +0000</pubDate>
+    <source>Ars Technica</source>
+    <description>The actions could have resulted in criminal charges had humans been behind the keyboard.</description>
+  </item>
+  <item>
+    <title>Inference Endpoints</title>
+    <link>https://huggingface.co/inference-endpoints</link>
+    <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>Court denies motion to dismiss DRAM price fixing case</title>
+    <link>https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</link>
+    <guid isPermaLink="true">https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</guid>
+    <pubDate>Sun, 15 Nov 2026 01:18:36 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal
+Comments URL: https://news.ycombinator.com/item?id=50502988
+Points: 390
+# Comments: 170</description>
+  </item>
+  <item>
+    <title>OpenAI vs Anthropic API pricing</title>
+    <link>https://www.cloudquell.com/blog/openai-vs-anthropic-api-pricing/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/blog/openai-vs-anthropic-api-pricing/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Introducing the Artificial Analysis Decision Index v2November 8, 2026</title>
+    <link>https://artificialanalysis.ai/articles/decision-index-v2</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/decision-index-v2</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>Introducing Claude Haiku 5.5Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.</title>
+    <link>https://www.anthropic.com/claude-haiku-5-5</link>
+    <guid isPermaLink="true">https://www.anthropic.com/claude-haiku-5-5</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
+    <title>official documentation</title>
+    <link>https://api-docs.deepseek.com/quick_start/agent_integrations/codex</link>
+    <guid isPermaLink="true">https://api-docs.deepseek.com/quick_start/agent_integrations/codex</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>DeepSeek 更新日志</source>
   </item>
   <item>
     <title>From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery</title>
@@ -665,46 +710,66 @@
     <source>Meta AI 博客</source>
   </item>
   <item>
-    <title>Media Generation</title>
-    <link>https://ai.meta.com/meta-ai/media-generation/</link>
-    <guid isPermaLink="true">https://ai.meta.com/meta-ai/media-generation/</guid>
+    <title>CodespacesCloud development environments</title>
+    <link>https://github.com/features/codespaces</link>
+    <guid isPermaLink="true">https://github.com/features/codespaces</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Meta AI 博客</source>
+    <source>GitHub Trending</source>
   </item>
   <item>
-    <title>AI agents explained</title>
-    <link>https://ai.meta.com/muse/what-are-ai-agents/</link>
-    <guid isPermaLink="true">https://ai.meta.com/muse/what-are-ai-agents/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Meta AI 博客</source>
+    <title>ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet</link>
+    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet</guid>
+    <pubDate>Fri, 13 Nov 2026 20:45:10 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and "eligible US-issued American Express, Chase, Mastercard and </description>
   </item>
   <item>
-    <title>What is agentic AI</title>
-    <link>https://ai.meta.com/muse/what-is-agentic-ai/</link>
-    <guid isPermaLink="true">https://ai.meta.com/muse/what-is-agentic-ai/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Meta AI 博客</source>
+    <title>Microsoft 365 Crawls Back to Life After a 24-Hour Outage</title>
+    <link>https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/</guid>
+    <pubDate>Fri, 13 Nov 2026 19:08:57 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.</description>
   </item>
   <item>
-    <title>Agentic AI examples</title>
-    <link>https://ai.meta.com/muse/agentic-ai-examples/</link>
-    <guid isPermaLink="true">https://ai.meta.com/muse/agentic-ai-examples/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Meta AI 博客</source>
+    <title>2026-11-11 AI 日报 · Gemini 4 Carbon 正式开放、Anthropic 启动万亿级 IPO 路演，办公与机器人 AI 同日多点开花</title>
+    <link>https://daily.ai225.com/daily/2026-11-11</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-11</guid>
+    <pubDate>Wed, 11 Nov 2026 01:07:48 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>2026-11-11 的 AI 焦点是模型发布与行业大事。DeepMind 开放 Gemini 4 Carbon；Anthropic 启动 IPO 路演，估值最高约 1.4 万亿美元；OpenAI 推出 ChatGPT Business Hub。美团开源 LongCat-2.5，蚂蚁灵波开源触觉模型 LingBot-Touch；Gemini Robotics 2.5 在奔驰产线试运行。安全上，微软披露 Lazarus 后门技术，亚马逊推出 Ring 安防机器人，纽约州启动 RAISE 法案注册。</description>
   </item>
   <item>
-    <title>Resources &amp; tools</title>
-    <link>https://ai.meta.com/resources/</link>
-    <guid isPermaLink="true">https://ai.meta.com/resources/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Meta AI 博客</source>
+    <title>Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say</title>
+    <link>https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</guid>
+    <pubDate>Fri, 13 Nov 2026 22:43:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.</description>
   </item>
   <item>
-    <title>Team &amp; Enterprise</title>
-    <link>https://huggingface.co/enterprise</link>
-    <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
+    <title>中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞</title>
+    <link>https://www.qbitai.com/2026/11/510013.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/510013.html</guid>
+    <pubDate>Sat, 14 Nov 2026 02:59:35 +0000</pubDate>
+    <source>量子位</source>
+    <description>狂揽3000万播放量</description>
+  </item>
+  <item>
+    <title>独家丨港大孵化的半导体材料公司，融资数千万</title>
+    <link>https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html</guid>
+    <pubDate>Fri, 13 Nov 2026 09:22:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>一个发表于《Nature》的技术，能在三步剥出晶圆级薄膜，公司获耀途独家投资。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀独家获悉，半导体材料公司钻耐科思科技（DiamNEX）已完成数千万元新一轮融资，由耀途资本独家投资。钻耐科思（DiamNEX）成立于2025年，由香港大学孵化，专注于金刚石半导体和量子技术的研发、生产与商业化应用。创始人褚智勤是港大电机与计算机工程系副教授、副系主任，在金刚石方向论文超80篇、专利17项；科学顾问来自港大、港科大、南方科技大学，具备学术产业化落地能力。金刚石被誉为“终极半导体材料”，具有超宽禁带、高击穿场强、高热导率等优势特性，是帮助突破当前AI算力散热天花板、赋能量</description>
+  </item>
+  <item>
+    <title>The Definitive Fine-Tuning Guide for 3D Generation Models</title>
+    <link>https://huggingface.co/blog/3d-lora-finetuning</link>
+    <guid isPermaLink="true">https://huggingface.co/blog/3d-lora-finetuning</guid>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+    <source>Hugging Face 博客</source>
   </item>
 </channel>
 </rss>
