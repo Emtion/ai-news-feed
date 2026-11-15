@@ -17,7 +17,7 @@ FEED_TITLE = "AI 新闻聚合"
 FEED_LINK = "https://aiindaily.com/"
 FEED_DESC = "AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。"
 MAX_ITEMS = 100          # feed.xml 里最多保留多少条
-STATE_KEEP = 300         # state.json 里最多记住多少条
+STATE_KEEP = 600         # state.json 里最多记住多少条
 FEED_CAP = 40            # 每个 RSS 源单次最多取多少条
 PAGE_CAP = 30            # 每个网页源单次最多取多少条
 TIMEOUT = 20
@@ -73,6 +73,11 @@ def ai_related(text):
     if re.search(r"(?<![a-z])ai(?![a-z])", t):  # 独立的 ai 一词，避免误伤 said/daily 等
         return True
     return any(k in t for k in AI_KEYWORDS)
+
+def is_junk_title(t):
+    """导航类假文章：箭头开头、Back to all posts 这类页面导航链接。"""
+    t = (t or "").strip()
+    return bool(re.match(r"^(←|→|↑|↓)", t) or re.search(r"back to (all|top)", t, re.I))
 
 UA_FULL = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 UA_BARE = "Mozilla/5.0"
@@ -179,6 +184,8 @@ def scrape_page(url):
             title = segs[0] + " / " + segs[1]
         if len(title) < 14:  # 标题太短的多半是导航
             continue
+        if is_junk_title(title):
+            continue
         if full in seen:
             continue
         seen.add(full)
@@ -186,6 +193,39 @@ def scrape_page(url):
         if len(out) >= PAGE_CAP:
             break
     return out
+
+def compose_feed(state):
+    """组合 feed：先按源分组，源内排序（网页源按页面顺序，即热度在前；RSS 源按时间新旧），
+    然后按源轮转交错取条目，每个源有上限，保证各源占比平均、热度高的在前。"""
+    kind_of = {name: kind for name, kind, _ in SOURCES}
+    by_src = {}
+    for link, v in state.items():
+        if is_junk_title(v.get("title", "")):
+            continue
+        by_src.setdefault(v["source"], []).append((link, v))
+    for name, lst in by_src.items():
+        if kind_of.get(name) == "page":
+            lst.sort(key=lambda lv: (lv[1].get("ord", 999), -lv[1]["ts"]))
+        else:
+            lst.sort(key=lambda lv: -lv[1]["ts"])
+    src_order = sorted(by_src.keys(), key=lambda n: -max(v["ts"] for _, v in by_src[n]))
+    per_source_cap = 12
+    picked, counts, idxs = [], {n: 0 for n in by_src}, {n: 0 for n in by_src}
+    while len(picked) < MAX_ITEMS:
+        progressed = False
+        for n in src_order:
+            if len(picked) >= MAX_ITEMS:
+                break
+            if counts[n] >= per_source_cap or idxs[n] >= len(by_src[n]):
+                continue
+            picked.append(by_src[n][idxs[n]])
+            idxs[n] += 1
+            counts[n] += 1
+            progressed = True
+        if not progressed:
+            break
+    return picked
+
 
 def load_state(path):
     if os.path.exists(path):
@@ -219,12 +259,14 @@ def main():
         if name in FILTER_SOURCES:
             items = [it for it in items if ai_related(it["title"] + " " + it.get("desc", ""))]
         new = 0
-        for it in items:
+        for idx, it in enumerate(items):
             link = it["link"]
             if link in state:
+                if kind == "page":
+                    state[link]["ord"] = idx  # 回填页面顺序：靠前 = 在页面上更突出/更热
                 continue
             ts = it["date"].timestamp() if it.get("date") else now
-            state[link] = {"title": it["title"], "source": name, "ts": ts, "desc": it.get("desc", "")}
+            state[link] = {"title": it["title"], "source": name, "ts": ts, "desc": it.get("desc", ""), "ord": idx}
             new += 1
         total_new += new
         print(f"[ok] {name}: {len(items)} fetched, {new} new")
@@ -239,7 +281,7 @@ def main():
              f"  <title>{escape(FEED_TITLE)}</title>", f"  <link>{escape(FEED_LINK)}</link>",
              f"  <description>{escape(FEED_DESC)}</description>", "  <language>zh-cn</language>",
              f"  <lastBuildDate>{format_datetime(datetime.now(timezone.utc))}</lastBuildDate>"]
-    for link, it in ordered[:MAX_ITEMS]:
+    for link, it in compose_feed(state):
         lines.append("  <item>")
         lines.append(f"    <title>{escape(it['title'])}</title>")
         lines.append(f"    <link>{escape(link)}</link>")
@@ -252,7 +294,7 @@ def main():
     lines += ["</channel>", "</rss>"]
     with open(feed_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
-    print(f"done: {total_new} new, feed.xml has {min(len(ordered), MAX_ITEMS)} items")
+    print(f"done: {total_new} new, feed.xml written")
 
 if __name__ == "__main__":
     main()
