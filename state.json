@@ -1,4 +1,52 @@
 {
+ "https://www.iimedia.cn/c400/111734.html": {
+  "title": "艾媒咨询 | 2026-2027年中国台球产业消费趋势洞察研究报告",
+  "source": "艾媒网",
+  "ts": 1794758045.4742618,
+  "desc": ""
+ },
+ "https://www.iimedia.cn/c400/119002.html": {
+  "title": "艾媒咨询 | 从瘦身到养生——2026年轻食行业消费观察报告",
+  "source": "艾媒网",
+  "ts": 1794758045.4742618,
+  "desc": ""
+ },
+ "https://www.iimedia.cn/c400/119580.html": {
+  "title": "艾媒咨询 | 2026年9月全球主要行业投融资数据监测月报",
+  "source": "艾媒网",
+  "ts": 1794758045.4742618,
+  "desc": ""
+ },
+ "https://www.iimedia.cn/c1061/120108.html": {
+  "title": "2026年中国即食板栗行业现存问题感知数据分析：口感与品质稳定性成核心痛点",
+  "source": "艾媒网",
+  "ts": 1794758045.4742618,
+  "desc": ""
+ },
+ "https://www.iimedia.cn/c1061/120116.html": {
+  "title": "2026年中国她经济日常消费领域数据分析：身体护理与健康零食稳居第一梯队，“悦己式健康消费”成核心主线",
+  "source": "艾媒网",
+  "ts": 1794758045.4742618,
+  "desc": ""
+ },
+ "https://www.iimedia.cn/c1061/120090.html": {
+  "title": "2015-2027年中国家政服务业市场规模数据分析：行业稳步扩容，增长节奏放缓",
+  "source": "艾媒网",
+  "ts": 1794758045.4742618,
+  "desc": ""
+ },
+ "https://www.iimedia.cn/c1061/120030.html": {
+  "title": "2026年中国消费者使用的头皮护理产品类型洞察：基础洗护仍是主力，精细化养护渐成常态",
+  "source": "艾媒网",
+  "ts": 1794758045.4742618,
+  "desc": ""
+ },
+ "https://www.iimedia.cn/c880/117094.html": {
+  "title": "艾媒金榜 | 2026年中国国产运动鞋品牌TOP10榜单",
+  "source": "艾媒网",
+  "ts": 1794758045.4742618,
+  "desc": ""
+ },
  "https://www.cloudquell.com/blog/new-ai-models-october-2026/": {
   "title": "October 2026 releases, in depth",
   "source": "CloudQuell 发布日志",
@@ -1109,6 +1157,12 @@
   "ts": 1794756557.5737543,
   "desc": ""
  },
+ "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html": {
+  "title": "A Human Reads the Anthropic IPO Filing",
+  "source": "Hacker News 头版",
+  "ts": 1794755886.0,
+  "desc": "Article URL: https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html\nComments URL: https://news.ycombinator.com/item?id=50507517\nPoints: 7\n# Comments: 1"
+ },
  "https://jakub.jankiewicz.org/blog/ai-code-open-source/": {
   "title": "All AI-generated code should be Open Source",
   "source": "Hacker News 头版",
@@ -1744,59 +1798,5 @@
   "source": "The Verge AI",
   "ts": 1794520532.0,
   "desc": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available startin"
- },
- "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/": {
-  "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-  "source": "TechCrunch AI",
-  "ts": 1794518830.0,
-  "desc": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model."
- },
- "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/": {
-  "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
-  "source": "WIRED AI",
-  "ts": 1794515711.0,
-  "desc": "A recent WIRED investigation explored the complicated definition of “power” for women in the industry. Jensen Huang’s answers now appear to show his blind spots."
- },
- "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/": {
-  "title": "Jensen Huang was having a third affair, Reuters reports",
-  "source": "TechCrunch AI",
-  "ts": 1794515207.0,
-  "desc": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia."
- },
- "https://www.producthunt.com/products/gemini-robotics-2-5": {
-  "title": "Gemini Robotics 2.5",
-  "source": "Product Hunt",
-  "ts": 1794514693.0,
-  "desc": ""
- },
- "https://openai.com/business/customer-stories/amplitude": {
-  "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-  "source": "OpenAI News",
-  "ts": 1794513600.0,
-  "desc": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
- },
- "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery": {
-  "title": "No, AI agents did not discover a previously unknown Maya site",
-  "source": "The Verge AI",
-  "ts": 1794512560.0,
-  "desc": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked cr"
- },
- "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/": {
-  "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-  "source": "TechCrunch AI",
-  "ts": 1794511665.0,
-  "desc": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses."
- },
- "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/": {
-  "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-  "source": "TechCrunch AI",
-  "ts": 1794510660.0,
-  "desc": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
- },
- "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": {
-  "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-  "source": "Hugging Face 博客",
-  "ts": 1794510455.0,
-  "desc": ""
  }
 }
