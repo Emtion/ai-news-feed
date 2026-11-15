@@ -999,7 +999,7 @@
   "title": "Court denies motion to dismiss DRAM price fixing case",
   "source": "Hacker News 头版",
   "ts": 1794705516.0,
-  "desc": "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal\nComments URL: https://news.ycombinator.com/item?id=50502988\nPoints: 366\n# Comments: 153"
+  "desc": "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal\nComments URL: https://news.ycombinator.com/item?id=50502988\nPoints: 379\n# Comments: 161"
  },
  "https://daily.ai225.com/daily/2026-11-15": {
   "title": "2026-11-15 AI 日报 · Anthropic拟创纪录IPO获6倍认购，逾11.5万人请愿要求恢复黄仁勋职务",
@@ -1481,6 +1481,12 @@
   "ts": 1794508763.0,
   "desc": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition."
  },
+ "https://deepmind.google/blog/introducing-gemini-4-hydrogen/": {
+  "title": "Introducing Gemini 4 Hydrogen",
+  "source": "Google DeepMind",
+  "ts": 1794506450.0,
+  "desc": ""
+ },
  "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/": {
   "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
   "source": "Google AI 博客",
@@ -1541,6 +1547,12 @@
   "ts": 1794412800.0,
   "desc": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
  },
+ "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/": {
+  "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+  "source": "Google DeepMind",
+  "ts": 1794409215.0,
+  "desc": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
+ },
  "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/": {
   "title": "Experience the art and legacy of Dr. Esther Mahlangu",
   "source": "Google AI 博客",
@@ -1589,6 +1601,12 @@
   "ts": 1794337200.0,
   "desc": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
  },
+ "https://deepmind.google/blog/gemini-4-carbon-is-now-available/": {
+  "title": "Gemini 4 Carbon is now available",
+  "source": "Google DeepMind",
+  "ts": 1794326627.0,
+  "desc": ""
+ },
  "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/": {
   "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
   "source": "Google AI 博客",
@@ -1601,11 +1619,23 @@
   "ts": 1794315600.0,
   "desc": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
  },
+ "https://deepmind.google/blog/introducing-alphaproof-code/": {
+  "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+  "source": "Google DeepMind",
+  "ts": 1794312148.0,
+  "desc": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption."
+ },
  "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life": {
   "title": "Helping caregivers use AI in everyday life",
   "source": "OpenAI News",
   "ts": 1794312000.0,
   "desc": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+ },
+ "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/": {
+  "title": "Opening the datasets behind our AI weather models",
+  "source": "Google DeepMind",
+  "ts": 1794309184.0,
+  "desc": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly."
  },
  "https://openai.com/index/introducing-businesses-chatgpt": {
   "title": "Introducing Businesses in ChatGPT",
@@ -1654,6 +1684,12 @@
   "source": "Hugging Face 博客",
   "ts": 1794268800.0,
   "desc": ""
+ },
+ "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/": {
+  "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+  "source": "Google DeepMind",
+  "ts": 1794253907.0,
+  "desc": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
  },
  "https://openai.com/index/chatgpt-enterprise-aws-marketplace": {
   "title": "ChatGPT Enterprise now available in AWS Marketplace",
@@ -1739,6 +1775,12 @@
   "ts": 1793908800.0,
   "desc": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
  },
+ "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/": {
+  "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+  "source": "Google DeepMind",
+  "ts": 1793898316.0,
+  "desc": ""
+ },
  "https://openai.com/index/australian-universities-ai-native-graduates": {
   "title": "Australian universities are creating AI-native graduates",
   "source": "OpenAI News",
@@ -1756,47 +1798,5 @@
   "source": "OpenAI News",
   "ts": 1793869200.0,
   "desc": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
- },
- "https://openai.com/index/merge-builds-with-openai": {
-  "title": "Merge builds product and business tools with OpenAI technology",
-  "source": "OpenAI News",
-  "ts": 1793865600.0,
-  "desc": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
- },
- "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure": {
-  "title": "Setting a new standard for responsible AI infrastructure",
-  "source": "OpenAI News",
-  "ts": 1793844000.0,
-  "desc": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
- },
- "https://daily.ai225.com/daily/2026-11-05": {
-  "title": "2026-11-05 AI 日报 · 中期选举重塑AI版图，模型迭代与数据基础设施竞赛升温",
-  "source": "AI 日报 · AI225",
-  "ts": 1793840775.0,
-  "desc": "美国中期选举重塑AI版图：44项数据中心提案中38项通过。模型侧，OpenAI发布Images 2.6并公布内核漏洞自动修复管线，vLLM与华为昇腾实现Kimi K3.1 Pro首日部署。产业侧，OpenAI收购Pierre、谷歌发布Data Agent Kit、Meta收购Conductor，高通预计数据中心芯片将占总业务三成。国内，狮子山实验室发布具身推理模型Lion-ER-35B-A3B，智能体身份注册平台在乌镇发布。学术方面，两项研究揭示上下文学习电路机制与长程智能体推理方法。"
- },
- "https://openai.com/ads/customers/flipsnack": {
-  "title": "Flipsnack grows product signups with conversion optimization",
-  "source": "OpenAI News",
-  "ts": 1793839515.0,
-  "desc": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup."
- },
- "https://openai.com/index/franklin-templeton": {
-  "title": "Franklin Templeton uses OpenAI to support investment research",
-  "source": "OpenAI News",
-  "ts": 1793836800.0,
-  "desc": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
- },
- "https://huggingface.co/blog/phonon-tts": {
-  "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-  "source": "Hugging Face 博客",
-  "ts": 1793836800.0,
-  "desc": ""
- },
- "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor": {
-  "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-  "source": "Hugging Face 博客",
-  "ts": 1793814610.0,
-  "desc": ""
  }
 }
