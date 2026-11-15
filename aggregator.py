@@ -60,6 +60,20 @@ SOURCES = [
     # ("新智元（公众号）", "page", "https://aiera.com.cn/"),
 ]
 
+# 噪音过滤：综合类来源（非 AI 专属频道）只收标题/摘要命中 AI 关键词的文章；
+# AI 专属源（官方博客、发布日志、AI 分类频道）和榜单型源（GitHub/HF Trending）不过滤。
+FILTER_SOURCES = {"艾媒网", "Hacker News 头版", "Product Hunt", "Ars Technica"}
+AI_KEYWORDS = ("人工智能", "大模型", "机器学习", "深度学习", "神经网络", "智能体",
+               "llm", "gpt", "claude", "gemini", "deepseek", "openai", "anthropic",
+               "qwen", "千问", "豆包", "文心", "混元", "aigc", "生成式", "多模态",
+               "具身", "机器人", "算力", "gpu", "agent", "chatbot", "语言模型")
+
+def ai_related(text):
+    t = (text or "").lower()
+    if re.search(r"(?<![a-z])ai(?![a-z])", t):  # 独立的 ai 一词，避免误伤 said/daily 等
+        return True
+    return any(k in t for k in AI_KEYWORDS)
+
 UA_FULL = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 UA_BARE = "Mozilla/5.0"
 
@@ -187,6 +201,10 @@ def main():
     state_path = os.path.join(here, "state.json")
     feed_path = os.path.join(here, "feed.xml")
     state = load_state(state_path)  # link -> {title, source, ts}
+    # 清理历史噪音：过滤源里已入库的非 AI 文章一并剔除，下一次生成即干净
+    for link in [l for l, v in state.items()
+                 if v.get("source") in FILTER_SOURCES and not ai_related(v.get("title", ""))]:
+        del state[link]
     now = time.time()
     total_new = 0
     for name, kind, url in SOURCES:
@@ -198,6 +216,8 @@ def main():
         except Exception as e:
             print(f"[skip] {name}: {e}")
             continue
+        if name in FILTER_SOURCES:
+            items = [it for it in items if ai_related(it["title"] + " " + it.get("desc", ""))]
         new = 0
         for it in items:
             link = it["link"]
