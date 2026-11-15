@@ -8,6 +8,47 @@
   <itunes:author>Emtion</itunes:author>
   <itunes:category text="Technology"/>
   <item>
+    <title>11月16日速递：Team &amp; Enterprise（第2版）</title>
+    <description>今日要点：Team &amp; Enterprise；What Picasso taught me about b；October 2026 releases, in dept；Artificial Analysis；2026年中国AI行车记录仪品牌10强
+
+【本期文字稿】
+A：欢迎收听 AI 行业速递，今天是 2026 年 11 月 15 日，我是 A。
+B：我是 B，今天这期信息量有点大，资本、人事、模型全挤在一起了。
+A：先说最大的事，Anthropic 的 IPO 据报拿到了大约六倍认购，最高可能募资九百零四亿美元。
+B：六倍认购是什么概念，是市场真的这么看好，还是大家都怕错过？
+A：更像是怕错过，因为招股书里写得很清楚，算力采购是他们最深的商业困境。
+B：也就是说，钱募到了，但未来营收能不能覆盖那九千多亿美元的算力承诺，还是个问号。
+A：对，纽约时报有篇人读招股书的文章，说这份文件把风险写得相当直白。
+B：那另一条震动行业的事，就是黄仁勋辞职了吧。
+A：没错，报道说他的离职可能涉及高风险商业担保，现在超过十一万五千人签名要求他回归。
+B：而且英伟达的安全主管八月就悄悄离职了，这事的时间线很耐人寻味。
+A：TechCrunch 直接追问，英伟达的安全团队当时到底在哪。
+B：马斯克等科技高管也签了那份请愿，这说明大家担心的不只是一个人，而是整条供应链。
+A：技术侧也有大动作，Anthropic 发布了 Claude Fable 5.2 和 Claude Mythos 5.2。
+B：官方说这是他们最强的模型，主打编程、金融和科学研究这些硬活。
+A：他们还宣布把一部分股份投入一个公共利益基金，公司越大，这个基金占比越高。
+B：这个结构挺有意思，等于把公益写进了增长曲线里。
+A：Meta 那边发布了 Muse Spark 1.1，还在和匹兹堡大学合作，用 AI 改造辅助机器人。
+B：Runway 开源了机器人模型 Praxis-1，OpenAI 也重组了机器人团队，机器人这条线明显在升温。
+A：应用层有个挺好玩的东西，卡内基梅隆的学生做了叫 OATs 的墨水屏小挂件。
+B：它给植物、滑板、哑铃装上性格，变成会催你的虚拟宠物，这个思路很讨巧。
+A：不过 WIRED 有篇吐槽，说 YouTube Music 和 Spotify 的 AI DJ 尬聊和假冷知识，把听歌氛围全毁了。
+B：合成主持人这事，看来技术不是问题，分寸感才是。
+A：还有几条一句话带过：Hugging Face 在推团队和企业版，CloudQuell 发了十月更新详解。
+B：GitHub 上 Copilot 和代码协作类项目继续霸榜，DeepSeek 更新了 API 文档。
+A：艾媒出了中国 AI 行车记录仪和会议耳机的品牌十强，超聚变创业板 IPO 过会。
+B：Artificial Analysis 那边新增了一个多模态知识代理基准，专门测复杂视觉文件下的知识工作能力。
+A：还有篇 Hacker News 头版的文章挺有意思，讲毕加索能教我们怎么构建 AI 智能体。
+B：这个角度我喜欢，艺术家的取舍和智能体的边界，说不定真是同一件事。
+A：今天的故事线其实很清楚，资本在狂奔，治理在摇晃，模型在往上顶。
+B：一句话总结，AI 行业正在用创纪录的钱，回答一个最老的问题：谁来负责。
+B：感谢收听，我们下期见。</description>
+    <link>https://emtion.github.io/ai-news-feed/</link>
+    <guid isPermaLink="false">ep-20261116-2</guid>
+    <pubDate>Mon, 16 Nov 2026 02:00:36 +0800</pubDate>
+    <enclosure url="https://emtion.github.io/ai-news-feed/episodes/ep-20261116-2.mp3" length="1407459" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>11月16日速递：Team &amp; Enterprise</title>
     <description>今日要点：Team &amp; Enterprise；What Picasso taught me about b；October 2026 releases, in dept；Artificial Analysis；2026年中国AI行车记录仪品牌10强
 
