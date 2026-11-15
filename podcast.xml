@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>AI 行业速递 · 自动版</title>
+  <link>https://emtion.github.io/ai-news-feed/</link>
+  <description>每天自动生成的 AI 行业新闻播客：双人对谈，5 到 7 分钟讲完今天最重要的 AI 动态。文字版见同仓库 feed.xml。</description>
+  <language>zh-cn</language>
+  <itunes:author>Emtion</itunes:author>
+  <itunes:category text="Technology"/>
+</channel>
+</rss>
