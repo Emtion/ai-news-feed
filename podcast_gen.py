@@ -140,11 +140,11 @@ def script_via_llm(items):
     news = "\n".join(f"- [{i['source']}] {i['title']}。{i['desc']}" for i in items[:25])
     prompt = (
         "你是播客编剧。把下面今天的 AI 行业新闻改写成一期 5 到 7 分钟的中文双人对谈播客稿。\n"
-        "主持人：A 是男声，负责讲事实和背景；B 是女声，负责追问和总结意义。\n"
+        "主持人：男，负责讲事实和背景；女，负责追问和总结意义。\n"
         "要求：口语化，不要念标题原文，要把新闻讲成故事；挑最重要的 5 到 7 条深讲，其余一句话带过；"
-        "开头 A 先说一句「欢迎收听 AI 行业速递」并报今天日期；结尾 B 做一句总结并说下期见。"
+        "开头男先说一句「欢迎收听 AI 行业速递」并报今天日期；结尾女做一句总结并说下期见。"
         "不要括号里的舞台说明，不要 markdown。\n"
-        "格式：每一行一句台词，以「A：」或「B：」开头，每句 20 到 60 字。\n\n今日新闻：\n" + news
+        "格式：每一行一句台词，以「男：」或「女：」开头，每句 20 到 60 字。\n\n今日新闻：\n" + news
     )
     providers = []
     gh_token = os.environ.get("GH_MODELS_TOKEN", "").strip()
@@ -159,9 +159,10 @@ def script_via_llm(items):
             text = _chat_completion(url, token, model, prompt)
             lines = []
             for raw in text.splitlines():
-                m = re.match(r"^\s*([AB])\s*[:：]\s*(.+)$", raw)
+                m = re.match(r"^\s*([AB男女])\s*[:：]\s*(.+)$", raw)
                 if m:
-                    lines.append((m.group(1), m.group(2).strip()))
+                    who = {"A": "男", "B": "女"}.get(m.group(1), m.group(1))  # 兼容模型偶尔仍写 A/B
+                    lines.append((who, m.group(2).strip()))
             if lines:
                 print(f"script by {name} ({model}): {len(lines)} lines")
                 return lines
@@ -172,12 +173,12 @@ def script_via_llm(items):
 
 
 def script_fallback(items, date_str):
-    lines = [("A", f"欢迎收听 AI 行业速递，今天是{date_str}，先看今天最重要的几条 AI 新闻。")]
+    lines = [("男", f"欢迎收听 AI 行业速递，今天是{date_str}，先看今天最重要的几条 AI 新闻。")]
     for i, it in enumerate(items[:10]):
-        who = "A" if i % 2 == 0 else "B"
+        who = "男" if i % 2 == 0 else "女"
         t = it["title"].split("|")[-1].strip()
         lines.append((who, f"{it['source']}消息：{t}。"))
-    lines.append(("B", "以上就是今天的速递，更多内容见文字版订阅，我们下期见。"))
+    lines.append(("女", "以上就是今天的速递，更多内容见文字版订阅，我们下期见。"))
     return lines
 
 
@@ -186,7 +187,7 @@ def synth(lines, out_mp3):
     os.makedirs(tmp, exist_ok=True)
     chunks = []
     for idx, (who, text) in enumerate(lines):
-        voice = VOICE_A if who == "A" else VOICE_B
+        voice = VOICE_A if who == "男" else VOICE_B
         p = os.path.join(tmp, f"{idx:03d}.mp3")
         data, last_err = None, None
         for attempt in range(3):  # 单句失败最多重试 3 次
