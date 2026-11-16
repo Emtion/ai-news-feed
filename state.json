@@ -1,4 +1,284 @@
 {
+ "https://www.iimedia.cn/c1088/120188.html": {
+  "title": "11月16日AI新产品讯息：斑马AI学发布2027版本、腾讯混元发布实时语音模型Hy Realtime、DeepSeek发布全家桶应用API",
+  "source": "艾媒网",
+  "ts": 1794853915.7400143,
+  "desc": "",
+  "ord": 2
+ },
+ "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/": {
+  "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+  "source": "TechCrunch AI",
+  "ts": 1794852670.0,
+  "desc": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/": {
+  "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+  "source": "TechCrunch AI",
+  "ts": 1794850603.0,
+  "desc": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+  "ord": 1
+ },
+ "https://news.ycombinator.com/item?id=50520076": {
+  "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+  "source": "Hacker News 头版",
+  "ts": 1794849628.0,
+  "desc": "A lot of people outside tech ask me if AI is going to replace programmers and I just think: if that were the case we should be running out of things to doThe bug backlog should be empty and we've caught up to every feature request from PMs to the point that we are bottlenecked on the business sideBu",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/": {
+  "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+  "source": "TechCrunch AI",
+  "ts": 1794849000.0,
+  "desc": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+  "ord": 2
+ },
+ "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/": {
+  "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
+  "source": "TechCrunch AI",
+  "ts": 1794848563.0,
+  "desc": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+  "ord": 3
+ },
+ "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/": {
+  "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+  "source": "TechCrunch AI",
+  "ts": 1794848400.0,
+  "desc": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+  "ord": 4
+ },
+ "https://openai.com/index/expanding-chatgpt-for-academic-researchers": {
+  "title": "Broadening access to AI for scientists",
+  "source": "OpenAI News",
+  "ts": 1794848400.0,
+  "desc": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+  "ord": 0
+ },
+ "https://openai.com/index/strengthening-online-child-safety": {
+  "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+  "source": "OpenAI News",
+  "ts": 1794848400.0,
+  "desc": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+  "ord": 1
+ },
+ "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/": {
+  "title": "Jensen Huang Is Gone. Now What?",
+  "source": "WIRED AI",
+  "ts": 1794845571.0,
+  "desc": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/": {
+  "title": "Audible turns to AI to help users discover audiobooks",
+  "source": "TechCrunch AI",
+  "ts": 1794844339.0,
+  "desc": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+  "ord": 5
+ },
+ "https://www.leiphone.com/category/transportation/9YeGaaNjyBi0zkQ4.html": {
+  "title": "26.99万元起，腾势N8正式上市：首搭易三方Evo，纯电续航1003公里",
+  "source": "雷峰网",
+  "ts": 1794842460.0,
+  "desc": "11月12日，腾势汽车旗下全新大五座SUV腾势N8正式上市，共推出纯电、插混两种动力版本、六款车型，官方指导价为26.99万—32.99万元。雷峰网了解到，作为腾势面向中高端家庭SUV市场推出的新产品，N8搭载了多项比亚迪最新技术，包括易三方Evo、第二代刀片电池及闪充技术、天神之眼5.0辅助驾驶系统，以及云辇-A闭式双腔空气悬架。其中，纯电版本CLTC续航达到1003公里，插混版本CLTC纯电续航435公里、综合续航1567公里。新车还首次搭载腾势巨幕智能座舱，采用30英寸巨幕屏与1.1米天际屏组合，并引入AI超级智能体迪迪虾及AI萌宠交互功能。按照官方公布的购车政策，新车上市期间提供最高价",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/": {
+  "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+  "source": "TechCrunch AI",
+  "ts": 1794841354.0,
+  "desc": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+  "ord": 6
+ },
+ "https://www.leiphone.com/category/industrynews/LTOeijdeWR08fZGP.html": {
+  "title": "平均年龄25岁，00后小伙带队拿下首届蚂蚁灵波具身大模型挑战赛最高分",
+  "source": "雷峰网",
+  "ts": 1794840960.0,
+  "desc": "11月16日，蚂蚁灵波首届具身大模型挑战赛总决赛结果出炉。来自福田实验室、西北工业大学、普渡机器人、天津大学的五位选手组成的“TARS”战队获得一等奖；华中科技大学、清华大学深圳研究院、湖北元一智能的三位选手组成的“EVA”战队，以及天津大学、北京大学、中国科学院自动化研究所三位选手组成的“SST”战队获得二等奖；“Vida”、“FDU_SONIC”、“ai-robot”战队获得三等奖；另有9支队伍获得优秀奖，3支队伍获得观察团特别奖。TARS战队获得首届蚂蚁灵波具身大模型挑战赛一等奖 图源：受访对象48小时真机比拼，机器人要过三道关11月14日，15支决赛队伍在上海张江科学会堂集结。选手们从",
+  "ord": 1
+ },
+ "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/": {
+  "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+  "source": "TechCrunch AI",
+  "ts": 1794840493.0,
+  "desc": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+  "ord": 7
+ },
+ "https://www.leiphone.com/category/industrynews/kfphRdgYwSdN13Nv.html": {
+  "title": "当充电像加油一样快，租车自驾的边界被拓宽",
+  "source": "雷峰网",
+  "ts": 1794838620.0,
+  "desc": "服务自驾生态，成为租车平台下一个增长点。作者 | 郑浩钧编辑 | 王瑞昊傍晚，济南机场的还车点，一家四口把两个大箱子从后备箱里搬下来，这趟山东租车自驾游算是收尾了。车该还了，可电量已经不多，还车点旁边就是闪充站，插上充电枪，妈妈带着孩子去便利店买零食，买完回来，不到十分钟，电量已经接近充满。这趟自驾游，出发时开走的是一台满电车，收尾时又在这儿把电顺手补满。一头一尾，补能从没让这家人等待太久。2026年11月10日，当济南机场站首批闪充车、闪充站投放落地后，这样的场景可能每天都会发生。取车时满电开走，还车时顺手补满，你不再需要把自驾游算成一张充电桩分布图，补能这件事，在还车点就能完成。而这样的场",
+  "ord": 2
+ },
+ "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability": {
+  "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+  "source": "The Verge AI",
+  "ts": 1794837600.0,
+  "desc": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more informat",
+  "ord": 0
+ },
+ "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning": {
+  "title": "Google Maps can now create trip itineraries for you",
+  "source": "The Verge AI",
+  "ts": 1794837600.0,
+  "desc": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spannin",
+  "ord": 1
+ },
+ "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/": {
+  "title": "New Ask Maps features to help with holiday travel and prep",
+  "source": "Google AI 博客",
+  "ts": 1794837600.0,
+  "desc": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+  "ord": 0
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down": {
+  "title": "The Nvidia scandal isn’t slowing down",
+  "source": "The Verge AI",
+  "ts": 1794834000.0,
+  "desc": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpac",
+  "ord": 2
+ },
+ "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/": {
+  "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+  "source": "TechCrunch AI",
+  "ts": 1794832200.0,
+  "desc": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+  "ord": 8
+ },
+ "https://openai.com/index/science-at-the-frontier": {
+  "title": "Science at the Frontier: How scientists use ChatGPT",
+  "source": "OpenAI News",
+  "ts": 1794830400.0,
+  "desc": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+  "ord": 2
+ },
+ "https://www.leiphone.com/category/zaobao/QP6ok2UwM4JBsMEx.html": {
+  "title": "黄仁勋被曝考虑重返英伟达担任CEO！其硅谷盟友正施压董事会；女子因拒绝给HR带咖啡被取消面试，BOSS直聘回应；李牧青出任AI公司联席CEO",
+  "source": "雷峰网",
+  "ts": 1794828060.0,
+  "desc": "要闻提示1.黄仁勋被曝考虑重返英伟达担任 CEO！其硅谷盟友正施压董事会2.女子称因拒绝给HR带咖啡被取消面试，BOSS直聘回应：已暂停该招聘账号权限3.董明珠：格力对文凭的考虑已逐步取消，本事才是硬通行证4.腾讯 AI 李牧青离职，出任 AI 公司联席 CEO5.韩路也来凑热闹！Tim喊话网友说“难听话”抽iPhone Duo：结果收到一句“祝你年入百万”6.重磅！闻泰科技发布关于荷兰企业法庭作出临时措施裁定的声明7.比亚迪辟谣收购“某数字能源”：无任何事实依据8.连马斯克自己都嫌贵！吐槽特斯拉Cybercab每月花2000买FSD：喊话要降价今日头条黄仁勋被曝考虑重返英伟达担任 CEO！其",
+  "ord": 3
+ },
+ "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/": {
+  "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+  "source": "WIRED AI",
+  "ts": 1794826800.0,
+  "desc": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+  "ord": 1
+ },
+ "https://www.qbitai.com/2026/11/510542.html": {
+  "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+  "source": "量子位",
+  "ts": 1794826651.0,
+  "desc": "具身智能的真正价值是“把人的经验、技能复刻出来”",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/industrynews/OCFaX1WjrKRkcFm5.html": {
+  "title": "启境GT7 Ultra舒享版纯电/增程正式上新！首付6.66万起，拿下L3级架构猎装",
+  "source": "雷峰网",
+  "ts": 1794822840.0,
+  "desc": "11月13日，启境汽车以“一车双能 为热爱上新”为主题，正式推出启境GT7 Ultra舒享版增程、纯电双车型，限时权益价分别为22.19万元与23.19万元。两款新车均标配面向L3级自动驾驶架构，启境GT7此次上新进一步拓宽了动力选择：增程版主打超长续航，纯电版兼顾豪华舒享。双车型均享最低首付6.66万元、5年分期前3年0息的金融政策，让面向L3级架构猎装真正走入20万级市场。启境由广汽集团与华为乾崑联合打造，双方以“车企主导、共同定义”的方式，将广汽近30年的整车制造与品质体系，和华为乾崑全栈智能能力深度融合。继启境GX7上市全国交付突破4000台，启境GT7乘势加推双车型，为热爱户外生活、",
+  "ord": 4
+ },
+ "https://openai.com/index/lvmh-media-division-partnership": {
+  "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+  "source": "OpenAI News",
+  "ts": 1794819600.0,
+  "desc": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+  "ord": 3
+ },
+ "https://www.leiphone.com/category/industrynews/hnSL5YwUtQjerTRK.html": {
+  "title": "豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景",
+  "source": "雷峰网",
+  "ts": 1794819540.0,
+  "desc": "近日，豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育、创意设计等21个专业场景，让AI办公进一步走向职业化。据悉，这也是业内首个面向多个专业场景、不同职业人群定制的AI工作台功能。工作台页面据豆包工作官方介绍，“工作台”是为用户的专业工作场景提供的专属AI工作空间。金融、医疗、教育、创意设计等21个场景所需要的技能、工具，都预先配置在这个空间里，用户不必再逐项挑选。这大幅降低了专业工作场景的AI使用门槛，也提升了工作效率。用户打开豆包工作，进入“工作台”页面，选择相关专业工作台后即可直接使用。以金融投研工作台为例，其首页提供了公告解读、业绩分析、市场简报、公司研究等常用任务入口，并连",
+  "ord": 5
+ },
+ "https://www.qbitai.com/2026/11/510526.html": {
+  "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+  "source": "量子位",
+  "ts": 1794818717.0,
+  "desc": "12月1日，细数AI的未竟之问。",
+  "ord": 1
+ },
+ "https://www.leiphone.com/category/chips/yYPDwzuTBbcMSCSx.html": {
+  "title": "智算接棒：物理AI的下一个风口，在于计算基础设施",
+  "source": "雷峰网",
+  "ts": 1794816240.0,
+  "desc": "物理AI的热度，正从机器人本体向产业链上下游扩散。过去一年，人形机器人、四足机器狗频繁出现在工厂、仓库和门店。产业界关心的问题正在变化：从“机器人能完成什么动作”转向“如何让它越做越准”。答案不只在机器人本体，更在其背后的计算系统：数据从哪里来，仿真在哪里运行，模型多久迭代，算力如何匹配研发节奏。这些都不是多买几台服务器能解决的。英伟达提出“三台计算机”概念：一台训练模型，一台在数字孪生与仿真环境中训练、验证技能，第三台部署在机器人本体上执行。Omniverse、Isaac、Cosmos等平台，旨在打通训练、仿真与终端计算成为一条链。最新一季财报显示，其数据中心业务收入同比增长117%，物理A",
+  "ord": 6
+ },
+ "https://www.qbitai.com/2026/11/510496.html": {
+  "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+  "source": "量子位",
+  "ts": 1794816127.0,
+  "desc": "在华为待了快10000天。",
+  "ord": 2
+ },
+ "https://openai.com/index/our-first-phase-of-embedded-assessments": {
+  "title": "Our first phase of embedded assessments",
+  "source": "OpenAI News",
+  "ts": 1794816000.0,
+  "desc": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+  "ord": 4
+ },
+ "https://www.leiphone.com/category/private/j1CWHNsD9eBM7Wwc.html": {
+  "title": "HCI 先驱 de Souza：当 AI 替我们阅读，谁来为知识负责？| ACM MM 2026",
+  "source": "雷峰网",
+  "ts": 1794815940.0,
+  "desc": "研究者需要的不只是AI生成的答案，更是审查答案、追溯来源并为知识判断负责的能力。    作者丨张   璐    编辑丨马晓宁                                                                                                       你有没有过这样的经历：面对几十页密密麻麻的PDF，实在抽不出时间细读，于是把论文丢给ChatGPT或Claude，让它帮你提炼核心观点。几秒钟后，一份条理清晰的摘要出现在屏幕上。你点点头，觉得自己已经掌握了论文的主要内容，甚至直接将其中的观点引用进了自己的研究。但是，等",
+  "ord": 7
+ },
+ "https://www.qbitai.com/2026/11/510493.html": {
+  "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+  "source": "量子位",
+  "ts": 1794815937.0,
+  "desc": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
+  "ord": 3
+ },
+ "https://www.qbitai.com/2026/11/510486.html": {
+  "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+  "source": "量子位",
+  "ts": 1794815517.0,
+  "desc": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
+  "ord": 4
+ },
+ "https://www.leiphone.com/category/ai/zV4No5T5XDHJcupr.html": {
+  "title": "李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？",
+  "source": "雷峰网",
+  "ts": 1794814080.0,
+  "desc": "时隔两年，World Labs 的工作已经完全不同了。    作者丨齐铖湧    编辑丨岑   峰                                                                                                       2026年11月，CoRL（机器人学习顶会）在奥斯汀开幕。这一届的演讲嘉宾，有一个无法回避的名字，李飞飞。斯坦福教授、ImageNet发起者、World Labs创始人。就在本届CoRL之前，World Labs被AMD收购的消息正在圈内发酵，她即将出任AMD首席科学家。这届CoRL现场，她不仅",
+  "ord": 8
+ },
+ "https://www.qbitai.com/2026/11/510436.html": {
+  "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
+  "source": "量子位",
+  "ts": 1794813993.0,
+  "desc": "余承东重新明确分工",
+  "ord": 5
+ },
+ "https://www.leiphone.com/category/ai/b2VJ0YUl2gN5nNie.html": {
+  "title": "李飞飞对话苏姿丰：AMD 收购后首次同台，CoRL 现场谈算力、机器人与「这个时代最大的失误」",
+  "source": "雷峰网",
+  "ts": 1794813840.0,
+  "desc": "一场横跨科研、经济、AI、社会话题、算力未来的女性对话。    作者丨齐铖湧    编辑丨岑   峰                                                                                                       2026年11月，奥斯汀，CoRL 2026的台下坐满了机器人研究者。台上三把椅子，两位嘉宾，左边是即将出任AMD首席科学家的李飞飞，右边是AMD CEO苏姿丰。这是AMD收购World Labs消息传出后，两人的首次公开同台，也是李飞飞以\"AMD首席科学家\"身份，第一次面对整个机器人学术社区",
+  "ord": 9
+ },
+ "https://openai.com/index/advancing-computer-use-for-healthcare-teams": {
+  "title": "Advancing computer-use agents for healthcare teams",
+  "source": "OpenAI News",
+  "ts": 1794808800.0,
+  "desc": "",
+  "ord": 5
+ },
+ "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare": {
+  "title": "More ways to move care forward with ChatGPT for Healthcare",
+  "source": "OpenAI News",
+  "ts": 1794808800.0,
+  "desc": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+  "ord": 6
+ },
  "https://www.leiphone.com/category/industrynews/cKZQPQOnwbz4y30h.html": {
   "title": "韩国消费者爱上速卖通双11！中国品牌成交大涨4倍",
   "source": "雷峰网",
@@ -13,6 +293,13 @@
   "desc": "今年海外双11，阿里旗下跨境电商平台速卖通在韩国加大品牌投入，豪送4辆特斯拉，直接带动双11首日Brand+品牌商品成交额同比去年大涨4倍，石头、绿联等一众中国品牌在韩国市场实现数倍增长。随着新能源车的兴起，电动汽车配件也在韩国热卖。11月1日至10日，速卖通汽摩配类目的买家数较去年同期几乎翻番，电动汽车元件、汽车收纳、清洁和保养类产品销量增长超过300%。速卖通持续用网红带货、现场体验、平台背书增强韩国消费者对速卖通的信任，领跑韩国跨境电商。",
   "ord": 1
  },
+ "https://www.qbitai.com/2026/11/510416.html": {
+  "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
+  "source": "量子位",
+  "ts": 1794805522.0,
+  "desc": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。",
+  "ord": 6
+ },
  "https://www.leiphone.com/category/industrynews/tDhzNl3D84AjopSh.html": {
   "title": "模型选择自由！千问办公上线Qwen4、Kimi-K3.1、GLM-5.3等10款模型",
   "source": "雷峰网",
@@ -26,6 +313,13 @@
   "ts": 1794801600.0,
   "desc": "11月12日，百度世界2026在北京举行，大会聚焦 AI 时代下如何提升组织能力。百度创始人李彦宏在开幕式上判断，人工智能的下一幕是“智能组织”，并首次提出“组织进化三原则”：打破岗位边界、沉淀隐性知识、设计流程闭环。“如果说，人工智能是新电能。那么，智能组织就是AI时代的新厂房，是生产力真正发生的地方。” 本届大会期间，百度围绕“芯云模体”四层架构，发布多项成果：正式推出大模型交易平台词元所，发布文心大模型5.5 Flash预览版及两款文心应用模型；百度搭子、库库、百度一镜、伐谋四大智能体迎来升级；百度智能云正式发布天池1024卡超节点，昆仑芯公布新的产品计划，萝卜快跑全球化运营再提速。 “",
   "ord": 3
+ },
+ "https://www.qbitai.com/2026/11/510404.html": {
+  "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+  "source": "量子位",
+  "ts": 1794801270.0,
+  "desc": "50岁，以“华为董事”之名退休，又有几人？",
+  "ord": 7
  },
  "https://www.leiphone.com/category/weiwu/nFSVApZT1GmSFH9T.html": {
   "title": "众筹超500万美元，全球首款多地形跟拍机器人Beni线下首发",
@@ -55,6 +349,20 @@
   "desc": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max，总参数2.4T，具备原生视觉能力，支持百万上下文。基于创新的模型架构和训练优化，Qwen4-Max以更少的Token消耗实现了更高的性能，在智能体和编程等关键能力项上持续进化：在权威的全球前端编程盲测CodeArena中，Qwen4位居第六；在Agents' Last Exam（ALE）、Vals Index等智能体能力及专业任务三方评测中，Qwen4均处于领先梯队。Qwen4面向全领域的真实任务深度优化，可更好地调用专业工具处理长周期任务，推进AI在汽车制造、游戏开发、金融投研及科学研究等专业领域的深入落地。Qwen4-Max现",
   "ord": 7
  },
+ "https://www.qbitai.com/2026/11/510382.html": {
+  "title": "今天截止！2026年度AI表彰，错过再等一年！",
+  "source": "量子位",
+  "ts": 1794799193.0,
+  "desc": "量子位在寻找“能干”的答案",
+  "ord": 8
+ },
+ "https://www.qbitai.com/2026/11/510369.html": {
+  "title": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
+  "source": "量子位",
+  "ts": 1794798459.0,
+  "desc": "是石科技最新发布多模态模型服务",
+  "ord": 9
+ },
  "https://www.leiphone.com/category/industrynews/vBMqo9G7ViFbsPER.html": {
   "title": "会畅科技发布任务管理原生 Agent 矩阵 软硬件协同深耕企业执行场景",
   "source": "雷峰网",
@@ -67,7 +375,7 @@
   "source": "艾媒网",
   "ts": 1794796577.2351496,
   "desc": "",
-  "ord": 2
+  "ord": 1
  },
  "https://www.iimedia.cn/c1088/120092.html": {
   "title": "11月13日AI新产品讯息：百度发布两款文心应用模型、谷歌推出Gemini Decisions API、百度推出大模型交易平台词元所",
@@ -116,6 +424,20 @@
   "source": "AI 日报 · AI225",
   "ts": 1794790376.0,
   "desc": "今日焦点围绕英伟达换帅后的连锁反应展开：美媒披露其高管前关联方曾为中国代购近 120 亿美元芯片，另有报道指英伟达曾投资初创公司以人为制造 GPU 短缺，美国国会两党酝酿收紧 AI 芯片出口规则；同期全球芯片股较峰值回撤近四成。应用安全方面，美国 FAA 停飞事件引发对 AI 空管系统的审视，openEuler 发布智能体基础设施方案。科研与模型领域，OpenAI 披露 GPT-6 Astra 助力标准模型理论证明，西湖大学发布概念世界模型 Awomo-0.5，多所顶尖高校联合推出湿实验预测基准。",
+  "ord": 0
+ },
+ "https://openai.com/index/the-kings-trust-and-openai": {
+  "title": "The King’s Trust and OpenAI launch £1m partnership",
+  "source": "OpenAI News",
+  "ts": 1794787200.0,
+  "desc": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+  "ord": 7
+ },
+ "https://huggingface.co/blog/openrouter": {
+  "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+  "source": "Hugging Face 博客",
+  "ts": 1794787200.0,
+  "desc": "",
   "ord": 0
  },
  "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/": {
@@ -186,7 +508,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794764798.455464,
   "desc": "",
-  "ord": 29
+  "ord": 28
  },
  "https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/": {
   "title": "What Picasso taught me about building AI Agents",
@@ -500,7 +822,7 @@
   "source": "艾媒网",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 1
+  "ord": 0
  },
  "https://www.iimedia.cn/c1088/120050.html": {
   "title": "2026年中国AI会议耳机十大品牌出炉！科大讯飞、华为、sanag位列前三",
@@ -997,105 +1319,105 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 15
+  "ord": 14
  },
  "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic": {
   "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic Text Generation • 9B • Updated 3 days ago • 27k • 7.47k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 16
+  "ord": 15
  },
  "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image": {
   "title": "MiniMaxAI/MiniMax-H3-Image Text-to-Image • Updated 4 days ago • 571k • 1.16k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 17
+  "ord": 16
  },
  "https://huggingface.co/Qwen/Qwen3.8-27B": {
   "title": "Qwen/Qwen3.8-27B Image-Text-to-Text • 28B • Updated 8 days ago • 6.55M • • 20.1k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 18
+  "ord": 17
  },
  "https://huggingface.co/Lightricks/LTX-2.5": {
   "title": "Lightricks/LTX-2.5 Image-to-Video • Updated Oct 11 • 2.75M • 12k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 19
+  "ord": 18
  },
  "https://huggingface.co/Comfy-Org/MiniMax-H3-Image": {
   "title": "Comfy-Org/MiniMax-H3-Image Text-to-Image • Updated 4 days ago • 1.97M • 404",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 20
+  "ord": 19
  },
  "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF": {
   "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF Image-Text-to-Text • 27B • Updated 2 days ago • 1.71M • 3.15k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 22
+  "ord": 29
  },
  "https://huggingface.co/Zyphra/ZONOS3-Mini": {
   "title": "Zyphra/ZONOS3-Mini Text-to-Speech • 0.9B • Updated 1 day ago • 39.9k • 373",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 21
+  "ord": 20
  },
  "https://huggingface.co/speridlabs/idol": {
   "title": "speridlabs/idol Image-to-3D • Updated 17 days ago • 33.4k • 2.36k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 26
+  "ord": 25
  },
  "https://huggingface.co/thinkingmachines/Inkling-2-Small": {
   "title": "thinkingmachines/Inkling-2-Small Image-Text-to-Text • 594B • Updated about 10 hours ago • 7.33k • • 333",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 23
+  "ord": 22
  },
  "https://huggingface.co/NousResearch/Arete-27B": {
   "title": "NousResearch/Arete-27B Text Generation • 27B • Updated 9 days ago • 7.5k • 606",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 29
+  "ord": 27
  },
  "https://huggingface.co/moonshotai/Kimi-K3.1-Pro": {
   "title": "moonshotai/Kimi-K3.1-Pro Image-Text-to-Text • 2.8T • Updated 10 days ago • 46.8k • • 2.09k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 27
+  "ord": 26
  },
  "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF": {
   "title": "unsloth/Qwen3.8-27B-GGUF 27B • Updated 4 days ago • 6.57M • 5.98k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 25
+  "ord": 23
  },
  "https://huggingface.co/higurashi-ai/Haru-4B": {
   "title": "higurashi-ai/Haru-4B Audio-to-Audio • 5B • Updated 3 days ago • 2.1k • 277",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 24
+  "ord": 21
  },
  "https://huggingface.co/Edge0/Edge0-145B-NVFP4": {
   "title": "Edge0/Edge0-145B-NVFP4 Text Generation • 5B • Updated about 3 hours ago • 41.6k • 277",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 28
+  "ord": 24
  },
  "https://github.com/platform": {
   "title": "GitHubRepository hosting, code review, and collaboration",
@@ -1493,6 +1815,13 @@
   "ts": 1794595230.0,
   "desc": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
  },
+ "https://www.producthunt.com/products/chatgpt": {
+  "title": "ChatGPT Wallet",
+  "source": "Product Hunt",
+  "ts": 1794593173.0,
+  "desc": "",
+  "ord": 0
+ },
  "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place": {
   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
   "source": "Hugging Face 博客",
@@ -1847,6 +2176,13 @@
   "ts": 1794505000.0,
   "desc": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition."
  },
+ "https://www.producthunt.com/products/degla-ai": {
+  "title": "Degla AI",
+  "source": "Product Hunt",
+  "ts": 1794504036.0,
+  "desc": "",
+  "ord": 3
+ },
  "https://openai.com/business/customer-stories/gondola": {
   "title": "Gondola doubles revenue as its team builds more with Codex",
   "source": "OpenAI News",
@@ -1858,6 +2194,13 @@
   "source": "OpenAI News",
   "ts": 1794475800.0,
   "desc": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
+ },
+ "https://www.producthunt.com/products/agentwatch-ai-traffic-tracker": {
+  "title": "AgentWatch",
+  "source": "Product Hunt",
+  "ts": 1794459438.0,
+  "desc": "",
+  "ord": 2
  },
  "https://daily.ai225.com/daily/2026-11-12": {
   "title": "2026-11-12 AI 日报 · 英伟达董事会据报酝酿罢免黄仁勋，Google（DeepMind）与百度接连发新模型",
@@ -2259,6 +2602,13 @@
   "ts": 1793707200.0,
   "desc": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
   "ord": 33
+ },
+ "https://www.producthunt.com/products/boost-space": {
+  "title": "Boost.space AgentOS",
+  "source": "Product Hunt",
+  "ts": 1793694793.0,
+  "desc": "",
+  "ord": 1
  },
  "https://openai.com/index/cisco-cyber": {
   "title": "How Cisco defends at machine speed with OpenAI",
