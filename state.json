@@ -1,4 +1,39 @@
 {
+ "https://daily.ai225.com/daily/2026-11-16": {
+  "title": "2026-11-16 AI 日报 · 英伟达风波引国会收紧芯片出口，AI科研与基础设施进展密集",
+  "source": "AI 日报 · AI225",
+  "ts": 1794790376.0,
+  "desc": "今日焦点围绕英伟达换帅后的连锁反应展开：美媒披露其高管前关联方曾为中国代购近 120 亿美元芯片，另有报道指英伟达曾投资初创公司以人为制造 GPU 短缺，美国国会两党酝酿收紧 AI 芯片出口规则；同期全球芯片股较峰值回撤近四成。应用安全方面，美国 FAA 停飞事件引发对 AI 空管系统的审视，openEuler 发布智能体基础设施方案。科研与模型领域，OpenAI 披露 GPT-6 Astra 助力标准模型理论证明，西湖大学发布概念世界模型 Awomo-0.5，多所顶尖高校联合推出湿实验预测基准。",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/": {
+  "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+  "source": "TechCrunch AI",
+  "ts": 1794785400.0,
+  "desc": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+  "ord": 0
+ },
+ "https://openai.com/index/step-toward-defining-the-standard-model": {
+  "title": "A step toward defining the Standard Model on a lattice",
+  "source": "OpenAI News",
+  "ts": 1794780001.0,
+  "desc": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+  "ord": 0
+ },
+ "https://openai.com/index/our-new-blog-for-science": {
+  "title": "Our new blog for science",
+  "source": "OpenAI News",
+  "ts": 1794780000.0,
+  "desc": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+  "ord": 1
+ },
+ "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/": {
+  "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+  "source": "TechCrunch AI",
+  "ts": 1794779795.0,
+  "desc": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+  "ord": 1
+ },
  "https://www.iimedia.cn/c1061/120072.html": {
   "title": "2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴",
   "source": "艾媒网",
@@ -360,14 +395,14 @@
   "source": "艾媒网",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 2
+  "ord": 1
  },
  "https://www.iimedia.cn/c1088/119988.html": {
   "title": "11月11日AI新产品讯息：千问大模型Qwen4即将发布、蚂蚁灵波发布LingBot-Touch模型、上药云健康首发“益药·智能服务矩阵”",
   "source": "艾媒网",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 3
+  "ord": 2
  },
  "https://www.anthropic.com/claude-fable-and-mythos-5-2": {
   "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
@@ -906,7 +941,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 24
+  "ord": 25
  },
  "https://huggingface.co/thinkingmachines/Inkling-2-Small": {
   "title": "thinkingmachines/Inkling-2-Small Image-Text-to-Text • 594B • Updated about 10 hours ago • 7.33k • • 333",
@@ -920,28 +955,28 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 26
+  "ord": 27
  },
  "https://huggingface.co/moonshotai/Kimi-K3.1-Pro": {
   "title": "moonshotai/Kimi-K3.1-Pro Image-Text-to-Text • 2.8T • Updated 10 days ago • 46.8k • • 2.09k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 27
+  "ord": 28
  },
  "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF": {
   "title": "unsloth/Qwen3.8-27B-GGUF 27B • Updated 4 days ago • 6.57M • 5.98k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 25
+  "ord": 24
  },
  "https://huggingface.co/higurashi-ai/Haru-4B": {
   "title": "higurashi-ai/Haru-4B Audio-to-Audio • 5B • Updated 3 days ago • 2.1k • 277",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 28
+  "ord": 26
  },
  "https://huggingface.co/Edge0/Edge0-145B-NVFP4": {
   "title": "Edge0/Edge0-145B-NVFP4 Text Generation • 5B • Updated about 3 hours ago • 41.6k • 277",
@@ -1201,13 +1236,6 @@
   "source": "Product Hunt",
   "ts": 1794723729.0,
   "desc": ""
- },
- "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal": {
-  "title": "Court denies motion to dismiss DRAM price fixing case",
-  "source": "Hacker News 头版",
-  "ts": 1794705516.0,
-  "desc": "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal\nComments URL: https://news.ycombinator.com/item?id=50502988\nPoints: 452\n# Comments: 206",
-  "ord": 3
  },
  "https://daily.ai225.com/daily/2026-11-15": {
   "title": "2026-11-15 AI 日报 · Anthropic拟创纪录IPO获6倍认购，逾11.5万人请愿要求恢复黄仁勋职务",
