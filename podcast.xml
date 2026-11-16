@@ -8,6 +8,47 @@
   <itunes:author>Emtion</itunes:author>
   <itunes:category text="Technology"/>
   <item>
+    <title>11月16日速递：2026年中国AI会议耳机品牌10强（第3版）</title>
+    <description>今日要点：2026年中国AI会议耳机品牌10强；&quot;Who is Hiring?&quot; postings stuc；Apple launches new app to stud；Apple’s new study looks to imp；2026-11-16 AI 日报 · 英伟达风波引国会收紧芯
+
+【本期文字稿】
+A：欢迎收听 AI 行业速递，今天是 2026 年 11 月 16 日，星期一。
+B：今天信息量挺大，先从哪条说起？
+A：先说英伟达，这事已经从公司八卦升级成国会层面的芯片出口问题了。
+B：我听说有媒体披露，黄仁勋高管的前关联方曾替中国代购近一百二十亿美元芯片？
+A：对，还有报道说英伟达曾投资初创公司，人为制造 GPU 短缺，两党正在酝酿收紧出口规则。
+B：这直接反映到股价上了吧？
+A：全球芯片股较峰值回撤近四成，同时超过十一万五千人请愿要求恢复黄仁勋职务。
+B：听起来他本人可能还在谋划回归，这出戏远没结束。
+A：再看资本侧，Anthropic 的 IPO 据报获得约六倍认购，最高拟募资九百零四亿美元。
+B：这个数字太夸张了，CEO 自己怎么说？
+A：他说算力采购是最深层的商业困境，近九千亿美元的承诺能不能被未来营收覆盖，还是未知数。
+B：一边是创纪录融资，一边是天文数字的支出，这矛盾挺值得盯。
+A：科研方面，OpenAI 披露 GPT-6 Astra 帮研究者把标准模型的格点定义推进成了详细证明。
+B：也就是说 AI 开始参与基础物理的数学工作了？
+A：对，他们还上线了专门的科学博客，分享研究者的实操方法和第一手经验。
+B：模型侧今天也有动作，Anthropic 发了 Claude Fable 5.2 和 Mythos 5.2。
+A：主打编码、金融和科学这类硬核技术工作，Meta 那边也更新了 Muse Spark 1.1。
+B：说完模型说应用，苹果今天宣布了一个新研究项目。
+A：他们推出新应用，研究人们怎么用对话式 AI 回答日常医疗问题，以及回答到底有没有用。
+B：这个挺关键，AI 健康工具最缺的就是真实效果数据。
+A：教育这条也挺扎心，有家长花七万五千美元送孩子去 Alpha 的 AI 学校。
+B：结果呢？
+A：一半学生没达到数学目标，高价和效果之间的落差被摆到了台面上。
+B：就业市场也有信号，Hacker News 上的招聘帖数量接近十二年低点。
+A：而 AI 已经渗透到大约一半的岗位，招聘萎缩和 AI 普及同时发生。
+B：这个组合让人不太好判断，是效率提升还是岗位被替代。
+A：剩下几条一句话带过：印度芯片初创 Bharat Semi 拿了两千四百万美元种子轮。
+B：AI 会议耳机品牌十强出炉，AI 玩具超四成家庭看重情感陪伴。
+A：还有 Spotify 和 YouTube Music 的 AI DJ 被吐槽尬聊毁氛围，openEuler 发了智能体基础设施方案。
+B：今天从芯片政治到 AI 看病、AI 上学，主线其实是同一件事：AI 跑得太快，规则和验证还在追。
+B：好，今天就聊到这，下期见。</description>
+    <link>https://emtion.github.io/ai-news-feed/</link>
+    <guid isPermaLink="false">ep-20261116-3</guid>
+    <pubDate>Mon, 16 Nov 2026 10:37:18 +0800</pubDate>
+    <enclosure url="https://emtion.github.io/ai-news-feed/episodes/ep-20261116-3.mp3" length="1284915" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>11月16日速递：Team &amp; Enterprise（第2版）</title>
     <description>今日要点：Team &amp; Enterprise；What Picasso taught me about b；October 2026 releases, in dept；Artificial Analysis；2026年中国AI行车记录仪品牌10强
 

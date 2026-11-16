@@ -5,7 +5,41 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Mon, 16 Nov 2026 01:01:28 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 02:36:33 +0000</lastBuildDate>
+  <item>
+    <title>艾媒鼎榜 | 2026年中国AI会议耳机品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/119848.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119848.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>"Who is Hiring?" postings stuck near 12-year lows as AI reaches half of all jobs</title>
+    <link>https://www.hntrends.com/2026/november.html</link>
+    <guid isPermaLink="true">https://www.hntrends.com/2026/november.html</guid>
+    <pubDate>Mon, 16 Nov 2026 01:31:30 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://www.hntrends.com/2026/november.html
+Comments URL: https://news.ycombinator.com/item?id=50512950
+Points: 44
+# Comments: 11</description>
+  </item>
+  <item>
+    <title>Apple launches new app to study how people use AI for health</title>
+    <link>https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</guid>
+    <pubDate>Mon, 16 Nov 2026 01:30:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Apple's new app for a study will answer everyday medical questions</description>
+  </item>
+  <item>
+    <title>Apple’s new study looks to improve the effectiveness of AI health tools</title>
+    <link>https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools</link>
+    <guid isPermaLink="true">https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools</guid>
+    <pubDate>Mon, 16 Nov 2026 01:26:56 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by he</description>
+  </item>
   <item>
     <title>2026-11-16 AI 日报 · 英伟达风波引国会收紧芯片出口，AI科研与基础设施进展密集</title>
     <link>https://daily.ai225.com/daily/2026-11-16</link>
@@ -15,46 +49,12 @@
     <description>今日焦点围绕英伟达换帅后的连锁反应展开：美媒披露其高管前关联方曾为中国代购近 120 亿美元芯片，另有报道指英伟达曾投资初创公司以人为制造 GPU 短缺，美国国会两党酝酿收紧 AI 芯片出口规则；同期全球芯片股较峰值回撤近四成。应用安全方面，美国 FAA 停飞事件引发对 AI 空管系统的审视，openEuler 发布智能体基础设施方案。科研与模型领域，OpenAI 披露 GPT-6 Astra 助力标准模型理论证明，西湖大学发布概念世界模型 Awomo-0.5，多所顶尖高校联合推出湿实验预测基准。</description>
   </item>
   <item>
-    <title>Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market</title>
-    <link>https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/</guid>
-    <pubDate>Sun, 15 Nov 2026 23:30:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.</description>
-  </item>
-  <item>
     <title>A step toward defining the Standard Model on a lattice</title>
     <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
     <guid isPermaLink="true">https://openai.com/index/step-toward-defining-the-standard-model</guid>
     <pubDate>Sun, 15 Nov 2026 22:00:01 +0000</pubDate>
     <source>OpenAI News</source>
     <description>Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.</description>
-  </item>
-  <item>
-    <title>艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强</title>
-    <link>https://www.iimedia.cn/c1106/119852.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119852.html</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>艾媒网</source>
-  </item>
-  <item>
-    <title>Jensen Huang might be plotting a return and more of the latest Nvidia drama</title>
-    <link>https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed</link>
-    <guid isPermaLink="true">https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed</guid>
-    <pubDate>Sun, 15 Nov 2026 20:43:49 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a </description>
-  </item>
-  <item>
-    <title>Parents pay $75k for Alpha's AI school. Half of its students missed math target</title>
-    <link>https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/</link>
-    <guid isPermaLink="true">https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/</guid>
-    <pubDate>Sun, 15 Nov 2026 19:39:46 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/
-Comments URL: https://news.ycombinator.com/item?id=50509953
-Points: 38
-# Comments: 24</description>
   </item>
   <item>
     <title>Team &amp; Enterprise</title>
@@ -175,6 +175,40 @@ Points: 38
     <description>Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.</description>
   </item>
   <item>
+    <title>2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴</title>
+    <link>https://www.iimedia.cn/c1061/120072.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120072.html</guid>
+    <pubDate>Sun, 15 Nov 2026 21:02:19 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>Parents pay $75k for Alpha's AI school. Half of its students missed math target</title>
+    <link>https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/</link>
+    <guid isPermaLink="true">https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/</guid>
+    <pubDate>Sun, 15 Nov 2026 19:39:46 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/
+Comments URL: https://news.ycombinator.com/item?id=50509953
+Points: 38
+# Comments: 24</description>
+  </item>
+  <item>
+    <title>Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market</title>
+    <link>https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/</guid>
+    <pubDate>Sun, 15 Nov 2026 23:30:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.</description>
+  </item>
+  <item>
+    <title>Jensen Huang might be plotting a return and more of the latest Nvidia drama</title>
+    <link>https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed</link>
+    <guid isPermaLink="true">https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed</guid>
+    <pubDate>Sun, 15 Nov 2026 20:43:49 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a </description>
+  </item>
+  <item>
     <title>2026-11-15 AI 日报 · Anthropic拟创纪录IPO获6倍认购，逾11.5万人请愿要求恢复黄仁勋职务</title>
     <link>https://daily.ai225.com/daily/2026-11-15</link>
     <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-15</guid>
@@ -183,46 +217,12 @@ Points: 38
     <description>今日AI行业聚焦资本与治理震荡：Anthropic IPO据报获约6倍认购、拟最高募资904亿美元；CEO称算力采购是最深层商业困境，近9010亿美元承诺能否被未来营收覆盖仍不明朗。超11.5万人请愿要求恢复黄仁勋职务，报道称其离职或涉高风险商业担保，亚洲多国政府与风投机构正评估影响；超聚变创业板IPO过会。技术侧，Runway开源机器人模型Praxis-1，OpenAI重组机器人团队，Gemini 4 Carbon登顶MathArena；arXiv论文披露大模型隐写泄露风险与RLVR优化新法。</description>
   </item>
   <item>
-    <title>Is bad news for Jensen Huang also bad news for the AI industry?</title>
-    <link>https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/</guid>
-    <pubDate>Sun, 15 Nov 2026 21:56:35 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia."</description>
-  </item>
-  <item>
     <title>Our new blog for science</title>
     <link>https://openai.com/index/our-new-blog-for-science</link>
     <guid isPermaLink="true">https://openai.com/index/our-new-blog-for-science</guid>
     <pubDate>Sun, 15 Nov 2026 22:00:00 +0000</pubDate>
     <source>OpenAI News</source>
     <description>The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.</description>
-  </item>
-  <item>
-    <title>艾媒鼎榜 | 2026年中国AI会议耳机品牌10强</title>
-    <link>https://www.iimedia.cn/c1106/119848.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119848.html</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>艾媒网</source>
-  </item>
-  <item>
-    <title>Congress wants to tighten export rules on AI chips after Nvidia spy scandal</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</link>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</guid>
-    <pubDate>Sun, 15 Nov 2026 19:15:43 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded th</description>
-  </item>
-  <item>
-    <title>What Picasso taught me about building AI Agents</title>
-    <link>https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/</link>
-    <guid isPermaLink="true">https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/</guid>
-    <pubDate>Sun, 15 Nov 2026 16:16:26 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/
-Comments URL: https://news.ycombinator.com/item?id=50508076
-Points: 5
-# Comments: 1</description>
   </item>
   <item>
     <title>Hugging Face PRO</title>
@@ -336,6 +336,40 @@ Points: 5
     <description>Company said a "multifront cyberattack" included AI agents and an on-path data snatch.</description>
   </item>
   <item>
+    <title>艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/119852.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119852.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>What Picasso taught me about building AI Agents</title>
+    <link>https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/</link>
+    <guid isPermaLink="true">https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/</guid>
+    <pubDate>Sun, 15 Nov 2026 16:16:26 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/
+Comments URL: https://news.ycombinator.com/item?id=50508076
+Points: 5
+# Comments: 1</description>
+  </item>
+  <item>
+    <title>Is bad news for Jensen Huang also bad news for the AI industry?</title>
+    <link>https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/</guid>
+    <pubDate>Sun, 15 Nov 2026 21:56:35 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia."</description>
+  </item>
+  <item>
+    <title>Congress wants to tighten export rules on AI chips after Nvidia spy scandal</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</link>
+    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</guid>
+    <pubDate>Sun, 15 Nov 2026 19:15:43 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded th</description>
+  </item>
+  <item>
     <title>2026-11-14 AI 日报 · ChatGPT Wallet上线开启智能体代付，llama.cpp步入1.0稳定时代</title>
     <link>https://daily.ai225.com/daily/2026-11-14</link>
     <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-14</guid>
@@ -344,46 +378,12 @@ Points: 5
     <description>今日AI领域迎来多项底层与应用层重要进展。OpenAI正式推出ChatGPT Wallet，支持智能体在生物认证确认下代行在线支付，亚马逊亦推进全球商品图谱项目以应对智能体电商变革；核心本地推理基础设施llama.cpp与ggml正式迈入1.0.0版本，确立以主版本号标记API/ABI破坏性变更的版本规则。DeepSeek全面开放其App同款的全家桶API与独立工具接口；李飞飞联合创办的World Labs向公众开放Atlas世界模型。此外，前研究员披露在多家国产模型权重中检测到Blackwell芯片特征，投行则援引出口管制禁止中港投资者认购Anthropic IPO。学术界在像素空间视频生成</description>
   </item>
   <item>
-    <title>SNL gathers all the tech tycoons for a lesson in dating and spycraft</title>
-    <link>https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/</guid>
-    <pubDate>Sun, 15 Nov 2026 20:20:57 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.</description>
-  </item>
-  <item>
     <title>Introducing ChatGPT Wallet</title>
     <link>https://openai.com/index/introducing-chatgpt-wallet</link>
     <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-wallet</guid>
     <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
     <source>OpenAI News</source>
     <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.</description>
-  </item>
-  <item>
-    <title>2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴</title>
-    <link>https://www.iimedia.cn/c1061/120072.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120072.html</guid>
-    <pubDate>Sun, 15 Nov 2026 21:02:19 +0000</pubDate>
-    <source>艾媒网</source>
-  </item>
-  <item>
-    <title>An overview of Jensen Huang’s messy days</title>
-    <link>https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation</link>
-    <guid isPermaLink="true">https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation</guid>
-    <pubDate>Sun, 15 Nov 2026 13:00:00 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepb</description>
-  </item>
-  <item>
-    <title>A Human Reads the Anthropic IPO Filing</title>
-    <link>https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html</link>
-    <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html</guid>
-    <pubDate>Sun, 15 Nov 2026 15:18:06 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html
-Comments URL: https://news.ycombinator.com/item?id=50507517
-Points: 7
-# Comments: 1</description>
   </item>
   <item>
     <title>Enterprise Support</title>
@@ -496,6 +496,40 @@ Points: 7
     <description>It's still unknown how attackers got access to Anthropic's verified Cursor account.</description>
   </item>
   <item>
+    <title>艾媒咨询 | 2026-2027年中国AI微短剧行业趋势白皮书</title>
+    <link>https://www.iimedia.cn/c400/119676.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/119676.html</guid>
+    <pubDate>Mon, 16 Nov 2026 02:36:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>A Human Reads the Anthropic IPO Filing</title>
+    <link>https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html</link>
+    <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:18:06 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html
+Comments URL: https://news.ycombinator.com/item?id=50507517
+Points: 7
+# Comments: 1</description>
+  </item>
+  <item>
+    <title>SNL gathers all the tech tycoons for a lesson in dating and spycraft</title>
+    <link>https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/</guid>
+    <pubDate>Sun, 15 Nov 2026 20:20:57 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.</description>
+  </item>
+  <item>
+    <title>An overview of Jensen Huang’s messy days</title>
+    <link>https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation</link>
+    <guid isPermaLink="true">https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation</guid>
+    <pubDate>Sun, 15 Nov 2026 13:00:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepb</description>
+  </item>
+  <item>
     <title>2026-11-13 AI 日报 · 黄仁勋离任震动硅谷，Gemini 4 Hydrogen 普惠化落地</title>
     <link>https://daily.ai225.com/daily/2026-11-13</link>
     <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-13</guid>
@@ -504,46 +538,12 @@ Points: 7
     <description>英伟达因黄仁勋婚外情报道迎来 33 年来的首次换帅，其离任引发硅谷关于芯片出口管制与 AI 行业未来的广泛讨论，众议院民主党人已就英伟达芯片出口发起问询。与此同时，Google 发布 Gemini 4 Hydrogen，以更快的推理速度和更低成本把 Gemini 4 能力推向大众市场；百度在世界大会上推出文心 5.5 Flash Preview 并上线大模型交易所。Anthropic 除推出 Claude Meetings 和自托管 Managed Agents 外，还发布面向制造业的 Claude 插件。在算力端，AI 芯片初创 Fractile 完成 7.2 亿美元融资，Nebius 公布</description>
   </item>
   <item>
-    <title>Where was Nvidia’s security team?</title>
-    <link>https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</guid>
-    <pubDate>Sun, 15 Nov 2026 00:08:07 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which </description>
-  </item>
-  <item>
     <title>Shield helps technicians hand off legacy portal work with OpenAI</title>
     <link>https://openai.com/business/customer-stories/shield</link>
     <guid isPermaLink="true">https://openai.com/business/customer-stories/shield</guid>
     <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
     <source>OpenAI News</source>
     <description>Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.</description>
-  </item>
-  <item>
-    <title>2026年中国AI会议耳机十大品牌出炉！科大讯飞、华为、sanag位列前三</title>
-    <link>https://www.iimedia.cn/c1088/120050.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1088/120050.html</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>艾媒网</source>
-  </item>
-  <item>
-    <title>The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs</title>
-    <link>https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</link>
-    <guid isPermaLink="true">https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</guid>
-    <pubDate>Sat, 14 Nov 2026 15:00:00 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for</description>
-  </item>
-  <item>
-    <title>All AI-generated code should be Open Source</title>
-    <link>https://jakub.jankiewicz.org/blog/ai-code-open-source/</link>
-    <guid isPermaLink="true">https://jakub.jankiewicz.org/blog/ai-code-open-source/</guid>
-    <pubDate>Sun, 15 Nov 2026 14:46:58 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/
-Comments URL: https://news.ycombinator.com/item?id=50507303
-Points: 43
-# Comments: 14</description>
   </item>
   <item>
     <title>Inference Providers</title>
@@ -657,6 +657,40 @@ Points: 43
     <description>The actions could have resulted in criminal charges had humans been behind the keyboard.</description>
   </item>
   <item>
+    <title>11月11日AI新产品讯息：千问大模型Qwen4即将发布、蚂蚁灵波发布LingBot-Touch模型、上药云健康首发“益药·智能服务矩阵”</title>
+    <link>https://www.iimedia.cn/c1088/119988.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1088/119988.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>All AI-generated code should be Open Source</title>
+    <link>https://jakub.jankiewicz.org/blog/ai-code-open-source/</link>
+    <guid isPermaLink="true">https://jakub.jankiewicz.org/blog/ai-code-open-source/</guid>
+    <pubDate>Sun, 15 Nov 2026 14:46:58 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/
+Comments URL: https://news.ycombinator.com/item?id=50507303
+Points: 43
+# Comments: 14</description>
+  </item>
+  <item>
+    <title>Where was Nvidia’s security team?</title>
+    <link>https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</guid>
+    <pubDate>Sun, 15 Nov 2026 00:08:07 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which </description>
+  </item>
+  <item>
+    <title>The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs</title>
+    <link>https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</link>
+    <guid isPermaLink="true">https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</guid>
+    <pubDate>Sat, 14 Nov 2026 15:00:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for</description>
+  </item>
+  <item>
     <title>2026-11-12 AI 日报 · 英伟达董事会据报酝酿罢免黄仁勋，Google（DeepMind）与百度接连发新模型</title>
     <link>https://daily.ai225.com/daily/2026-11-12</link>
     <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-12</guid>
@@ -665,46 +699,12 @@ Points: 43
     <description>今日焦点集中在英伟达：董事会据报酝酿罢免CEO黄仁勋，叠加婚外情传闻与第二名下属涉入的报道，股价盘后重挫逾9%，成为全行业最大不确定性。模型侧，Google旗下DeepMind发布DNA模型AlphaGenome 2，Google推出单次可评估上千问题的Gemini Decisions API，百度发布文心5.5 Flash Preview并宣布11月25日开源权重；北大系aiXcoder开源4B上下文压缩模型。资本与算力层面，台积电拟各投OpenAI与Anthropic五亿美元，英国Fractile获7.2亿美元融资，CoreWeave转向预付款模式，而美国企业AI支出增速已放缓至1.65%</description>
   </item>
   <item>
-    <title>Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang</title>
-    <link>https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/</guid>
-    <pubDate>Sat, 14 Nov 2026 21:41:22 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>The petition had attracted more than 115,000 signatures as of Saturday afternoon.</description>
-  </item>
-  <item>
     <title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
     <link>https://openai.com/business/customer-stories/amplitude</link>
     <guid isPermaLink="true">https://openai.com/business/customer-stories/amplitude</guid>
     <pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
     <source>OpenAI News</source>
     <description>Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.</description>
-  </item>
-  <item>
-    <title>11月11日AI新产品讯息：千问大模型Qwen4即将发布、蚂蚁灵波发布LingBot-Touch模型、上药云健康首发“益药·智能服务矩阵”</title>
-    <link>https://www.iimedia.cn/c1088/119988.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1088/119988.html</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>艾媒网</source>
-  </item>
-  <item>
-    <title>Jensen Huang and the decline of the visionary showman founder CEO</title>
-    <link>https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo</link>
-    <guid isPermaLink="true">https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo</guid>
-    <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leat</description>
-  </item>
-  <item>
-    <title>Understanding Positional Embeddings in Modern LLMs</title>
-    <link>https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</link>
-    <guid isPermaLink="true">https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</guid>
-    <pubDate>Sun, 15 Nov 2026 12:14:06 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings
-Comments URL: https://news.ycombinator.com/item?id=50506376
-Points: 71
-# Comments: 0</description>
   </item>
   <item>
     <title>Inference Endpoints</title>

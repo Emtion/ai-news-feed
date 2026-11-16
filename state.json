@@ -1,4 +1,39 @@
 {
+ "https://www.iimedia.cn/c400/119676.html": {
+  "title": "艾媒咨询 | 2026-2027年中国AI微短剧行业趋势白皮书",
+  "source": "艾媒网",
+  "ts": 1794796577.2351496,
+  "desc": "",
+  "ord": 2
+ },
+ "https://www.iimedia.cn/c1088/120092.html": {
+  "title": "11月13日AI新产品讯息：百度发布两款文心应用模型、谷歌推出Gemini Decisions API、百度推出大模型交易平台词元所",
+  "source": "艾媒网",
+  "ts": 1794796577.2351496,
+  "desc": "",
+  "ord": 3
+ },
+ "https://www.hntrends.com/2026/november.html": {
+  "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+  "source": "Hacker News 头版",
+  "ts": 1794792690.0,
+  "desc": "Article URL: https://www.hntrends.com/2026/november.html\nComments URL: https://news.ycombinator.com/item?id=50512950\nPoints: 44\n# Comments: 11",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/": {
+  "title": "Apple launches new app to study how people use AI for health",
+  "source": "TechCrunch AI",
+  "ts": 1794792600.0,
+  "desc": "Apple's new app for a study will answer everyday medical questions",
+  "ord": 0
+ },
+ "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools": {
+  "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+  "source": "The Verge AI",
+  "ts": 1794792416.0,
+  "desc": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by he",
+  "ord": 0
+ },
  "https://daily.ai225.com/daily/2026-11-16": {
   "title": "2026-11-16 AI 日报 · 英伟达风波引国会收紧芯片出口，AI科研与基础设施进展密集",
   "source": "AI 日报 · AI225",
@@ -381,7 +416,7 @@
   "source": "艾媒网",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 0
+  "ord": 1
  },
  "https://www.iimedia.cn/c1106/119848.html": {
   "title": "艾媒鼎榜 | 2026年中国AI会议耳机品牌10强",
@@ -395,7 +430,7 @@
   "source": "艾媒网",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 1
+  "ord": 4
  },
  "https://www.iimedia.cn/c1088/119988.html": {
   "title": "11月11日AI新产品讯息：千问大模型Qwen4即将发布、蚂蚁灵波发布LingBot-Touch模型、上药云健康首发“益药·智能服务矩阵”",
@@ -941,7 +976,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 25
+  "ord": 26
  },
  "https://huggingface.co/thinkingmachines/Inkling-2-Small": {
   "title": "thinkingmachines/Inkling-2-Small Image-Text-to-Text • 594B • Updated about 10 hours ago • 7.33k • • 333",
@@ -976,7 +1011,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 26
+  "ord": 25
  },
  "https://huggingface.co/Edge0/Edge0-145B-NVFP4": {
   "title": "Edge0/Edge0-145B-NVFP4 Text Generation • 5B • Updated about 3 hours ago • 41.6k • 277",
