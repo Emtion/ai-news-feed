@@ -2,7 +2,7 @@ name: Daily AI podcast
 
 on:
   schedule:
-    - cron: "30 0 * * *"   # 每天 08:30 (Asia/Shanghai) 自动生成一期
+    - cron: "31 23 * * *"   # 每天 07:31 (Asia/Shanghai) 自动生成一期（UTC 23:31）
   workflow_dispatch:        # 也可以在 Actions 页面手动点 Run workflow 立即出一期
 
 permissions:
