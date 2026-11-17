@@ -1,10 +1,24 @@
 {
+ "https://www.iimedia.cn/c1088/120052.html": {
+  "title": "2026年中国AI行车记录仪十大品牌出炉！海康威视、360、70迈位列前三",
+  "source": "艾媒网",
+  "ts": 1794892193.5410557,
+  "desc": "",
+  "ord": 0
+ },
  "https://huggingface.co/facebook/sam3": {
   "title": "facebook/sam3 Mask Generation • 0.9B • Updated Nov 20, 2025 • 1.97M • 6.78k",
   "source": "Hugging Face Trending",
   "ts": 1794882525.3964353,
   "desc": "",
   "ord": 29
+ },
+ "https://www.leiphone.com/category/zaobao/ksECYyYOXDL6IQ2q.html": {
+  "title": "网传360集团副总裁涉贪腐问题被带走调查；英伟达董事会：没考虑让黄仁勋复任CEO；知名手游宣布明年3月停止运营，曾月流水破10亿",
+  "source": "雷峰网",
+  "ts": 1794879180.0,
+  "desc": "要闻提示1.黄仁勋借钱成新型诈骗！英伟达董事会：没考虑让黄仁勋复任 CEO2.已到生死存亡时刻！腾讯内部讲话：现在不是和平年代，大家不能自以为站在高处很安全3.网传360集团副总裁卜思南涉贪腐问题被带走调查，本人回应：不是真的，在处理ing4.网易《哈利波特：魔法觉醒》手游宣布明年 3 月停止运营，曾月流水破10亿5.AI 演员方桃子代言美瞳广告被罚，声称“戴了一天都很舒服”6.阿里合伙人樊路远辞任大麦娱乐 CEO，将从虎鲸文娱集团离职创业7.AMD 宣布完成对 World Labs 的收购，李飞飞出任公司首席科学家8.微软服务全球大宕机内幕曝出！资深工程师走光：根本没人懂底层系统今日头条黄仁",
+  "ord": 0
  },
  "https://blog.antonio.cx/running-agents-with-lend": {
   "title": "Running coding agents without handing them my credentials",
@@ -52,7 +66,7 @@
   "title": "OpenCode Browse",
   "source": "Hacker News 头版",
   "ts": 1794864037.0,
-  "desc": "Article URL: https://opencode.ai/product/browse\nComments URL: https://news.ycombinator.com/item?id=50523459\nPoints: 126\n# Comments: 60",
+  "desc": "Article URL: https://opencode.ai/product/browse\nComments URL: https://news.ycombinator.com/item?id=50523459\nPoints: 178\n# Comments: 82",
   "ord": 2
  },
  "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit": {
@@ -641,7 +655,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794764798.455464,
   "desc": "",
-  "ord": 27
+  "ord": 26
  },
  "https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/": {
   "title": "What Picasso taught me about building AI Agents",
@@ -1522,7 +1536,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 26
+  "ord": 27
  },
  "https://huggingface.co/moonshotai/Kimi-K3.1-Pro": {
   "title": "moonshotai/Kimi-K3.1-Pro Image-Text-to-Text • 2.8T • Updated 10 days ago • 46.8k • • 2.09k",
