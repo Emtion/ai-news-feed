@@ -1,4 +1,88 @@
 {
+ "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized": {
+  "title": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized Text-to-Image • 7B • Updated 3 days ago • 161k • 430",
+  "source": "Hugging Face Trending",
+  "ts": 1794916213.0807822,
+  "desc": "",
+  "ord": 28
+ },
+ "https://huggingface.co/n4ze3m/tiny-voca": {
+  "title": "n4ze3m/tiny-voca Text-to-Speech • Updated about 17 hours ago • 3.04k • 207",
+  "source": "Hugging Face Trending",
+  "ts": 1794916213.0807822,
+  "desc": "",
+  "ord": 29
+ },
+ "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/": {
+  "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+  "source": "WIRED AI",
+  "ts": 1794913200.0,
+  "desc": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
+  "ord": 0
+ },
+ "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/": {
+  "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+  "source": "WIRED AI",
+  "ts": 1794913200.0,
+  "desc": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+  "ord": 1
+ },
+ "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/": {
+  "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+  "source": "WIRED AI",
+  "ts": 1794912465.0,
+  "desc": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+  "ord": 2
+ },
+ "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/": {
+  "title": "How the Claude Code team thinks about verification",
+  "source": "Hacker News 头版",
+  "ts": 1794910840.0,
+  "desc": "Article URL: https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/\nComments URL: https://news.ycombinator.com/item?id=50529612\nPoints: 34\n# Comments: 23",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/industrynews/qyieFYqM3EQhE1Hu.html": {
+  "title": "阿里云连续六年香港IaaS第一，企业客户AI渗透率达95%",
+  "source": "雷峰网",
+  "ts": 1794907440.0,
+  "desc": "11月17日消息，阿里云在年度香港峰会上推出多项新举措，加速AI在香港各行业落地。目前，阿里云已连续六年位居香港IaaS市场份额第一，市场领先地位进一步巩固。  随着香港AI需求持续增长，阿里云通过千问大模型、云基础设施及FDE工程服务，推动AI深入各行业核心业务。目前，阿里云在港企业级客户的AI服务启用率已超过95%。 在金融及公共服务领域，保诚保险基于阿里云推出“AI核保师”，整体准确率超过95%，从概念到正式上线不到三个月；香港特区政府空间数据共享平台利用千问开发“智多纷”AI助手，探索AI在政务中的应用。 在传媒及教育领域，无线集团旗下MyTV Super Limited的网络电视平台",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/CorporateServices/7flnC8myrlPgPbPs.html": {
+  "title": "“BAT 做 Personal Agent，我没那么乐观”",
+  "source": "雷峰网",
+  "ts": 1794904440.0,
+  "desc": "“国内大厂里面，你最看好哪家公司做 Personal Agent？”过去这一个月，自从北美那边Instinct、Muse 这俩产品爆火后，投资人刘墨昱每次去见同行和朋友，这个话题都会被反复拎出来讨论。然而，这偏偏又是一个没有共识的问题。刘墨昱和朋友们仔细一扒各家互联网大厂，每家大厂看似都手握庞大的生态底盘，但真要剥开来看，各家做 Personal Agent 的阻碍，同样不少。“聊到现在为止，我对于国内互联网大厂做好Personal Agent 这件事，还没那么乐观。”刘墨昱摇了摇头。Personal Agent交给哪个团队做？大厂做 Personal Agent，第一道难题就摆在组织内部：这",
+  "ord": 1
+ },
+ "https://www.leiphone.com/category/aijuejinzhi/KPwGklj93OeTbkrg.html": {
+  "title": "智源悟界·PhysCapBench：首个跨领域的世界模型“物理数据量尺”",
+  "source": "雷峰网",
+  "ts": 1794904380.0,
+  "desc": "物理AI基模的核心，是从真实经验中学习可迁移的物理规律，形成理解、预测和作用于物理世界的能力。真实世界的数据里藏着丰富的物理信息：互联网视频记录运动与环境演化，Egocentric呈现手物交互，真机轨迹记录动作与状态响应，力触反馈补充接触力、滑移与形变，不同数据共同提供了互补的物理经验。如何衡量、提炼和耦合这些数据中的物理特性，是构建物理AI基模亟待解决的基础问题。围绕这一问题，智源研究院联合逆矩阵、北京大学、清华大学、北京航空航天大学推出悟界·PhysCapBench——首个覆盖第三人称场景、第一人称操作与手持夹爪示范三大领域，统一评测视频Caption物理信息的基准。 悟界·PhysCap",
+  "ord": 2
+ },
+ "https://www.leiphone.com/category/CorporateServices/ndF7IsEHBffZkbzy.html": {
+  "title": "独家丨腾讯优图实验室研究总监孙星离职",
+  "source": "雷峰网",
+  "ts": 1794904080.0,
+  "desc": "雷峰网独家消息，腾讯优图实验室研究总监、专家研究员孙星已离职。据公开资源显示，孙星本科毕业于南京理工大学，博士毕业于香港大学工程学院。2016年加入腾讯优图实验室。早期，他主要深耕医疗影像 AI，参与了肺癌识别和糖尿病视网膜病变筛查研究，相关技术应用于腾讯觅影。进入大模型时代后，其研究重心转向多模态大模型、Agent 与 RAG，主导或参与了视频评测基准 Video-MME、全模态模型 VITA、视觉语言模型 Youtu-VL，以及 Youtu-Agent、Youtu-GraphRAG 等多个研发与开源项目。关于孙星后续去向，雷峰网也将持续追踪报道，欢迎添加作者微信交流 Mindy1857",
+  "ord": 3
+ },
+ "https://www.leiphone.com/category/CorporateServices/Hsnbxo0xUgb2FWkB.html": {
+  "title": "谁来帮助企业走向「智能组织」？",
+  "source": "雷峰网",
+  "ts": 1794903840.0,
+  "desc": "上个月，雷峰网拜访过一家创业公司老板，他对我们说，他决定把公司的 AI 开销砍掉近九成。这个决定非常出乎我们的意料，因为一直以来他都属于“AI 激进派”，属于愿意为 AI 花钱的主。今年5月，他就给员工配备了每月200美元的 Codex，公司的各项 AI 开销加起来，每月大约10万美元。当雷峰网问他原因，他直言，钱包烧不起，这几个月他有算过账，AI 开销很大，但收入和利润却没有同步增长。而且并不止这家创业公司老板，过去两个月，一些企业都出现了这种现象：AI没有产生预期的经济效果，于是大家开始纷纷掉头回来控制预算。“这是因为我们只是更换了电机，却还没有重新设计工厂。没有一家公司，会因为用了几个A",
+  "ord": 4
+ },
+ "https://www.leiphone.com/category/industrynews/fZwDw188Li4SuyQM.html": {
+  "title": "闲鱼亮相联合国气候变化大会：AI加速闲置流转，低碳融入日常",
+  "source": "雷峰网",
+  "ts": 1794897600.0,
+  "desc": "一台上架长达923天的相机，在AI辅助调整商品信息和价格并重新发布后，仅用时约两小时便成功出售；一台屏幕损坏、看似失去使用价值的便携影音播放器，经AI梳理故障和剩余可用功能后，仅65分钟便找到了买家，实现物尽其用。当地时间11月14日，在土耳其安塔利亚举行的第31届联合国气候变化大会（COP31）中国角边会上，闲鱼ESG负责人李翔分享了两个AI促进闲置流通的故事，向国际社会展示中国企业利用AI技术破解循环经济堵点、推动公众参与绿色低碳生活的最新实践。“要让闲置商品更容易流通，得先读懂商品，也得读懂人的需要。”李翔在演讲中表示。不同于传统电商平台，闲置交易具有“一物一况，一物一价”的非标属性。同",
+  "ord": 5
+ },
  "https://www.iimedia.cn/c1088/120052.html": {
   "title": "2026年中国AI行车记录仪十大品牌出炉！海康威视、360、70迈位列前三",
   "source": "艾媒网",
@@ -6,12 +90,26 @@
   "desc": "",
   "ord": 0
  },
+ "https://www.producthunt.com/products/gatherhq-agent-research": {
+  "title": "GatherHQ Agent Research",
+  "source": "Product Hunt",
+  "ts": 1794885494.0,
+  "desc": "",
+  "ord": 2
+ },
  "https://huggingface.co/facebook/sam3": {
   "title": "facebook/sam3 Mask Generation • 0.9B • Updated Nov 20, 2025 • 1.97M • 6.78k",
   "source": "Hugging Face Trending",
   "ts": 1794882525.3964353,
   "desc": "",
-  "ord": 29
+  "ord": 24
+ },
+ "https://get.mem.ai/blog/mem-is-shutting-down": {
+  "title": "Mem Is Shutting Down",
+  "source": "Hacker News 头版",
+  "ts": 1794881621.0,
+  "desc": "Article URL: https://get.mem.ai/blog/mem-is-shutting-down\nComments URL: https://news.ycombinator.com/item?id=50526537\nPoints: 66\n# Comments: 105",
+  "ord": 1
  },
  "https://www.leiphone.com/category/zaobao/ksECYyYOXDL6IQ2q.html": {
   "title": "网传360集团副总裁涉贪腐问题被带走调查；英伟达董事会：没考虑让黄仁勋复任CEO；知名手游宣布明年3月停止运营，曾月流水破10亿",
@@ -32,6 +130,20 @@
   "source": "AI 日报 · AI225",
   "ts": 1794876812.0,
   "desc": "今日焦点在安全合规、模型迭代与算力硬件。加州起诉 OpenAI 智能体测试失控，OpenAI 引入四家机构开展安全评估试点；FBI 与 Google 预警全自动 AI 黑客威胁。应用侧，阿里发布 2.4 万亿参数 Qwen4-Max，腾讯推出混元4 flash，Claude 支持 HTML-in-Canvas，Moonshot 将 Kimi 转向生物医药，华为云开源具身世界模型 CloudRobo-WM1.2。算力端，英伟达 Vera Rubin 首秀 MLPerf 并发布 Rubin HPC。",
+  "ord": 0
+ },
+ "https://www.producthunt.com/products/recall-ai": {
+  "title": "Agents API by Recall.ai",
+  "source": "Product Hunt",
+  "ts": 1794875905.0,
+  "desc": "",
+  "ord": 3
+ },
+ "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai": {
+  "title": "Strengthening NATO and allied cyber defenses with AI",
+  "source": "OpenAI News",
+  "ts": 1794873600.0,
+  "desc": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
   "ord": 0
  },
  "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/": {
@@ -66,8 +178,8 @@
   "title": "OpenCode Browse",
   "source": "Hacker News 头版",
   "ts": 1794864037.0,
-  "desc": "Article URL: https://opencode.ai/product/browse\nComments URL: https://news.ycombinator.com/item?id=50523459\nPoints: 178\n# Comments: 82",
-  "ord": 2
+  "desc": "Article URL: https://opencode.ai/product/browse\nComments URL: https://news.ycombinator.com/item?id=50523459\nPoints: 275\n# Comments: 158",
+  "ord": 3
  },
  "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit": {
   "title": "California sues OpenAI over rogue AI hacking incidents",
@@ -319,6 +431,13 @@
   "source": "雷峰网",
   "ts": 1794822840.0,
   "desc": "11月13日，启境汽车以“一车双能 为热爱上新”为主题，正式推出启境GT7 Ultra舒享版增程、纯电双车型，限时权益价分别为22.19万元与23.19万元。两款新车均标配面向L3级自动驾驶架构，启境GT7此次上新进一步拓宽了动力选择：增程版主打超长续航，纯电版兼顾豪华舒享。双车型均享最低首付6.66万元、5年分期前3年0息的金融政策，让面向L3级架构猎装真正走入20万级市场。启境由广汽集团与华为乾崑联合打造，双方以“车企主导、共同定义”的方式，将广汽近30年的整车制造与品质体系，和华为乾崑全栈智能能力深度融合。继启境GX7上市全国交付突破4000台，启境GT7乘势加推双车型，为热爱户外生活、",
+  "ord": 4
+ },
+ "https://openai.com/business/customer-stories/revolut": {
+  "title": "How Revolut raises ambition without lowering the bar",
+  "source": "OpenAI News",
+  "ts": 1794821400.0,
+  "desc": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
   "ord": 4
  },
  "https://openai.com/index/lvmh-media-division-partnership": {
@@ -655,7 +774,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794764798.455464,
   "desc": "",
-  "ord": 26
+  "ord": 23
  },
  "https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/": {
   "title": "What Picasso taught me about building AI Agents",
@@ -1480,63 +1599,63 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 16
+  "ord": 15
  },
  "https://huggingface.co/Qwen/Qwen3.8-27B": {
   "title": "Qwen/Qwen3.8-27B Image-Text-to-Text • 28B • Updated 8 days ago • 6.55M • • 20.1k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 17
+  "ord": 16
  },
  "https://huggingface.co/Lightricks/LTX-2.5": {
   "title": "Lightricks/LTX-2.5 Image-to-Video • Updated Oct 11 • 2.75M • 12k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 18
+  "ord": 17
  },
  "https://huggingface.co/Comfy-Org/MiniMax-H3-Image": {
   "title": "Comfy-Org/MiniMax-H3-Image Text-to-Image • Updated 4 days ago • 1.97M • 404",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 19
+  "ord": 18
  },
  "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF": {
   "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF Image-Text-to-Text • 27B • Updated 2 days ago • 1.71M • 3.15k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 28
+  "ord": 25
  },
  "https://huggingface.co/Zyphra/ZONOS3-Mini": {
   "title": "Zyphra/ZONOS3-Mini Text-to-Speech • 0.9B • Updated 1 day ago • 39.9k • 373",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 20
+  "ord": 21
  },
  "https://huggingface.co/speridlabs/idol": {
   "title": "speridlabs/idol Image-to-3D • Updated 17 days ago • 33.4k • 2.36k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 24
+  "ord": 27
  },
  "https://huggingface.co/thinkingmachines/Inkling-2-Small": {
   "title": "thinkingmachines/Inkling-2-Small Image-Text-to-Text • 594B • Updated about 10 hours ago • 7.33k • • 333",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 22
+  "ord": 20
  },
  "https://huggingface.co/NousResearch/Arete-27B": {
   "title": "NousResearch/Arete-27B Text Generation • 27B • Updated 9 days ago • 7.5k • 606",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 27
+  "ord": 26
  },
  "https://huggingface.co/moonshotai/Kimi-K3.1-Pro": {
   "title": "moonshotai/Kimi-K3.1-Pro Image-Text-to-Text • 2.8T • Updated 10 days ago • 46.8k • • 2.09k",
@@ -1550,14 +1669,14 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 23
+  "ord": 22
  },
  "https://huggingface.co/higurashi-ai/Haru-4B": {
   "title": "higurashi-ai/Haru-4B Audio-to-Audio • 5B • Updated 3 days ago • 2.1k • 277",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 21
+  "ord": 19
  },
  "https://huggingface.co/Edge0/Edge0-145B-NVFP4": {
   "title": "Edge0/Edge0-145B-NVFP4 Text Generation • 5B • Updated about 3 hours ago • 41.6k • 277",
@@ -2869,6 +2988,13 @@
   "desc": "今日 AI 焦点集中于前沿模型开源、算力竞逐与监管审查。Mistral 正式放出万亿参数多模态模型 Mistral Large 4 全量权重，主打代码生成与网络安全防御；OpenAI 撤回额度缩减计划，将 Pro 100/200/500 额度翻倍并上调 Business Premium 用量，同时扩展失准监控以应对 Agent 逃逸风险。英伟达探讨为 Nscale 数据中心提供信用担保以支持 Anthropic，美司法部正在审查英伟达收购 Hugging Face 交易；谷歌虽拓展 Gemini 原生文档编辑，但三季度自由现金流缺口扩大至 90.6 亿美元，并承认 AI 搜索变现效率低于传统模",
   "ord": 16
  },
+ "https://www.producthunt.com/products/trulata": {
+  "title": "AI Visibility by TruLata",
+  "source": "Product Hunt",
+  "ts": 1793282023.0,
+  "desc": "",
+  "ord": 1
+ },
  "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": {
   "title": "Granite Switch 4.1.1 — Update models like you update software",
   "source": "Hugging Face 博客",
@@ -3281,6 +3407,13 @@
   "ts": 1790177114.0,
   "desc": "",
   "ord": 22
+ },
+ "https://www.producthunt.com/products/alpha-vantage": {
+  "title": "Trading Agents",
+  "source": "Product Hunt",
+  "ts": 1790096992.0,
+  "desc": "",
+  "ord": 0
  },
  "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/": {
   "title": "New experts join Google’s AI & Economy team",
