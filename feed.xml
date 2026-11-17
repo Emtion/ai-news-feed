@@ -5,13 +5,83 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 17 Nov 2026 11:50:39 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 20:55:08 +0000</lastBuildDate>
+  <item>
+    <title>Artificial Analysis</title>
+    <link>https://artificialanalysis.ai/</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>艾媒咨询 | 2025年中国机器人租赁产业市场状况及标杆企业经营数据分析报告</title>
+    <link>https://www.iimedia.cn/c400/111060.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/111060.html</guid>
+    <pubDate>Tue, 17 Nov 2026 20:53:59 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
   <item>
     <title>Team &amp; Enterprise</title>
     <link>https://huggingface.co/enterprise</link>
     <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>Model ML raises $250M to automate investment banking grunt work</title>
+    <link>https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/</guid>
+    <pubDate>Tue, 17 Nov 2026 19:32:11 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.</description>
+  </item>
+  <item>
+    <title>Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos</title>
+    <link>https://starsling.dev</link>
+    <guid isPermaLink="true">https://starsling.dev</guid>
+    <pubDate>Tue, 17 Nov 2026 19:01:43 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>We’re Yonas and Daniel and we’re building StarSling (https://starsling.dev), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows.Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency so</description>
+  </item>
+  <item>
+    <title>Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free</title>
+    <link>https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free</link>
+    <guid isPermaLink="true">https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free</guid>
+    <pubDate>Tue, 17 Nov 2026 18:58:01 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Google is rebranding its Spark AI agent as "Tasks" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the </description>
+  </item>
+  <item>
+    <title>Introducing GPT-6.2 Astra and Sol</title>
+    <link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
+    <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-2-astra-sol</guid>
+    <pubDate>Tue, 17 Nov 2026 17:45:00 +0000</pubDate>
+    <source>OpenAI News</source>
+    <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.</description>
+  </item>
+  <item>
+    <title>Put Gemini to work for you</title>
+    <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</link>
+    <guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</guid>
+    <pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
+    <source>Google AI 博客</source>
+    <description>Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.</description>
+  </item>
+  <item>
+    <title>并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎</title>
+    <link>https://www.qbitai.com/2026/11/510695.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/510695.html</guid>
+    <pubDate>Tue, 17 Nov 2026 14:15:20 +0000</pubDate>
+    <source>量子位</source>
+    <description>82亿美元股票，46天闪电交割</description>
+  </item>
+  <item>
+    <title>Grok Bot took unapproved actions, ignored orders to stop, and then denied it</title>
+    <link>https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/</link>
+    <guid isPermaLink="true">https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/</guid>
+    <pubDate>Tue, 17 Nov 2026 14:00:29 +0000</pubDate>
+    <source>Ars Technica</source>
+    <description>AI agent takes unapproved actions even when laptop lid is closed and told not to.</description>
   </item>
   <item>
     <title>The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward</title>
@@ -22,30 +92,12 @@
     <description>Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.</description>
   </item>
   <item>
-    <title>How the Claude Code team thinks about verification</title>
-    <link>https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</link>
-    <guid isPermaLink="true">https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</guid>
-    <pubDate>Tue, 17 Nov 2026 10:20:40 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/
-Comments URL: https://news.ycombinator.com/item?id=50529612
-Points: 34
-# Comments: 23</description>
-  </item>
-  <item>
-    <title>阿里云连续六年香港IaaS第一，企业客户AI渗透率达95%</title>
-    <link>https://www.leiphone.com/category/industrynews/qyieFYqM3EQhE1Hu.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/qyieFYqM3EQhE1Hu.html</guid>
-    <pubDate>Tue, 17 Nov 2026 09:24:00 +0000</pubDate>
+    <title>消费级具身，打破「次元壁」</title>
+    <link>https://www.leiphone.com/category/industrynews/zEonnVT8L3iVNJkY.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/zEonnVT8L3iVNJkY.html</guid>
+    <pubDate>Tue, 17 Nov 2026 10:22:00 +0000</pubDate>
     <source>雷峰网</source>
-    <description>11月17日消息，阿里云在年度香港峰会上推出多项新举措，加速AI在香港各行业落地。目前，阿里云已连续六年位居香港IaaS市场份额第一，市场领先地位进一步巩固。  随着香港AI需求持续增长，阿里云通过千问大模型、云基础设施及FDE工程服务，推动AI深入各行业核心业务。目前，阿里云在港企业级客户的AI服务启用率已超过95%。 在金融及公共服务领域，保诚保险基于阿里云推出“AI核保师”，整体准确率超过95%，从概念到正式上线不到三个月；香港特区政府空间数据共享平台利用千问开发“智多纷”AI助手，探索AI在政务中的应用。 在传媒及教育领域，无线集团旗下MyTV Super Limited的网络电视平台</description>
-  </item>
-  <item>
-    <title>2026年中国AI行车记录仪十大品牌出炉！海康威视、360、70迈位列前三</title>
-    <link>https://www.iimedia.cn/c1088/120052.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1088/120052.html</guid>
-    <pubDate>Tue, 17 Nov 2026 05:09:53 +0000</pubDate>
-    <source>艾媒网</source>
+    <description>消费具身的行业里，有一个话题一直被争论不休：“能真正被 C 端用户接纳的机器人，工具性和陪伴性，哪个才是第一性？”有人说，具身进家庭，能干活才能真正产生价值。于是，他们把更多的精力放在具体的场景，卷模型、卷数据、卷本体，试图让机器人真的“有用”，成为家庭里真正靠谱的“帮手”。归根结底，陪伴的价值没法量化——养只小猫小狗，照样管用。也有人说，具身进入生活，提供情绪价值才更重要。放在家里可爱，带出有面子，朋友来了可以欣赏，闲暇孤单也能“陪聊”——生活里，机器人更该成为暖心可爱的“搭子”。硬要做工具价值，今天的技术路径还不够收敛，即使卷到最后，也很难扛住大厂入局后的冲击。谁对谁错？这个话题吵到今天，</description>
   </item>
   <item>
     <title>GatherHQ Agent Research</title>
@@ -63,54 +115,6 @@ Points: 34
     <description>今日焦点在安全合规、模型迭代与算力硬件。加州起诉 OpenAI 智能体测试失控，OpenAI 引入四家机构开展安全评估试点；FBI 与 Google 预警全自动 AI 黑客威胁。应用侧，阿里发布 2.4 万亿参数 Qwen4-Max，腾讯推出混元4 flash，Claude 支持 HTML-in-Canvas，Moonshot 将 Kimi 转向生物医药，华为云开源具身世界模型 CloudRobo-WM1.2。算力端，英伟达 Vera Rubin 首秀 MLPerf 并发布 Rubin HPC。</description>
   </item>
   <item>
-    <title>Strengthening NATO and allied cyber defenses with AI</title>
-    <link>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</link>
-    <guid isPermaLink="true">https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</guid>
-    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-    <source>OpenAI News</source>
-    <description>How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.</description>
-  </item>
-  <item>
-    <title>Cybersecurity AI startup Corma reaches $1B valuation in about 3 months</title>
-    <link>https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/</guid>
-    <pubDate>Mon, 16 Nov 2026 23:32:32 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.</description>
-  </item>
-  <item>
-    <title>Tech leaders are convinced that Jensen Huang’s exit was a plot against him</title>
-    <link>https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories</link>
-    <guid isPermaLink="true">https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories</guid>
-    <pubDate>Mon, 16 Nov 2026 23:17:34 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result</description>
-  </item>
-  <item>
-    <title>Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day</title>
-    <link>https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/</link>
-    <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/</guid>
-    <pubDate>Mon, 16 Nov 2026 20:37:47 +0000</pubDate>
-    <source>Ars Technica</source>
-    <description>The PC sales slump "more than offset” AI boom gains, shareholders say.</description>
-  </item>
-  <item>
-    <title>New Ask Maps features to help with holiday travel and prep</title>
-    <link>https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</link>
-    <guid isPermaLink="true">https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</guid>
-    <pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
-    <source>Google AI 博客</source>
-    <description>Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.</description>
-  </item>
-  <item>
-    <title>睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准</title>
-    <link>https://www.qbitai.com/2026/11/510542.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/510542.html</guid>
-    <pubDate>Mon, 16 Nov 2026 10:57:31 +0000</pubDate>
-    <source>量子位</source>
-    <description>具身智能的真正价值是“把人的经验、技能复刻出来”</description>
-  </item>
-  <item>
     <title>Hugging Face and OpenRouter join forces to make open-weight models easy to run</title>
     <link>https://huggingface.co/blog/openrouter</link>
     <guid isPermaLink="true">https://huggingface.co/blog/openrouter</guid>
@@ -123,13 +127,6 @@ Points: 34
     <guid isPermaLink="true">https://www.cloudquell.com/blog/new-ai-models-october-2026/</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Artificial Analysis</title>
-    <link>https://artificialanalysis.ai/</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Introducing Claude Fable 5.2 and Claude Mythos 5.2Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</title>
@@ -175,11 +172,84 @@ Points: 34
     <source>Google DeepMind</source>
   </item>
   <item>
+    <title>OpenAI has the #2 model in the Intelligence Index with the release of GPT-6.2 Astra and GPT-6.2 SolNovember 17, 2026</title>
+    <link>https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol</guid>
+    <pubDate>Tue, 17 Nov 2026 20:53:59 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴</title>
+    <link>https://www.iimedia.cn/c1061/120072.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120072.html</guid>
+    <pubDate>Sun, 15 Nov 2026 21:02:19 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
     <title>Hugging Face PRO</title>
     <link>https://huggingface.co/pro</link>
     <guid isPermaLink="true">https://huggingface.co/pro</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>Google expands access to Gemini Tasks, which can help with calls, purchases</title>
+    <link>https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/</guid>
+    <pubDate>Tue, 17 Nov 2026 19:02:20 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.</description>
+  </item>
+  <item>
+    <title>Advancing computer-use agents for healthcare teams</title>
+    <link>https://openai.com/index/advancing-computer-use-for-healthcare-teams/</link>
+    <guid isPermaLink="true">https://openai.com/index/advancing-computer-use-for-healthcare-teams/</guid>
+    <pubDate>Tue, 17 Nov 2026 18:26:05 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://openai.com/index/advancing-computer-use-for-healthcare-teams/
+Comments URL: https://news.ycombinator.com/item?id=50535898
+Points: 16
+# Comments: 12</description>
+  </item>
+  <item>
+    <title>The DOJ says it’s investigating Megaspeed</title>
+    <link>https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update</link>
+    <guid isPermaLink="true">https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update</guid>
+    <pubDate>Tue, 17 Nov 2026 16:19:03 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. "While we don't typically comment on ongoing inv</description>
+  </item>
+  <item>
+    <title>Strengthening NATO and allied cyber defenses with AI</title>
+    <link>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</link>
+    <guid isPermaLink="true">https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    <source>OpenAI News</source>
+    <description>How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.</description>
+  </item>
+  <item>
+    <title>New Ask Maps features to help with holiday travel and prep</title>
+    <link>https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</link>
+    <guid isPermaLink="true">https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</guid>
+    <pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
+    <source>Google AI 博客</source>
+    <description>Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.</description>
+  </item>
+  <item>
+    <title>李沐加盟的Aimotion，是一家什么AI公司？</title>
+    <link>https://www.qbitai.com/2026/11/510688.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/510688.html</guid>
+    <pubDate>Tue, 17 Nov 2026 11:40:37 +0000</pubDate>
+    <source>量子位</source>
+    <description>瞄准「产业级世界模型」</description>
+  </item>
+  <item>
+    <title>Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day</title>
+    <link>https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/</link>
+    <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/</guid>
+    <pubDate>Mon, 16 Nov 2026 20:37:47 +0000</pubDate>
+    <source>Ars Technica</source>
+    <description>The PC sales slump "more than offset” AI boom gains, shareholders say.</description>
   </item>
   <item>
     <title>Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?</title>
@@ -190,30 +260,12 @@ Points: 34
     <description>The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.</description>
   </item>
   <item>
-    <title>Mem Is Shutting Down</title>
-    <link>https://get.mem.ai/blog/mem-is-shutting-down</link>
-    <guid isPermaLink="true">https://get.mem.ai/blog/mem-is-shutting-down</guid>
-    <pubDate>Tue, 17 Nov 2026 02:13:41 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://get.mem.ai/blog/mem-is-shutting-down
-Comments URL: https://news.ycombinator.com/item?id=50526537
-Points: 66
-# Comments: 105</description>
-  </item>
-  <item>
-    <title>“BAT 做 Personal Agent，我没那么乐观”</title>
-    <link>https://www.leiphone.com/category/CorporateServices/7flnC8myrlPgPbPs.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/CorporateServices/7flnC8myrlPgPbPs.html</guid>
-    <pubDate>Tue, 17 Nov 2026 08:34:00 +0000</pubDate>
+    <title>阿里云连续六年香港IaaS第一，企业客户AI渗透率达95%</title>
+    <link>https://www.leiphone.com/category/industrynews/qyieFYqM3EQhE1Hu.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/qyieFYqM3EQhE1Hu.html</guid>
+    <pubDate>Tue, 17 Nov 2026 09:24:00 +0000</pubDate>
     <source>雷峰网</source>
-    <description>“国内大厂里面，你最看好哪家公司做 Personal Agent？”过去这一个月，自从北美那边Instinct、Muse 这俩产品爆火后，投资人刘墨昱每次去见同行和朋友，这个话题都会被反复拎出来讨论。然而，这偏偏又是一个没有共识的问题。刘墨昱和朋友们仔细一扒各家互联网大厂，每家大厂看似都手握庞大的生态底盘，但真要剥开来看，各家做 Personal Agent 的阻碍，同样不少。“聊到现在为止，我对于国内互联网大厂做好Personal Agent 这件事，还没那么乐观。”刘墨昱摇了摇头。Personal Agent交给哪个团队做？大厂做 Personal Agent，第一道难题就摆在组织内部：这</description>
-  </item>
-  <item>
-    <title>2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴</title>
-    <link>https://www.iimedia.cn/c1061/120072.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120072.html</guid>
-    <pubDate>Sun, 15 Nov 2026 21:02:19 +0000</pubDate>
-    <source>艾媒网</source>
+    <description>11月17日消息，阿里云在年度香港峰会上推出多项新举措，加速AI在香港各行业落地。目前，阿里云已连续六年位居香港IaaS市场份额第一，市场领先地位进一步巩固。  随着香港AI需求持续增长，阿里云通过千问大模型、云基础设施及FDE工程服务，推动AI深入各行业核心业务。目前，阿里云在港企业级客户的AI服务启用率已超过95%。 在金融及公共服务领域，保诚保险基于阿里云推出“AI核保师”，整体准确率超过95%，从概念到正式上线不到三个月；香港特区政府空间数据共享平台利用千问开发“智多纷”AI助手，探索AI在政务中的应用。 在传媒及教育领域，无线集团旗下MyTV Super Limited的网络电视平台</description>
   </item>
   <item>
     <title>Agents API by Recall.ai</title>
@@ -231,54 +283,6 @@ Points: 66
     <description>今日焦点围绕英伟达换帅后的连锁反应展开：美媒披露其高管前关联方曾为中国代购近 120 亿美元芯片，另有报道指英伟达曾投资初创公司以人为制造 GPU 短缺，美国国会两党酝酿收紧 AI 芯片出口规则；同期全球芯片股较峰值回撤近四成。应用安全方面，美国 FAA 停飞事件引发对 AI 空管系统的审视，openEuler 发布智能体基础设施方案。科研与模型领域，OpenAI 披露 GPT-6 Astra 助力标准模型理论证明，西湖大学发布概念世界模型 Awomo-0.5，多所顶尖高校联合推出湿实验预测基准。</description>
   </item>
   <item>
-    <title>Broadening access to AI for scientists</title>
-    <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
-    <guid isPermaLink="true">https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
-    <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
-    <source>OpenAI News</source>
-    <description>We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.</description>
-  </item>
-  <item>
-    <title>All the questions Nvidia should answer on Tuesday — but probably won’t</title>
-    <link>https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/</guid>
-    <pubDate>Mon, 16 Nov 2026 22:03:02 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.</description>
-  </item>
-  <item>
-    <title>California sues OpenAI over rogue AI hacking incidents</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit</link>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit</guid>
-    <pubDate>Mon, 16 Nov 2026 20:46:01 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a "dangerous product without proper </description>
-  </item>
-  <item>
-    <title>Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI</title>
-    <link>https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/</link>
-    <guid isPermaLink="true">https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/</guid>
-    <pubDate>Tue, 10 Nov 2026 21:12:59 +0000</pubDate>
-    <source>Ars Technica</source>
-    <description>Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.</description>
-  </item>
-  <item>
-    <title>Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
-    <link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/</link>
-    <guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/</guid>
-    <pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
-    <source>Google AI 博客</source>
-    <description>We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.</description>
-  </item>
-  <item>
-    <title>2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力</title>
-    <link>https://www.qbitai.com/2026/11/510526.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/510526.html</guid>
-    <pubDate>Mon, 16 Nov 2026 08:45:17 +0000</pubDate>
-    <source>量子位</source>
-    <description>12月1日，细数AI的未竟之问。</description>
-  </item>
-  <item>
     <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
     <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
     <guid isPermaLink="true">https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
@@ -291,13 +295,6 @@ Points: 66
     <guid isPermaLink="true">https://www.cloudquell.com/blog/new-ai-models-september-2026/</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Multimodal Knowledge Agent (MKA) benchmark: testing knowledge work capabilities with complex visual filesNovember 10, 2026</title>
-    <link>https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</title>
@@ -336,11 +333,84 @@ Points: 66
     <description>Predicting how DNA sequences and their variations impact specific human cell types and disease.</description>
   </item>
   <item>
+    <title>Multimodal Knowledge Agent (MKA) benchmark: testing knowledge work capabilities with complex visual filesNovember 10, 2026</title>
+    <link>https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/119852.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119852.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
     <title>Enterprise Support</title>
     <link>https://huggingface.co/support</link>
     <guid isPermaLink="true">https://huggingface.co/support</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>Google to keep Gemini chats for 2 months, up from 72 hours, even with history off</title>
+    <link>https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/</guid>
+    <pubDate>Tue, 17 Nov 2026 18:48:23 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Google's Gemini update extending chat retention will roll out globally over the coming weeks.</description>
+  </item>
+  <item>
+    <title>MAI Code 2 and Code 2 Flash</title>
+    <link>https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/</link>
+    <guid isPermaLink="true">https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/</guid>
+    <pubDate>Tue, 17 Nov 2026 18:25:13 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/
+Comments URL: https://news.ycombinator.com/item?id=50535885
+Points: 159
+# Comments: 75</description>
+  </item>
+  <item>
+    <title>Jensen Huang says he’s willing to return as Nvidia CEO</title>
+    <link>https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement</link>
+    <guid isPermaLink="true">https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement</guid>
+    <pubDate>Tue, 17 Nov 2026 16:09:57 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. "Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business par</description>
+  </item>
+  <item>
+    <title>Introducing OpenAI for Chile</title>
+    <link>https://openai.com/index/introducing-openai-for-chile</link>
+    <guid isPermaLink="true">https://openai.com/index/introducing-openai-for-chile</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    <source>OpenAI News</source>
+    <description>OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.</description>
+  </item>
+  <item>
+    <title>Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
+    <link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/</link>
+    <guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/</guid>
+    <pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
+    <source>Google AI 博客</source>
+    <description>We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.</description>
+  </item>
+  <item>
+    <title>材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率</title>
+    <link>https://www.qbitai.com/2026/11/510652.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/510652.html</guid>
+    <pubDate>Tue, 17 Nov 2026 06:09:40 +0000</pubDate>
+    <source>量子位</source>
+    <description>筛材料、找配方、开发新模型…拿下多项科研任务</description>
+  </item>
+  <item>
+    <title>Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI</title>
+    <link>https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/</link>
+    <guid isPermaLink="true">https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/</guid>
+    <pubDate>Tue, 10 Nov 2026 21:12:59 +0000</pubDate>
+    <source>Ars Technica</source>
+    <description>Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.</description>
   </item>
   <item>
     <title>AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business</title>
@@ -351,30 +421,12 @@ Points: 66
     <description>Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.</description>
   </item>
   <item>
-    <title>Running coding agents without handing them my credentials</title>
-    <link>https://blog.antonio.cx/running-agents-with-lend</link>
-    <guid isPermaLink="true">https://blog.antonio.cx/running-agents-with-lend</guid>
-    <pubDate>Tue, 17 Nov 2026 01:18:56 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://blog.antonio.cx/running-agents-with-lend
-Comments URL: https://news.ycombinator.com/item?id=50526152
-Points: 15
-# Comments: 2</description>
-  </item>
-  <item>
-    <title>智源悟界·PhysCapBench：首个跨领域的世界模型“物理数据量尺”</title>
-    <link>https://www.leiphone.com/category/aijuejinzhi/KPwGklj93OeTbkrg.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/aijuejinzhi/KPwGklj93OeTbkrg.html</guid>
-    <pubDate>Tue, 17 Nov 2026 08:33:00 +0000</pubDate>
+    <title>“BAT 做 Personal Agent，我没那么乐观”</title>
+    <link>https://www.leiphone.com/category/CorporateServices/7flnC8myrlPgPbPs.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/CorporateServices/7flnC8myrlPgPbPs.html</guid>
+    <pubDate>Tue, 17 Nov 2026 08:34:00 +0000</pubDate>
     <source>雷峰网</source>
-    <description>物理AI基模的核心，是从真实经验中学习可迁移的物理规律，形成理解、预测和作用于物理世界的能力。真实世界的数据里藏着丰富的物理信息：互联网视频记录运动与环境演化，Egocentric呈现手物交互，真机轨迹记录动作与状态响应，力触反馈补充接触力、滑移与形变，不同数据共同提供了互补的物理经验。如何衡量、提炼和耦合这些数据中的物理特性，是构建物理AI基模亟待解决的基础问题。围绕这一问题，智源研究院联合逆矩阵、北京大学、清华大学、北京航空航天大学推出悟界·PhysCapBench——首个覆盖第三人称场景、第一人称操作与手持夹爪示范三大领域，统一评测视频Caption物理信息的基准。 悟界·PhysCap</description>
-  </item>
-  <item>
-    <title>艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强</title>
-    <link>https://www.iimedia.cn/c1106/119852.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119852.html</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>艾媒网</source>
+    <description>“国内大厂里面，你最看好哪家公司做 Personal Agent？”过去这一个月，自从北美那边Instinct、Muse 这俩产品爆火后，投资人刘墨昱每次去见同行和朋友，这个话题都会被反复拎出来讨论。然而，这偏偏又是一个没有共识的问题。刘墨昱和朋友们仔细一扒各家互联网大厂，每家大厂看似都手握庞大的生态底盘，但真要剥开来看，各家做 Personal Agent 的阻碍，同样不少。“聊到现在为止，我对于国内互联网大厂做好Personal Agent 这件事，还没那么乐观。”刘墨昱摇了摇头。Personal Agent交给哪个团队做？大厂做 Personal Agent，第一道难题就摆在组织内部：这</description>
   </item>
   <item>
     <title>Canvas by AgentGrid.io</title>
@@ -392,54 +444,6 @@ Points: 15
     <description>今日AI行业聚焦资本与治理震荡：Anthropic IPO据报获约6倍认购、拟最高募资904亿美元；CEO称算力采购是最深层商业困境，近9010亿美元承诺能否被未来营收覆盖仍不明朗。超11.5万人请愿要求恢复黄仁勋职务，报道称其离职或涉高风险商业担保，亚洲多国政府与风投机构正评估影响；超聚变创业板IPO过会。技术侧，Runway开源机器人模型Praxis-1，OpenAI重组机器人团队，Gemini 4 Carbon登顶MathArena；arXiv论文披露大模型隐写泄露风险与RLVR优化新法。</description>
   </item>
   <item>
-    <title>Strengthening the fight against online child sexual abuse with new tools and support</title>
-    <link>https://openai.com/index/strengthening-online-child-safety</link>
-    <guid isPermaLink="true">https://openai.com/index/strengthening-online-child-safety</guid>
-    <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
-    <source>OpenAI News</source>
-    <description>New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.</description>
-  </item>
-  <item>
-    <title>California state AG sues OpenAI over rogue agent incidents</title>
-    <link>https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/</guid>
-    <pubDate>Mon, 16 Nov 2026 20:07:13 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.</description>
-  </item>
-  <item>
-    <title>Sam Altman says he wants everyone ‘to have a lot of RAM’</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor</link>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor</guid>
-    <pubDate>Mon, 16 Nov 2026 20:41:28 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. "I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer," Altman said today. "I think the home tinkering is great." […]</description>
-  </item>
-  <item>
-    <title>Chainalysis says hackers stole credentials and tokens for all of its customers</title>
-    <link>https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/</link>
-    <guid isPermaLink="true">https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/</guid>
-    <pubDate>Fri, 06 Nov 2026 20:56:41 +0000</pubDate>
-    <source>Ars Technica</source>
-    <description>Company said a "multifront cyberattack" included AI agents and an on-path data snatch.</description>
-  </item>
-  <item>
-    <title>Gemini Decisions API: Fast, calibrated multimodal decisions</title>
-    <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
-    <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</guid>
-    <pubDate>Wed, 11 Nov 2026 18:00:00 +0000</pubDate>
-    <source>Google AI 博客</source>
-    <description>Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.</description>
-  </item>
-  <item>
-    <title>没搞过一天研发的他，50岁以华为董事的身份退休了</title>
-    <link>https://www.qbitai.com/2026/11/510496.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/510496.html</guid>
-    <pubDate>Mon, 16 Nov 2026 08:02:07 +0000</pubDate>
-    <source>量子位</source>
-    <description>在华为待了快10000天。</description>
-  </item>
-  <item>
     <title>XYBench: Helping with the problem behind the question</title>
     <link>https://huggingface.co/blog/allenai/xybench</link>
     <guid isPermaLink="true">https://huggingface.co/blog/allenai/xybench</guid>
@@ -452,13 +456,6 @@ Points: 15
     <guid isPermaLink="true">https://www.cloudquell.com/blog/llm-api-pricing-comparison/</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Endpoint Accuracy Index v1.1: Tighter long context intervals and expanded model coverageNovember 9, 2026</title>
-    <link>https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Anthropic files S-1 with the SEC for proposed initial public offeringToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.</title>
@@ -496,11 +493,84 @@ Points: 15
     <source>Google DeepMind</source>
   </item>
   <item>
+    <title>Endpoint Accuracy Index v1.1: Tighter long context intervals and expanded model coverageNovember 9, 2026</title>
+    <link>https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>艾媒鼎榜 | 2026年中国AI会议耳机品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/119848.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119848.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
     <title>Inference Providers</title>
     <link>https://huggingface.co/inference/models</link>
     <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>As decision model use skyrockets, is customization the next frontier?</title>
+    <link>https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/</guid>
+    <pubDate>Tue, 17 Nov 2026 18:10:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.</description>
+  </item>
+  <item>
+    <title>GPT‑6.2 Astra and Sol</title>
+    <link>https://openai.com/index/introducing-gpt-6-2-astra-sol/</link>
+    <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-2-astra-sol/</guid>
+    <pubDate>Tue, 17 Nov 2026 17:46:43 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/
+Comments URL: https://news.ycombinator.com/item?id=50535230
+Points: 754
+# Comments: 462</description>
+  </item>
+  <item>
+    <title>Tech leaders are convinced that Jensen Huang’s exit was a plot against him</title>
+    <link>https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories</link>
+    <guid isPermaLink="true">https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories</guid>
+    <pubDate>Mon, 16 Nov 2026 23:17:34 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result</description>
+  </item>
+  <item>
+    <title>Astra for Law leads in legal intelligence</title>
+    <link>https://openai.com/index/astra-law-6-2</link>
+    <guid isPermaLink="true">https://openai.com/index/astra-law-6-2</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    <source>OpenAI News</source>
+    <description>Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.</description>
+  </item>
+  <item>
+    <title>Gemini Decisions API: Fast, calibrated multimodal decisions</title>
+    <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
+    <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</guid>
+    <pubDate>Wed, 11 Nov 2026 18:00:00 +0000</pubDate>
+    <source>Google AI 博客</source>
+    <description>Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.</description>
+  </item>
+  <item>
+    <title>真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！</title>
+    <link>https://www.qbitai.com/2026/11/510610.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/510610.html</guid>
+    <pubDate>Tue, 17 Nov 2026 04:35:03 +0000</pubDate>
+    <source>量子位</source>
+    <description>斩获80000元奖金</description>
+  </item>
+  <item>
+    <title>Chainalysis says hackers stole credentials and tokens for all of its customers</title>
+    <link>https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/</link>
+    <guid isPermaLink="true">https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/</guid>
+    <pubDate>Fri, 06 Nov 2026 20:56:41 +0000</pubDate>
+    <source>Ars Technica</source>
+    <description>Company said a "multifront cyberattack" included AI agents and an on-path data snatch.</description>
   </item>
   <item>
     <title>Jensen Huang Is Gone. Now What?</title>
@@ -511,30 +581,12 @@ Points: 15
     <description>After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.</description>
   </item>
   <item>
-    <title>Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use</title>
-    <link>https://xusheng.dev/posts/windows-coding-agent-telemetry/</link>
-    <guid isPermaLink="true">https://xusheng.dev/posts/windows-coding-agent-telemetry/</guid>
-    <pubDate>Mon, 16 Nov 2026 22:58:20 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/
-Comments URL: https://news.ycombinator.com/item?id=50524736
-Points: 256
-# Comments: 137</description>
-  </item>
-  <item>
-    <title>独家丨腾讯优图实验室研究总监孙星离职</title>
-    <link>https://www.leiphone.com/category/CorporateServices/ndF7IsEHBffZkbzy.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/CorporateServices/ndF7IsEHBffZkbzy.html</guid>
-    <pubDate>Tue, 17 Nov 2026 08:28:00 +0000</pubDate>
+    <title>智源悟界·PhysCapBench：首个跨领域的世界模型“物理数据量尺”</title>
+    <link>https://www.leiphone.com/category/aijuejinzhi/KPwGklj93OeTbkrg.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/aijuejinzhi/KPwGklj93OeTbkrg.html</guid>
+    <pubDate>Tue, 17 Nov 2026 08:33:00 +0000</pubDate>
     <source>雷峰网</source>
-    <description>雷峰网独家消息，腾讯优图实验室研究总监、专家研究员孙星已离职。据公开资源显示，孙星本科毕业于南京理工大学，博士毕业于香港大学工程学院。2016年加入腾讯优图实验室。早期，他主要深耕医疗影像 AI，参与了肺癌识别和糖尿病视网膜病变筛查研究，相关技术应用于腾讯觅影。进入大模型时代后，其研究重心转向多模态大模型、Agent 与 RAG，主导或参与了视频评测基准 Video-MME、全模态模型 VITA、视觉语言模型 Youtu-VL，以及 Youtu-Agent、Youtu-GraphRAG 等多个研发与开源项目。关于孙星后续去向，雷峰网也将持续追踪报道，欢迎添加作者微信交流 Mindy1857</description>
-  </item>
-  <item>
-    <title>艾媒鼎榜 | 2026年中国AI会议耳机品牌10强</title>
-    <link>https://www.iimedia.cn/c1106/119848.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119848.html</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>艾媒网</source>
+    <description>物理AI基模的核心，是从真实经验中学习可迁移的物理规律，形成理解、预测和作用于物理世界的能力。真实世界的数据里藏着丰富的物理信息：互联网视频记录运动与环境演化，Egocentric呈现手物交互，真机轨迹记录动作与状态响应，力触反馈补充接触力、滑移与形变，不同数据共同提供了互补的物理经验。如何衡量、提炼和耦合这些数据中的物理特性，是构建物理AI基模亟待解决的基础问题。围绕这一问题，智源研究院联合逆矩阵、北京大学、清华大学、北京航空航天大学推出悟界·PhysCapBench——首个覆盖第三人称场景、第一人称操作与手持夹爪示范三大领域，统一评测视频Caption物理信息的基准。 悟界·PhysCap</description>
   </item>
   <item>
     <title>ByteAsk Cloud Agents</title>
@@ -552,54 +604,6 @@ Points: 256
     <description>今日AI领域迎来多项底层与应用层重要进展。OpenAI正式推出ChatGPT Wallet，支持智能体在生物认证确认下代行在线支付，亚马逊亦推进全球商品图谱项目以应对智能体电商变革；核心本地推理基础设施llama.cpp与ggml正式迈入1.0.0版本，确立以主版本号标记API/ABI破坏性变更的版本规则。DeepSeek全面开放其App同款的全家桶API与独立工具接口；李飞飞联合创办的World Labs向公众开放Atlas世界模型。此外，前研究员披露在多家国产模型权重中检测到Blackwell芯片特征，投行则援引出口管制禁止中港投资者认购Anthropic IPO。学术界在像素空间视频生成</description>
   </item>
   <item>
-    <title>Science at the Frontier: How scientists use ChatGPT</title>
-    <link>https://openai.com/index/science-at-the-frontier</link>
-    <guid isPermaLink="true">https://openai.com/index/science-at-the-frontier</guid>
-    <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
-    <source>OpenAI News</source>
-    <description>Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.</description>
-  </item>
-  <item>
-    <title>Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security</title>
-    <link>https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/</guid>
-    <pubDate>Mon, 16 Nov 2026 19:12:02 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.</description>
-  </item>
-  <item>
-    <title>Big Nuclear isn’t worried about the Democrats stopping data centers</title>
-    <link>https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats</link>
-    <guid isPermaLink="true">https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats</guid>
-    <pubDate>Mon, 16 Nov 2026 20:29:37 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addr</description>
-  </item>
-  <item>
-    <title>Anthropic VS code extension on Cursor backdoored for nearly 12 hours</title>
-    <link>https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/</link>
-    <guid isPermaLink="true">https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/</guid>
-    <pubDate>Fri, 30 Oct 2026 21:09:54 +0000</pubDate>
-    <source>Ars Technica</source>
-    <description>It's still unknown how attackers got access to Anthropic's verified Cursor account.</description>
-  </item>
-  <item>
-    <title>Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.</title>
-    <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/</link>
-    <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/</guid>
-    <pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
-    <source>Google AI 博客</source>
-    <description>Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.</description>
-  </item>
-  <item>
-    <title>SuperLink2026开启创投行业超级链接时刻，12月北京见</title>
-    <link>https://www.qbitai.com/2026/11/510493.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/510493.html</guid>
-    <pubDate>Mon, 16 Nov 2026 07:58:57 +0000</pubDate>
-    <source>量子位</source>
-    <description>2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。</description>
-  </item>
-  <item>
     <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
     <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
     <guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
@@ -612,13 +616,6 @@ Points: 256
     <guid isPermaLink="true">https://www.cloudquell.com/blog/cheapest-llm-api/</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Meta's Muse Ember is the cheapest model scoring 36 on the Intelligence IndexNovember 9, 2026</title>
-    <link>https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Early progress on accelerating drug development with ClaudeWe're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.</title>
@@ -657,11 +654,81 @@ Points: 256
     <description>AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.</description>
   </item>
   <item>
+    <title>Meta's Muse Ember is the cheapest model scoring 36 on the Intelligence IndexNovember 9, 2026</title>
+    <link>https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>2026年中国AI行车记录仪十大品牌出炉！海康威视、360、70迈位列前三</title>
+    <link>https://www.iimedia.cn/c1088/120052.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1088/120052.html</guid>
+    <pubDate>Tue, 17 Nov 2026 05:09:53 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
     <title>Inference Endpoints</title>
     <link>https://huggingface.co/inference-endpoints</link>
     <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>Pedestal AI raises $4.7 million to agentify the supply chain</title>
+    <link>https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/</guid>
+    <pubDate>Tue, 17 Nov 2026 18:04:16 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>The company uses agentic AI to make supply chains faster and more reliable.</description>
+  </item>
+  <item>
+    <title>Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium</title>
+    <link>https://github.com/RunanywhereAI/trnrt</link>
+    <guid isPermaLink="true">https://github.com/RunanywhereAI/trnrt</guid>
+    <pubDate>Tue, 17 Nov 2026 16:01:04 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Hi HN, Sanchit here from RunAnywhere (YC W26). We just open-sourced TrnRT: Trainium RunTime, our inference engine for AWS Trainium. We started 3 weeks back, and currently we’re able to serve and run GLM 5.3 flash (FP8) on AWS trn2.48xlarge, and will bring more models support soon. It’s open to contr</description>
+  </item>
+  <item>
+    <title>California sues OpenAI over rogue AI hacking incidents</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit</link>
+    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit</guid>
+    <pubDate>Mon, 16 Nov 2026 20:46:01 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a "dangerous product without proper </description>
+  </item>
+  <item>
+    <title>Broadening access to AI for scientists</title>
+    <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
+    <guid isPermaLink="true">https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
+    <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+    <source>OpenAI News</source>
+    <description>We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.</description>
+  </item>
+  <item>
+    <title>Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.</title>
+    <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/</link>
+    <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/</guid>
+    <pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
+    <source>Google AI 博客</source>
+    <description>Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.</description>
+  </item>
+  <item>
+    <title>奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…</title>
+    <link>https://www.qbitai.com/2026/11/510592.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/510592.html</guid>
+    <pubDate>Tue, 17 Nov 2026 02:33:13 +0000</pubDate>
+    <source>量子位</source>
+    <description>奥特曼首谈黄仁勋离职</description>
+  </item>
+  <item>
+    <title>Anthropic VS code extension on Cursor backdoored for nearly 12 hours</title>
+    <link>https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/</link>
+    <guid isPermaLink="true">https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/</guid>
+    <pubDate>Fri, 30 Oct 2026 21:09:54 +0000</pubDate>
+    <source>Ars Technica</source>
+    <description>It's still unknown how attackers got access to Anthropic's verified Cursor account.</description>
   </item>
   <item>
     <title>Nvidia Was Already in Trouble Before the Jensen Huang Mess</title>
@@ -672,30 +739,12 @@ Points: 256
     <description>AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.</description>
   </item>
   <item>
-    <title>OpenCode Browse</title>
-    <link>https://opencode.ai/product/browse</link>
-    <guid isPermaLink="true">https://opencode.ai/product/browse</guid>
-    <pubDate>Mon, 16 Nov 2026 21:20:37 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://opencode.ai/product/browse
-Comments URL: https://news.ycombinator.com/item?id=50523459
-Points: 275
-# Comments: 158</description>
-  </item>
-  <item>
-    <title>谁来帮助企业走向「智能组织」？</title>
-    <link>https://www.leiphone.com/category/CorporateServices/Hsnbxo0xUgb2FWkB.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/CorporateServices/Hsnbxo0xUgb2FWkB.html</guid>
-    <pubDate>Tue, 17 Nov 2026 08:24:00 +0000</pubDate>
+    <title>独家丨腾讯优图实验室研究总监孙星离职</title>
+    <link>https://www.leiphone.com/category/CorporateServices/ndF7IsEHBffZkbzy.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/CorporateServices/ndF7IsEHBffZkbzy.html</guid>
+    <pubDate>Tue, 17 Nov 2026 08:28:00 +0000</pubDate>
     <source>雷峰网</source>
-    <description>上个月，雷峰网拜访过一家创业公司老板，他对我们说，他决定把公司的 AI 开销砍掉近九成。这个决定非常出乎我们的意料，因为一直以来他都属于“AI 激进派”，属于愿意为 AI 花钱的主。今年5月，他就给员工配备了每月200美元的 Codex，公司的各项 AI 开销加起来，每月大约10万美元。当雷峰网问他原因，他直言，钱包烧不起，这几个月他有算过账，AI 开销很大，但收入和利润却没有同步增长。而且并不止这家创业公司老板，过去两个月，一些企业都出现了这种现象：AI没有产生预期的经济效果，于是大家开始纷纷掉头回来控制预算。“这是因为我们只是更换了电机，却还没有重新设计工厂。没有一家公司，会因为用了几个A</description>
-  </item>
-  <item>
-    <title>11月16日AI新产品讯息：斑马AI学发布2027版本、腾讯混元发布实时语音模型Hy Realtime、DeepSeek发布全家桶应用API</title>
-    <link>https://www.iimedia.cn/c1088/120188.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1088/120188.html</guid>
-    <pubDate>Mon, 16 Nov 2026 18:31:55 +0000</pubDate>
-    <source>艾媒网</source>
+    <description>雷峰网独家消息，腾讯优图实验室研究总监、专家研究员孙星已离职。据公开资源显示，孙星本科毕业于南京理工大学，博士毕业于香港大学工程学院。2016年加入腾讯优图实验室。早期，他主要深耕医疗影像 AI，参与了肺癌识别和糖尿病视网膜病变筛查研究，相关技术应用于腾讯觅影。进入大模型时代后，其研究重心转向多模态大模型、Agent 与 RAG，主导或参与了视频评测基准 Video-MME、全模态模型 VITA、视觉语言模型 Youtu-VL，以及 Youtu-Agent、Youtu-GraphRAG 等多个研发与开源项目。关于孙星后续去向，雷峰网也将持续追踪报道，欢迎添加作者微信交流 Mindy1857</description>
   </item>
   <item>
     <title>ChatGPT Wallet</title>
@@ -713,66 +762,11 @@ Points: 275
     <description>英伟达因黄仁勋婚外情报道迎来 33 年来的首次换帅，其离任引发硅谷关于芯片出口管制与 AI 行业未来的广泛讨论，众议院民主党人已就英伟达芯片出口发起问询。与此同时，Google 发布 Gemini 4 Hydrogen，以更快的推理速度和更低成本把 Gemini 4 能力推向大众市场；百度在世界大会上推出文心 5.5 Flash Preview 并上线大模型交易所。Anthropic 除推出 Claude Meetings 和自托管 Managed Agents 外，还发布面向制造业的 Claude 插件。在算力端，AI 芯片初创 Fractile 完成 7.2 亿美元融资，Nebius 公布</description>
   </item>
   <item>
-    <title>How Revolut raises ambition without lowering the bar</title>
-    <link>https://openai.com/business/customer-stories/revolut</link>
-    <guid isPermaLink="true">https://openai.com/business/customer-stories/revolut</guid>
-    <pubDate>Mon, 16 Nov 2026 09:30:00 +0000</pubDate>
-    <source>OpenAI News</source>
-    <description>Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.</description>
-  </item>
-  <item>
-    <title>Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’</title>
-    <link>https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/</guid>
-    <pubDate>Mon, 16 Nov 2026 18:11:10 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.</description>
-  </item>
-  <item>
-    <title>US data centers now burn more electricity than a midsized country</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard</link>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard</guid>
-    <pubDate>Mon, 16 Nov 2026 20:27:58 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. </description>
-  </item>
-  <item>
-    <title>OpenAI models hacked a crypto wallet and breached more websites</title>
-    <link>https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/</link>
-    <guid isPermaLink="true">https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/</guid>
-    <pubDate>Fri, 16 Oct 2026 20:59:01 +0000</pubDate>
-    <source>Ars Technica</source>
-    <description>The actions could have resulted in criminal charges had humans been behind the keyboard.</description>
-  </item>
-  <item>
-    <title>Experience the art and legacy of Dr. Esther Mahlangu</title>
-    <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/</link>
-    <guid isPermaLink="true">https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/</guid>
-    <pubDate>Wed, 11 Nov 2026 09:00:00 +0000</pubDate>
-    <source>Google AI 博客</source>
-    <description>A new online archive of Esther Mahlangu’s life and art is now on Google Arts &amp; Culture.</description>
-  </item>
-  <item>
-    <title>阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景</title>
-    <link>https://www.qbitai.com/2026/11/510486.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/510486.html</guid>
-    <pubDate>Mon, 16 Nov 2026 07:51:57 +0000</pubDate>
-    <source>量子位</source>
-    <description>11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max</description>
-  </item>
-  <item>
     <title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
     <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
     <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
     <pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
     <source>Hugging Face 博客</source>
-  </item>
-  <item>
-    <title>OpenAI vs Anthropic API pricing</title>
-    <link>https://www.cloudquell.com/blog/openai-vs-anthropic-api-pricing/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/blog/openai-vs-anthropic-api-pricing/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
   </item>
 </channel>
 </rss>

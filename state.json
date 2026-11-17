@@ -1,17 +1,234 @@
 {
+ "https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol": {
+  "title": "OpenAI has the #2 model in the Intelligence Index with the release of GPT-6.2 Astra and GPT-6.2 SolNovember 17, 2026",
+  "source": "Artificial Analysis 智力指数榜",
+  "ts": 1794948839.781622,
+  "desc": "",
+  "ord": 1
+ },
+ "https://www.iimedia.cn/c400/111060.html": {
+  "title": "艾媒咨询 | 2025年中国机器人租赁产业市场状况及标杆企业经营数据分析报告",
+  "source": "艾媒网",
+  "ts": 1794948839.781622,
+  "desc": "",
+  "ord": 0
+ },
+ "https://huggingface.co/sensenova/SenseNova-Loop-9B": {
+  "title": "sensenova/SenseNova-Loop-9B Image-Text-to-Text • 9B • Updated about 9 hours ago • 152",
+  "source": "Hugging Face Trending",
+  "ts": 1794948839.781622,
+  "desc": "",
+  "ord": 28
+ },
+ "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6": {
+  "title": "meituan-longcat/LongCat-Video-Avatar-1.6 Updated 4 days ago • 489 • 194",
+  "source": "Hugging Face Trending",
+  "ts": 1794948839.781622,
+  "desc": "",
+  "ord": 29
+ },
+ "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/": {
+  "title": "Model ML raises $250M to automate investment banking grunt work",
+  "source": "TechCrunch AI",
+  "ts": 1794943931.0,
+  "desc": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/": {
+  "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+  "source": "TechCrunch AI",
+  "ts": 1794942140.0,
+  "desc": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+  "ord": 1
+ },
+ "https://starsling.dev": {
+  "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+  "source": "Hacker News 头版",
+  "ts": 1794942103.0,
+  "desc": "We’re Yonas and Daniel and we’re building StarSling (https://starsling.dev), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows.Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency so",
+  "ord": 0
+ },
+ "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free": {
+  "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+  "source": "The Verge AI",
+  "ts": 1794941881.0,
+  "desc": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the ",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/": {
+  "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+  "source": "TechCrunch AI",
+  "ts": 1794941303.0,
+  "desc": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+  "ord": 2
+ },
+ "https://openai.com/index/advancing-computer-use-for-healthcare-teams/": {
+  "title": "Advancing computer-use agents for healthcare teams",
+  "source": "Hacker News 头版",
+  "ts": 1794939965.0,
+  "desc": "Article URL: https://openai.com/index/advancing-computer-use-for-healthcare-teams/\nComments URL: https://news.ycombinator.com/item?id=50535898\nPoints: 16\n# Comments: 12",
+  "ord": 1
+ },
+ "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/": {
+  "title": "MAI Code 2 and Code 2 Flash",
+  "source": "Hacker News 头版",
+  "ts": 1794939913.0,
+  "desc": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/\nComments URL: https://news.ycombinator.com/item?id=50535885\nPoints: 159\n# Comments: 75",
+  "ord": 2
+ },
+ "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/": {
+  "title": "As decision model use skyrockets, is customization the next frontier?",
+  "source": "TechCrunch AI",
+  "ts": 1794939000.0,
+  "desc": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+  "ord": 3
+ },
+ "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/": {
+  "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+  "source": "TechCrunch AI",
+  "ts": 1794938656.0,
+  "desc": "The company uses agentic AI to make supply chains faster and more reliable.",
+  "ord": 4
+ },
+ "https://openai.com/index/introducing-gpt-6-2-astra-sol/": {
+  "title": "GPT‑6.2 Astra and Sol",
+  "source": "Hacker News 头版",
+  "ts": 1794937603.0,
+  "desc": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/\nComments URL: https://news.ycombinator.com/item?id=50535230\nPoints: 754\n# Comments: 462",
+  "ord": 3
+ },
+ "https://openai.com/index/introducing-gpt-6-2-astra-sol": {
+  "title": "Introducing GPT-6.2 Astra and Sol",
+  "source": "OpenAI News",
+  "ts": 1794937500.0,
+  "desc": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/": {
+  "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+  "source": "TechCrunch AI",
+  "ts": 1794936745.0,
+  "desc": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+  "ord": 5
+ },
+ "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/": {
+  "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+  "source": "TechCrunch AI",
+  "ts": 1794936041.0,
+  "desc": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+  "ord": 6
+ },
+ "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/": {
+  "title": "Put Gemini to work for you",
+  "source": "Google AI 博客",
+  "ts": 1794934800.0,
+  "desc": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/": {
+  "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+  "source": "TechCrunch AI",
+  "ts": 1794933855.0,
+  "desc": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+  "ord": 7
+ },
+ "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/": {
+  "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+  "source": "TechCrunch AI",
+  "ts": 1794933175.0,
+  "desc": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+  "ord": 8
+ },
+ "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update": {
+  "title": "The DOJ says it’s investigating Megaspeed",
+  "source": "The Verge AI",
+  "ts": 1794932343.0,
+  "desc": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing inv",
+  "ord": 1
+ },
+ "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement": {
+  "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+  "source": "The Verge AI",
+  "ts": 1794931797.0,
+  "desc": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business par",
+  "ord": 2
+ },
+ "https://github.com/RunanywhereAI/trnrt": {
+  "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+  "source": "Hacker News 头版",
+  "ts": 1794931264.0,
+  "desc": "Hi HN, Sanchit here from RunAnywhere (YC W26). We just open-sourced TrnRT: Trainium RunTime, our inference engine for AWS Trainium. We started 3 weeks back, and currently we’re able to serve and run GLM 5.3 flash (FP8) on AWS trn2.48xlarge, and will bring more models support soon. It’s open to contr",
+  "ord": 4
+ },
+ "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/": {
+  "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+  "source": "TechCrunch AI",
+  "ts": 1794927600.0,
+  "desc": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
+  "ord": 9
+ },
+ "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/": {
+  "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+  "source": "TechCrunch AI",
+  "ts": 1794927058.0,
+  "desc": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
+  "ord": 10
+ },
+ "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/": {
+  "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+  "source": "TechCrunch AI",
+  "ts": 1794925606.0,
+  "desc": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+  "ord": 11
+ },
+ "https://www.qbitai.com/2026/11/510695.html": {
+  "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
+  "source": "量子位",
+  "ts": 1794924920.0,
+  "desc": "82亿美元股票，46天闪电交割",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/": {
+  "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+  "source": "TechCrunch AI",
+  "ts": 1794924330.0,
+  "desc": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+  "ord": 12
+ },
+ "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/": {
+  "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+  "source": "Ars Technica",
+  "ts": 1794924029.0,
+  "desc": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/": {
+  "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+  "source": "TechCrunch AI",
+  "ts": 1794924000.0,
+  "desc": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+  "ord": 13
+ },
  "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized": {
   "title": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized Text-to-Image • 7B • Updated 3 days ago • 161k • 430",
   "source": "Hugging Face Trending",
   "ts": 1794916213.0807822,
   "desc": "",
-  "ord": 28
+  "ord": 23
  },
  "https://huggingface.co/n4ze3m/tiny-voca": {
   "title": "n4ze3m/tiny-voca Text-to-Speech • Updated about 17 hours ago • 3.04k • 207",
   "source": "Hugging Face Trending",
   "ts": 1794916213.0807822,
   "desc": "",
-  "ord": 29
+  "ord": 25
+ },
+ "https://www.qbitai.com/2026/11/510688.html": {
+  "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+  "source": "量子位",
+  "ts": 1794915637.0,
+  "desc": "瞄准「产业级世界模型」",
+  "ord": 1
  },
  "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/": {
   "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
@@ -33,6 +250,13 @@
   "ts": 1794912465.0,
   "desc": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
   "ord": 2
+ },
+ "https://www.leiphone.com/category/industrynews/zEonnVT8L3iVNJkY.html": {
+  "title": "消费级具身，打破「次元壁」",
+  "source": "雷峰网",
+  "ts": 1794910920.0,
+  "desc": "消费具身的行业里，有一个话题一直被争论不休：“能真正被 C 端用户接纳的机器人，工具性和陪伴性，哪个才是第一性？”有人说，具身进家庭，能干活才能真正产生价值。于是，他们把更多的精力放在具体的场景，卷模型、卷数据、卷本体，试图让机器人真的“有用”，成为家庭里真正靠谱的“帮手”。归根结底，陪伴的价值没法量化——养只小猫小狗，照样管用。也有人说，具身进入生活，提供情绪价值才更重要。放在家里可爱，带出有面子，朋友来了可以欣赏，闲暇孤单也能“陪聊”——生活里，机器人更该成为暖心可爱的“搭子”。硬要做工具价值，今天的技术路径还不够收敛，即使卷到最后，也很难扛住大厂入局后的冲击。谁对谁错？这个话题吵到今天，",
+  "ord": 0
  },
  "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/": {
   "title": "How the Claude Code team thinks about verification",
@@ -83,12 +307,26 @@
   "desc": "一台上架长达923天的相机，在AI辅助调整商品信息和价格并重新发布后，仅用时约两小时便成功出售；一台屏幕损坏、看似失去使用价值的便携影音播放器，经AI梳理故障和剩余可用功能后，仅65分钟便找到了买家，实现物尽其用。当地时间11月14日，在土耳其安塔利亚举行的第31届联合国气候变化大会（COP31）中国角边会上，闲鱼ESG负责人李翔分享了两个AI促进闲置流通的故事，向国际社会展示中国企业利用AI技术破解循环经济堵点、推动公众参与绿色低碳生活的最新实践。“要让闲置商品更容易流通，得先读懂商品，也得读懂人的需要。”李翔在演讲中表示。不同于传统电商平台，闲置交易具有“一物一况，一物一价”的非标属性。同",
   "ord": 5
  },
+ "https://www.qbitai.com/2026/11/510652.html": {
+  "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+  "source": "量子位",
+  "ts": 1794895780.0,
+  "desc": "筛材料、找配方、开发新模型…拿下多项科研任务",
+  "ord": 2
+ },
  "https://www.iimedia.cn/c1088/120052.html": {
   "title": "2026年中国AI行车记录仪十大品牌出炉！海康威视、360、70迈位列前三",
   "source": "艾媒网",
   "ts": 1794892193.5410557,
   "desc": "",
-  "ord": 0
+  "ord": 1
+ },
+ "https://www.qbitai.com/2026/11/510610.html": {
+  "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
+  "source": "量子位",
+  "ts": 1794890103.0,
+  "desc": "斩获80000元奖金",
+  "ord": 3
  },
  "https://www.producthunt.com/products/gatherhq-agent-research": {
   "title": "GatherHQ Agent Research",
@@ -97,6 +335,13 @@
   "desc": "",
   "ord": 2
  },
+ "https://www.qbitai.com/2026/11/510592.html": {
+  "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
+  "source": "量子位",
+  "ts": 1794882793.0,
+  "desc": "奥特曼首谈黄仁勋离职",
+  "ord": 4
+ },
  "https://huggingface.co/facebook/sam3": {
   "title": "facebook/sam3 Mask Generation • 0.9B • Updated Nov 20, 2025 • 1.97M • 6.78k",
   "source": "Hugging Face Trending",
@@ -104,12 +349,12 @@
   "desc": "",
   "ord": 24
  },
- "https://get.mem.ai/blog/mem-is-shutting-down": {
-  "title": "Mem Is Shutting Down",
-  "source": "Hacker News 头版",
-  "ts": 1794881621.0,
-  "desc": "Article URL: https://get.mem.ai/blog/mem-is-shutting-down\nComments URL: https://news.ycombinator.com/item?id=50526537\nPoints: 66\n# Comments: 105",
-  "ord": 1
+ "https://www.qbitai.com/2026/11/510561.html": {
+  "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
+  "source": "量子位",
+  "ts": 1794881002.0,
+  "desc": "",
+  "ord": 5
  },
  "https://www.leiphone.com/category/zaobao/ksECYyYOXDL6IQ2q.html": {
   "title": "网传360集团副总裁涉贪腐问题被带走调查；英伟达董事会：没考虑让黄仁勋复任CEO；知名手游宣布明年3月停止运营，曾月流水破10亿",
@@ -146,6 +391,20 @@
   "desc": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
   "ord": 0
  },
+ "https://openai.com/index/introducing-openai-for-chile": {
+  "title": "Introducing OpenAI for Chile",
+  "source": "OpenAI News",
+  "ts": 1794873600.0,
+  "desc": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+  "ord": 2
+ },
+ "https://openai.com/index/astra-law-6-2": {
+  "title": "Astra for Law leads in legal intelligence",
+  "source": "OpenAI News",
+  "ts": 1794873600.0,
+  "desc": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+  "ord": 3
+ },
  "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/": {
   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
   "source": "TechCrunch AI",
@@ -174,13 +433,6 @@
   "desc": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
   "ord": 1
  },
- "https://opencode.ai/product/browse": {
-  "title": "OpenCode Browse",
-  "source": "Hacker News 头版",
-  "ts": 1794864037.0,
-  "desc": "Article URL: https://opencode.ai/product/browse\nComments URL: https://news.ycombinator.com/item?id=50523459\nPoints: 275\n# Comments: 158",
-  "ord": 3
- },
  "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit": {
   "title": "California sues OpenAI over rogue AI hacking incidents",
   "source": "The Verge AI",
@@ -200,7 +452,7 @@
   "source": "Ars Technica",
   "ts": 1794861467.0,
   "desc": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-  "ord": 0
+  "ord": 1
  },
  "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats": {
   "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
@@ -774,7 +1026,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794764798.455464,
   "desc": "",
-  "ord": 23
+  "ord": 22
  },
  "https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/": {
   "title": "What Picasso taught me about building AI Agents",
@@ -976,77 +1228,77 @@
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 1
+  "ord": 2
  },
  "https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1": {
   "title": "Endpoint Accuracy Index v1.1: Tighter long context intervals and expanded model coverageNovember 9, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 2
+  "ord": 3
  },
  "https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index": {
   "title": "Meta's Muse Ember is the cheapest model scoring 36 on the Intelligence IndexNovember 9, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 3
+  "ord": 4
  },
  "https://artificialanalysis.ai/articles/decision-index-v2": {
   "title": "Introducing the Artificial Analysis Decision Index v2November 8, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 4
+  "ord": 5
  },
  "https://artificialanalysis.ai/articles/vials-aa": {
   "title": "VIALS-AA: different paths to scientific image reasoningNovember 6, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 5
+  "ord": 6
  },
  "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it": {
   "title": "Thinking Machines Inkling 2 Small: the highest scoring open weights model outside of China pending weights releaseNovember 5, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 6
+  "ord": 7
  },
  "https://artificialanalysis.ai/articles/nanbeige-has-released-nanbeige4-3-33b-scoring-20-on-the-intelligence-index": {
   "title": "Nanbeige has released Nanbeige4.3-33B scoring 20 on the Intelligence IndexNovember 5, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 7
+  "ord": 8
  },
  "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1": {
   "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5October 28, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 8
+  "ord": 9
  },
  "https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost": {
   "title": "GitHub Copilot Fusion orchestrates Anthropic and OpenAI models to balance performance and costOctober 28, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 9
+  "ord": 10
  },
  "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5": {
   "title": "Announcing Artificial Analysis Intelligence Index v5October 27, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 10
+  "ord": 11
  },
  "https://artificialanalysis.ai/articles/gpt-6-1-terra-pushes-the-cost-efficiency-frontier": {
   "title": "GPT-6.1 Terra pushes the cost efficiency frontierOctober 26, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 11
+  "ord": 12
  },
  "https://artificialanalysis.ai/articles/code2video-aa": {
   "title": "Code2Video-AA: how well do AI models design videos in code?October 26, 2026",
@@ -1620,35 +1872,35 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 18
+  "ord": 21
  },
  "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF": {
   "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF Image-Text-to-Text • 27B • Updated 2 days ago • 1.71M • 3.15k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 25
+  "ord": 24
  },
  "https://huggingface.co/Zyphra/ZONOS3-Mini": {
   "title": "Zyphra/ZONOS3-Mini Text-to-Speech • 0.9B • Updated 1 day ago • 39.9k • 373",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 21
+  "ord": 27
  },
  "https://huggingface.co/speridlabs/idol": {
   "title": "speridlabs/idol Image-to-3D • Updated 17 days ago • 33.4k • 2.36k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 27
+  "ord": 26
  },
  "https://huggingface.co/thinkingmachines/Inkling-2-Small": {
   "title": "thinkingmachines/Inkling-2-Small Image-Text-to-Text • 594B • Updated about 10 hours ago • 7.33k • • 333",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 20
+  "ord": 19
  },
  "https://huggingface.co/NousResearch/Arete-27B": {
   "title": "NousResearch/Arete-27B Text Generation • 27B • Updated 9 days ago • 7.5k • 606",
@@ -1669,14 +1921,14 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 22
+  "ord": 20
  },
  "https://huggingface.co/higurashi-ai/Haru-4B": {
   "title": "higurashi-ai/Haru-4B Audio-to-Audio • 5B • Updated 3 days ago • 2.1k • 277",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 19
+  "ord": 18
  },
  "https://huggingface.co/Edge0/Edge0-145B-NVFP4": {
   "title": "Edge0/Edge0-145B-NVFP4 Text Generation • 5B • Updated about 3 hours ago • 41.6k • 277",
@@ -2492,6 +2744,13 @@
   "ts": 1794441600.0,
   "desc": ""
  },
+ "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence": {
+  "title": "ChatGPT Ads increases its market presence in 44 countries",
+  "source": "OpenAI News",
+  "ts": 1794441600.0,
+  "desc": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
+  "ord": 22
+ },
  "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/": {
   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
   "source": "Google AI 博客",
@@ -2684,6 +2943,13 @@
   "ts": 1794185660.0,
   "desc": "今日焦点是英伟达：黄仁勋致信员工承认婚外情，董事会启动由独立董事牵头的调查。产品侧，苹果被曝最早明年推出代理式Siri；资本侧，Anthropic接受1.25–1.75万亿美元估值下调、仍推进感恩节前IPO。产业面，台积电被曝考虑进军3D DRAM，阿里基准显示顶级编码智能体仅完整解决26.4%真实任务。国内，浙大发布MoWorld 2.0世界模型，纳入十余种物理要素。安全侧，Claude Code 被曝泄露口令，波及1,122个公开GitHub文件。"
  },
+ "https://openai.com/ads/customers/vistaprint": {
+  "title": "How VistaPrint helps small businesses get the word out",
+  "source": "OpenAI News",
+  "ts": 1794182400.0,
+  "desc": "Small business owners preparing for a launch or an event often know what they want to accomplish before they know what to print. VistaPrint uses ChatGPT Ads to show how products like signs and branded merchandise can help them get the word out.",
+  "ord": 36
+ },
  "https://daily.ai225.com/daily/2026-11-08": {
   "title": "2026-11-08 AI 日报 · Anthropic推进千亿美元IPO，谷歌接盘大型算力中心，前沿智能体基准暴露虚构与虚警缺陷",
   "source": "AI 日报 · AI225",
@@ -2701,7 +2967,7 @@
   "source": "Ars Technica",
   "ts": 1793998601.0,
   "desc": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-  "ord": 2
+  "ord": 3
  },
  "https://openai.com/index/partnering-with-hacktron": {
   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
