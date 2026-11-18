@@ -1,4 +1,151 @@
 {
+ "https://huggingface.co/maxwell-model/Maxwell-V1-Flash": {
+  "title": "maxwell-model/Maxwell-V1-Flash Text Generation • 37B • Updated 4 days ago • 287 • 160",
+  "source": "Hugging Face Trending",
+  "ts": 1794970430.0040767,
+  "desc": "",
+  "ord": 27
+ },
+ "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted": {
+  "title": "harness-hub/Qwen3.8-27B-pi-adapted Updated about 18 hours ago • 153",
+  "source": "Hugging Face Trending",
+  "ts": 1794970430.0040767,
+  "desc": "",
+  "ord": 29
+ },
+ "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/": {
+  "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+  "source": "TechCrunch AI",
+  "ts": 1794966261.0,
+  "desc": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+  "ord": 0
+ },
+ "https://www.qbitai.com/2026/11/510726.html": {
+  "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+  "source": "量子位",
+  "ts": 1794963822.0,
+  "desc": "英伟达公布了老黄离职后的首份财报",
+  "ord": 0
+ },
+ "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference": {
+  "title": "Cerebras Disaggregated Inference",
+  "source": "Hacker News 头版",
+  "ts": 1794963383.0,
+  "desc": "Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference\nComments URL: https://news.ycombinator.com/item?id=50540472\nPoints: 23\n# Comments: 8",
+  "ord": 0
+ },
+ "https://daily.ai225.com/daily/2026-11-18": {
+  "title": "2026-11-18 AI 日报 · GPT-6.2发布，英伟达拒黄仁勋复职，Anthropic获准上市",
+  "source": "AI 日报 · AI225",
+  "ts": 1794963210.0,
+  "desc": "今日AI领域重磅动态频出。模型与产品方面，OpenAI发布降价的GPT-6.2 Astra与Sol，微软将Office整合进Copilot并量产Maia 200芯片，Google为Gemini上线Task代办模式。行业与资本方面，英伟达第三财季营收翻倍，董事会正式拒绝黄仁勋复职并停售中国H200芯片；Anthropic获准在纳斯达克上市，AMD完成收购World Labs，Isomorphic Labs融资50亿美元。此外，加州与爱尔兰针对自动驾驶及智能体数据抓取的监管亦进一步落地。",
+  "ord": 0
+ },
+ "https://www.qbitai.com/2026/11/510707.html": {
+  "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+  "source": "量子位",
+  "ts": 1794962954.0,
+  "desc": "Sol逼近旗舰性能",
+  "ord": 1
+ },
+ "https://revscope.co/blog/search-seo-geo-2026/": {
+  "title": "Google's AI answers reducing search traffic by 40%",
+  "source": "Hacker News 头版",
+  "ts": 1794961078.0,
+  "desc": "Article URL: https://revscope.co/blog/search-seo-geo-2026/\nComments URL: https://news.ycombinator.com/item?id=50540178\nPoints: 110\n# Comments: 64",
+  "ord": 1
+ },
+ "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/": {
+  "title": "Nvidia promises that revenue will keep soaring — for now",
+  "source": "TechCrunch AI",
+  "ts": 1794961010.0,
+  "desc": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+  "ord": 1
+ },
+ "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now": {
+  "title": "Satya Nadella says he’s AGI-pilled now",
+  "source": "The Verge AI",
+  "ts": 1794958878.0,
+  "desc": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/": {
+  "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+  "source": "TechCrunch AI",
+  "ts": 1794958668.0,
+  "desc": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+  "ord": 2
+ },
+ "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/": {
+  "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+  "source": "TechCrunch AI",
+  "ts": 1794956675.0,
+  "desc": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+  "ord": 3
+ },
+ "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/": {
+  "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+  "source": "TechCrunch AI",
+  "ts": 1794955347.0,
+  "desc": "The former CEO offered to return to his top role at the company after his resignation last week.",
+  "ord": 4
+ },
+ "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/": {
+  "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+  "source": "TechCrunch AI",
+  "ts": 1794954545.0,
+  "desc": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+  "ord": 5
+ },
+ "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/": {
+  "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+  "source": "WIRED AI",
+  "ts": 1794953959.0,
+  "desc": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/": {
+  "title": "SEC reportedly investigating Nvidia amid Huang exit",
+  "source": "TechCrunch AI",
+  "ts": 1794952087.0,
+  "desc": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+  "ord": 6
+ },
+ "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang": {
+  "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+  "source": "The Verge AI",
+  "ts": 1794951659.0,
+  "desc": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying ",
+  "ord": 1
+ },
+ "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/": {
+  "title": "Google joins the tech outage trend by announcing it’s not having one",
+  "source": "TechCrunch AI",
+  "ts": 1794951290.0,
+  "desc": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+  "ord": 7
+ },
+ "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/": {
+  "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+  "source": "Hacker News 头版",
+  "ts": 1794950172.0,
+  "desc": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/\nComments URL: https://news.ycombinator.com/item?id=50538303\nPoints: 60\n# Comments: 94",
+  "ord": 2
+ },
+ "https://hy.tencent.ai/research/hy4-flash": {
+  "title": "Tencent Hy4 Flash",
+  "source": "Hacker News 头版",
+  "ts": 1794949568.0,
+  "desc": "Article URL: https://hy.tencent.ai/research/hy4-flash\nComments URL: https://news.ycombinator.com/item?id=50538184\nPoints: 60\n# Comments: 10",
+  "ord": 3
+ },
+ "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake": {
+  "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+  "source": "The Verge AI",
+  "ts": 1794949255.0,
+  "desc": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO",
+  "ord": 2
+ },
  "https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol": {
   "title": "OpenAI has the #2 model in the Intelligence Index with the release of GPT-6.2 Astra and GPT-6.2 SolNovember 17, 2026",
   "source": "Artificial Analysis 智力指数榜",
@@ -18,14 +165,14 @@
   "source": "Hugging Face Trending",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 28
+  "ord": 24
  },
  "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6": {
   "title": "meituan-longcat/LongCat-Video-Avatar-1.6 Updated 4 days ago • 489 • 194",
   "source": "Hugging Face Trending",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 29
+  "ord": 28
  },
  "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/": {
   "title": "Model ML raises $250M to automate investment banking grunt work",
@@ -73,8 +220,15 @@
   "title": "MAI Code 2 and Code 2 Flash",
   "source": "Hacker News 头版",
   "ts": 1794939913.0,
-  "desc": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/\nComments URL: https://news.ycombinator.com/item?id=50535885\nPoints: 159\n# Comments: 75",
-  "ord": 2
+  "desc": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/\nComments URL: https://news.ycombinator.com/item?id=50535885\nPoints: 295\n# Comments: 136",
+  "ord": 5
+ },
+ "https://newsletter.posthog.com/p/decision-models": {
+  "title": "Not Everything Needs an LLM",
+  "source": "Hacker News 头版",
+  "ts": 1794939378.0,
+  "desc": "Article URL: https://newsletter.posthog.com/p/decision-models\nComments URL: https://news.ycombinator.com/item?id=50535740\nPoints: 104\n# Comments: 42",
+  "ord": 6
  },
  "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/": {
   "title": "As decision model use skyrockets, is customization the next frontier?",
@@ -221,7 +375,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794916213.0807822,
   "desc": "",
-  "ord": 25
+  "ord": 26
  },
  "https://www.qbitai.com/2026/11/510688.html": {
   "title": "李沐加盟的Aimotion，是一家什么AI公司？",
@@ -300,6 +454,13 @@
   "desc": "上个月，雷峰网拜访过一家创业公司老板，他对我们说，他决定把公司的 AI 开销砍掉近九成。这个决定非常出乎我们的意料，因为一直以来他都属于“AI 激进派”，属于愿意为 AI 花钱的主。今年5月，他就给员工配备了每月200美元的 Codex，公司的各项 AI 开销加起来，每月大约10万美元。当雷峰网问他原因，他直言，钱包烧不起，这几个月他有算过账，AI 开销很大，但收入和利润却没有同步增长。而且并不止这家创业公司老板，过去两个月，一些企业都出现了这种现象：AI没有产生预期的经济效果，于是大家开始纷纷掉头回来控制预算。“这是因为我们只是更换了电机，却还没有重新设计工厂。没有一家公司，会因为用了几个A",
   "ord": 4
  },
+ "https://openai.com/index/introducing-chatgpt-for-sales": {
+  "title": "Introducing ChatGPT for Sales",
+  "source": "OpenAI News",
+  "ts": 1794902400.0,
+  "desc": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+  "ord": 2
+ },
  "https://www.leiphone.com/category/industrynews/fZwDw188Li4SuyQM.html": {
   "title": "闲鱼亮相联合国气候变化大会：AI加速闲置流转，低碳融入日常",
   "source": "雷峰网",
@@ -319,7 +480,7 @@
   "source": "艾媒网",
   "ts": 1794892193.5410557,
   "desc": "",
-  "ord": 1
+  "ord": 0
  },
  "https://www.qbitai.com/2026/11/510610.html": {
   "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
@@ -1865,7 +2026,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 17
+  "ord": 18
  },
  "https://huggingface.co/Comfy-Org/MiniMax-H3-Image": {
   "title": "Comfy-Org/MiniMax-H3-Image Text-to-Image • Updated 4 days ago • 1.97M • 404",
@@ -1879,7 +2040,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 24
+  "ord": 25
  },
  "https://huggingface.co/Zyphra/ZONOS3-Mini": {
   "title": "Zyphra/ZONOS3-Mini Text-to-Speech • 0.9B • Updated 1 day ago • 39.9k • 373",
@@ -1928,7 +2089,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 18
+  "ord": 17
  },
  "https://huggingface.co/Edge0/Edge0-145B-NVFP4": {
   "title": "Edge0/Edge0-145B-NVFP4 Text Generation • 5B • Updated about 3 hours ago • 41.6k • 277",
