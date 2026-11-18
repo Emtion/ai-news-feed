@@ -1,4 +1,242 @@
 {
+ "https://huggingface.co/tencent/Hy4-flash": {
+  "title": "tencent/Hy4-flash Image-Text-to-Text • 220B • Updated about 16 hours ago • 159 • • 220",
+  "source": "Hugging Face Trending",
+  "ts": 1795033783.4331658,
+  "desc": "",
+  "ord": 22
+ },
+ "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/": {
+  "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
+  "source": "TechCrunch AI",
+  "ts": 1795032421.0,
+  "desc": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/": {
+  "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+  "source": "TechCrunch AI",
+  "ts": 1795031799.0,
+  "desc": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+  "ord": 1
+ },
+ "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin": {
+  "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+  "source": "Hugging Face 博客",
+  "ts": 1795031696.0,
+  "desc": "",
+  "ord": 0
+ },
+ "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica": {
+  "title": "Trump’s latest land grab is an AI hub in the Philippines",
+  "source": "The Verge AI",
+  "ts": 1795030836.0,
+  "desc": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump rallies, as more girls ",
+  "ord": 0
+ },
+ "https://www.radixark.com/blog/daisyrose-27b": {
+  "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
+  "source": "Hacker News 头版",
+  "ts": 1795030756.0,
+  "desc": "Article URL: https://www.radixark.com/blog/daisyrose-27b\nComments URL: https://news.ycombinator.com/item?id=50551046\nPoints: 9\n# Comments: 0",
+  "ord": 0
+ },
+ "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang": {
+  "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+  "source": "The Verge AI",
+  "ts": 1795030200.0,
+  "desc": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a seri",
+  "ord": 1
+ },
+ "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act": {
+  "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+  "source": "The Verge AI",
+  "ts": 1795028849.0,
+  "desc": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of a Senate Judiciary subcommittee hosted a hearing calling for",
+  "ord": 2
+ },
+ "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time": {
+  "title": "Why your fine-tuning job takes longer than the FLOPs say",
+  "source": "Hugging Face 博客",
+  "ts": 1795028023.0,
+  "desc": "",
+  "ord": 1
+ },
+ "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/": {
+  "title": "Genie 4 is now available",
+  "source": "Hacker News 头版",
+  "ts": 1795027791.0,
+  "desc": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/\nComments URL: https://news.ycombinator.com/item?id=50550415\nPoints: 93\n# Comments: 74",
+  "ord": 1
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition": {
+  "title": "What is Nvidia without AI’s sugar daddy in charge?",
+  "source": "The Verge AI",
+  "ts": 1795026855.0,
+  "desc": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Musk is telling the truth, then Jensen Huang",
+  "ord": 3
+ },
+ "https://deepmind.google/blog/genie-4-is-now-available/": {
+  "title": "Genie 4 is now available",
+  "source": "Google DeepMind",
+  "ts": 1795025622.0,
+  "desc": "",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/": {
+  "title": "Google’s AI feature in Search gets its own incognito mode",
+  "source": "TechCrunch AI",
+  "ts": 1795025045.0,
+  "desc": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+  "ord": 2
+ },
+ "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai": {
+  "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+  "source": "The Verge AI",
+  "ts": 1795024257.0,
+  "desc": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous. That could soon change as Walt Disney Imagineering R&D has r",
+  "ord": 4
+ },
+ "https://openai.com/index/advancing-chip-design-with-our-models/": {
+  "title": "Advancing chip design with OpenAI models",
+  "source": "Hacker News 头版",
+  "ts": 1795023947.0,
+  "desc": "Article URL: https://openai.com/index/advancing-chip-design-with-our-models/\nComments URL: https://news.ycombinator.com/item?id=50549493\nPoints: 69\n# Comments: 25",
+  "ord": 2
+ },
+ "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats": {
+  "title": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
+  "source": "Hacker News 头版",
+  "ts": 1795023708.0,
+  "desc": "Article URL: https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats\nComments URL: https://news.ycombinator.com/item?id=50549438\nPoints: 30\n# Comments: 6",
+  "ord": 3
+ },
+ "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/": {
+  "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
+  "source": "WIRED AI",
+  "ts": 1795023187.0,
+  "desc": "Interim CEO Collette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/": {
+  "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+  "source": "TechCrunch AI",
+  "ts": 1795023130.0,
+  "desc": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+  "ord": 3
+ },
+ "https://news.ycombinator.com/item?id=50549188": {
+  "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+  "source": "Hacker News 头版",
+  "ts": 1795022788.0,
+  "desc": "Hi HN, we're Ary and Maria, co-founders of Maritime (https://maritime.sh). We're building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agents.Demo: https://www.youtube.com/watch?v=lCWMdBQ96rYThere’s been an explosion of sandbox companies comin",
+  "ord": 4
+ },
+ "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/": {
+  "title": "The Gemini app is now available on lower-memory Android devices.",
+  "source": "Google AI 博客",
+  "ts": 1795021200.0,
+  "desc": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/": {
+  "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+  "source": "TechCrunch AI",
+  "ts": 1795021140.0,
+  "desc": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+  "ord": 4
+ },
+ "https://news.ycombinator.com/item?id=50548660": {
+  "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+  "source": "Hacker News 头版",
+  "ts": 1795020822.0,
+  "desc": "Hi HN, we're Shane, Sam, and Abhi.Almost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: https://news.ycombinator.com/item?id=43103073. It got a few hundred upvotes; a couple of weeks later our downloads had doubled, and we were off to the races.Today we're s",
+  "ord": 5
+ },
+ "https://www.wired.com/story/artex-ai-hacking-tools/": {
+  "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
+  "source": "WIRED AI",
+  "ts": 1795019724.0,
+  "desc": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
+  "ord": 1
+ },
+ "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/": {
+  "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+  "source": "TechCrunch AI",
+  "ts": 1795018449.0,
+  "desc": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+  "ord": 5
+ },
+ "https://microsoft.ai/news/microsoft-ignite-2026/": {
+  "title": "Seven new models at scalable price-performance",
+  "source": "Hacker News 头版",
+  "ts": 1795018104.0,
+  "desc": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/\nComments URL: https://news.ycombinator.com/item?id=50548021\nPoints: 309\n# Comments: 196",
+  "ord": 6
+ },
+ "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/": {
+  "title": "AI agents ask better questions than KPMG accountants in audit trial",
+  "source": "Hacker News 头版",
+  "ts": 1795016974.0,
+  "desc": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/\nComments URL: https://news.ycombinator.com/item?id=50547777\nPoints: 172\n# Comments: 89",
+  "ord": 7
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models": {
+  "title": "Remember the frontier AI pause? Chip companies don’t either",
+  "source": "The Verge AI",
+  "ts": 1795016642.0,
+  "desc": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the ",
+  "ord": 5
+ },
+ "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/": {
+  "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
+  "source": "WIRED AI",
+  "ts": 1795014160.0,
+  "desc": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
+  "ord": 2
+ },
+ "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse": {
+  "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+  "source": "Hugging Face 博客",
+  "ts": 1795014023.0,
+  "desc": "",
+  "ord": 2
+ },
+ "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview": {
+  "title": "Will Wright’s next game uses AI to map your memories",
+  "source": "The Verge AI",
+  "ts": 1795010400.0,
+  "desc": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explore worlds they creat",
+  "ord": 6
+ },
+ "https://www.leiphone.com/category/industrynews/cC8dbvo5f5k5tgnE.html": {
+  "title": "豆包工作日活突破 800 万，企业客户 ARR 突破 20 亿元",
+  "source": "雷峰网",
+  "ts": 1795007880.0,
+  "desc": "11月18日，豆包官方宣布，上线仅三个月的豆包工作日活跃用户数（DAU）突破 800 万，企业客户年度经常性收入（ARR）突破 20 亿元。豆包工作是豆包面向生产力场景推出的 AI 产品及品牌，自8月25日正式发布以来，持续更新专业办公能力。11月16日，豆包工作上线 “工作台” 功能，首批覆盖金融、医疗、教育、创意设计等 21 个专业场景，预先配置相应技能和工具，用户也可创建、保存和分享自定义工作台。此外，豆包工作也在近期接入了Kimi、GLM、DeepSeek 等第三方模型，并标注不同模型的额度消耗倍率，方便用户结合任务需求和使用成本自主选择。雷峰网 雷峰网",
+  "ord": 0
+ },
+ "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling": {
+  "title": "Nvidia isn’t selling any more AI chips to China",
+  "source": "The Verge AI",
+  "ts": 1795006865.0,
+  "desc": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former",
+  "ord": 7
+ },
+ "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/": {
+  "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+  "source": "TechCrunch AI",
+  "ts": 1795006800.0,
+  "desc": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+  "ord": 6
+ },
+ "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/": {
+  "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+  "source": "TechCrunch AI",
+  "ts": 1795003200.0,
+  "desc": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+  "ord": 7
+ },
  "https://www.iimedia.cn/c1106/120376.html": {
   "title": "艾媒鼎榜 | 2026年中国车载实体AI机器人品牌10强",
   "source": "艾媒网",
@@ -11,7 +249,21 @@
   "source": "Hugging Face Trending",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 29
+  "ord": 24
+ },
+ "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/": {
+  "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+  "source": "TechCrunch AI",
+  "ts": 1795001400.0,
+  "desc": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+  "ord": 8
+ },
+ "https://www.leiphone.com/category/industrynews/SGCHiaZaK40MbNz8.html": {
+  "title": "“无人机外卖”加速出海，迪拜居民在家门口收到“空中外卖”",
+  "source": "雷峰网",
+  "ts": 1795000920.0,
+  "desc": "中国超大规模创新试验场孕育出的前沿技术，正在为全球市场提供高质量发展活力。无人机外卖、工业机器人……越来越多中国成熟的技术正加速走向世界各地，为当地的技术创新和发展壮大提供强劲动能。▲美团无人机第四代索降机型 M-Drone 4L 在迪拜完成海外首次亮相（资料图）迪拜时间11月18日，美团无人机第四代索降机型 M-Drone 4L 完成海外首次亮相：无人机悬停空中，通过缆索将订单精准送达指定投放点，全程无需降落。伴随新一代无人机的亮相，迪拜美团无人机索降航线将于近期正式投入使用。今年以来，中国“无人机外卖”出海持续提速。8月，美团将低空物流技术和运营经验带到中亚，哈萨克斯坦首都阿斯塔纳的用户首",
+  "ord": 1
  },
  "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature": {
   "title": "Suno now lets you make AI videos for your AI music",
@@ -20,12 +272,26 @@
   "desc": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be u",
   "ord": 0
  },
+ "https://www.leiphone.com/category/transportation/GLv3yGaPGK64teuS.html": {
+  "title": "纽娲机器人创始人杨睿刚：自动驾驶踩过的数据坑，机器人还会再踩一遍丨物理 AI 50 人",
+  "source": "雷峰网",
+  "ts": 1794997680.0,
+  "desc": "做了十多年自动驾驶之后，杨睿刚决定把下一次创业的方向，从高速公路转向居民社区。在此之前，他曾在美国高校研究三维视觉，后来加入百度研究院，负责机器人与自动驾驶实验室，又担任嬴彻科技CTO，推动自动驾驶重卡前装量产。从研究算法到让几十吨重的卡车真正跑上高速公路，他经历了自动驾驶从技术探索走向商业化的过程。2024年，杨睿刚开始筹备第二次创业。彼时，人形机器人已经成为具身智能行业最受关注的方向，他也接触过相关创业机会，但最终选择了一个看起来没那么性感的场景：社区末端配送。他判断，家庭机器人虽然市场空间大，但每个家庭的环境都不一样，泛化难度很高；工厂机器人则必须满足严格的生产节拍和成本要求。相比之下，",
+  "ord": 2
+ },
  "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/": {
   "title": "Lovable Wants You to Vibe Code Your Dream Job",
   "source": "WIRED AI",
   "ts": 1794996000.0,
   "desc": "This Swedish startup dominated the vibe-coded app boom. Two years after launch, Lovable is shifting gears to help users run vibe-coded businesses.",
   "ord": 0
+ },
+ "https://www.leiphone.com/category/chips/WHSLCH74nrSJW6OE.html": {
+  "title": "黄仁勋归期悬而未决，买GPU的人已经不敢下单",
+  "source": "雷峰网",
+  "ts": 1794995100.0,
+  "desc": "“现在都不敢订期货。”在深圳负责GPU采购的程麟，用一句话概括了今年的处境。从突然辞任，到传出回归，再到本人公开表达重返意愿、董事会却在财报电话会上明确表示无意让其复职——短短五天里，围绕黄仁勋去留的消息几度反转。多方信源此前也向雷峰网表示，黄仁勋短期内很难重新执掌英伟达。但对于依赖英伟达GPU开展生意的中国算力服务商而言，眼下更现实的问题是：即便黄仁勋回来了，高端GPU还能不能买到？买到后又该如何变现？国内买英伟达GPU的渠道在收窄，海外租算力也不轻松。程麟所在团队曾尝试通过自建、投资海外机房等方式获取算力资源，但机房建设周期长达两三年。随着美国对先进GPU流转的监管趋严，部分在建项目已开始",
+  "ord": 3
  },
  "https://www.qbitai.com/2026/11/510922.html": {
   "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
@@ -55,6 +321,13 @@
   "desc": "11月18日，2026年亚太经合组织（APEC）第三十三次领导人非正式会议在深圳开幕。作为本届APEC会议官方赞助商，美团围绕餐饮消费、城市配送和交通安全推出一系列服务保障举措，为会议期间的深圳市民和境内外来宾提供便利。美团无人机、小黄蜂在深圳前海石公园桂湾段的“前海激浪”展出，美团青山计划“零废弃长椅”亮相APEC领导人会议周新闻中心，展示本地生活的科技应用与公益实践。 ▲ 美团作为2026年APEC会议官方赞助商的宣传海报在餐饮消费服务方面，美团App已支持英文、韩文、日文、繁体中文、简体中文语言界面，外籍用户可使用境外手机号完成账号注册，并绑定境外银行卡完成支付。面向APEC境内外来宾，",
   "ord": 2
  },
+ "https://openai.com/index/inside-the-codex-sandbox": {
+  "title": "Inside the Codex sandbox",
+  "source": "OpenAI News",
+  "ts": 1794988800.0,
+  "desc": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+  "ord": 0
+ },
  "https://www.qbitai.com/2026/11/510914.html": {
   "title": "GPT-6.2难产！OpenAI怕了",
   "source": "量子位",
@@ -82,6 +355,13 @@
   "ts": 1794984446.0,
   "desc": "Article URL: https://nicolasbouliane.com/blog/death-by-ai\nComments URL: https://news.ycombinator.com/item?id=50542705\nPoints: 375\n# Comments: 346",
   "ord": 0
+ },
+ "https://openai.com/index/managing-frontier-ai-risk": {
+  "title": "Managing frontier AI risk: From training to deployment",
+  "source": "OpenAI News",
+  "ts": 1794981600.0,
+  "desc": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+  "ord": 1
  },
  "https://www.leiphone.com/category/industrynews/dDQc2ToCG7vy6d8x.html": {
   "title": "继YouTube后，速卖通与全球头部联盟营销平台CJ达成战略合作",
@@ -158,14 +438,14 @@
   "source": "Hugging Face Trending",
   "ts": 1794970430.0040767,
   "desc": "",
-  "ord": 26
+  "ord": 25
  },
  "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted": {
   "title": "harness-hub/Qwen3.8-27B-pi-adapted Updated about 18 hours ago • 153",
   "source": "Hugging Face Trending",
   "ts": 1794970430.0040767,
   "desc": "",
-  "ord": 22
+  "ord": 18
  },
  "https://www.qbitai.com/2026/11/510737.html": {
   "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
@@ -194,13 +474,6 @@
   "ts": 1794963822.0,
   "desc": "英伟达公布了老黄离职后的首份财报",
   "ord": 0
- },
- "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference": {
-  "title": "Cerebras Disaggregated Inference",
-  "source": "Hacker News 头版",
-  "ts": 1794963383.0,
-  "desc": "Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference\nComments URL: https://news.ycombinator.com/item?id=50540472\nPoints: 85\n# Comments: 19",
-  "ord": 3
  },
  "https://www.leiphone.com/category/zaobao/OlqabqceGorcm242.html": {
   "title": "黄仁勋打破沉默：为美国人身份自豪，愿意重返英伟达担任CEO；阿里调整员工回流政策：离职两次不得回流原集团；红果被曝筹备电视端独立APP",
@@ -243,6 +516,34 @@
   "ts": 1794960000.0,
   "desc": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
   "ord": 0
+ },
+ "https://openai.com/index/advancing-chip-design-with-our-models": {
+  "title": "Advancing chip design with OpenAI models",
+  "source": "OpenAI News",
+  "ts": 1794960000.0,
+  "desc": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+  "ord": 3
+ },
+ "https://openai.com/index/the-silent-consensus": {
+  "title": "The Silent Consensus",
+  "source": "OpenAI News",
+  "ts": 1794960000.0,
+  "desc": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+  "ord": 4
+ },
+ "https://huggingface.co/blog/moe-expert-streaming": {
+  "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+  "source": "Hugging Face 博客",
+  "ts": 1794960000.0,
+  "desc": "",
+  "ord": 3
+ },
+ "https://huggingface.co/blog/rumble-2-flash": {
+  "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+  "source": "Hugging Face 博客",
+  "ts": 1794960000.0,
+  "desc": "",
+  "ord": 4
  },
  "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now": {
   "title": "Satya Nadella says he’s AGI-pilled now",
@@ -347,14 +648,14 @@
   "source": "Hugging Face Trending",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 21
+  "ord": 28
  },
  "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6": {
   "title": "meituan-longcat/LongCat-Video-Avatar-1.6 Updated 4 days ago • 489 • 194",
   "source": "Hugging Face Trending",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 27
+  "ord": 23
  },
  "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/": {
   "title": "Model ML raises $250M to automate investment banking grunt work",
@@ -557,14 +858,14 @@
   "source": "Hugging Face Trending",
   "ts": 1794916213.0807822,
   "desc": "",
-  "ord": 23
+  "ord": 26
  },
  "https://huggingface.co/n4ze3m/tiny-voca": {
   "title": "n4ze3m/tiny-voca Text-to-Speech • Updated about 17 hours ago • 3.04k • 207",
   "source": "Hugging Face Trending",
   "ts": 1794916213.0807822,
   "desc": "",
-  "ord": 24
+  "ord": 21
  },
  "https://www.qbitai.com/2026/11/510688.html": {
   "title": "李沐加盟的Aimotion，是一家什么AI公司？",
@@ -2222,21 +2523,21 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 15
+  "ord": 19
  },
  "https://huggingface.co/Qwen/Qwen3.8-27B": {
   "title": "Qwen/Qwen3.8-27B Image-Text-to-Text • 28B • Updated 8 days ago • 6.55M • • 20.1k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 16
+  "ord": 20
  },
  "https://huggingface.co/Lightricks/LTX-2.5": {
   "title": "Lightricks/LTX-2.5 Image-to-Video • Updated Oct 11 • 2.75M • 12k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 18
+  "ord": 16
  },
  "https://huggingface.co/Comfy-Org/MiniMax-H3-Image": {
   "title": "Comfy-Org/MiniMax-H3-Image Text-to-Image • Updated 4 days ago • 1.97M • 404",
@@ -2250,7 +2551,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 25
+  "ord": 27
  },
  "https://huggingface.co/Zyphra/ZONOS3-Mini": {
   "title": "Zyphra/ZONOS3-Mini Text-to-Speech • 0.9B • Updated 1 day ago • 39.9k • 373",
@@ -2271,7 +2572,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 19
+  "ord": 17
  },
  "https://huggingface.co/NousResearch/Arete-27B": {
   "title": "NousResearch/Arete-27B Text Generation • 27B • Updated 9 days ago • 7.5k • 606",
@@ -2292,14 +2593,14 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 20
+  "ord": 29
  },
  "https://huggingface.co/higurashi-ai/Haru-4B": {
   "title": "higurashi-ai/Haru-4B Audio-to-Audio • 5B • Updated 3 days ago • 2.1k • 277",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 17
+  "ord": 15
  },
  "https://huggingface.co/Edge0/Edge0-145B-NVFP4": {
   "title": "Edge0/Edge0-145B-NVFP4 Text Generation • 5B • Updated about 3 hours ago • 41.6k • 277",
@@ -3757,306 +4058,5 @@
   "ts": 1792679424.0,
   "desc": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
   "ord": 11
- },
- "https://daily.ai225.com/daily/2026-10-22": {
-  "title": "2026-10-22 AI 日报 · Anthropic 发布智能体 Claude Duet，沃尔玛下月将允许 AI 代理购物，OpenAI 与谷歌云达成合作",
-  "source": "AI 日报 · AI225",
-  "ts": 1792630675.0,
-  "desc": "本期焦点集中在智能体、云生态与安全合规。Anthropic 发布 Claude Duet 研究预览版；沃尔玛计划下月允许 AI 代理协助购物。OpenAI 与谷歌云达成合作，GPT-6 系列模型已在 Model Garden 开放私有预览，并将登陆 Antigravity。英伟达发布 DSX POD 模块化数据中心与 Kumo 关系型模型。安全方面，OpenAI 披露编码智能体关闭监控并说谎，PHP 曝出 AI 参与发现的严重漏洞；得州数据中心污染报告与孟菲斯数据中心诉讼也引发关注。",
-  "ord": 24
- },
- "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization": {
-  "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-  "source": "Hugging Face 博客",
-  "ts": 1792604136.0,
-  "desc": "",
-  "ord": 23
- },
- "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1": {
-  "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-  "source": "Hugging Face 博客",
-  "ts": 1792598683.0,
-  "desc": "",
-  "ord": 24
- },
- "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/": {
-  "title": "Southeast Asia’s digital economy to hit $368 billion",
-  "source": "Google AI 博客",
-  "ts": 1792555200.0,
-  "desc": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
-  "ord": 10
- },
- "https://daily.ai225.com/daily/2026-10-21": {
-  "title": "2026-10-21 AI 日报 · DeepSeek开源推理框架DeepInfer；谷歌开源TorchTPU",
-  "source": "AI 日报 · AI225",
-  "ts": 1792543993.0,
-  "desc": "今日AI领域焦点集中在推理底座优化与算力产业变局。DeepSeek正式开源其内部高吞吐推理框架DeepInfer与编解码套件，谷歌同步开源TorchTPU以推动PyTorch原生支持TPU硬件生态。产业投资与基建加码，Salesforce宣布56.6亿美元收购Braze，国内企业积极采购大显存工作站显卡，而亚马逊与Anthropic的财务披露则映射出算力扩建背后的电力制约与高昂成本。此外，英伟达发布临床手术级仿真世界模型，北大启元团队提出具身无本体后训练方案，政策监管与数据安全合规博弈同步升温。",
-  "ord": 25
- },
- "https://daily.ai225.com/daily/2026-10-20": {
-  "title": "2026-10-20 AI 日报 · 亚马逊将开源TorchNeuron，MiniMax发布M3.1 Flash",
-  "source": "AI 日报 · AI225",
-  "ts": 1792457514.0,
-  "desc": "今日焦点：算力工具链、模型价格与AI安全。亚马逊将开源TorchNeuron，使PyTorch代码改一次配置即可跑在Trainium上；MiniMax发布M3.1 Flash，主打100万Token上下文与低价。资本面，OpenAI加速300亿美元融资，Tenstorrent完成15亿美元融资，Anthropic与Nscale洽谈450亿美元算力协议，CoreWeave债券跌入困境。安全方面，AI智能体入侵超100个网站，OpenCode用户密钥被盗；研究称AI或可仅凭面部照片预测癌症生存期。",
-  "ord": 26
- },
- "https://huggingface.co/blog/hf-torchtpu": {
-  "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-  "source": "Hugging Face 博客",
-  "ts": 1792454400.0,
-  "desc": "",
-  "ord": 25
- },
- "https://huggingface.co/blog/anylanguagemodel-1-0": {
-  "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-  "source": "Hugging Face 博客",
-  "ts": 1792454400.0,
-  "desc": "",
-  "ord": 26
- },
- "https://huggingface.co/blog/mps-pytorch-2-15": {
-  "title": "MPS in PyTorch 2.15",
-  "source": "Hugging Face 博客",
-  "ts": 1792454400.0,
-  "desc": "",
-  "ord": 27
- },
- "https://daily.ai225.com/daily/2026-10-19": {
-  "title": "2026-10-19 AI 日报 · Anthropic设立公共利益基金，三星拟采用台积电3纳米工艺代工HBM基底裸片",
-  "source": "AI 日报 · AI225",
-  "ts": 1792371209.0,
-  "desc": "今日科技动态聚焦前沿治理与产业协同。Anthropic承诺将5%股权注入公共利益基金，迪士尼同意向Character.AI至少60名员工发出聘用、年薪合计约6000万美元。硬件与开源生态方面，三星据悉将首次采用台积电3纳米工艺代工英伟达下一代HBM基底裸片；智谱发布法律专用模型GLM-Legal，清华大学等团队开源智能体操作系统PilotDeck 2.0。此外，Linux内核社区决定补丁递交无需再声明AI辅助标记，德国法院再次裁定谷歌需对AI搜索答案侵权承担法律责任。",
-  "ord": 27
- },
- "https://huggingface.co/blog/hf-torchneuron": {
-  "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-  "source": "Hugging Face 博客",
-  "ts": 1792368000.0,
-  "desc": "",
-  "ord": 28
- },
- "https://daily.ai225.com/daily/2026-10-18": {
-  "title": "2026-10-18 AI 日报 · DeepSeek发布V4.1-Flash-1017模型，端侧算力与智能体生态持续演进",
-  "source": "AI 日报 · AI225",
-  "ts": 1792284736.0,
-  "desc": "DeepSeek更新上线V4.1-Flash-1017，在多项基准测试中提升表现并降低任务成本，同时上线搜索与抓取API。端侧算力与硬件方面，联想预告具备190TOPS本地算力的P7 AI主机，极夜公布基于英特尔处理器的双卡AI工作站。智能体应用面临新挑战，多家主流网站开始主动拦截自主智能体访问；Meta在争议声中撤回可能允许抓取外部网站训练AI的商业条款。此外，学界与产业界在多智能体自主协作、扩散语言模型架构及具身世界模型等方向取得新进展。",
-  "ord": 28
- },
- "https://daily.ai225.com/daily/2026-10-17": {
-  "title": "2026-10-17 AI 日报 · 中国拟收紧大模型出口管制，Reflection开源501B参数模型",
-  "source": "AI 日报 · AI225",
-  "ts": 1792198359.0,
-  "desc": "今日AI领域迎来多项重磅进展：中国计划对超两万亿参数大模型及23项关键AI技术收紧出口管制；Reflection AI正式开源501B参数MoE大模型Beam；英伟达联合联想等厂商推出的首批RTX Spark超级芯片AIPC正式开售。生态与安全方面，OpenAI披露内部智能体越权入侵等违规事件，Meta拟推行新商业条款强制抓取网站数据训练模型引争议，OpenAI与Anthropic罕见联手出资支持数学界评估AI成果；学术界迎来神经网络可解释性的新观点与多项端侧、评测工具落地。",
-  "ord": 29
- },
- "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/": {
-  "title": "OpenAI models hacked a crypto wallet and breached more websites",
-  "source": "Ars Technica",
-  "ts": 1792184341.0,
-  "desc": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-  "ord": 3
- },
- "https://huggingface.co/blog/reflection-beam": {
-  "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-  "source": "Hugging Face 博客",
-  "ts": 1792108800.0,
-  "desc": "",
-  "ord": 29
- },
- "https://deepmind.google/blog/accelerating-antimicrobial-discovery/": {
-  "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-  "source": "Google DeepMind",
-  "ts": 1792080483.0,
-  "desc": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-  "ord": 12
- },
- "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": {
-  "title": "Apertus 1.5 Release Notes",
-  "source": "Hugging Face 博客",
-  "ts": 1792055325.0,
-  "desc": "",
-  "ord": 30
- },
- "https://huggingface.co/blog/meta-muse-spark-open": {
-  "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-  "source": "Hugging Face 博客",
-  "ts": 1792022400.0,
-  "desc": "",
-  "ord": 31
- },
- "https://huggingface.co/blog/flux-3": {
-  "title": "Welcome FLUX.3 Image Klein in Diffusers",
-  "source": "Hugging Face 博客",
-  "ts": 1792022400.0,
-  "desc": "",
-  "ord": 32
- },
- "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
-  "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-  "source": "Google DeepMind",
-  "ts": 1791943214.0,
-  "desc": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-  "ord": 13
- },
- "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
-  "title": "Developing Gemini 4 Argon responsibly and safely",
-  "source": "Google DeepMind",
-  "ts": 1791920587.0,
-  "desc": "",
-  "ord": 14
- },
- "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": {
-  "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-  "source": "Hugging Face 博客",
-  "ts": 1791911148.0,
-  "desc": "",
-  "ord": 33
- },
- "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
-  "title": "Gemini 4 Argon for Robotics",
-  "source": "Google DeepMind",
-  "ts": 1791907318.0,
-  "desc": "",
-  "ord": 15
- },
- "https://deepmind.google/blog/introducing-gemini-4-argon/": {
-  "title": "Gemini 4 Argon: Built to solve your hardest problems",
-  "source": "Google DeepMind",
-  "ts": 1791907312.0,
-  "desc": "",
-  "ord": 16
- },
- "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
-  "title": "Gemini 4 Argon: Built to solve your hardest problems",
-  "source": "Google AI 博客",
-  "ts": 1791907200.0,
-  "desc": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-  "ord": 11
- },
- "https://huggingface.co/blog/building-with-ml-intern": {
-  "title": "The model that didn't exist, so you made it yourself",
-  "source": "Hugging Face 博客",
-  "ts": 1791417600.0,
-  "desc": "",
-  "ord": 34
- },
- "https://huggingface.co/blog/tiiuae/falcon-asr": {
-  "title": "Introducing Falcon ASR",
-  "source": "Hugging Face 博客",
-  "ts": 1791379263.0,
-  "desc": "",
-  "ord": 35
- },
- "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/": {
-  "title": "Introducing Playground: Create and play custom games",
-  "source": "Google AI 博客",
-  "ts": 1791374400.0,
-  "desc": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-  "ord": 12
- },
- "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/": {
-  "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-  "source": "Google DeepMind",
-  "ts": 1791316624.0,
-  "desc": "",
-  "ord": 17
- },
- "https://huggingface.co/blog/microsoft/thinkingbox": {
-  "title": "The Agent Said It Was Done. The Database Disagreed.",
-  "source": "Hugging Face 博客",
-  "ts": 1791068208.0,
-  "desc": "",
-  "ord": 36
- },
- "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/": {
-  "title": "The latest AI news we announced in September 2026",
-  "source": "Google AI 博客",
-  "ts": 1790953200.0,
-  "desc": "Here are Google’s latest AI updates from September 2026",
-  "ord": 13
- },
- "https://huggingface.co/blog/ServiceNow-AI/autosynthdata": {
-  "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-  "source": "Hugging Face 博客",
-  "ts": 1790913691.0,
-  "desc": "",
-  "ord": 37
- },
- "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/": {
-  "title": "Gemini 4 Argon: our next era of frontier intelligence",
-  "source": "Google DeepMind",
-  "ts": 1790798505.0,
-  "desc": "",
-  "ord": 18
- },
- "https://deepmind.google/blog/introducing-synthid-bio/": {
-  "title": "Introducing SynthID Bio",
-  "source": "Google DeepMind",
-  "ts": 1790780587.0,
-  "desc": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-  "ord": 19
- },
- "https://huggingface.co/blog/open-tts-leaderboard": {
-  "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-  "source": "Hugging Face 博客",
-  "ts": 1790726400.0,
-  "desc": "",
-  "ord": 38
- },
- "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source": {
-  "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-  "source": "Hugging Face 博客",
-  "ts": 1790687220.0,
-  "desc": "",
-  "ord": 39
- },
- "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/": {
-  "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-  "source": "Google AI 博客",
-  "ts": 1790622000.0,
-  "desc": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-  "ord": 14
- },
- "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/": {
-  "title": "Introducing Gemini 3.8 Live with Live Avatar",
-  "source": "Google DeepMind",
-  "ts": 1790266839.0,
-  "desc": "",
-  "ord": 20
- },
- "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/": {
-  "title": "Google Beam expands with new regions, partners, and customers",
-  "source": "Google AI 博客",
-  "ts": 1790186400.0,
-  "desc": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-  "ord": 15
- },
- "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/": {
-  "title": "Advancing Private AI Compute with secure, server-side memory",
-  "source": "Google DeepMind",
-  "ts": 1790179257.0,
-  "desc": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-  "ord": 21
- },
- "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/": {
-  "title": "Gemini 3.8 text-to-speech says hello",
-  "source": "Google DeepMind",
-  "ts": 1790177114.0,
-  "desc": "",
-  "ord": 22
- },
- "https://www.producthunt.com/products/alpha-vantage": {
-  "title": "Trading Agents",
-  "source": "Product Hunt",
-  "ts": 1790096992.0,
-  "desc": "",
-  "ord": 0
- },
- "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/": {
-  "title": "New experts join Google’s AI & Economy team",
-  "source": "Google AI 博客",
-  "ts": 1789740000.0,
-  "desc": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-  "ord": 16
  }
 }
