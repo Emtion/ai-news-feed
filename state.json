@@ -1,4 +1,11 @@
 {
+ "https://www.qbitai.com/2026/11/511071.html": {
+  "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+  "source": "量子位",
+  "ts": 1795057305.0,
+  "desc": "语言模型单张3090卡即可运行",
+  "ord": 0
+ },
  "https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain": {
   "title": "Google continues to accelerate its release cadence with Gemini 4 NeonNovember 18, 2026",
   "source": "Artificial Analysis 智力指数榜",
@@ -39,6 +46,13 @@
   "source": "AI 日报 · AI225",
   "ts": 1795050185.0,
   "desc": "今日大模型与资本市场迎来多项进展：Google DeepMind 发布前沿模型 Gemini 4 Neon 并同步开放多端使用，同时向 AI Ultra 订阅用户推出世界模型 Genie 4；微软发布 MAI 系列七款高性价比模型；Anthropic 正式将 IPO 定价定为每股 83 美元，预计 11 月 19 日以“ANT”代码登陆纳斯达克。国内方面，腾讯 Q3 财报披露资本开支同比大增 528%；字节跳动豆包工作 DAU 突破 800 万。英伟达在黄仁勋离职后的首次全员会上宣布 12 月提前加薪与增加股权激励，以稳定团队；开源与学术界则在 32GB 内存运行 180B MoE 模型与流式",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/zaobao/wMg9SCFKwT7JSsGq.html": {
+  "title": "英伟达临时CEO称将不再向中国出货H200芯片；一天之内173名管理人员被免，宗馥莉大规模「动刀」；英特尔被曝再度裁员，波及全球IT员工",
+  "source": "雷峰网",
+  "ts": 1795049940.0,
+  "desc": "要闻提示1.英特尔被曝再度裁员，波及全球IT员工2.英伟达临时CEO称将不再向中国出货H200芯片，外交部回应3.权志龙母公司将推机器人女团，与宇树合作的K-pop演唱会12月首演4.宗馥莉再掀人事风暴：173名管理人员被免职5.最高涨560元！大疆两款手持云台相机涨价6.腾讯第三季度营收2073亿元，WorkBuddy日活超千万7.张朝阳再度回应搜狐“躺平”：大模型投入太大，没资源来做这个事情8.英伟达员工大会宣布告别“黄仁勋时代”：12 月员工加薪，启动新 CEO 遴选今日头条英特尔被曝再度裁员，波及全球IT员工11月18日消息，据外媒报道，在过去两年多轮裁员之后，英特尔再度启动新一轮人员",
   "ord": 0
  },
  "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/": {
@@ -255,8 +269,8 @@
   "title": "Genie 4 is now available",
   "source": "Hacker News 头版",
   "ts": 1795027791.0,
-  "desc": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/\nComments URL: https://news.ycombinator.com/item?id=50550415\nPoints: 196\n# Comments: 143",
-  "ord": 8
+  "desc": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/\nComments URL: https://news.ycombinator.com/item?id=50550415\nPoints: 205\n# Comments: 146",
+  "ord": 5
  },
  "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition": {
   "title": "What is Nvidia without AI’s sugar daddy in charge?",
@@ -346,8 +360,8 @@
   "title": "Seven new models at scalable price-performance",
   "source": "Hacker News 头版",
   "ts": 1795018104.0,
-  "desc": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/\nComments URL: https://news.ycombinator.com/item?id=50548021\nPoints: 456\n# Comments: 318",
-  "ord": 11
+  "desc": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/\nComments URL: https://news.ycombinator.com/item?id=50548021\nPoints: 478\n# Comments: 328",
+  "ord": 8
  },
  "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/": {
   "title": "AI agents ask better questions than KPMG accountants in audit trial",
@@ -1166,7 +1180,7 @@
   "source": "艾媒网",
   "ts": 1794892193.5410557,
   "desc": "",
-  "ord": 2
+  "ord": 1
  },
  "https://www.qbitai.com/2026/11/510610.html": {
   "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
@@ -4044,19 +4058,5 @@
   "ts": 1793664000.0,
   "desc": "",
   "ord": 15
- },
- "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties": {
-  "title": "Rewarding defenders with bigger bug bounties",
-  "source": "OpenAI News",
-  "ts": 1793642400.0,
-  "desc": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-  "ord": 39
- },
- "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/": {
-  "title": "The latest AI news we announced in October 2026",
-  "source": "Google AI 博客",
-  "ts": 1793641500.0,
-  "desc": "Here are Google’s latest AI updates from October 2026",
-  "ord": 8
  }
 }
