@@ -1,10 +1,87 @@
 {
+ "https://www.iimedia.cn/c1061/111224.html": {
+  "title": "2026年中国消费者认为AI大模型的发展趋势：认为“很好”的占比51.4%",
+  "source": "艾媒网",
+  "ts": 1795141145.0463393,
+  "desc": "",
+  "ord": 1
+ },
+ "https://daily.ai225.com/daily/2026-11-20": {
+  "title": "2026-11-20 AI 日报 · Anthropic创纪录挂牌纳斯达克，谷歌与Perplexity掀起决策模型架构竞赛",
+  "source": "AI 日报 · AI225",
+  "ts": 1795136457.0,
+  "desc": "2026年11月20日，全球AI行业迎来标志性事件：Anthropic正式在纳斯达克挂牌交易，开盘暴涨超30%，创下全球史上最大规模IPO纪录。大模型产品与工程架构加速向智能体（Agent）深层演进，谷歌为macOS版Gemini上线直接控制电脑的“Computer Use”能力，并推出跳过文本生成、直接输出概率的决策模型Gemini Decision 1；Perplexity亦发布专为决策定制的Decider v1.3，重构注意力机制实现批量无干扰判断。此外，阿里巴巴最新财报披露AI云业务同比大涨53%，并确认千问正基于平头哥国产芯片训练下一代模型；DeepSeek则调整计费策略，模型调用内",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/": {
+  "title": "Apple may be developing its own AI agent that runs your Mac",
+  "source": "TechCrunch AI",
+  "ts": 1795136161.0,
+  "desc": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/": {
+  "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+  "source": "TechCrunch AI",
+  "ts": 1795135430.0,
+  "desc": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+  "ord": 1
+ },
+ "https://git-aarvin.github.io/mei/": {
+  "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+  "source": "Hacker News 头版",
+  "ts": 1795131335.0,
+  "desc": "Article URL: https://git-aarvin.github.io/mei/\nComments URL: https://news.ycombinator.com/item?id=50568130\nPoints: 110\n# Comments: 59",
+  "ord": 0
+ },
+ "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing": {
+  "title": "Apple is hiring engineers to build its own AI agent",
+  "source": "The Verge AI",
+  "ts": 1795127501.0,
+  "desc": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic ",
+  "ord": 0
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings": {
+  "title": "A brief history of Nvidia’s recent stock fluctuations",
+  "source": "The Verge AI",
+  "ts": 1795125575.0,
+  "desc": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wip",
+  "ord": 1
+ },
+ "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/": {
+  "title": "Meta’s new Muse Charm device may cost $300",
+  "source": "TechCrunch AI",
+  "ts": 1795125486.0,
+  "desc": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+  "ord": 2
+ },
+ "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/": {
+  "title": "What’s With All These Outages?",
+  "source": "WIRED AI",
+  "ts": 1795125421.0,
+  "desc": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/": {
+  "title": "These tech outages are giving Y2K, AI agent style",
+  "source": "TechCrunch AI",
+  "ts": 1795124551.0,
+  "desc": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+  "ord": 3
+ },
  "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB": {
   "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB Text Generation • 8B • Updated 27 days ago • 172k • 617",
   "source": "Hugging Face Trending",
   "ts": 1795120531.0521662,
   "desc": "",
   "ord": 27
+ },
+ "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/": {
+  "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+  "source": "WIRED AI",
+  "ts": 1795120457.0,
+  "desc": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
+  "ord": 1
  },
  "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price": {
   "title": "Meta’s Muse Charm might cost $300",
@@ -214,14 +291,14 @@
   "source": "艾媒网",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 1
+  "ord": 2
  },
  "https://huggingface.co/inworld/voice-isolator": {
   "title": "inworld/voice-isolator Audio-to-Audio • Updated 5 days ago • 155",
   "source": "Hugging Face Trending",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 21
+  "ord": 20
  },
  "https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html": {
   "title": "阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍",
@@ -466,6 +543,34 @@
   "source": "Hacker News 头版",
   "ts": 1795047498.0,
   "desc": "Article URL: https://claudia.gallery/fable/\nComments URL: https://news.ycombinator.com/item?id=50554269\nPoints: 43\n# Comments: 35",
+  "ord": 4
+ },
+ "https://openai.com/business/learn/deploying-daybreak-red": {
+  "title": "Deploying Daybreak Red",
+  "source": "OpenAI News",
+  "ts": 1795046400.0,
+  "desc": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+  "ord": 1
+ },
+ "https://openai.com/business/learn/pr-scans-demo": {
+  "title": "See PR scans in action",
+  "source": "OpenAI News",
+  "ts": 1795046400.0,
+  "desc": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+  "ord": 2
+ },
+ "https://openai.com/business/learn/codex-security-plugin-demo": {
+  "title": "Explore the Codex Security Plugin",
+  "source": "OpenAI News",
+  "ts": 1795046400.0,
+  "desc": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+  "ord": 3
+ },
+ "https://openai.com/business/learn/daybreak-blue-onboarding-demo": {
+  "title": "Get started with Daybreak Blue",
+  "source": "OpenAI News",
+  "ts": 1795046400.0,
+  "desc": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
   "ord": 4
  },
  "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/": {
@@ -1026,7 +1131,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794970430.0040767,
   "desc": "",
-  "ord": 19
+  "ord": 18
  },
  "https://www.qbitai.com/2026/11/510737.html": {
   "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
@@ -1229,7 +1334,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 26
+  "ord": 25
  },
  "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6": {
   "title": "meituan-longcat/LongCat-Video-Avatar-1.6 Updated 4 days ago • 489 • 194",
@@ -1439,14 +1544,14 @@
   "source": "Hugging Face Trending",
   "ts": 1794916213.0807822,
   "desc": "",
-  "ord": 25
+  "ord": 24
  },
  "https://huggingface.co/n4ze3m/tiny-voca": {
   "title": "n4ze3m/tiny-voca Text-to-Speech • Updated about 17 hours ago • 3.04k • 207",
   "source": "Hugging Face Trending",
   "ts": 1794916213.0807822,
   "desc": "",
-  "ord": 21
+  "ord": 28
  },
  "https://www.qbitai.com/2026/11/510688.html": {
   "title": "李沐加盟的Aimotion，是一家什么AI公司？",
@@ -3104,14 +3209,14 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 20
+  "ord": 21
  },
  "https://huggingface.co/Qwen/Qwen3.8-27B": {
   "title": "Qwen/Qwen3.8-27B Image-Text-to-Text • 28B • Updated 8 days ago • 6.55M • • 20.1k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 18
+  "ord": 19
  },
  "https://huggingface.co/Lightricks/LTX-2.5": {
   "title": "Lightricks/LTX-2.5 Image-to-Video • Updated Oct 11 • 2.75M • 12k",
@@ -3153,7 +3258,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 24
+  "ord": 26
  },
  "https://huggingface.co/NousResearch/Arete-27B": {
   "title": "NousResearch/Arete-27B Text Generation • 27B • Updated 9 days ago • 7.5k • 606",
@@ -3996,96 +4101,5 @@
   "source": "Hugging Face 博客",
   "ts": 1794441600.0,
   "desc": ""
- },
- "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence": {
-  "title": "ChatGPT Ads increases its market presence in 44 countries",
-  "source": "OpenAI News",
-  "ts": 1794441600.0,
-  "desc": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
-  "ord": 22
- },
- "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/": {
-  "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-  "source": "Google AI 博客",
-  "ts": 1794420000.0,
-  "desc": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
- },
- "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/": {
-  "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-  "source": "Google AI 博客",
-  "ts": 1794412800.0,
-  "desc": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
- },
- "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/": {
-  "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-  "source": "Google DeepMind",
-  "ts": 1794409215.0,
-  "desc": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
- },
- "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/": {
-  "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-  "source": "Google AI 博客",
-  "ts": 1794387600.0,
-  "desc": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
- },
- "https://openai.com/index/chatgpt-plus-for-veterans": {
-  "title": "ChatGPT Plus for veterans and servicemembers",
-  "source": "OpenAI News",
-  "ts": 1794384000.0,
-  "desc": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
- },
- "https://huggingface.co/blog/qvac/botpsy": {
-  "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-  "source": "Hugging Face 博客",
-  "ts": 1794373276.0,
-  "desc": ""
- },
- "https://daily.ai225.com/daily/2026-11-11": {
-  "title": "2026-11-11 AI 日报 · Gemini 4 Carbon 正式开放、Anthropic 启动万亿级 IPO 路演，办公与机器人 AI 同日多点开花",
-  "source": "AI 日报 · AI225",
-  "ts": 1794359268.0,
-  "desc": "2026-11-11 的 AI 焦点是模型发布与行业大事。DeepMind 开放 Gemini 4 Carbon；Anthropic 启动 IPO 路演，估值最高约 1.4 万亿美元；OpenAI 推出 ChatGPT Business Hub。美团开源 LongCat-2.5，蚂蚁灵波开源触觉模型 LingBot-Touch；Gemini Robotics 2.5 在奔驰产线试运行。安全上，微软披露 Lazarus 后门技术，亚马逊推出 Ring 安防机器人，纽约州启动 RAISE 法案注册。"
- },
- "https://openai.com/index/jiostar-vijay-seshadri": {
-  "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-  "source": "OpenAI News",
-  "ts": 1794355200.0,
-  "desc": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
- },
- "https://huggingface.co/blog/token-pooling": {
-  "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-  "source": "Hugging Face 博客",
-  "ts": 1794355200.0,
-  "desc": ""
- },
- "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/": {
-  "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-  "source": "Ars Technica",
-  "ts": 1794345179.0,
-  "desc": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them."
- },
- "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/": {
-  "title": "Gemini Intelligence: New features, on more devices",
-  "source": "Google AI 博客",
-  "ts": 1794337200.0,
-  "desc": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
- },
- "https://deepmind.google/blog/gemini-4-carbon-is-now-available/": {
-  "title": "Gemini 4 Carbon is now available",
-  "source": "Google DeepMind",
-  "ts": 1794326627.0,
-  "desc": ""
- },
- "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/": {
-  "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-  "source": "Google AI 博客",
-  "ts": 1794319200.0,
-  "desc": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
- },
- "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/": {
-  "title": "Google Cloud launches Gemini for healthcare.",
-  "source": "Google AI 博客",
-  "ts": 1794315600.0,
-  "desc": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
  }
 }
