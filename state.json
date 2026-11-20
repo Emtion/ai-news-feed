@@ -1,4 +1,116 @@
 {
+ "https://www.anthropic.com/news/ipo-close": {
+  "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+  "source": "Anthropic Newsroom",
+  "ts": 1795205785.1048276,
+  "desc": "",
+  "ord": 11
+ },
+ "https://huggingface.co/Sentinel7/h3": {
+  "title": "Sentinel7/h3 Updated 2 days ago • 218",
+  "source": "Hugging Face Trending",
+  "ts": 1795205785.1048276,
+  "desc": "",
+  "ord": 25
+ },
+ "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/": {
+  "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+  "source": "TechCrunch AI",
+  "ts": 1795204421.0,
+  "desc": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+  "ord": 0
+ },
+ "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/": {
+  "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+  "source": "WIRED AI",
+  "ts": 1795204341.0,
+  "desc": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/": {
+  "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+  "source": "TechCrunch AI",
+  "ts": 1795203128.0,
+  "desc": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+  "ord": 1
+ },
+ "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax": {
+  "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+  "source": "The Verge AI",
+  "ts": 1795200619.0,
+  "desc": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our coun",
+  "ord": 0
+ },
+ "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394": {
+  "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+  "source": "Hacker News 头版",
+  "ts": 1795196641.0,
+  "desc": "Article URL: https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394\nComments URL: https://news.ycombinator.com/item?id=50578794\nPoints: 145\n# Comments: 122",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/": {
+  "title": "Chips can survive the space environment — can their financing?",
+  "source": "TechCrunch AI",
+  "ts": 1795196401.0,
+  "desc": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+  "ord": 2
+ },
+ "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/": {
+  "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+  "source": "Hacker News 头版",
+  "ts": 1795193967.0,
+  "desc": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/\nComments URL: https://news.ycombinator.com/item?id=50577901\nPoints: 131\n# Comments: 75",
+  "ord": 1
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem": {
+  "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+  "source": "The Verge AI",
+  "ts": 1795192453.0,
+  "desc": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic ",
+  "ord": 1
+ },
+ "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/": {
+  "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+  "source": "TechCrunch AI",
+  "ts": 1795186544.0,
+  "desc": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed",
+  "ord": 3
+ },
+ "https://www.leiphone.com/category/industrynews/SiETkjl6gqYBSCz4.html": {
+  "title": "上汽通用发布真龙插混MAX，首搭别克至境世家",
+  "source": "雷峰网",
+  "ts": 1795183620.0,
+  "desc": "2026年11月20日，上汽通用汽车发布全新一代插混技术——真龙插混MAX，将首搭别克MPV全新至境世家，并于11月27日广州车展对公众亮相。这套系统由2.0T混动专用发动机、800V高压平台与支持6C充电的插混专用电池组成。据介绍，真龙插混MAX，基于插电混动独有的物理架构优势，相对于真龙插混与真龙插混Pro，在性能、静谧、安全到智能等方面进一步升级。 动力：满电与亏电加速相差0.1秒真龙插混MAX搭载通用汽车首款2.0T混动专用发动机、WLTC工况效率93.07%的插混电驱，以及800V高压架构，系统综合最大功率550kW，峰值扭矩815N·m。上汽通用称，电池在20% SOC时仍可释放4",
+  "ord": 0
+ },
+ "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast": {
+  "title": "The week everything fell apart",
+  "source": "The Verge AI",
+  "ts": 1795183619.0,
+  "desc": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of somet",
+  "ord": 2
+ },
+ "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/": {
+  "title": "Six AI-powered gadgets that could make your home office smarter",
+  "source": "TechCrunch AI",
+  "ts": 1795183200.0,
+  "desc": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+  "ord": 4
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app": {
+  "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+  "source": "The Verge AI",
+  "ts": 1795177847.0,
+  "desc": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Si",
+  "ord": 3
+ },
+ "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/": {
+  "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+  "source": "WIRED AI",
+  "ts": 1795176000.0,
+  "desc": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+  "ord": 1
+ },
  "https://www.iimedia.cn/c1061/120486.html": {
   "title": "2026年中国消费者认为AI教育产品与传统教育方式的关系分析：多数消费者认为AI产品可作为传统教育的补充",
   "source": "艾媒网",
@@ -20,6 +132,13 @@
   "desc": "",
   "ord": 29
  },
+ "https://www.leiphone.com/category/weiwu/zv5a8TgwqnZmROX5.html": {
+  "title": "拓竹 MakerWorld，为什么难复制？",
+  "source": "雷峰网",
+  "ts": 1795173000.0,
+  "desc": "模型社区成了 3D 打印厂商争夺的下一块阵地。作者丨姚单编辑丨董子博2026 年 9 月底，一个 3D 打印模型社区收益榜上排第一的创作者，纯靠赚积分，已经攒下价值约 55 万元人民币的收益。年末是购机和打印高峰，照这个势头，全年冲到 80~90 万元也不成问题。这不是个例。头部创作者一年收入高达 40 万美金，足以支撑一份全职；中腰部把创作当副业、一年赚 5 万~10 万美金，被形容\"不算很难\"。这些收益，真实发生在拓竹旗下的模型社区 MakerWorld。拓竹成立于 2020 年，寥寥数年就冲进行业的第一梯队。早在创业初期，拓竹就判断，硬件壁垒最多只有 18 个月的红利期，社区生态才是真正",
+  "ord": 1
+ },
  "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/": {
   "title": "Regular Tech Bros Are Worried About Honeypots",
   "source": "WIRED AI",
@@ -27,11 +146,32 @@
   "desc": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
   "ord": 0
  },
+ "https://www.leiphone.com/category/industrynews/leaIWtsEkg58zaCy.html": {
+  "title": "灵掌机器人太空灵巧手亮相世界智能制造博览会",
+  "source": "雷峰网",
+  "ts": 1795170420.0,
+  "desc": "11月19日至21日，第十一届世界智能制造博览会（以下简称“智博会”）在南京国际博览中心举办。无锡灵掌机器人科技有限公司（以下简称“灵掌机器人”）携全系列共9款灵巧手产品参展，重点展示了灵巧手在工业制造、太空任务、特种作业、科研与人形机器人等行业领域的落地场景及解决方案。灵掌机器人创始人兼首席执行官张超介绍，灵巧手是具身智能走向真实操作的重要一环，也是连接智能决策与物理执行的关键末端。当前灵巧手行业正进入快速发展期，逐步进入真实应用场景中，市场需求也在持续释放。从工业产线上的重物抓取搬运，到危险环境中的远程防爆作业，再到太空航天器维修，灵巧手的市场应用空间广阔。在张超看来，机器人发展的重要价值",
+  "ord": 2
+ },
+ "https://www.leiphone.com/category/weiwu/ptAnAiMGqEOX65EI.html": {
+  "title": "解读丨智能戒指红海之外，Elah Ring 正在深入美国腹地",
+  "source": "雷峰网",
+  "ts": 1795169340.0,
+  "desc": "斯坦福毕业生做的 Elah Ring，要当美国百姓的“Personal Faith Agent”。作者丨陈玘凡编辑丨吴优斯坦福周边没有密集的商圈与高楼，和车程半小时的旧金山城区氛围差别明显。校园占地 8180 英亩，大片山丘林地，建筑低矮，很容易让人产生孤独感。2014 年，Everblessed 创始人温立来到这里，攻读流体力学与水文硕士。初来乍到，每周最轻松愉快的时候，就是周六晚的信仰家庭聚会。每个人做几个菜，大家一起读经，唱诗，祷告，聊最近生活中的喜怒哀乐，和背后神的指引。这是当时温立每周能吃到最丰盛的晚餐。那时候，他没有想到，求学之外的这样一段独特经历，会在十年后深刻地影响他的人生选择",
+  "ord": 3
+ },
  "https://architectlabs.com/blog/frostbite": {
   "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
   "source": "Hacker News 头版",
   "ts": 1795168901.0,
   "desc": "Article URL: https://architectlabs.com/blog/frostbite\nComments URL: https://news.ycombinator.com/item?id=50572503\nPoints: 102\n# Comments: 74",
+  "ord": 0
+ },
+ "https://openai.com/index/combatting-adversarial-distillation": {
+  "title": "Combatting adversarial distillation",
+  "source": "OpenAI News",
+  "ts": 1795168800.0,
+  "desc": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
   "ord": 0
  },
  "https://www.qbitai.com/2026/11/511679.html": {
@@ -214,6 +354,27 @@
   "source": "TechCrunch AI",
   "ts": 1795135430.0,
   "desc": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+  "ord": 1
+ },
+ "https://openai.com/index/introducing-medchembench": {
+  "title": "Can AI help scientists identify promising drug candidates?",
+  "source": "OpenAI News",
+  "ts": 1795132800.0,
+  "desc": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+  "ord": 1
+ },
+ "https://huggingface.co/blog/inkling2mini": {
+  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "source": "Hugging Face 博客",
+  "ts": 1795132800.0,
+  "desc": "",
+  "ord": 0
+ },
+ "https://huggingface.co/blog/harness-adapters-at-scale": {
+  "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "source": "Hugging Face 博客",
+  "ts": 1795132800.0,
+  "desc": "",
   "ord": 1
  },
  "https://git-aarvin.github.io/mei/": {
@@ -473,14 +634,14 @@
   "source": "艾媒网",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 2
+  "ord": 1
  },
  "https://huggingface.co/inworld/voice-isolator": {
   "title": "inworld/voice-isolator Audio-to-Audio • Updated 5 days ago • 155",
   "source": "Hugging Face Trending",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 17
+  "ord": 23
  },
  "https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html": {
   "title": "阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍",
@@ -767,7 +928,7 @@
   "source": "Hacker News 头版",
   "ts": 1795044609.0,
   "desc": "Article URL: https://www.anthropic.com/news/anthropic-prices-initial-public-offering\nComments URL: https://news.ycombinator.com/item?id=50553843\nPoints: 75\n# Comments: 34",
-  "ord": 11
+  "ord": 12
  },
  "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/": {
   "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
@@ -872,7 +1033,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795033783.4331658,
   "desc": "",
-  "ord": 24
+  "ord": 20
  },
  "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/": {
   "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
@@ -1103,14 +1264,14 @@
   "source": "艾媒网",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 3
+  "ord": 2
  },
  "https://huggingface.co/apple/FastFrames-L": {
   "title": "apple/FastFrames-L Text-to-Video • Updated about 6 hours ago • 148",
   "source": "Hugging Face Trending",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 16
+  "ord": 24
  },
  "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/": {
   "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
@@ -1313,14 +1474,14 @@
   "source": "Hugging Face Trending",
   "ts": 1794970430.0040767,
   "desc": "",
-  "ord": 20
+  "ord": 29
  },
  "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted": {
   "title": "harness-hub/Qwen3.8-27B-pi-adapted Updated about 18 hours ago • 153",
   "source": "Hugging Face Trending",
   "ts": 1794970430.0040767,
   "desc": "",
-  "ord": 18
+  "ord": 16
  },
  "https://www.qbitai.com/2026/11/510737.html": {
   "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
@@ -1419,6 +1580,13 @@
   "ts": 1794960000.0,
   "desc": "",
   "ord": 4
+ },
+ "https://themodelgap.com/new-ai-models": {
+  "title": "Google launches Gemini 4 Neon — API id gemini-4-neon, $3/$15 per million tokens, 1,048,576-token context",
+  "source": "The Model Gap",
+  "ts": 1794960000.0,
+  "desc": "Koray Kavukcuoglu's November 18, 2026 blog launches Gemini 4 Neon under API id gemini-4-neon. Paid Standard is a flat $3 input and $15 output per million tokens across a vendor-stated 1,048,576-token window, and Gemini 4 Neon is not on the Free tier. No Gemini 4 Neon score row is stored. Carbon, Arg",
+  "ord": 0
  },
  "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now": {
   "title": "Satya Nadella says he’s AGI-pilled now",
@@ -1523,14 +1691,14 @@
   "source": "Hugging Face Trending",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 25
+  "ord": 21
  },
  "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6": {
   "title": "meituan-longcat/LongCat-Video-Avatar-1.6 Updated 4 days ago • 489 • 194",
   "source": "Hugging Face Trending",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 28
+  "ord": 26
  },
  "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/": {
   "title": "Model ML raises $250M to automate investment banking grunt work",
@@ -1733,14 +1901,14 @@
   "source": "Hugging Face Trending",
   "ts": 1794916213.0807822,
   "desc": "",
-  "ord": 23
+  "ord": 22
  },
  "https://huggingface.co/n4ze3m/tiny-voca": {
   "title": "n4ze3m/tiny-voca Text-to-Speech • Updated about 17 hours ago • 3.04k • 207",
   "source": "Hugging Face Trending",
   "ts": 1794916213.0807822,
   "desc": "",
-  "ord": 28
+  "ord": 27
  },
  "https://www.qbitai.com/2026/11/510688.html": {
   "title": "李沐加盟的Aimotion，是一家什么AI公司？",
@@ -2433,7 +2601,7 @@
   "source": "艾媒网",
   "ts": 1794796577.2351496,
   "desc": "",
-  "ord": 1
+  "ord": 0
  },
  "https://www.iimedia.cn/c1088/120092.html": {
   "title": "11月13日AI新产品讯息：百度发布两款文心应用模型、谷歌推出Gemini Decisions API、百度推出大模型交易平台词元所",
@@ -2985,119 +3153,119 @@
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 12
+  "ord": 13
  },
  "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions": {
   "title": "AI for Science expands to foundations and research institutions",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 13
+  "ord": 14
  },
  "https://www.anthropic.com/news/expanding-partnership-gsa": {
   "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 14
+  "ord": 15
  },
  "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation": {
   "title": "Donating Agent Skills to the Agentic AI Foundation",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 15
+  "ord": 16
  },
  "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences": {
   "title": "Open call for guest investigators in the life sciences",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 16
+  "ord": 17
  },
  "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust": {
   "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 17
+  "ord": 18
  },
  "https://www.anthropic.com/news/an-update-on-independent-evaluators": {
   "title": "An update on independent evaluators",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 18
+  "ord": 19
  },
  "https://www.anthropic.com/news/2026-us-midterms": {
   "title": "Preparing for the 2026 US midterms",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 19
+  "ord": 20
  },
  "https://www.anthropic.com/news/singapore-office-opening": {
   "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 20
+  "ord": 21
  },
  "https://www.anthropic.com/news/distillation-defenses": {
   "title": "Strengthening our defenses against distillation attacks",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 21
+  "ord": 22
  },
  "https://www.anthropic.com/news/anthropic-cyber-mission": {
   "title": "Introducing the Anthropic Cyber Mission",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 22
+  "ord": 23
  },
  "https://www.anthropic.com/news/2026-usage-policy-update": {
   "title": "2026 Usage Policy update",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 23
+  "ord": 24
  },
  "https://www.anthropic.com/news/genesis-mission-commitment": {
   "title": "Building on our commitment to American scientific discovery",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 24
+  "ord": 25
  },
  "https://www.anthropic.com/news/cyber-verification-program": {
   "title": "Expanding the Cyber Verification Program",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 25
+  "ord": 26
  },
  "https://www.anthropic.com/news/claude-frontier-academy": {
   "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 26
+  "ord": 27
  },
  "https://www.anthropic.com/news/barclays-scales-claude": {
   "title": "Barclays scales Claude to upgrade operations and improve client experience",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 27
+  "ord": 28
  },
  "https://www.anthropic.com/claude-sonnet-5-5": {
   "title": "Introducing Claude Sonnet 5.5",
   "source": "Anthropic Newsroom",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 28
+  "ord": 29
  },
  "https://www.anthropic.com/news/accenture-embedded-evaluation": {
   "title": "Partnering with Accenture on embedded evaluation",
@@ -3398,21 +3566,21 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 21
+  "ord": 19
  },
  "https://huggingface.co/Qwen/Qwen3.8-27B": {
   "title": "Qwen/Qwen3.8-27B Image-Text-to-Text • 28B • Updated 8 days ago • 6.55M • • 20.1k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 19
+  "ord": 17
  },
  "https://huggingface.co/Lightricks/LTX-2.5": {
   "title": "Lightricks/LTX-2.5 Image-to-Video • Updated Oct 11 • 2.75M • 12k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 22
+  "ord": 18
  },
  "https://huggingface.co/Comfy-Org/MiniMax-H3-Image": {
   "title": "Comfy-Org/MiniMax-H3-Image Text-to-Image • Updated 4 days ago • 1.97M • 404",
@@ -3468,7 +3636,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 29
+  "ord": 28
  },
  "https://huggingface.co/higurashi-ai/Haru-4B": {
   "title": "higurashi-ai/Haru-4B Audio-to-Audio • 5B • Updated 3 days ago • 2.1k • 277",
@@ -3982,149 +4150,5 @@
   "source": "雷峰网",
   "ts": 1794564000.0,
   "desc": "作者｜包永刚编辑｜刘伟雷峰网独家获悉，燧原科技首席生态官李星宇已于近日离职。他离职后已入读港大-北大联合DBA博士项目，但尚未披露下一步职业计划。李星宇拥有超过20年的半导体行业从业经验，工作经历涵盖云端AI计算芯片、自动驾驶AI芯片、智能座舱芯片等领域。加入燧原科技之前，他曾在地平线任职8年，担任生态发展与战略规划副总裁，是地平线创始管理团队成员。更早之前，他曾任职于恩智浦半导体。从地平线的创始管理团队成员，到燧原科技首席生态官，李星宇在企业战略规划和产业生态建设方面积累了丰富经验。他先后任职的地平线与燧原科技，分别于2024年10月和2026年9月上市。据雷峰网了解，李星宇长期看好国内AI"
- },
- "https://www.leiphone.com/category/transportation/vNdfiZqSJgLMJc3M.html": {
-  "title": "9.99万的ID.ERA 5X，大众开始用中国效率打价格战",
-  "source": "雷峰网",
-  "ts": 1794562680.0,
-  "desc": "从过去全球技术导入中国，转向中国本土研发定义产品，并反哺全球，大众在华的研发模式迎来的关键转身，集中在一款新车型中。11月12日，上汽大众ID.ERA 5X正式上市，限时权益价9.99万起，共推出四款配置。定位都市纯电SUV，瞄准年轻用户与家庭市场。作为一款主打高性价比的紧凑型纯电SUV，上汽大众ID.ERA 5X是德系品质与中国智能共同发力的代表。新车车长4560mm，但轴距达到 2815mm，采用短前后悬设计，把车轮推向四角，主打“小车身、大空间”，后排腿部空间比较宽裕。德系车的安全品质也严格呈现。全系标配83%高强度钢的笼式车身，关键受力部位采用热成型钢补强。在上市发布会的压力测试中，车"
- },
- "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html": {
-  "title": "独家丨港大孵化的半导体材料公司，融资数千万",
-  "source": "雷峰网",
-  "ts": 1794561720.0,
-  "desc": "一个发表于《Nature》的技术，能在三步剥出晶圆级薄膜，公司获耀途独家投资。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀独家获悉，半导体材料公司钻耐科思科技（DiamNEX）已完成数千万元新一轮融资，由耀途资本独家投资。钻耐科思（DiamNEX）成立于2025年，由香港大学孵化，专注于金刚石半导体和量子技术的研发、生产与商业化应用。创始人褚智勤是港大电机与计算机工程系副教授、副系主任，在金刚石方向论文超80篇、专利17项；科学顾问来自港大、港科大、南方科技大学，具备学术产业化落地能力。金刚石被誉为“终极半导体材料”，具有超宽禁带、高击穿场强、高热导率等优势特性，是帮助突破当前AI算力散热天花板、赋能量"
- },
- "https://www.leiphone.com/category/industrynews/pDERNZsb2r8U4vS5.html": {
-  "title": "海尔热水器双11战报：京东天猫双平台销量TOP1",
-  "source": "雷峰网",
-  "ts": 1794561420.0,
-  "desc": "随着双11落幕，热水器市场也结束了新一轮换新热潮。从近两年的用户需求来看，热水器不再只看重热水供给，而是更加关注使用安全、沐浴水质与维保省心，家庭用水的健康化、场景化、智能化成为选购核心标尺。激烈角逐之中，海尔热水器脱颖而出，拿下京东、天猫双平台热水器销量 TOP1，电热、燃热双线领跑，用亮眼战绩印证市场对海尔全屋用水方案的认可。这份成绩的背后，是海尔持续深耕AI智慧用水场景，瞄准家庭用水隐忧，将创新科技落地到日常洗浴带来的成果。使用传统金属胆电热水器时，要定期预约师傅上门更换镁棒、清洗内胆；内胆维护不及时，水垢、镁渣、细菌就容易积存在内胆中，混在水中流出，皮肤容易发痒、敏感。海尔无镁棒小蓝瓶"
- },
- "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html": {
-  "title": "中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理",
-  "source": "雷峰网",
-  "ts": 1794560700.0,
-  "desc": "11月13日，中国国际金融股份有限公司（简称“中金公司”）与蚂蚁科技集团股份有限公司（简称“蚂蚁集团”）签署战略合作协议。双方将结合中金公司在专业投研、金融服务等方面的积累，以及蚂蚁集团在人工智能、行业生态、客户运营等方面的优势，围绕金融大模型技术创新、AI赋能财富管理、客户全生命周期服务等领域开展合作，共同探索“AI+金融”创新路径。中金公司党委副书记、副董事长、总裁王曙光（右二），蚂蚁集团首席执行官、蚂蚁数科董事长韩歆毅（左二）出席并见证签约仪式。中金公司党委委员、中金财富党委书记、总裁王建力（右一），蚂蚁集团资深副总裁、蚂蚁数科CEO赵闻飙（左一）代表双方签署协议。随着大模型和智能体技术"
- },
- "https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html": {
-  "title": "独家丨一家主动灭火的智慧消防公司，融资超千万",
-  "source": "雷峰网",
-  "ts": 1794560640.0,
-  "desc": "把 AI 用在“水火之间”——菲思拓的整体方案，已接入超三万家单位。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀独家获悉，做主动灭火的智慧消防公司菲思拓已完成千万级天使轮融资，投资方为北京国润智投科技有限公司。菲思拓已经开启新一轮融资，投前估值 3 亿元，本轮资金意在进行产品研发、市场拓展和推动产能落地。创始人兼 CEO 顾永峰有 20 年消防行业经验，曾任喜利得中国区域经理、STI 中国全国销售总监；团队拥有消防、材料、loT 等复合背景，2025 年公司营收超 4000 万元。2025 年全国电气火灾约有 25.9 万起；2024 年一家云厂商数据中心火灾直接损失超8 亿欧元。AI 算力、储能电站把"
- },
- "https://www.qbitai.com/2026/11/509995.html": {
-  "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
-  "source": "量子位",
-  "ts": 1794560559.0,
-  "desc": "一个时代结束了"
- },
- "https://www.producthunt.com/products/openai": {
-  "title": "Businesses in ChatGPT",
-  "source": "Product Hunt",
-  "ts": 1794560031.0,
-  "desc": ""
- },
- "https://www.leiphone.com/category/industrynews/reILtCnNdcvKB3fi.html": {
-  "title": "美团陈一方：2026洗浴行业线上化率超20%",
-  "source": "雷峰网",
-  "ts": 1794559380.0,
-  "desc": "11月13日，2027美团洗浴指南在沈阳发布。美团服务零售乐生活业务部负责人陈一方介绍，中国洗浴行业正呈现出新发展气象，2026年洗浴行业线上化率已超20%。越来越多洗浴商户把美团作为承接多元消费需求的主阵地，更多门店特色服务、多种供需组合产品在线上同步首发。"
- },
- "https://www.leiphone.com/category/weiwu/Hxr2CvehePVKjS4m.html": {
-  "title": "解读丨不插电的宠物梳毛器，凭什么拿下三千家海外门店？",
-  "source": "雷峰网",
-  "ts": 1794558540.0,
-  "desc": "用专利，PawSwing 在宠物梳毛器品类画了一个大圈。作者丨陈玘凡编辑丨吴优雷峰网·鲸犀获悉，宠物智能硬件公司「橘猫宇宙」近日完成数千万元Pre-A轮融资，高秉强教授及旗下高锋耐心基金、前海创新投资、常垒创投等持续加注，并同步开启新一轮融资。资金将主要用于技术创新、产品迭代、专利体系建设以及全球线下渠道网络拓展。橘猫宇宙（PawSwing）的核心产品 PawSwing Neo 是一款被动式猫窝梳毛收集器，利用猫喜欢钻洞的天性，在进出猫窝时，通过机械结构直接梳毛，把脱掉的毛进行回收，从而解决梳毛和掉毛给用户带来的需求痛点。定价 200 美元，累计销量超过两万台。有意思的是，这款被高秉强教授连投"
- },
- "https://openai.com/business/customer-stories/shield": {
-  "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-  "source": "OpenAI News",
-  "ts": 1794556800.0,
-  "desc": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
- },
- "https://www.qbitai.com/2026/11/509827.html": {
-  "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
-  "source": "量子位",
-  "ts": 1794556268.0,
-  "desc": "12.9 北京，来MEET2027现场"
- },
- "https://www.leiphone.com/category/ai/1jG5k34DSlHSSJE9.html": {
-  "title": "英伟达博客发声：她不一样，她懂显卡 ( bushi )，她懂端到端！",
-  "source": "雷峰网",
-  "ts": 1794556140.0,
-  "desc": "她叫Alpamayo 2 Edge，因果推理结合扩散动作，端到端输出闭环表现提升 48.9%。    作者丨郑佳美    编辑丨岑   峰                                                                                                       点开前，你以为老黄家的惊天大瓜又有了什么后续； 点开后才发现：这个“她”连人都不是。她叫 Alpamayo 2 Edge。 英伟达11月10日刚发布出来的一款端到端自动驾驶模型。VLM 骨干约 2.45B、动作专家约 0.2B，跑在车规级芯片 DRIVE "
- },
- "https://www.qbitai.com/2026/11/509796.html": {
-  "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
-  "source": "量子位",
-  "ts": 1794555783.0,
-  "desc": "250名国内顶尖三甲医院医生联合评测"
- },
- "https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html": {
-  "title": "40 亿参数模型拿下 6 个评测第一，西湖大学团队押注「概念世界模型」",
-  "source": "雷峰网",
-  "ts": 1794555780.0,
-  "desc": "西湖世界模型研究中心成立，施一公亲自揭牌。     作者丨张岂萍    编辑丨幸丽娟                                                                                                       世界模型赛道已经不缺创业公司。海外李飞飞、Yann LeCun 等学术大佬亲自下场，国内极佳视界、逆矩阵、流形空间等创业公司高密度入场。但最近几个月，入场的力量开始发生变化，下场的不再只是公司，高校和地方政府也开始组织力量，参与这场技术竞争。今年 7 月，北京大学与逆矩阵科技成立世界模型联合实验室。10 月，"
- },
- "https://www.leiphone.com/category/weiwu/AkhKWQN8s6nqa5d6.html": {
-  "title": "黑格科技双十一斩获光固化 3D 打印类目 “三冠王”",
-  "source": "雷峰网",
-  "ts": 1794555720.0,
-  "desc": "雷峰网获悉，11月13日，黑格科技宣布2026 年双十一全周期（10 月 20 日 —11 月 11 日）战报：在天猫、京东双平台光固化 3D 打印机类目，黑格科技同时拿下销量第一、销售额第一和市占率第一，加冕类目 “三冠王”。旗下 Reflex RS Turbo 机型表现突出，位列光固化 3D 打印机单品销量首位。数据显示，本次大促期间，黑格科技双平台合计销售额同比增幅达 327%，其中天猫渠道销售额同比增长 355%，京东渠道销售额同比增长 201%，增长动能强劲。黑格科技成立于2015年，总部位于广州，是全球高端光固化3D打印领军企业。公司坚持全栈自研，以自主研发的硬件和软件为核心，构建"
- },
- "https://www.leiphone.com/category/academic/FpJFXrs9xGOOewKA.html": {
-  "title": "中大梁小丹团队，GeoThinker 两项研究成果，破除空间推理「几何信息用不好、计算开销大」难题",
-  "source": "雷峰网",
-  "ts": 1794555600.0,
-  "desc": "不再实时调用外部三维几何编码器，视觉语言模型空间推理提速约 3.6 倍。    作者丨张岂萍    编辑丨幸丽娟                                                                                                       给视觉语言模型多塞一份三维几何信息，它就一定看得更准？还真不一定。判断物体的位置、距离和空间关系，是视觉语言模型实现空间推理需要具备的能力。现在一种常见做法，是接入 VGGT 这类三维几何编码器，从多视角图像中提取深度、点云等空间线索，辅助模型判断。但外部几何信息并不是越多越好。无"
- },
- "https://www.leiphone.com/category/industrynews/Fs1xk6Oh4bie2guE.html": {
-  "title": "猫粮要保鲜，饮水要恒温，淘宝出海宠物智能用品跑出新增长",
-  "source": "雷峰网",
-  "ts": 1794554940.0,
-  "desc": "这个双11，宠物品牌出海提速。据统计，淘宝天猫宠物行业已有超半数宠物品牌进入海外市场，其中宠物智能设备海外成交增速领跑全行业，智能喂食器、智能饮水机、智能储粮桶和宠物可穿戴设备等品类的海外成交额均实现两位数同比增长，全球宠物行业跑步进入“智能时代”。对于养宠物的家庭来说，宠物智能设备并不是一个时髦的“概念产品”，而是可以解决实实在在的养宠痛点。真空保鲜桶可以让宠粮开封后长期防潮保鲜，带有加热功能的自动饮水机能让家里的“主子”在冬天喝上温水，同时养了多只猫狗的家庭，智能喂食器还可以通过“面部识别”等技术，精确针对每一只“毛孩子”出粮，让主人掌握宠物的饮食健康。有调研显示，得益于中国强大的供应链基"
- },
- "https://www.leiphone.com/category/industrynews/TVkq6K4xkcX9zKSN.html": {
-  "title": "京博控股集团与千问办公达成战略合作，共创化工行业AI Native标杆",
-  "source": "雷峰网",
-  "ts": 1794554820.0,
-  "desc": "近日，京博控股集团与千问办公达成战略合作，明确全集团将基于千问办公打造AI Native组织。后续双方将围绕科研创新、生产运营优化、经营分析、流程组织重构等核心场景展开合作，共同探索化工行业的智能化升级路径。京博控股集团执行董事、首席轮值总裁栾波，集团轮值总裁兼海外总裁汪君华和千问办公CEO陈宇森等共同出席了本次战略合作签约仪式。  图示 京博控股集团和千问办公战略合作签约现场 京博控股集团是中国500强企业，向全球50余个国家和地区提供高性能新材料、高端化学品、高端装备智造、数智化解决方案与安环能碳配套服务系统。依托千问办公，京博将在化工、新材料等核心生产场景，探索用Agent重塑流程架构，"
- },
- "https://www.leiphone.com/category/industrynews/1QHwFdkqb0nSgOjV.html": {
-  "title": "高德推出AutoSDK国际版，海外司机也能体验到中国导航了！",
-  "source": "雷峰网",
-  "ts": 1794554700.0,
-  "desc": "近年来，中国汽车产业全球化进程显著加速。中国汽车工业协会数据显示，2024年中国汽车出口量达585.9万辆，同比增长19.3%，稳居全球首位。然而，在硬件实力大步“走出去”的同时，海外用户的车载导航体验却成为中国车企提升品牌软实力和用户满意度的关键瓶颈。一直以来，车企在全球导航市场面临着产品定义不够灵活、体验一致性差、工程支持薄弱等问题。相关产品的迭代速度远落后于国内，难以快速响应海外市场变化和用户反馈的同时，也难以满足中国车企品牌高质量全球化的期望。针对中国车企的出海痛点，11月3日，阿里巴巴旗下高德基于其在国内市场的成功经验，正式发布AutoSDK国际版。该产品集成了定位、搜索、地图渲染、"
- },
- "https://www.qbitai.com/2026/11/509730.html": {
-  "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
-  "source": "量子位",
-  "ts": 1794554274.0,
-  "desc": "比亚迪第1900万辆新能源汽车在西安工厂正式下线"
- },
- "https://www.leiphone.com/category/industrynews/VKIfDDIJRVZxJZR7.html": {
-  "title": "谷歌的遗憾，被高德弥补了",
-  "source": "雷峰网",
-  "ts": 1794554100.0,
-  "desc": "谷歌曾在I/O 开发者大会上展示了一段令外界惊叹的演示：用户可以从高空“飞入”3D地图，沉浸式感受城市街景。不过，这项被称为“沉浸式视图”的功能，至今仍未在谷歌地图中规模化落地。反倒是在今年，国内的高德后来居上，用更前沿的技术，将飞行视角从街道延伸至了店铺，并且真正实现了规模化应用。2026 年 1 月 7 日，高德正式发布全球首个“飞行街景”，并面向所有商家免费开放。高德飞行街景首次实现高拟真、连续动态的实景还原。它让用户可提前沉浸式俯瞰店内外实景，并在出发前即可以第一视角“飞越”城市街区，从高空俯瞰街道全貌，精准识别店铺门头，甚至穿门入室，获得接近实地探访的视觉感知。这背后，是科技公司之间"
- },
- "https://www.leiphone.com/category/transportation/AxCfndkvZtBgm8PZ.html": {
-  "title": "埃安Ray7正式上市，702公里激光雷达后驱版13.47万元",
-  "source": "雷峰网",
-  "ts": 1794542400.0,
-  "desc": "11月12日，昊铂埃安旗下超级纯电轿车Ray7正式上市，上市限时价11.47万-14.47万元。新车共5个版本：530后驱驾趣版11.47万元、530后驱激光版12.47万元、702后驱驾趣宁德版12.47万元、702后驱激光宁德版13.47万元、702后驱EMB激光宁德版14.47万元。车身部分，Ray7车长近5米，采用低趴宽体造型，宽高比1.30、轮高比0.48，配备“量子星环”前后灯组。三电部分，Ray7凭借埃安全新智能热管理系统、智能低压电控方案、华为Drive ONE多合一电驱等创新，实现CLTC续航702公里，百公里电耗9.7度，获得中汽中心“最佳能效”和“十佳动力”双奖。驾驶辅助"
- },
- "https://www.leiphone.com/category/industrynews/XwQ7utNsCKydcl0N.html": {
-  "title": "国台严选背后：从两会记者到APEC央视主播团，Pocket 4P 为何成为媒体人标配",
-  "source": "雷峰网",
-  "ts": 1794541560.0,
-  "desc": "2026年APEC峰会前夕，中央广播电视总台推出特别节目《主播骑遇未来之城》，康辉、刘妙然等央视名嘴穿行深圳街头。其中，康辉单手持握大疆 Osmo Pocket 4P 穿梭在熙攘的地铁站内从容记录的画面，迅速在产业界与传媒圈刷屏。图：康辉手举Osmo Pocket4P记录深圳地铁镜头一个跨越十余年的装备变迁正在被验证：越来越多的记者装备包里，只需一台手掌大小的一体化云台相机，单手开机、对焦出镜，视频和图片一气呵成。以高集成度、三轴物理机械增稳为特征的国产手持云台相机Osmo Pocket系列，正成为本届峰会流通率最高的新闻记录工具。回溯十余年前，国际顶尖多边会议乃至国内全国两会现场，记者肩头扛"
- },
- "https://daily.ai225.com/daily/2026-11-13": {
-  "title": "2026-11-13 AI 日报 · 黄仁勋离任震动硅谷，Gemini 4 Hydrogen 普惠化落地",
-  "source": "AI 日报 · AI225",
-  "ts": 1794532288.0,
-  "desc": "英伟达因黄仁勋婚外情报道迎来 33 年来的首次换帅，其离任引发硅谷关于芯片出口管制与 AI 行业未来的广泛讨论，众议院民主党人已就英伟达芯片出口发起问询。与此同时，Google 发布 Gemini 4 Hydrogen，以更快的推理速度和更低成本把 Gemini 4 能力推向大众市场；百度在世界大会上推出文心 5.5 Flash Preview 并上线大模型交易所。Anthropic 除推出 Claude Meetings 和自托管 Managed Agents 外，还发布面向制造业的 Claude 插件。在算力端，AI 芯片初创 Fractile 完成 7.2 亿美元融资，Nebius 公布"
  }
 }
