@@ -5,14 +5,7 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Fri, 20 Nov 2026 04:08:23 +0000</lastBuildDate>
-  <item>
-    <title>Team &amp; Enterprise</title>
-    <link>https://huggingface.co/enterprise</link>
-    <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
+  <lastBuildDate>Fri, 20 Nov 2026 11:39:07 +0000</lastBuildDate>
   <item>
     <title>2026年中国消费者认为AI大模型的发展趋势：认为“很好”的占比51.4%</title>
     <link>https://www.iimedia.cn/c1061/111224.html</link>
@@ -21,20 +14,46 @@
     <source>艾媒网</source>
   </item>
   <item>
-    <title>独家丨影石研究院首度公开：字节旧将亓鲁任负责人</title>
-    <link>https://www.leiphone.com/category/weiwu/o4pLV3X7mPE6sfxq.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/o4pLV3X7mPE6sfxq.html</guid>
-    <pubDate>Fri, 20 Nov 2026 02:01:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>雷峰网·鲸犀独家获悉，影石创新董事亓鲁已出任影石研究院中心负责人，并兼任公司首席 AI 官。知情人士称，他将主要负责相关算法及人工智能领域的研发工作。亓鲁是一位 90 后，本硕博先后毕业于山东大学、中国科学院、香港中文大学，并在加州大学默塞德分校做过博士后，当前为武汉大学计算机学院教授，研究方向涉及计算机视觉与无人机。同时，亓鲁有丰富的学术履历，除高校任职外，还担任 IEEE TPAMI 编委以及多家国际学术会议领域主席。在加入影石前，他曾在字节跳动担任高级研究科学家，并任职于 Seed 大模型部门。2024 年，亓鲁加入影石，任研发总监，自今年 1 月起担任影石创新董事。早在 2022 年 </description>
+    <title>Team &amp; Enterprise</title>
+    <link>https://huggingface.co/enterprise</link>
+    <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
   </item>
   <item>
-    <title>具身机器人进入真机时代，华为云CloudRobo开始组队发力了</title>
-    <link>https://www.qbitai.com/2026/11/511426.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511426.html</guid>
-    <pubDate>Fri, 20 Nov 2026 01:07:38 +0000</pubDate>
+    <title>Regular Tech Bros Are Worried About Honeypots</title>
+    <link>https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/</guid>
+    <pubDate>Fri, 20 Nov 2026 11:00:00 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.</description>
+  </item>
+  <item>
+    <title>Frostbite: A new CPU architecture discovered, designed and verified by AI</title>
+    <link>https://architectlabs.com/blog/frostbite</link>
+    <guid isPermaLink="true">https://architectlabs.com/blog/frostbite</guid>
+    <pubDate>Fri, 20 Nov 2026 10:01:41 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://architectlabs.com/blog/frostbite
+Comments URL: https://news.ycombinator.com/item?id=50572503
+Points: 102
+# Comments: 74</description>
+  </item>
+  <item>
+    <title>给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂</title>
+    <link>https://www.qbitai.com/2026/11/511679.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511679.html</guid>
+    <pubDate>Fri, 20 Nov 2026 08:59:15 +0000</pubDate>
     <source>量子位</source>
-    <description>一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。</description>
+    <description>联合华为昇腾，五年冲刺十万卡</description>
+  </item>
+  <item>
+    <title>享界V8正式上市售价31.98万元起，鸿蒙智行首款纯电MPV瞄准高端家用</title>
+    <link>https://www.leiphone.com/category/industrynews/Tjsd07j74heQpJKc.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Tjsd07j74heQpJKc.html</guid>
+    <pubDate>Fri, 20 Nov 2026 08:41:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>11月20日，在“鸿蒙智行享界V8及星芒品牌发布会”现场，鸿蒙智行首款“家庭智慧旗舰MPV”享界V8正式上市，售价31.98-42.98万元，下定享界V8，享至高93000元购车权益，首批交付已于上市当日开启。作为鸿蒙智行切入家用MPV市场的首款产品，享界V8围绕家庭出行真实场景带来为家而生的100个设计，并以“8系价格、9系配置”重新定义家用标准，成为今年下半年家用车市场的强势黑马。目前，享界V8新车已在全国147城399店同步到店，消费者可就近体验实车或预约试驾。对一台家用MPV而言，内部空间是需求的第一入口。享界V8车身尺寸为5335mm×2005mm×1805mm，轴距长达3250mm</description>
   </item>
   <item>
     <title>2026-11-20 AI 日报 · Anthropic创纪录挂牌纳斯达克，谷歌与Perplexity掀起决策模型架构竞赛</title>
@@ -53,31 +72,12 @@
     <description>The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.</description>
   </item>
   <item>
-    <title>Gemini 4 Neon is the new #1 on the Models Engineering Index</title>
-    <link>https://git-aarvin.github.io/mei/</link>
-    <guid isPermaLink="true">https://git-aarvin.github.io/mei/</guid>
-    <pubDate>Thu, 19 Nov 2026 23:35:35 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://git-aarvin.github.io/mei/
-Comments URL: https://news.ycombinator.com/item?id=50568130
-Points: 110
-# Comments: 59</description>
-  </item>
-  <item>
     <title>Apple is hiring engineers to build its own AI agent</title>
     <link>https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing</link>
     <guid isPermaLink="true">https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing</guid>
     <pubDate>Thu, 19 Nov 2026 22:31:41 +0000</pubDate>
     <source>The Verge AI</source>
     <description>Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic </description>
-  </item>
-  <item>
-    <title>What’s With All These Outages?</title>
-    <link>https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/</guid>
-    <pubDate>Thu, 19 Nov 2026 21:57:01 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.</description>
   </item>
   <item>
     <title>Introducing Tool Retrieval in the Gemini API</title>
@@ -167,12 +167,11 @@ Points: 110
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>DeepSeek opens built-in tools and the full application API suite on V4.1-Flash, with new per-use tool fees</title>
-    <link>https://themodelgap.com/new-ai-models</link>
-    <guid isPermaLink="true">https://themodelgap.com/new-ai-models</guid>
-    <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-    <source>The Model Gap</source>
-    <description>Separate API-suite event on the model first logged 2026-09-10; that launch entry and its RSS guid stay unchanged. DeepSeek's news post and the changelog dated 2026-11-13 open built-in tools on the existing deepseek-flash endpoint, still served as DeepSeek-V4.1-Flash-1017. @deepseek_ai posted at 2026</description>
+    <title>艾媒咨询 | 2026年上半年中国人工智能行业投融资市场监测与分析报告</title>
+    <link>https://www.iimedia.cn/c400/119474.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/119474.html</guid>
+    <pubDate>Thu, 19 Nov 2026 02:33:52 +0000</pubDate>
+    <source>艾媒网</source>
   </item>
   <item>
     <title>Hugging Face PRO</title>
@@ -182,27 +181,39 @@ Points: 110
     <source>Hugging Face Trending</source>
   </item>
   <item>
-    <title>艾媒咨询 | 2025年中国机器人租赁产业市场状况及标杆企业经营数据分析报告</title>
-    <link>https://www.iimedia.cn/c400/111060.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c400/111060.html</guid>
-    <pubDate>Tue, 17 Nov 2026 20:53:59 +0000</pubDate>
-    <source>艾媒网</source>
+    <title>This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’</title>
+    <link>https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/</guid>
+    <pubDate>Fri, 20 Nov 2026 07:00:00 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.</description>
   </item>
   <item>
-    <title>商汤20%资源投入背后的逻辑：林达华谈拼手速与长期竞争力</title>
-    <link>https://www.leiphone.com/category/ai/0u1BjHIMazUFuNZc.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/ai/0u1BjHIMazUFuNZc.html</guid>
-    <pubDate>Fri, 20 Nov 2026 01:47:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description> Scaling Law在空间智能这里失效了？    作者丨周蕾    编辑丨岑峰                                                                                                       今年初字节的Seedance 2.0发布时，“电影级别”的出片质量让不少从业者倍感兴奋和震撼，新的创作蓝图正在他们面前徐徐展开——但对商汤的Seko团队来说，那是一段“迷茫”的日子。商汤联合创始人、首席科学家林达华在最近一次访谈中回忆，那段时间他去见投资人、参加行业会议，被问到的几乎总是同一个问题：你们的Sek</description>
+    <title>Gemini 4 Neon is the new #1 on the Models Engineering Index</title>
+    <link>https://git-aarvin.github.io/mei/</link>
+    <guid isPermaLink="true">https://git-aarvin.github.io/mei/</guid>
+    <pubDate>Thu, 19 Nov 2026 23:35:35 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://git-aarvin.github.io/mei/
+Comments URL: https://news.ycombinator.com/item?id=50568130
+Points: 110
+# Comments: 59</description>
   </item>
   <item>
-    <title>影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！</title>
-    <link>https://www.qbitai.com/2026/11/511258.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511258.html</guid>
-    <pubDate>Thu, 19 Nov 2026 08:43:10 +0000</pubDate>
+    <title>昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来</title>
+    <link>https://www.qbitai.com/2026/11/511610.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511610.html</guid>
+    <pubDate>Fri, 20 Nov 2026 08:04:58 +0000</pubDate>
     <source>量子位</source>
-    <description>「Revaluation 价值，另有答案」</description>
+    <description>国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。</description>
+  </item>
+  <item>
+    <title>速卖通双11中国商家狂揽全球订单：品牌成交大涨近50%，美巴创历史新高</title>
+    <link>https://www.leiphone.com/category/industrynews/PyCDSvzY37FZLkZA.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/PyCDSvzY37FZLkZA.html</guid>
+    <pubDate>Fri, 20 Nov 2026 08:39:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>为了一场从中国走向世界的购物节，美国达人专门请了一天假。 “双11已经成为我们最重要的日子之一。”美国YouTube达人PETER ARVIDSON表示，速卖通是其主要合作平台，“几乎所有同行都在报道双11，我专门请了一天假来盯着。” 达人忙着盯大促，中国商家忙着补库存，能源商家在美国站挂出“SOLD OUT”的大字报、跑步机品牌Ramypoket、手工模具品牌GBhouse纷纷后悔没有多备点货……11月19日，速卖通海外双11收官，从欧盟到美洲，再到正处极夜的北极圈，都有中国商家的好消息：美国单日成交创去年关税风波以来新高，巴西单日访客数、买家数创建站以来新高；品牌生意持续爆发，双11全周期</description>
   </item>
   <item>
     <title>2026-11-19 AI 日报 · Gemini 4 Neon 发布，Anthropic IPO 定价 83 美元</title>
@@ -221,31 +232,12 @@ Points: 110
     <description>At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.</description>
   </item>
   <item>
-    <title>Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]</title>
-    <link>https://www.youtube.com/watch?v=lwfewYL7X0o</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=lwfewYL7X0o</guid>
-    <pubDate>Thu, 19 Nov 2026 18:47:16 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o
-Comments URL: https://news.ycombinator.com/item?id=50564366
-Points: 22
-# Comments: 23</description>
-  </item>
-  <item>
     <title>A brief history of Nvidia’s recent stock fluctuations</title>
     <link>https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings</link>
     <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings</guid>
     <pubDate>Thu, 19 Nov 2026 21:59:35 +0000</pubDate>
     <source>The Verge AI</source>
     <description>"We've got this," Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wip</description>
-  </item>
-  <item>
-    <title>The Jensen Huang Blast Radius Has Hit His Favorite Restaurants</title>
-    <link>https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/</guid>
-    <pubDate>Thu, 19 Nov 2026 20:34:17 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.</description>
   </item>
   <item>
     <title>Walter Isaacson on curiosity and creativity in the AI age.</title>
@@ -335,6 +327,13 @@ Points: 22
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>艾媒咨询 | 2025年中国机器人租赁产业市场状况及标杆企业经营数据分析报告</title>
+    <link>https://www.iimedia.cn/c400/111060.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/111060.html</guid>
+    <pubDate>Tue, 17 Nov 2026 20:53:59 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
     <title>Enterprise Support</title>
     <link>https://huggingface.co/support</link>
     <guid isPermaLink="true">https://huggingface.co/support</guid>
@@ -342,27 +341,39 @@ Points: 22
     <source>Hugging Face Trending</source>
   </item>
   <item>
-    <title>2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴</title>
-    <link>https://www.iimedia.cn/c1061/120072.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120072.html</guid>
-    <pubDate>Sun, 15 Nov 2026 21:02:19 +0000</pubDate>
-    <source>艾媒网</source>
+    <title>What’s With All These Outages?</title>
+    <link>https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/</guid>
+    <pubDate>Thu, 19 Nov 2026 21:57:01 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.</description>
   </item>
   <item>
-    <title>拼多多发布Q3财报，“新十年高质量发展”一周年，供需两侧实现提质增效</title>
-    <link>https://www.leiphone.com/category/industrynews/cdP5NzdCcD8j0BB5.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/cdP5NzdCcD8j0BB5.html</guid>
-    <pubDate>Thu, 19 Nov 2026 11:38:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>11月19日，拼多多发布截至9月30日的2026年第三季度财报。受益于“新十年高质量发展”战略的效用释放，以及平台治理体系的持续升级，拼多多三季度营收达到1083亿元，净利润295亿元，业绩表现保持稳健。今年三季度，拼多多“新十年高质量发展”在纵深推进中走过了完整的一年，阶段性成效正在加速释放。一方面，拼多多“千亿扶持”惠商战略持续深化对商家和产业的扶持，将扶持效应传导至更深的产业腹地，供需两侧质效升级更加明显。另一方面，“三年再造拼多多”战略也在稳步推进，自营品牌业务初步与产业带商家展开了规模化的合作，加速推动供应链迈向价值高端。“过去这个季度，我们的‘千亿扶持’战略持续投入生态建设，全面升</description>
+    <title>Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]</title>
+    <link>https://www.youtube.com/watch?v=lwfewYL7X0o</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=lwfewYL7X0o</guid>
+    <pubDate>Thu, 19 Nov 2026 18:47:16 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o
+Comments URL: https://news.ycombinator.com/item?id=50564366
+Points: 22
+# Comments: 23</description>
   </item>
   <item>
-    <title>GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了</title>
-    <link>https://www.qbitai.com/2026/11/511180.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511180.html</guid>
-    <pubDate>Thu, 19 Nov 2026 08:18:30 +0000</pubDate>
+    <title>新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景</title>
+    <link>https://www.qbitai.com/2026/11/511603.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511603.html</guid>
+    <pubDate>Fri, 20 Nov 2026 06:16:06 +0000</pubDate>
     <source>量子位</source>
-    <description>媒体均分登顶历史第一，细节多到爆炸</description>
+    <description>11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。</description>
+  </item>
+  <item>
+    <title>速卖通双11收官：品牌成交大涨近50%，美国、巴西、小众潜力市场均创新高</title>
+    <link>https://www.leiphone.com/category/industrynews/RBVQITzBAqkoQGzE.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/RBVQITzBAqkoQGzE.html</guid>
+    <pubDate>Fri, 20 Nov 2026 08:37:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>11月19日，海外双11收官。速卖通美国市场单日成交刷新去年关税风波以来纪录，巴西市场单日访客数创建站以来新高；品牌生意持续爆发，双11全周期大涨近50%，欧盟市场逆势大涨超三成。在关税与跨境履约成本变化之下，速卖通以品牌化建立消费者认知、以本地化提升交付确定性，率先跑出低价小包裹之外的新增长路径。平台还借助AI运营托管拓展增长边界，帮商家在北极圈、佛得角、挪威等冷门市场自动出单，刷新历年增速。品牌化、本地化叠加AI能力，速卖通正加速从“卖货渠道”向“品牌出海全新主场”跃迁。</description>
   </item>
   <item>
     <title>2026-11-18 AI 日报 · GPT-6.2发布，英伟达拒黄仁勋复职，Anthropic获准上市</title>
@@ -381,31 +392,12 @@ Points: 22
     <description>Meta hasn't denied the reporting from The Information, saying only that it will "have more to share soon" about its upcoming AI wearable.</description>
   </item>
   <item>
-    <title>Claude solves two open problems in the physics of black holes</title>
-    <link>https://www.anthropic.com/research/claude-black-hole-physics</link>
-    <guid isPermaLink="true">https://www.anthropic.com/research/claude-black-hole-physics</guid>
-    <pubDate>Thu, 19 Nov 2026 17:30:44 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://www.anthropic.com/research/claude-black-hole-physics
-Comments URL: https://news.ycombinator.com/item?id=50563148
-Points: 226
-# Comments: 80</description>
-  </item>
-  <item>
     <title>Meta’s Muse Charm might cost $300</title>
     <link>https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price</link>
     <guid isPermaLink="true">https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price</guid>
     <pubDate>Thu, 19 Nov 2026 20:22:17 +0000</pubDate>
     <source>The Verge AI</source>
     <description>Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm "in time for the holidays in December,"</description>
-  </item>
-  <item>
-    <title>Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents</title>
-    <link>https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/</guid>
-    <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.</description>
   </item>
   <item>
     <title>The Gemini app is now available on lower-memory Android devices.</title>
@@ -431,18 +423,11 @@ Points: 226
     <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
-    <title>Incredible Agents</title>
-    <link>https://www.producthunt.com/products/incredible</link>
-    <guid isPermaLink="true">https://www.producthunt.com/products/incredible</guid>
-    <pubDate>Tue, 17 Nov 2026 22:02:24 +0000</pubDate>
+    <title>Nexuro AI</title>
+    <link>https://www.producthunt.com/products/nexuro-ai</link>
+    <guid isPermaLink="true">https://www.producthunt.com/products/nexuro-ai</guid>
+    <pubDate>Wed, 18 Nov 2026 14:37:09 +0000</pubDate>
     <source>Product Hunt</source>
-  </item>
-  <item>
-    <title>Introducing Gemini 4 Hydrogen</title>
-    <link>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</link>
-    <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-hydrogen/</guid>
-    <pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
-    <source>Google DeepMind</source>
   </item>
   <item>
     <title>Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
@@ -487,6 +472,13 @@ Points: 226
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴</title>
+    <link>https://www.iimedia.cn/c1061/120072.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120072.html</guid>
+    <pubDate>Sun, 15 Nov 2026 21:02:19 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
     <title>Inference Providers</title>
     <link>https://huggingface.co/inference/models</link>
     <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
@@ -494,27 +486,39 @@ Points: 226
     <source>Hugging Face Trending</source>
   </item>
   <item>
-    <title>艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强</title>
-    <link>https://www.iimedia.cn/c1106/119852.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119852.html</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>艾媒网</source>
+    <title>The Jensen Huang Blast Radius Has Hit His Favorite Restaurants</title>
+    <link>https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/</guid>
+    <pubDate>Thu, 19 Nov 2026 20:34:17 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.</description>
   </item>
   <item>
-    <title>阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍</title>
-    <link>https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html</guid>
-    <pubDate>Thu, 19 Nov 2026 11:05:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>11月19日，阿里巴巴发布2027财年第二季度财报。阿里全球B2B业务呈现跨境出海与AI商业化双线高速增长：阿里国际站GMV持续保持双位数增长；全球电商AI工作台Accio付费企业数达到10万，较上一季度增长100%。  海外需求仍是第一条增长曲线，尤其是北美和欧洲买家下单踊跃。本财年前两个季度，阿里国际站交易GMV增长均超过20%。进入四季度外贸旺季，阿里国际站更是迎来“双11开门红”，11月上旬美国大促GMV大涨超40%，带动了大量国内中小企业出口订单增长。 这股需求进一步传导至重点行业。以11月上线的美国大促为例，礼品工艺品、工程建筑机械、汽车零配件三大行业领涨。其中，活动房屋同比增长超</description>
+    <title>Claude solves two open problems in the physics of black holes</title>
+    <link>https://www.anthropic.com/research/claude-black-hole-physics</link>
+    <guid isPermaLink="true">https://www.anthropic.com/research/claude-black-hole-physics</guid>
+    <pubDate>Thu, 19 Nov 2026 17:30:44 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://www.anthropic.com/research/claude-black-hole-physics
+Comments URL: https://news.ycombinator.com/item?id=50563148
+Points: 226
+# Comments: 80</description>
   </item>
   <item>
-    <title>SenseNova U1 Pro获Design Arena双榜中国第一、全球第六</title>
-    <link>https://www.qbitai.com/2026/11/511179.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511179.html</guid>
-    <pubDate>Thu, 19 Nov 2026 08:10:19 +0000</pubDate>
+    <title>双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！</title>
+    <link>https://www.qbitai.com/2026/11/511582.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511582.html</guid>
+    <pubDate>Fri, 20 Nov 2026 05:24:11 +0000</pubDate>
     <source>量子位</source>
-    <description>商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一</description>
+    <description>已开源Agnes Harness</description>
+  </item>
+  <item>
+    <title>Lazada双11：品牌商城贡献近八成成交，天猫一键轻出海增长超200%</title>
+    <link>https://www.leiphone.com/category/industrynews/eimD3gxofdJcSrVY.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/eimD3gxofdJcSrVY.html</guid>
+    <pubDate>Fri, 20 Nov 2026 08:36:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>东南亚年终购物旺季由双十一率先点燃。今年双十一，LazMall品牌商城贡献了区域总成交额的近八成，其成交额达到日常水平的7倍。Lazada“一键轻出海”业务成交额同比增长超200%，订单量达到平日近4倍。品牌消费持续升温，跨境生意节节攀升，中国商家正借势Lazada，抢先收获年终消费旺季的首波红利。 大促期间，东南亚六大市场平均每单消费金额均实现同比增长，区域整体增幅超过30%。市场研究机构Cube Asia发布的《2026年东南亚电商精明消费者报告》显示，超过半数的精明消费者更倾向于在品牌商城购物。价格之外，商品品质、正品保障和购物体验，正成为影响消费者购买决策的重要因素。 消费需求的变化，</description>
   </item>
   <item>
     <title>2026-11-17 AI 日报 · 加州起诉OpenAI，阿里Qwen4-Max与英伟达Rubin登场</title>
@@ -533,31 +537,12 @@ Points: 226
     <description>Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.</description>
   </item>
   <item>
-    <title>Anthropic hits $2T in Nasdaq debut</title>
-    <link>https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</link>
-    <guid isPermaLink="true">https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</guid>
-    <pubDate>Thu, 19 Nov 2026 17:02:40 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/
-Comments URL: https://news.ycombinator.com/item?id=50562754
-Points: 519
-# Comments: 807</description>
-  </item>
-  <item>
     <title>Google is putting AI chats right on the homepage</title>
     <link>https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats</link>
     <guid isPermaLink="true">https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats</guid>
     <pubDate>Thu, 19 Nov 2026 20:05:06 +0000</pubDate>
     <source>The Verge AI</source>
     <description>Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]</description>
-  </item>
-  <item>
-    <title>Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself</title>
-    <link>https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/</guid>
-    <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.</description>
   </item>
   <item>
     <title>Put Gemini to work for you</title>
@@ -583,10 +568,10 @@ Points: 519
     <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
-    <title>AI Canvas</title>
-    <link>https://www.producthunt.com/products/ai-canvas-2</link>
-    <guid isPermaLink="true">https://www.producthunt.com/products/ai-canvas-2</guid>
-    <pubDate>Tue, 17 Nov 2026 15:46:37 +0000</pubDate>
+    <title>Incredible Agents</title>
+    <link>https://www.producthunt.com/products/incredible</link>
+    <guid isPermaLink="true">https://www.producthunt.com/products/incredible</guid>
+    <pubDate>Tue, 17 Nov 2026 22:02:24 +0000</pubDate>
     <source>Product Hunt</source>
   </item>
   <item>
@@ -632,6 +617,13 @@ Points: 519
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/119852.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119852.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
     <title>Inference Endpoints</title>
     <link>https://huggingface.co/inference-endpoints</link>
     <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
@@ -639,27 +631,39 @@ Points: 519
     <source>Hugging Face Trending</source>
   </item>
   <item>
-    <title>艾媒鼎榜 | 2026年中国AI会议耳机品牌10强</title>
-    <link>https://www.iimedia.cn/c1106/119848.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119848.html</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>艾媒网</source>
+    <title>Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents</title>
+    <link>https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/</guid>
+    <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.</description>
   </item>
   <item>
-    <title>阿里云外部收入增长64%，增速创近六年新高</title>
-    <link>https://www.leiphone.com/category/industrynews/GlHj8MIKX7YGLxU3.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/GlHj8MIKX7YGLxU3.html</guid>
-    <pubDate>Thu, 19 Nov 2026 10:15:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>11月19日晚间，阿里巴巴集团发布最新季度业绩，阿里云外部客户收入同比增长64%，较上一季度的45%显著加快，刷新近六年来的增速高点。季度内，AI相关产品收入连续第13个季度实现三位数增长，驱动阿里云收入增长再创新高。</description>
+    <title>Anthropic hits $2T in Nasdaq debut</title>
+    <link>https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</link>
+    <guid isPermaLink="true">https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</guid>
+    <pubDate>Thu, 19 Nov 2026 17:02:40 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/
+Comments URL: https://news.ycombinator.com/item?id=50562754
+Points: 519
+# Comments: 807</description>
   </item>
   <item>
-    <title>好清晰！最新国产AI画的8K图，放这么大大大大也不糊！</title>
-    <link>https://www.qbitai.com/2026/11/511092.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511092.html</guid>
-    <pubDate>Thu, 19 Nov 2026 07:01:05 +0000</pubDate>
+    <title>具身机器人进入真机时代，华为云CloudRobo开始组队发力了</title>
+    <link>https://www.qbitai.com/2026/11/511426.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511426.html</guid>
+    <pubDate>Fri, 20 Nov 2026 01:07:38 +0000</pubDate>
     <source>量子位</source>
-    <description>Kling Image 4.0</description>
+    <description>一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。</description>
+  </item>
+  <item>
+    <title>CoCreate伦敦峰会揭开跨境B2B电商新机遇：阿里国际站欧洲订单三年增长70%</title>
+    <link>https://www.leiphone.com/category/industrynews/eqi19Azefys58IT4.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/eqi19Azefys58IT4.html</guid>
+    <pubDate>Fri, 20 Nov 2026 08:35:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>11月19日，阿里国际站CoCreate峰会在英国伦敦举行，超过5000名欧洲中小企业主风雨无阻地奔赴这场AI跨境采购盛会。如此热情的背后，是跨境B2B电商正在迎来新的增长机遇。 阿里国际站欧美买家业务副总裁郭威廷在现场透露了几个关键数字：三年来，阿里国际站欧洲订单、买家双双累计增长70%。 （图：阿里国际站欧美买家业务副总裁郭威廷） 细分到品类，欧洲市场的增长更是“欧气满满”：创意玩具与礼品年同比GMV增长高达231%、摩托车与踏板车增长高达141%，此外汽车零配件、电子零配件等品类都呈现高速的双位数增长。 为了进一步激发欧洲买家的采购热情，阿里国际站此次专门推出了“欧洲中小企业创业包”，旗</description>
   </item>
   <item>
     <title>2026-11-16 AI 日报 · 英伟达风波引国会收紧芯片出口，AI科研与基础设施进展密集</title>
@@ -678,31 +682,12 @@ Points: 519
     <description>Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.</description>
   </item>
   <item>
-    <title>Chrome AI features wasting much bandwidth</title>
-    <link>https://perishablepress.com/chrome-ai-wasting-much-bandwidth/</link>
-    <guid isPermaLink="true">https://perishablepress.com/chrome-ai-wasting-much-bandwidth/</guid>
-    <pubDate>Thu, 19 Nov 2026 16:54:25 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/
-Comments URL: https://news.ycombinator.com/item?id=50562636
-Points: 91
-# Comments: 31</description>
-  </item>
-  <item>
     <title>Gemini on Mac can now use your computer</title>
     <link>https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use</link>
     <guid isPermaLink="true">https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use</guid>
     <pubDate>Thu, 19 Nov 2026 18:21:13 +0000</pubDate>
     <source>The Verge AI</source>
     <description>Google's Gemini app for macOS now has computer use, meaning it can help you "get multi-step tasks done across your local files, desktop apps, and the web," the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and</description>
-  </item>
-  <item>
-    <title>Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This</title>
-    <link>https://www.wired.com/story/guys-really-we-got-this/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/guys-really-we-got-this/</guid>
-    <pubDate>Wed, 18 Nov 2026 22:16:23 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.</description>
   </item>
   <item>
     <title>New Ask Maps features to help with holiday travel and prep</title>
@@ -728,10 +713,10 @@ Points: 91
     <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
-    <title>KaDeep AI</title>
-    <link>https://www.producthunt.com/products/kadeep-ai</link>
-    <guid isPermaLink="true">https://www.producthunt.com/products/kadeep-ai</guid>
-    <pubDate>Tue, 17 Nov 2026 08:00:01 +0000</pubDate>
+    <title>AI Canvas</title>
+    <link>https://www.producthunt.com/products/ai-canvas-2</link>
+    <guid isPermaLink="true">https://www.producthunt.com/products/ai-canvas-2</guid>
+    <pubDate>Tue, 17 Nov 2026 15:46:37 +0000</pubDate>
     <source>Product Hunt</source>
   </item>
   <item>
@@ -768,6 +753,20 @@ Points: 91
     <guid isPermaLink="true">https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Meta AI 博客</source>
+  </item>
+  <item>
+    <title>CodespacesCloud development environments</title>
+    <link>https://github.com/features/codespaces</link>
+    <guid isPermaLink="true">https://github.com/features/codespaces</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>艾媒鼎榜 | 2026年中国AI会议耳机品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/119848.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119848.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
   </item>
 </channel>
 </rss>
