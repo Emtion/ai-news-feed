@@ -5,13 +5,36 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Fri, 20 Nov 2026 02:19:48 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 04:08:23 +0000</lastBuildDate>
   <item>
-    <title>艾媒鼎榜 | 2026年中国车载实体AI机器人品牌10强</title>
-    <link>https://www.iimedia.cn/c1106/120376.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1106/120376.html</guid>
-    <pubDate>Wed, 18 Nov 2026 11:40:24 +0000</pubDate>
+    <title>Team &amp; Enterprise</title>
+    <link>https://huggingface.co/enterprise</link>
+    <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>2026年中国消费者认为AI大模型的发展趋势：认为“很好”的占比51.4%</title>
+    <link>https://www.iimedia.cn/c1061/111224.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/111224.html</guid>
+    <pubDate>Fri, 20 Nov 2026 02:19:05 +0000</pubDate>
     <source>艾媒网</source>
+  </item>
+  <item>
+    <title>独家丨影石研究院首度公开：字节旧将亓鲁任负责人</title>
+    <link>https://www.leiphone.com/category/weiwu/o4pLV3X7mPE6sfxq.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/o4pLV3X7mPE6sfxq.html</guid>
+    <pubDate>Fri, 20 Nov 2026 02:01:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>雷峰网·鲸犀独家获悉，影石创新董事亓鲁已出任影石研究院中心负责人，并兼任公司首席 AI 官。知情人士称，他将主要负责相关算法及人工智能领域的研发工作。亓鲁是一位 90 后，本硕博先后毕业于山东大学、中国科学院、香港中文大学，并在加州大学默塞德分校做过博士后，当前为武汉大学计算机学院教授，研究方向涉及计算机视觉与无人机。同时，亓鲁有丰富的学术履历，除高校任职外，还担任 IEEE TPAMI 编委以及多家国际学术会议领域主席。在加入影石前，他曾在字节跳动担任高级研究科学家，并任职于 Seed 大模型部门。2024 年，亓鲁加入影石，任研发总监，自今年 1 月起担任影石创新董事。早在 2022 年 </description>
+  </item>
+  <item>
+    <title>具身机器人进入真机时代，华为云CloudRobo开始组队发力了</title>
+    <link>https://www.qbitai.com/2026/11/511426.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511426.html</guid>
+    <pubDate>Fri, 20 Nov 2026 01:07:38 +0000</pubDate>
+    <source>量子位</source>
+    <description>一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。</description>
   </item>
   <item>
     <title>2026-11-20 AI 日报 · Anthropic创纪录挂牌纳斯达克，谷歌与Perplexity掀起决策模型架构竞赛</title>
@@ -57,35 +80,12 @@ Points: 110
     <description>This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.</description>
   </item>
   <item>
-    <title>Team &amp; Enterprise</title>
-    <link>https://huggingface.co/enterprise</link>
-    <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
     <title>Introducing Tool Retrieval in the Gemini API</title>
     <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
     <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</guid>
     <pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
     <source>Google AI 博客</source>
     <description>Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.</description>
-  </item>
-  <item>
-    <title>拼多多发布Q3财报，“新十年高质量发展”一周年，供需两侧实现提质增效</title>
-    <link>https://www.leiphone.com/category/industrynews/cdP5NzdCcD8j0BB5.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/cdP5NzdCcD8j0BB5.html</guid>
-    <pubDate>Thu, 19 Nov 2026 11:38:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>11月19日，拼多多发布截至9月30日的2026年第三季度财报。受益于“新十年高质量发展”战略的效用释放，以及平台治理体系的持续升级，拼多多三季度营收达到1083亿元，净利润295亿元，业绩表现保持稳健。今年三季度，拼多多“新十年高质量发展”在纵深推进中走过了完整的一年，阶段性成效正在加速释放。一方面，拼多多“千亿扶持”惠商战略持续深化对商家和产业的扶持，将扶持效应传导至更深的产业腹地，供需两侧质效升级更加明显。另一方面，“三年再造拼多多”战略也在稳步推进，自营品牌业务初步与产业带商家展开了规模化的合作，加速推动供应链迈向价值高端。“过去这个季度，我们的‘千亿扶持’战略持续投入生态建设，全面升</description>
-  </item>
-  <item>
-    <title>影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！</title>
-    <link>https://www.qbitai.com/2026/11/511258.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511258.html</guid>
-    <pubDate>Thu, 19 Nov 2026 08:43:10 +0000</pubDate>
-    <source>量子位</source>
-    <description>「Revaluation 价值，另有答案」</description>
   </item>
   <item>
     <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
@@ -175,11 +175,34 @@ Points: 110
     <description>Separate API-suite event on the model first logged 2026-09-10; that launch entry and its RSS guid stay unchanged. DeepSeek's news post and the changelog dated 2026-11-13 open built-in tools on the existing deepseek-flash endpoint, still served as DeepSeek-V4.1-Flash-1017. @deepseek_ai posted at 2026</description>
   </item>
   <item>
+    <title>Hugging Face PRO</title>
+    <link>https://huggingface.co/pro</link>
+    <guid isPermaLink="true">https://huggingface.co/pro</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
     <title>艾媒咨询 | 2025年中国机器人租赁产业市场状况及标杆企业经营数据分析报告</title>
     <link>https://www.iimedia.cn/c400/111060.html</link>
     <guid isPermaLink="true">https://www.iimedia.cn/c400/111060.html</guid>
     <pubDate>Tue, 17 Nov 2026 20:53:59 +0000</pubDate>
     <source>艾媒网</source>
+  </item>
+  <item>
+    <title>商汤20%资源投入背后的逻辑：林达华谈拼手速与长期竞争力</title>
+    <link>https://www.leiphone.com/category/ai/0u1BjHIMazUFuNZc.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/ai/0u1BjHIMazUFuNZc.html</guid>
+    <pubDate>Fri, 20 Nov 2026 01:47:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description> Scaling Law在空间智能这里失效了？    作者丨周蕾    编辑丨岑峰                                                                                                       今年初字节的Seedance 2.0发布时，“电影级别”的出片质量让不少从业者倍感兴奋和震撼，新的创作蓝图正在他们面前徐徐展开——但对商汤的Seko团队来说，那是一段“迷茫”的日子。商汤联合创始人、首席科学家林达华在最近一次访谈中回忆，那段时间他去见投资人、参加行业会议，被问到的几乎总是同一个问题：你们的Sek</description>
+  </item>
+  <item>
+    <title>影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！</title>
+    <link>https://www.qbitai.com/2026/11/511258.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511258.html</guid>
+    <pubDate>Thu, 19 Nov 2026 08:43:10 +0000</pubDate>
+    <source>量子位</source>
+    <description>「Revaluation 价值，另有答案」</description>
   </item>
   <item>
     <title>2026-11-19 AI 日报 · Gemini 4 Neon 发布，Anthropic IPO 定价 83 美元</title>
@@ -225,35 +248,12 @@ Points: 22
     <description>In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.</description>
   </item>
   <item>
-    <title>Hugging Face PRO</title>
-    <link>https://huggingface.co/pro</link>
-    <guid isPermaLink="true">https://huggingface.co/pro</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
     <title>Walter Isaacson on curiosity and creativity in the AI age.</title>
     <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</link>
     <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</guid>
     <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
     <source>Google AI 博客</source>
     <description>Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.</description>
-  </item>
-  <item>
-    <title>阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍</title>
-    <link>https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html</guid>
-    <pubDate>Thu, 19 Nov 2026 11:05:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>11月19日，阿里巴巴发布2027财年第二季度财报。阿里全球B2B业务呈现跨境出海与AI商业化双线高速增长：阿里国际站GMV持续保持双位数增长；全球电商AI工作台Accio付费企业数达到10万，较上一季度增长100%。  海外需求仍是第一条增长曲线，尤其是北美和欧洲买家下单踊跃。本财年前两个季度，阿里国际站交易GMV增长均超过20%。进入四季度外贸旺季，阿里国际站更是迎来“双11开门红”，11月上旬美国大促GMV大涨超40%，带动了大量国内中小企业出口订单增长。 这股需求进一步传导至重点行业。以11月上线的美国大促为例，礼品工艺品、工程建筑机械、汽车零配件三大行业领涨。其中，活动房屋同比增长超</description>
-  </item>
-  <item>
-    <title>GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了</title>
-    <link>https://www.qbitai.com/2026/11/511180.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511180.html</guid>
-    <pubDate>Thu, 19 Nov 2026 08:18:30 +0000</pubDate>
-    <source>量子位</source>
-    <description>媒体均分登顶历史第一，细节多到爆炸</description>
   </item>
   <item>
     <title>Deploying Daybreak Red</title>
@@ -335,11 +335,34 @@ Points: 22
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Enterprise Support</title>
+    <link>https://huggingface.co/support</link>
+    <guid isPermaLink="true">https://huggingface.co/support</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
     <title>2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴</title>
     <link>https://www.iimedia.cn/c1061/120072.html</link>
     <guid isPermaLink="true">https://www.iimedia.cn/c1061/120072.html</guid>
     <pubDate>Sun, 15 Nov 2026 21:02:19 +0000</pubDate>
     <source>艾媒网</source>
+  </item>
+  <item>
+    <title>拼多多发布Q3财报，“新十年高质量发展”一周年，供需两侧实现提质增效</title>
+    <link>https://www.leiphone.com/category/industrynews/cdP5NzdCcD8j0BB5.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/cdP5NzdCcD8j0BB5.html</guid>
+    <pubDate>Thu, 19 Nov 2026 11:38:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>11月19日，拼多多发布截至9月30日的2026年第三季度财报。受益于“新十年高质量发展”战略的效用释放，以及平台治理体系的持续升级，拼多多三季度营收达到1083亿元，净利润295亿元，业绩表现保持稳健。今年三季度，拼多多“新十年高质量发展”在纵深推进中走过了完整的一年，阶段性成效正在加速释放。一方面，拼多多“千亿扶持”惠商战略持续深化对商家和产业的扶持，将扶持效应传导至更深的产业腹地，供需两侧质效升级更加明显。另一方面，“三年再造拼多多”战略也在稳步推进，自营品牌业务初步与产业带商家展开了规模化的合作，加速推动供应链迈向价值高端。“过去这个季度，我们的‘千亿扶持’战略持续投入生态建设，全面升</description>
+  </item>
+  <item>
+    <title>GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了</title>
+    <link>https://www.qbitai.com/2026/11/511180.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511180.html</guid>
+    <pubDate>Thu, 19 Nov 2026 08:18:30 +0000</pubDate>
+    <source>量子位</source>
+    <description>媒体均分登顶历史第一，细节多到爆炸</description>
   </item>
   <item>
     <title>2026-11-18 AI 日报 · GPT-6.2发布，英伟达拒黄仁勋复职，Anthropic获准上市</title>
@@ -385,35 +408,12 @@ Points: 226
     <description>The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.</description>
   </item>
   <item>
-    <title>Enterprise Support</title>
-    <link>https://huggingface.co/support</link>
-    <guid isPermaLink="true">https://huggingface.co/support</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
     <title>The Gemini app is now available on lower-memory Android devices.</title>
     <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/</link>
     <guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/</guid>
     <pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
     <source>Google AI 博客</source>
     <description>The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.</description>
-  </item>
-  <item>
-    <title>阿里云外部收入增长64%，增速创近六年新高</title>
-    <link>https://www.leiphone.com/category/industrynews/GlHj8MIKX7YGLxU3.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/GlHj8MIKX7YGLxU3.html</guid>
-    <pubDate>Thu, 19 Nov 2026 10:15:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>11月19日晚间，阿里巴巴集团发布最新季度业绩，阿里云外部客户收入同比增长64%，较上一季度的45%显著加快，刷新近六年来的增速高点。季度内，AI相关产品收入连续第13个季度实现三位数增长，驱动阿里云收入增长再创新高。</description>
-  </item>
-  <item>
-    <title>SenseNova U1 Pro获Design Arena双榜中国第一、全球第六</title>
-    <link>https://www.qbitai.com/2026/11/511179.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511179.html</guid>
-    <pubDate>Thu, 19 Nov 2026 08:10:19 +0000</pubDate>
-    <source>量子位</source>
-    <description>商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一</description>
   </item>
   <item>
     <title>See PR scans in action</title>
@@ -487,11 +487,34 @@ Points: 226
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Inference Providers</title>
+    <link>https://huggingface.co/inference/models</link>
+    <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
     <title>艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强</title>
     <link>https://www.iimedia.cn/c1106/119852.html</link>
     <guid isPermaLink="true">https://www.iimedia.cn/c1106/119852.html</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>艾媒网</source>
+  </item>
+  <item>
+    <title>阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍</title>
+    <link>https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html</guid>
+    <pubDate>Thu, 19 Nov 2026 11:05:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>11月19日，阿里巴巴发布2027财年第二季度财报。阿里全球B2B业务呈现跨境出海与AI商业化双线高速增长：阿里国际站GMV持续保持双位数增长；全球电商AI工作台Accio付费企业数达到10万，较上一季度增长100%。  海外需求仍是第一条增长曲线，尤其是北美和欧洲买家下单踊跃。本财年前两个季度，阿里国际站交易GMV增长均超过20%。进入四季度外贸旺季，阿里国际站更是迎来“双11开门红”，11月上旬美国大促GMV大涨超40%，带动了大量国内中小企业出口订单增长。 这股需求进一步传导至重点行业。以11月上线的美国大促为例，礼品工艺品、工程建筑机械、汽车零配件三大行业领涨。其中，活动房屋同比增长超</description>
+  </item>
+  <item>
+    <title>SenseNova U1 Pro获Design Arena双榜中国第一、全球第六</title>
+    <link>https://www.qbitai.com/2026/11/511179.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511179.html</guid>
+    <pubDate>Thu, 19 Nov 2026 08:10:19 +0000</pubDate>
+    <source>量子位</source>
+    <description>商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一</description>
   </item>
   <item>
     <title>2026-11-17 AI 日报 · 加州起诉OpenAI，阿里Qwen4-Max与英伟达Rubin登场</title>
@@ -537,35 +560,12 @@ Points: 519
     <description>Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.</description>
   </item>
   <item>
-    <title>Inference Providers</title>
-    <link>https://huggingface.co/inference/models</link>
-    <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
     <title>Put Gemini to work for you</title>
     <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</link>
     <guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</guid>
     <pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
     <source>Google AI 博客</source>
     <description>Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.</description>
-  </item>
-  <item>
-    <title>田渊栋创业合伙人：通往 AGI 最快的路，只能是 AI 造 AI | CoRL 2026</title>
-    <link>https://www.leiphone.com/category/private/wIgMWmjlB5GTKg6e.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/private/wIgMWmjlB5GTKg6e.html</guid>
-    <pubDate>Thu, 19 Nov 2026 10:09:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>Recursive 联创 Jeff Clune ：“QD、开放式、AI 生成算法，我觉得它们就是下一代伟大的 AI。”    作者丨邓哲敏    编辑丨齐铖湧                                                                                                       11 月 12 日，CoRL 2026 最后一天。主会已经结束，32 场 Workshop 密集进行，其中一场聚焦持续自进化（Continually Self-Improving），英属哥伦比亚大学教授、Uber AI Labs 创始成</description>
-  </item>
-  <item>
-    <title>好清晰！最新国产AI画的8K图，放这么大大大大也不糊！</title>
-    <link>https://www.qbitai.com/2026/11/511092.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511092.html</guid>
-    <pubDate>Thu, 19 Nov 2026 07:01:05 +0000</pubDate>
-    <source>量子位</source>
-    <description>Kling Image 4.0</description>
   </item>
   <item>
     <title>Explore the Codex Security Plugin</title>
@@ -632,11 +632,34 @@ Points: 519
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Inference Endpoints</title>
+    <link>https://huggingface.co/inference-endpoints</link>
+    <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
     <title>艾媒鼎榜 | 2026年中国AI会议耳机品牌10强</title>
     <link>https://www.iimedia.cn/c1106/119848.html</link>
     <guid isPermaLink="true">https://www.iimedia.cn/c1106/119848.html</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>艾媒网</source>
+  </item>
+  <item>
+    <title>阿里云外部收入增长64%，增速创近六年新高</title>
+    <link>https://www.leiphone.com/category/industrynews/GlHj8MIKX7YGLxU3.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/GlHj8MIKX7YGLxU3.html</guid>
+    <pubDate>Thu, 19 Nov 2026 10:15:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>11月19日晚间，阿里巴巴集团发布最新季度业绩，阿里云外部客户收入同比增长64%，较上一季度的45%显著加快，刷新近六年来的增速高点。季度内，AI相关产品收入连续第13个季度实现三位数增长，驱动阿里云收入增长再创新高。</description>
+  </item>
+  <item>
+    <title>好清晰！最新国产AI画的8K图，放这么大大大大也不糊！</title>
+    <link>https://www.qbitai.com/2026/11/511092.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511092.html</guid>
+    <pubDate>Thu, 19 Nov 2026 07:01:05 +0000</pubDate>
+    <source>量子位</source>
+    <description>Kling Image 4.0</description>
   </item>
   <item>
     <title>2026-11-16 AI 日报 · 英伟达风波引国会收紧芯片出口，AI科研与基础设施进展密集</title>
@@ -682,35 +705,12 @@ Points: 91
     <description>WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.</description>
   </item>
   <item>
-    <title>Inference Endpoints</title>
-    <link>https://huggingface.co/inference-endpoints</link>
-    <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
     <title>New Ask Maps features to help with holiday travel and prep</title>
     <link>https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</link>
     <guid isPermaLink="true">https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</guid>
     <pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
     <source>Google AI 博客</source>
     <description>Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.</description>
-  </item>
-  <item>
-    <title>闪耀APEC的中国智造：大疆手持影像技术，成为全球媒体生产力标配</title>
-    <link>https://www.leiphone.com/category/industrynews/iJAlee24RO19u4OW.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/iJAlee24RO19u4OW.html</guid>
-    <pubDate>Thu, 19 Nov 2026 09:51:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>如果盘点本届 APEC 新闻报道最显著的变化，“设备轻量化”无疑是全球五千余名参会记者的共同记忆。随着峰会进入收尾期，一道独特的科技风景线也在会场内外全面铺开：在人头攒动的主干采访道上、在各代表团的发布会席位前，中外记者们频频从西装口袋或工作马甲兜里，掏出一台仅有手掌大小的一体化云台相机：单手旋转屏幕秒开机、人脸智能锁定、在疾步穿梭中依然输出如滑轨般平稳的超高清画面。这场让全球记者“背包减负十斤”的采编轻量化浪潮，迅速成为今年 APEC 主场最直观的科技微观景象。大疆Osmo Pocket 4P几乎成为中外记者人手一台的随身标配。“在多边外交的密集节奏下，新闻往往发生在转瞬之间。等你停下脚步、</description>
-  </item>
-  <item>
-    <title>AI基建大潮方兴未艾，联想集团最佳财季诞生！</title>
-    <link>https://www.qbitai.com/2026/11/511088.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511088.html</guid>
-    <pubDate>Thu, 19 Nov 2026 04:51:31 +0000</pubDate>
-    <source>量子位</source>
-    <description>全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩</description>
   </item>
   <item>
     <title>Get started with Daybreak Blue</title>

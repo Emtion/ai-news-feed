@@ -1,10 +1,38 @@
 {
+ "https://huggingface.co/RadixArk/DaisyRose-27B": {
+  "title": "RadixArk/DaisyRose-27B Image-Text-to-Text • 28B • Updated about 7 hours ago • 166 • 192",
+  "source": "Hugging Face Trending",
+  "ts": 1795147683.0502803,
+  "desc": "",
+  "ord": 27
+ },
  "https://www.iimedia.cn/c1061/111224.html": {
   "title": "2026年中国消费者认为AI大模型的发展趋势：认为“很好”的占比51.4%",
   "source": "艾媒网",
   "ts": 1795141145.0463393,
   "desc": "",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/weiwu/o4pLV3X7mPE6sfxq.html": {
+  "title": "独家丨影石研究院首度公开：字节旧将亓鲁任负责人",
+  "source": "雷峰网",
+  "ts": 1795140060.0,
+  "desc": "雷峰网·鲸犀独家获悉，影石创新董事亓鲁已出任影石研究院中心负责人，并兼任公司首席 AI 官。知情人士称，他将主要负责相关算法及人工智能领域的研发工作。亓鲁是一位 90 后，本硕博先后毕业于山东大学、中国科学院、香港中文大学，并在加州大学默塞德分校做过博士后，当前为武汉大学计算机学院教授，研究方向涉及计算机视觉与无人机。同时，亓鲁有丰富的学术履历，除高校任职外，还担任 IEEE TPAMI 编委以及多家国际学术会议领域主席。在加入影石前，他曾在字节跳动担任高级研究科学家，并任职于 Seed 大模型部门。2024 年，亓鲁加入影石，任研发总监，自今年 1 月起担任影石创新董事。早在 2022 年 ",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/ai/0u1BjHIMazUFuNZc.html": {
+  "title": "商汤20%资源投入背后的逻辑：林达华谈拼手速与长期竞争力",
+  "source": "雷峰网",
+  "ts": 1795139220.0,
+  "desc": " Scaling Law在空间智能这里失效了？    作者丨周蕾    编辑丨岑峰                                                                                                       今年初字节的Seedance 2.0发布时，“电影级别”的出片质量让不少从业者倍感兴奋和震撼，新的创作蓝图正在他们面前徐徐展开——但对商汤的Seko团队来说，那是一段“迷茫”的日子。商汤联合创始人、首席科学家林达华在最近一次访谈中回忆，那段时间他去见投资人、参加行业会议，被问到的几乎总是同一个问题：你们的Sek",
   "ord": 1
+ },
+ "https://www.qbitai.com/2026/11/511426.html": {
+  "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+  "source": "量子位",
+  "ts": 1795136858.0,
+  "desc": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
+  "ord": 0
  },
  "https://daily.ai225.com/daily/2026-11-20": {
   "title": "2026-11-20 AI 日报 · Anthropic创纪录挂牌纳斯达克，谷歌与Perplexity掀起决策模型架构竞赛",
@@ -74,7 +102,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795120531.0521662,
   "desc": "",
-  "ord": 27
+  "ord": 26
  },
  "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/": {
   "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
@@ -291,14 +319,14 @@
   "source": "艾媒网",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 2
+  "ord": 1
  },
  "https://huggingface.co/inworld/voice-isolator": {
   "title": "inworld/voice-isolator Audio-to-Audio • Updated 5 days ago • 155",
   "source": "Hugging Face Trending",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 20
+  "ord": 19
  },
  "https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html": {
   "title": "阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍",
@@ -914,7 +942,7 @@
   "source": "艾媒网",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 0
+  "ord": 2
  },
  "https://huggingface.co/apple/FastFrames-L": {
   "title": "apple/FastFrames-L Text-to-Video • Updated about 6 hours ago • 148",
@@ -1341,7 +1369,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 22
+  "ord": 29
  },
  "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/": {
   "title": "Model ML raises $250M to automate investment banking grunt work",
@@ -3216,7 +3244,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 19
+  "ord": 20
  },
  "https://huggingface.co/Lightricks/LTX-2.5": {
   "title": "Lightricks/LTX-2.5 Image-to-Video • Updated Oct 11 • 2.75M • 12k",
@@ -3258,7 +3286,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 26
+  "ord": 28
  },
  "https://huggingface.co/NousResearch/Arete-27B": {
   "title": "NousResearch/Arete-27B Text Generation • 27B • Updated 9 days ago • 7.5k • 606",
@@ -4077,29 +4105,5 @@
   "ts": 1794459438.0,
   "desc": "",
   "ord": 2
- },
- "https://daily.ai225.com/daily/2026-11-12": {
-  "title": "2026-11-12 AI 日报 · 英伟达董事会据报酝酿罢免黄仁勋，Google（DeepMind）与百度接连发新模型",
-  "source": "AI 日报 · AI225",
-  "ts": 1794445436.0,
-  "desc": "今日焦点集中在英伟达：董事会据报酝酿罢免CEO黄仁勋，叠加婚外情传闻与第二名下属涉入的报道，股价盘后重挫逾9%，成为全行业最大不确定性。模型侧，Google旗下DeepMind发布DNA模型AlphaGenome 2，Google推出单次可评估上千问题的Gemini Decisions API，百度发布文心5.5 Flash Preview并宣布11月25日开源权重；北大系aiXcoder开源4B上下文压缩模型。资本与算力层面，台积电拟各投OpenAI与Anthropic五亿美元，英国Fractile获7.2亿美元融资，CoreWeave转向预付款模式，而美国企业AI支出增速已放缓至1.65%"
- },
- "https://openai.com/index/children-first-declaration": {
-  "title": "Supporting research on AI and children’s safety",
-  "source": "OpenAI News",
-  "ts": 1794441600.0,
-  "desc": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
- },
- "https://openai.com/index/gilbert-tobin-sam-nickless": {
-  "title": "Gilbert + Tobin rethinks the business of law with AI",
-  "source": "OpenAI News",
-  "ts": 1794441600.0,
-  "desc": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
- },
- "https://huggingface.co/blog/3d-lora-finetuning": {
-  "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-  "source": "Hugging Face 博客",
-  "ts": 1794441600.0,
-  "desc": ""
  }
 }
