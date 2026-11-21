@@ -5,7 +5,31 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sat, 21 Nov 2026 09:50:01 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 17:31:01 +0000</lastBuildDate>
+  <item>
+    <title>Is selling an AI version of your face to this microdrama startup the future of Hollywood?</title>
+    <link>https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/</guid>
+    <pubDate>Sat, 21 Nov 2026 16:00:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.</description>
+  </item>
+  <item>
+    <title>Can Anthropic afford to put safety first?</title>
+    <link>https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</link>
+    <guid isPermaLink="true">https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</guid>
+    <pubDate>Sat, 21 Nov 2026 15:00:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver</description>
+  </item>
+  <item>
+    <title>The Outages Are Just Getting Started</title>
+    <link>https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/</guid>
+    <pubDate>Sat, 21 Nov 2026 13:00:00 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.</description>
+  </item>
   <item>
     <title>GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍</title>
     <link>https://www.qbitai.com/2026/11/511779.html</link>
@@ -56,14 +80,6 @@ Points: 57
     <description>今日 AI 行业冷热交织：资本市场承压，受换帅风波与估值担忧影响，英伟达单日大跌 14%、市值较峰值蒸发 2.73 万亿美元，拖累纳指创 2020 年来最差单周表现；技术与产业层面则持续推进，Anthropic 数学家宣称与 Claude 合作找到黎曼猜想证明并公开 Lean 代码，学界正展开验证。此外，贝佐斯出任 410 亿美元估值公司 Prometheus 联席 CEO 押注物理工程 AI，Thinking Machines Lab 发布循环 MoE 模型 Inkling 2 Mini，AI 路由数据泄露与后训练机制研究亦引发关注。</description>
   </item>
   <item>
-    <title>Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop</title>
-    <link>https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/</guid>
-    <pubDate>Fri, 20 Nov 2026 23:24:02 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.</description>
-  </item>
-  <item>
     <title>Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.</title>
     <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
     <guid isPermaLink="true">https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</guid>
@@ -77,22 +93,6 @@ Points: 57
     <guid isPermaLink="true">https://www.anthropic.com/claude-fable-and-mythos-5-2</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.</title>
-    <link>https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/</guid>
-    <pubDate>Fri, 20 Nov 2026 19:53:41 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.</description>
-  </item>
-  <item>
-    <title>Trump threatens ‘tremendous tax’ for moving AI data centers outside the US</title>
-    <link>https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</link>
-    <guid isPermaLink="true">https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</guid>
-    <pubDate>Fri, 20 Nov 2026 18:50:19 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>President Donald Trump promised to put a "tremendous tax" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. "We're not going to allow our companies to build data centers outside of our coun</description>
   </item>
   <item>
     <title>2026年中国消费者认为AI大模型的发展趋势：认为“很好”的占比51.4%</title>
@@ -175,6 +175,30 @@ Points: 57
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.</title>
+    <link>https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/</guid>
+    <pubDate>Fri, 20 Nov 2026 19:53:41 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.</description>
+  </item>
+  <item>
+    <title>Chess.com’s next move is a new hub for classic games, from mahjong to sudoku</title>
+    <link>https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai</link>
+    <guid isPermaLink="true">https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai</guid>
+    <pubDate>Sat, 21 Nov 2026 14:00:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of </description>
+  </item>
+  <item>
+    <title>Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop</title>
+    <link>https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/</guid>
+    <pubDate>Fri, 20 Nov 2026 23:24:02 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.</description>
+  </item>
+  <item>
     <title>刚刚，DeepSeek V1作者创业项目曝光：开源Agent</title>
     <link>https://www.qbitai.com/2026/11/511570.html</link>
     <guid isPermaLink="true">https://www.qbitai.com/2026/11/511570.html</guid>
@@ -224,14 +248,6 @@ Points: 27
     <description>2026年11月20日，全球AI行业迎来标志性事件：Anthropic正式在纳斯达克挂牌交易，开盘暴涨超30%，创下全球史上最大规模IPO纪录。大模型产品与工程架构加速向智能体（Agent）深层演进，谷歌为macOS版Gemini上线直接控制电脑的“Computer Use”能力，并推出跳过文本生成、直接输出概率的决策模型Gemini Decision 1；Perplexity亦发布专为决策定制的Decider v1.3，重构注意力机制实现批量无干扰判断。此外，阿里巴巴最新财报披露AI云业务同比大涨53%，并确认千问正基于平头哥国产芯片训练下一代模型；DeepSeek则调整计费策略，模型调用内</description>
   </item>
   <item>
-    <title>Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation</title>
-    <link>https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/</guid>
-    <pubDate>Fri, 20 Nov 2026 19:52:21 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”</description>
-  </item>
-  <item>
     <title>Grok Bot took unapproved actions, ignored orders to stop, and then denied it</title>
     <link>https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/</link>
     <guid isPermaLink="true">https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/</guid>
@@ -247,26 +263,10 @@ Points: 27
     <source>Anthropic Newsroom</source>
   </item>
   <item>
-    <title>AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too</title>
-    <link>https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/</guid>
-    <pubDate>Fri, 20 Nov 2026 19:32:08 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.</description>
-  </item>
-  <item>
-    <title>Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</link>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</guid>
-    <pubDate>Fri, 20 Nov 2026 16:34:13 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic </description>
-  </item>
-  <item>
-    <title>艾媒咨询 | 2026年上半年中国人工智能行业投融资市场监测与分析报告</title>
-    <link>https://www.iimedia.cn/c400/119474.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c400/119474.html</guid>
-    <pubDate>Thu, 19 Nov 2026 02:33:52 +0000</pubDate>
+    <title>艾媒鼎榜 | 2026年中国车载实体AI机器人品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/120376.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/120376.html</guid>
+    <pubDate>Wed, 18 Nov 2026 11:40:24 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
@@ -335,6 +335,30 @@ Points: 27
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too</title>
+    <link>https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/</guid>
+    <pubDate>Fri, 20 Nov 2026 19:32:08 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.</description>
+  </item>
+  <item>
+    <title>Trump threatens ‘tremendous tax’ for moving AI data centers outside the US</title>
+    <link>https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</link>
+    <guid isPermaLink="true">https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</guid>
+    <pubDate>Fri, 20 Nov 2026 18:50:19 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>President Donald Trump promised to put a "tremendous tax" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. "We're not going to allow our companies to build data centers outside of our coun</description>
+  </item>
+  <item>
+    <title>Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation</title>
+    <link>https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/</guid>
+    <pubDate>Fri, 20 Nov 2026 19:52:21 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”</description>
+  </item>
+  <item>
     <title>姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图</title>
     <link>https://www.qbitai.com/2026/11/511757.html</link>
     <guid isPermaLink="true">https://www.qbitai.com/2026/11/511757.html</guid>
@@ -384,14 +408,6 @@ Points: 12
     <description>今日大模型与资本市场迎来多项进展：Google DeepMind 发布前沿模型 Gemini 4 Neon 并同步开放多端使用，同时向 AI Ultra 订阅用户推出世界模型 Genie 4；微软发布 MAI 系列七款高性价比模型；Anthropic 正式将 IPO 定价定为每股 83 美元，预计 11 月 19 日以“ANT”代码登陆纳斯达克。国内方面，腾讯 Q3 财报披露资本开支同比大增 528%；字节跳动豆包工作 DAU 突破 800 万。英伟达在黄仁勋离职后的首次全员会上宣布 12 月提前加薪与增加股权激励，以稳定团队；开源与学术界则在 32GB 内存运行 180B MoE 模型与流式</description>
   </item>
   <item>
-    <title>Muse Is Unleashing a World of Pettiness on Instagram</title>
-    <link>https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/</guid>
-    <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.</description>
-  </item>
-  <item>
     <title>Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day</title>
     <link>https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/</link>
     <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/</guid>
@@ -407,26 +423,10 @@ Points: 12
     <source>Anthropic Newsroom</source>
   </item>
   <item>
-    <title>Chips can survive the space environment — can their financing?</title>
-    <link>https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/</guid>
-    <pubDate>Fri, 20 Nov 2026 17:40:01 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?</description>
-  </item>
-  <item>
-    <title>The week everything fell apart</title>
-    <link>https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast</link>
-    <guid isPermaLink="true">https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast</guid>
-    <pubDate>Fri, 20 Nov 2026 14:06:59 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of somet</description>
-  </item>
-  <item>
-    <title>艾媒鼎榜 | 2026年中国车载实体AI机器人品牌10强</title>
-    <link>https://www.iimedia.cn/c1106/120376.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1106/120376.html</guid>
-    <pubDate>Wed, 18 Nov 2026 11:40:24 +0000</pubDate>
+    <title>2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴</title>
+    <link>https://www.iimedia.cn/c1061/120072.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120072.html</guid>
+    <pubDate>Sun, 15 Nov 2026 21:02:19 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
@@ -488,6 +488,30 @@ Points: 12
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Chips can survive the space environment — can their financing?</title>
+    <link>https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/</guid>
+    <pubDate>Fri, 20 Nov 2026 17:40:01 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?</description>
+  </item>
+  <item>
+    <title>Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</link>
+    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</guid>
+    <pubDate>Fri, 20 Nov 2026 16:34:13 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic </description>
+  </item>
+  <item>
+    <title>Muse Is Unleashing a World of Pettiness on Instagram</title>
+    <link>https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/</guid>
+    <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.</description>
+  </item>
+  <item>
     <title>米哈游发了个VLA论文</title>
     <link>https://www.qbitai.com/2026/11/511740.html</link>
     <guid isPermaLink="true">https://www.qbitai.com/2026/11/511740.html</guid>
@@ -503,8 +527,8 @@ Points: 12
     <source>Hacker News 头版</source>
     <description>Article URL: https://thinkingmachines.ai/news/inkling-2-mini/
 Comments URL: https://news.ycombinator.com/item?id=50581260
-Points: 981
-# Comments: 183</description>
+Points: 1226
+# Comments: 238</description>
   </item>
   <item>
     <title>Inference Providers</title>
@@ -537,14 +561,6 @@ Points: 981
     <description>今日AI领域重磅动态频出。模型与产品方面，OpenAI发布降价的GPT-6.2 Astra与Sol，微软将Office整合进Copilot并量产Maia 200芯片，Google为Gemini上线Task代办模式。行业与资本方面，英伟达第三财季营收翻倍，董事会正式拒绝黄仁勋复职并停售中国H200芯片；Anthropic获准在纳斯达克上市，AMD完成收购World Labs，Isomorphic Labs融资50亿美元。此外，加州与爱尔兰针对自动驾驶及智能体数据抓取的监管亦进一步落地。</description>
   </item>
   <item>
-    <title>Regular Tech Bros Are Worried About Honeypots</title>
-    <link>https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/</guid>
-    <pubDate>Fri, 20 Nov 2026 11:00:00 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.</description>
-  </item>
-  <item>
     <title>Early progress on accelerating drug development with ClaudeWe're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.</title>
     <link>https://www.anthropic.com/research/early-progress-drug-development</link>
     <guid isPermaLink="true">https://www.anthropic.com/research/early-progress-drug-development</guid>
@@ -552,26 +568,10 @@ Points: 981
     <source>Anthropic Newsroom</source>
   </item>
   <item>
-    <title>The fallout from Nvidia’s Jensen Huang scandal continues</title>
-    <link>https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/</link>
-    <guid isPermaLink="true">https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/</guid>
-    <pubDate>Fri, 20 Nov 2026 14:55:44 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed</description>
-  </item>
-  <item>
-    <title>Signal is blocking Gemini and Siri AI from reading your screen</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app</link>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app</guid>
-    <pubDate>Fri, 20 Nov 2026 12:30:47 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are "undermining Si</description>
-  </item>
-  <item>
-    <title>艾媒咨询 | 2025年中国机器人租赁产业市场状况及标杆企业经营数据分析报告</title>
-    <link>https://www.iimedia.cn/c400/111060.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c400/111060.html</guid>
-    <pubDate>Tue, 17 Nov 2026 20:53:59 +0000</pubDate>
+    <title>艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/119852.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119852.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
@@ -633,6 +633,30 @@ Points: 981
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>The fallout from Nvidia’s Jensen Huang scandal continues</title>
+    <link>https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/</link>
+    <guid isPermaLink="true">https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/</guid>
+    <pubDate>Fri, 20 Nov 2026 14:55:44 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed</description>
+  </item>
+  <item>
+    <title>The week everything fell apart</title>
+    <link>https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast</link>
+    <guid isPermaLink="true">https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast</guid>
+    <pubDate>Fri, 20 Nov 2026 14:06:59 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of somet</description>
+  </item>
+  <item>
+    <title>Regular Tech Bros Are Worried About Honeypots</title>
+    <link>https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/</guid>
+    <pubDate>Fri, 20 Nov 2026 11:00:00 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.</description>
+  </item>
+  <item>
     <title>黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明</title>
     <link>https://www.qbitai.com/2026/11/511727.html</link>
     <guid isPermaLink="true">https://www.qbitai.com/2026/11/511727.html</guid>
@@ -681,14 +705,6 @@ Points: 145
     <description>今日焦点在安全合规、模型迭代与算力硬件。加州起诉 OpenAI 智能体测试失控，OpenAI 引入四家机构开展安全评估试点；FBI 与 Google 预警全自动 AI 黑客威胁。应用侧，阿里发布 2.4 万亿参数 Qwen4-Max，腾讯推出混元4 flash，Claude 支持 HTML-in-Canvas，Moonshot 将 Kimi 转向生物医药，华为云开源具身世界模型 CloudRobo-WM1.2。算力端，英伟达 Vera Rubin 首秀 MLPerf 并发布 Rubin HPC。</description>
   </item>
   <item>
-    <title>This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’</title>
-    <link>https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/</guid>
-    <pubDate>Fri, 20 Nov 2026 07:00:00 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.</description>
-  </item>
-  <item>
     <title>Introducing Claude Haiku 5.5Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.</title>
     <link>https://www.anthropic.com/claude-haiku-5-5</link>
     <guid isPermaLink="true">https://www.anthropic.com/claude-haiku-5-5</guid>
@@ -696,26 +712,10 @@ Points: 145
     <source>Anthropic Newsroom</source>
   </item>
   <item>
-    <title>Six AI-powered gadgets that could make your home office smarter</title>
-    <link>https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/</guid>
-    <pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.</description>
-  </item>
-  <item>
-    <title>Apple is hiring engineers to build its own AI agent</title>
-    <link>https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing</link>
-    <guid isPermaLink="true">https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing</guid>
-    <pubDate>Thu, 19 Nov 2026 22:31:41 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic </description>
-  </item>
-  <item>
-    <title>2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴</title>
-    <link>https://www.iimedia.cn/c1061/120072.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120072.html</guid>
-    <pubDate>Sun, 15 Nov 2026 21:02:19 +0000</pubDate>
+    <title>艾媒鼎榜 | 2026年中国AI会议耳机品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/119848.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119848.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>

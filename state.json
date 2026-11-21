@@ -1,4 +1,32 @@
 {
+ "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/": {
+  "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+  "source": "TechCrunch AI",
+  "ts": 1795276800.0,
+  "desc": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+  "ord": 0
+ },
+ "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure": {
+  "title": "Can Anthropic afford to put safety first?",
+  "source": "The Verge AI",
+  "ts": 1795273200.0,
+  "desc": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver",
+  "ord": 0
+ },
+ "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai": {
+  "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+  "source": "The Verge AI",
+  "ts": 1795269600.0,
+  "desc": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of ",
+  "ord": 1
+ },
+ "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/": {
+  "title": "The Outages Are Just Getting Started",
+  "source": "WIRED AI",
+  "ts": 1795266000.0,
+  "desc": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+  "ord": 0
+ },
  "https://www.qbitai.com/2026/11/511779.html": {
   "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
   "source": "量子位",
@@ -60,14 +88,14 @@
   "source": "Hugging Face Trending",
   "ts": 1795224874.7986927,
   "desc": "",
-  "ord": 15
+  "ord": 16
  },
  "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF": {
   "title": "unsloth/Inkling-2-Mini-GGUF Image-Text-to-Text • 26B • Updated 13 minutes ago • 206",
   "source": "Hugging Face Trending",
   "ts": 1795224874.7986927,
   "desc": "",
-  "ord": 21
+  "ord": 17
  },
  "https://daily.ai225.com/daily/2026-11-21": {
   "title": "2026-11-21 AI 日报 · 英伟达暴跌拖累 AI 板块；Anthropic 数学家宣称携手 Claude 证出黎曼猜想",
@@ -122,7 +150,7 @@
   "title": "Inkling 2 Mini",
   "source": "Hacker News 头版",
   "ts": 1795205539.0,
-  "desc": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/\nComments URL: https://news.ycombinator.com/item?id=50581260\nPoints: 981\n# Comments: 183",
+  "desc": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/\nComments URL: https://news.ycombinator.com/item?id=50581260\nPoints: 1226\n# Comments: 238",
   "ord": 1
  },
  "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/": {
@@ -564,7 +592,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795120531.0521662,
   "desc": "",
-  "ord": 26
+  "ord": 29
  },
  "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/": {
   "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
@@ -781,7 +809,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 22
+  "ord": 20
  },
  "https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html": {
   "title": "阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍",
@@ -956,7 +984,7 @@
   "source": "艾媒网",
   "ts": 1795055632.1216788,
   "desc": "",
-  "ord": 0
+  "ord": 2
  },
  "https://www.producthunt.com/products/gemini-6": {
   "title": "Gemini 4 Neon",
@@ -1173,7 +1201,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795033783.4331658,
   "desc": "",
-  "ord": 20
+  "ord": 18
  },
  "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/": {
   "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
@@ -1411,7 +1439,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 29
+  "ord": 21
  },
  "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/": {
   "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
@@ -1614,14 +1642,14 @@
   "source": "Hugging Face Trending",
   "ts": 1794970430.0040767,
   "desc": "",
-  "ord": 29
+  "ord": 26
  },
  "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted": {
   "title": "harness-hub/Qwen3.8-27B-pi-adapted Updated about 18 hours ago • 153",
   "source": "Hugging Face Trending",
   "ts": 1794970430.0040767,
   "desc": "",
-  "ord": 17
+  "ord": 15
  },
  "https://www.qbitai.com/2026/11/510737.html": {
   "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
@@ -1824,14 +1852,14 @@
   "source": "艾媒网",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 0
+  "ord": 1
  },
  "https://huggingface.co/sensenova/SenseNova-Loop-9B": {
   "title": "sensenova/SenseNova-Loop-9B Image-Text-to-Text • 9B • Updated about 9 hours ago • 152",
   "source": "Hugging Face Trending",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 26
+  "ord": 28
  },
  "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6": {
   "title": "meituan-longcat/LongCat-Video-Avatar-1.6 Updated 4 days ago • 489 • 194",
@@ -3783,7 +3811,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 16
+  "ord": 22
  },
  "https://huggingface.co/Edge0/Edge0-145B-NVFP4": {
   "title": "Edge0/Edge0-145B-NVFP4 Text Generation • 5B • Updated about 3 hours ago • 41.6k • 277",
@@ -4145,29 +4173,5 @@
   "source": "量子位",
   "ts": 1794623996.0,
   "desc": "官方App功能均可自由组合调用"
- },
- "https://daily.ai225.com/daily/2026-11-14": {
-  "title": "2026-11-14 AI 日报 · ChatGPT Wallet上线开启智能体代付，llama.cpp步入1.0稳定时代",
-  "source": "AI 日报 · AI225",
-  "ts": 1794618526.0,
-  "desc": "今日AI领域迎来多项底层与应用层重要进展。OpenAI正式推出ChatGPT Wallet，支持智能体在生物认证确认下代行在线支付，亚马逊亦推进全球商品图谱项目以应对智能体电商变革；核心本地推理基础设施llama.cpp与ggml正式迈入1.0.0版本，确立以主版本号标记API/ABI破坏性变更的版本规则。DeepSeek全面开放其App同款的全家桶API与独立工具接口；李飞飞联合创办的World Labs向公众开放Atlas世界模型。此外，前研究员披露在多家国产模型权重中检测到Blackwell芯片特征，投行则援引出口管制禁止中港投资者认购Anthropic IPO。学术界在像素空间视频生成"
- },
- "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search": {
-  "title": "Amazon has a plan to index the world’s online shopping data",
-  "source": "The Verge AI",
-  "ts": 1794613751.0,
-  "desc": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers lea"
- },
- "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/": {
-  "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-  "source": "TechCrunch AI",
-  "ts": 1794609780.0,
-  "desc": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
- },
- "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet": {
-  "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-  "source": "The Verge AI",
-  "ts": 1794602710.0,
-  "desc": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and "
  }
 }
