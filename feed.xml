@@ -5,13 +5,13 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Fri, 20 Nov 2026 20:16:54 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 01:35:16 +0000</lastBuildDate>
   <item>
-    <title>Introducing Claude Fable 5.2 and Claude Mythos 5.2Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</title>
-    <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
-    <guid isPermaLink="true">https://www.anthropic.com/claude-fable-and-mythos-5-2</guid>
+    <title>Artificial Analysis</title>
+    <link>https://artificialanalysis.ai/</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
+    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Team &amp; Enterprise</title>
@@ -19,6 +19,48 @@
     <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>2026-11-21 AI 日报 · 英伟达暴跌拖累 AI 板块；Anthropic 数学家宣称携手 Claude 证出黎曼猜想</title>
+    <link>https://daily.ai225.com/daily/2026-11-21</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-21</guid>
+    <pubDate>Sat, 21 Nov 2026 00:54:02 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>今日 AI 行业冷热交织：资本市场承压，受换帅风波与估值担忧影响，英伟达单日大跌 14%、市值较峰值蒸发 2.73 万亿美元，拖累纳指创 2020 年来最差单周表现；技术与产业层面则持续推进，Anthropic 数学家宣称与 Claude 合作找到黎曼猜想证明并公开 Lean 代码，学界正展开验证。此外，贝佐斯出任 410 亿美元估值公司 Prometheus 联席 CEO 押注物理工程 AI，Thinking Machines Lab 发布循环 MoE 模型 Inkling 2 Mini，AI 路由数据泄露与后训练机制研究亦引发关注。</description>
+  </item>
+  <item>
+    <title>Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop</title>
+    <link>https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/</guid>
+    <pubDate>Fri, 20 Nov 2026 23:24:02 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.</description>
+  </item>
+  <item>
+    <title>AI may have solved the most important problem in mathematics</title>
+    <link>https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics</link>
+    <guid isPermaLink="true">https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics</guid>
+    <pubDate>Fri, 20 Nov 2026 22:46:59 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics
+Comments URL: https://news.ycombinator.com/item?id=50583445
+Points: 27
+# Comments: 13</description>
+  </item>
+  <item>
+    <title>Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.</title>
+    <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
+    <guid isPermaLink="true">https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</guid>
+    <pubDate>Fri, 20 Nov 2026 20:59:08 +0000</pubDate>
+    <source>Ars Technica</source>
+    <description>Test using prompts with unique, trackable secrets proves that data doesn't stay private.</description>
+  </item>
+  <item>
+    <title>Introducing Claude Fable 5.2 and Claude Mythos 5.2Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</title>
+    <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
+    <guid isPermaLink="true">https://www.anthropic.com/claude-fable-and-mythos-5-2</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
   </item>
   <item>
     <title>Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.</title>
@@ -29,31 +71,12 @@
     <description>Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.</description>
   </item>
   <item>
-    <title>Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation</title>
-    <link>https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/</guid>
-    <pubDate>Fri, 20 Nov 2026 19:52:21 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”</description>
-  </item>
-  <item>
     <title>Trump threatens ‘tremendous tax’ for moving AI data centers outside the US</title>
     <link>https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</link>
     <guid isPermaLink="true">https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</guid>
     <pubDate>Fri, 20 Nov 2026 18:50:19 +0000</pubDate>
     <source>The Verge AI</source>
     <description>President Donald Trump promised to put a "tremendous tax" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. "We're not going to allow our companies to build data centers outside of our coun</description>
-  </item>
-  <item>
-    <title>Anthropic shares tank after IPO as the Nasdaq erases 2026 gains</title>
-    <link>https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394</link>
-    <guid isPermaLink="true">https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394</guid>
-    <pubDate>Fri, 20 Nov 2026 17:44:01 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394
-Comments URL: https://news.ycombinator.com/item?id=50578794
-Points: 145
-# Comments: 122</description>
   </item>
   <item>
     <title>上汽通用发布真龙插混MAX，首搭别克至境世家</title>
@@ -87,14 +110,6 @@ Points: 145
     <description>联合华为昇腾，五年冲刺十万卡</description>
   </item>
   <item>
-    <title>2026-11-20 AI 日报 · Anthropic创纪录挂牌纳斯达克，谷歌与Perplexity掀起决策模型架构竞赛</title>
-    <link>https://daily.ai225.com/daily/2026-11-20</link>
-    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-20</guid>
-    <pubDate>Fri, 20 Nov 2026 01:00:57 +0000</pubDate>
-    <source>AI 日报 · AI225</source>
-    <description>2026年11月20日，全球AI行业迎来标志性事件：Anthropic正式在纳斯达克挂牌交易，开盘暴涨超30%，创下全球史上最大规模IPO纪录。大模型产品与工程架构加速向智能体（Agent）深层演进，谷歌为macOS版Gemini上线直接控制电脑的“Computer Use”能力，并推出跳过文本生成、直接输出概率的决策模型Gemini Decision 1；Perplexity亦发布专为决策定制的Decider v1.3，重构注意力机制实现批量无干扰判断。此外，阿里巴巴最新财报披露AI云业务同比大涨53%，并确认千问正基于平头哥国产芯片训练下一代模型；DeepSeek则调整计费策略，模型调用内</description>
-  </item>
-  <item>
     <title>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
     <link>https://huggingface.co/blog/inkling2mini</link>
     <guid isPermaLink="true">https://huggingface.co/blog/inkling2mini</guid>
@@ -108,13 +123,6 @@ Points: 145
     <pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
     <source>Google AI 博客</source>
     <description>Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.</description>
-  </item>
-  <item>
-    <title>Artificial Analysis</title>
-    <link>https://artificialanalysis.ai/</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Gemini 4 Neon</title>
@@ -137,14 +145,6 @@ Points: 145
     <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     <source>The Model Gap</source>
     <description>Koray Kavukcuoglu's November 18, 2026 blog launches Gemini 4 Neon under API id gemini-4-neon. Paid Standard is a flat $3 input and $15 output per million tokens across a vendor-stated 1,048,576-token window, and Gemini 4 Neon is not on the Free tier. No Gemini 4 Neon score row is stored. Carbon, Arg</description>
-  </item>
-  <item>
-    <title>Grok Bot took unapproved actions, ignored orders to stop, and then denied it</title>
-    <link>https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/</link>
-    <guid isPermaLink="true">https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/</guid>
-    <pubDate>Tue, 17 Nov 2026 14:00:29 +0000</pubDate>
-    <source>Ars Technica</source>
-    <description>AI agent takes unapproved actions even when laptop lid is closed and told not to.</description>
   </item>
   <item>
     <title>October 2026 releases, in depth</title>
@@ -175,11 +175,11 @@ Points: 145
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</title>
-    <link>https://www.anthropic.com/news/public-benefit-fund</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
+    <title>Thinking Machines has released Inkling 2 Mini, an open weights looped transformerNovember 20, 2026</title>
+    <link>https://artificialanalysis.ai/articles/inkling-2-mini</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/inkling-2-mini</guid>
+    <pubDate>Sat, 21 Nov 2026 01:34:34 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Hugging Face PRO</title>
@@ -187,6 +187,48 @@ Points: 145
     <guid isPermaLink="true">https://huggingface.co/pro</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>2026-11-20 AI 日报 · Anthropic创纪录挂牌纳斯达克，谷歌与Perplexity掀起决策模型架构竞赛</title>
+    <link>https://daily.ai225.com/daily/2026-11-20</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-20</guid>
+    <pubDate>Fri, 20 Nov 2026 01:00:57 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>2026年11月20日，全球AI行业迎来标志性事件：Anthropic正式在纳斯达克挂牌交易，开盘暴涨超30%，创下全球史上最大规模IPO纪录。大模型产品与工程架构加速向智能体（Agent）深层演进，谷歌为macOS版Gemini上线直接控制电脑的“Computer Use”能力，并推出跳过文本生成、直接输出概率的决策模型Gemini Decision 1；Perplexity亦发布专为决策定制的Decider v1.3，重构注意力机制实现批量无干扰判断。此外，阿里巴巴最新财报披露AI云业务同比大涨53%，并确认千问正基于平头哥国产芯片训练下一代模型；DeepSeek则调整计费策略，模型调用内</description>
+  </item>
+  <item>
+    <title>Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation</title>
+    <link>https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/</guid>
+    <pubDate>Fri, 20 Nov 2026 19:52:21 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”</description>
+  </item>
+  <item>
+    <title>The Hungry Butler Effect: Concealed Commercial Incentives in LLMs</title>
+    <link>https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models</link>
+    <guid isPermaLink="true">https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models</guid>
+    <pubDate>Fri, 20 Nov 2026 22:18:20 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models
+Comments URL: https://news.ycombinator.com/item?id=50583117
+Points: 12
+# Comments: 4</description>
+  </item>
+  <item>
+    <title>Grok Bot took unapproved actions, ignored orders to stop, and then denied it</title>
+    <link>https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/</link>
+    <guid isPermaLink="true">https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/</guid>
+    <pubDate>Tue, 17 Nov 2026 14:00:29 +0000</pubDate>
+    <source>Ars Technica</source>
+    <description>AI agent takes unapproved actions even when laptop lid is closed and told not to.</description>
+  </item>
+  <item>
+    <title>Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</title>
+    <link>https://www.anthropic.com/news/public-benefit-fund</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
   </item>
   <item>
     <title>AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too</title>
@@ -197,31 +239,12 @@ Points: 145
     <description>Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.</description>
   </item>
   <item>
-    <title>Muse Is Unleashing a World of Pettiness on Instagram</title>
-    <link>https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/</guid>
-    <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.</description>
-  </item>
-  <item>
     <title>Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude</title>
     <link>https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</link>
     <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</guid>
     <pubDate>Fri, 20 Nov 2026 16:34:13 +0000</pubDate>
     <source>The Verge AI</source>
     <description>Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic </description>
-  </item>
-  <item>
-    <title>Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI</title>
-    <link>https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/</link>
-    <guid isPermaLink="true">https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/</guid>
-    <pubDate>Fri, 20 Nov 2026 16:59:27 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/
-Comments URL: https://news.ycombinator.com/item?id=50577901
-Points: 131
-# Comments: 75</description>
   </item>
   <item>
     <title>拓竹 MakerWorld，为什么难复制？</title>
@@ -255,14 +278,6 @@ Points: 131
     <description>国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。</description>
   </item>
   <item>
-    <title>2026-11-19 AI 日报 · Gemini 4 Neon 发布，Anthropic IPO 定价 83 美元</title>
-    <link>https://daily.ai225.com/daily/2026-11-19</link>
-    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-19</guid>
-    <pubDate>Thu, 19 Nov 2026 01:03:05 +0000</pubDate>
-    <source>AI 日报 · AI225</source>
-    <description>今日大模型与资本市场迎来多项进展：Google DeepMind 发布前沿模型 Gemini 4 Neon 并同步开放多端使用，同时向 AI Ultra 订阅用户推出世界模型 Genie 4；微软发布 MAI 系列七款高性价比模型；Anthropic 正式将 IPO 定价定为每股 83 美元，预计 11 月 19 日以“ANT”代码登陆纳斯达克。国内方面，腾讯 Q3 财报披露资本开支同比大增 528%；字节跳动豆包工作 DAU 突破 800 万。英伟达在黄仁勋离职后的首次全员会上宣布 12 月提前加薪与增加股权激励，以稳定团队；开源与学术界则在 32GB 内存运行 180B MoE 模型与流式</description>
-  </item>
-  <item>
     <title>Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost</title>
     <link>https://huggingface.co/blog/harness-adapters-at-scale</link>
     <guid isPermaLink="true">https://huggingface.co/blog/harness-adapters-at-scale</guid>
@@ -278,13 +293,6 @@ Points: 131
     <description>Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.</description>
   </item>
   <item>
-    <title>Google continues to accelerate its release cadence with Gemini 4 NeonNovember 18, 2026</title>
-    <link>https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain</guid>
-    <pubDate>Thu, 19 Nov 2026 02:33:52 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
     <title>Room AI</title>
     <link>https://www.producthunt.com/products/room-ai-2</link>
     <guid isPermaLink="true">https://www.producthunt.com/products/room-ai-2</guid>
@@ -297,14 +305,6 @@ Points: 131
     <guid isPermaLink="true">https://deepmind.google/blog/genie-4-is-now-available/</guid>
     <pubDate>Wed, 18 Nov 2026 18:13:42 +0000</pubDate>
     <source>Google DeepMind</source>
-  </item>
-  <item>
-    <title>Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day</title>
-    <link>https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/</link>
-    <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/</guid>
-    <pubDate>Mon, 16 Nov 2026 20:37:47 +0000</pubDate>
-    <source>Ars Technica</source>
-    <description>The PC sales slump "more than offset” AI boom gains, shareholders say.</description>
   </item>
   <item>
     <title>September 2026 releases, in depth</title>
@@ -335,11 +335,11 @@ Points: 131
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>Anthropic files S-1 with the SEC for proposed initial public offeringToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.</title>
-    <link>https://www.anthropic.com/news/s1-sec</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/s1-sec</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
+    <title>Google continues to accelerate its release cadence with Gemini 4 NeonNovember 18, 2026</title>
+    <link>https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain</guid>
+    <pubDate>Thu, 19 Nov 2026 02:33:52 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Enterprise Support</title>
@@ -347,6 +347,45 @@ Points: 131
     <guid isPermaLink="true">https://huggingface.co/support</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>2026-11-19 AI 日报 · Gemini 4 Neon 发布，Anthropic IPO 定价 83 美元</title>
+    <link>https://daily.ai225.com/daily/2026-11-19</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-19</guid>
+    <pubDate>Thu, 19 Nov 2026 01:03:05 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>今日大模型与资本市场迎来多项进展：Google DeepMind 发布前沿模型 Gemini 4 Neon 并同步开放多端使用，同时向 AI Ultra 订阅用户推出世界模型 Genie 4；微软发布 MAI 系列七款高性价比模型；Anthropic 正式将 IPO 定价定为每股 83 美元，预计 11 月 19 日以“ANT”代码登陆纳斯达克。国内方面，腾讯 Q3 财报披露资本开支同比大增 528%；字节跳动豆包工作 DAU 突破 800 万。英伟达在黄仁勋离职后的首次全员会上宣布 12 月提前加薪与增加股权激励，以稳定团队；开源与学术界则在 32GB 内存运行 180B MoE 模型与流式</description>
+  </item>
+  <item>
+    <title>Muse Is Unleashing a World of Pettiness on Instagram</title>
+    <link>https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/</guid>
+    <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.</description>
+  </item>
+  <item>
+    <title>Show HN: OpenComputer – an open source alternative to Devin</title>
+    <link>https://github.com/diggerhq/opencomputer</link>
+    <guid isPermaLink="true">https://github.com/diggerhq/opencomputer</guid>
+    <pubDate>Fri, 20 Nov 2026 20:19:56 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Hi HN!Utpal here, I'm one of the founders of OpenComputer.OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; th</description>
+  </item>
+  <item>
+    <title>Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day</title>
+    <link>https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/</link>
+    <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/</guid>
+    <pubDate>Mon, 16 Nov 2026 20:37:47 +0000</pubDate>
+    <source>Ars Technica</source>
+    <description>The PC sales slump "more than offset” AI boom gains, shareholders say.</description>
+  </item>
+  <item>
+    <title>Anthropic files S-1 with the SEC for proposed initial public offeringToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.</title>
+    <link>https://www.anthropic.com/news/s1-sec</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/s1-sec</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
   </item>
   <item>
     <title>Chips can survive the space environment — can their financing?</title>
@@ -357,31 +396,12 @@ Points: 131
     <description>Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?</description>
   </item>
   <item>
-    <title>Regular Tech Bros Are Worried About Honeypots</title>
-    <link>https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/</guid>
-    <pubDate>Fri, 20 Nov 2026 11:00:00 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.</description>
-  </item>
-  <item>
     <title>The week everything fell apart</title>
     <link>https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast</link>
     <guid isPermaLink="true">https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast</guid>
     <pubDate>Fri, 20 Nov 2026 14:06:59 +0000</pubDate>
     <source>The Verge AI</source>
     <description>There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of somet</description>
-  </item>
-  <item>
-    <title>Frostbite: A new CPU architecture discovered, designed and verified by AI</title>
-    <link>https://architectlabs.com/blog/frostbite</link>
-    <guid isPermaLink="true">https://architectlabs.com/blog/frostbite</guid>
-    <pubDate>Fri, 20 Nov 2026 10:01:41 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://architectlabs.com/blog/frostbite
-Comments URL: https://news.ycombinator.com/item?id=50572503
-Points: 102
-# Comments: 74</description>
   </item>
   <item>
     <title>灵掌机器人太空灵巧手亮相世界智能制造博览会</title>
@@ -392,19 +412,19 @@ Points: 102
     <description>11月19日至21日，第十一届世界智能制造博览会（以下简称“智博会”）在南京国际博览中心举办。无锡灵掌机器人科技有限公司（以下简称“灵掌机器人”）携全系列共9款灵巧手产品参展，重点展示了灵巧手在工业制造、太空任务、特种作业、科研与人形机器人等行业领域的落地场景及解决方案。灵掌机器人创始人兼首席执行官张超介绍，灵巧手是具身智能走向真实操作的重要一环，也是连接智能决策与物理执行的关键末端。当前灵巧手行业正进入快速发展期，逐步进入真实应用场景中，市场需求也在持续释放。从工业产线上的重物抓取搬运，到危险环境中的远程防爆作业，再到太空航天器维修，灵巧手的市场应用空间广阔。在张超看来，机器人发展的重要价值</description>
   </item>
   <item>
-    <title>艾媒咨询 | 2025年中国机器人租赁产业市场状况及标杆企业经营数据分析报告</title>
-    <link>https://www.iimedia.cn/c400/111060.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c400/111060.html</guid>
-    <pubDate>Tue, 17 Nov 2026 20:53:59 +0000</pubDate>
+    <title>艾媒鼎榜 | 2026年中国车载实体AI机器人品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/120376.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/120376.html</guid>
+    <pubDate>Wed, 18 Nov 2026 11:40:24 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
-    <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
-    <link>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</link>
-    <guid isPermaLink="true">https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</guid>
-    <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
+    <title>Hebbia sees improvements in financial research with GPT-6 Astra</title>
+    <link>https://openai.com/business/customer-stories/hebbia</link>
+    <guid isPermaLink="true">https://openai.com/business/customer-stories/hebbia</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
     <source>OpenAI News</source>
-    <description>Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.</description>
+    <description>Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.</description>
   </item>
   <item>
     <title>新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景</title>
@@ -413,14 +433,6 @@ Points: 102
     <pubDate>Fri, 20 Nov 2026 06:16:06 +0000</pubDate>
     <source>量子位</source>
     <description>11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。</description>
-  </item>
-  <item>
-    <title>2026-11-18 AI 日报 · GPT-6.2发布，英伟达拒黄仁勋复职，Anthropic获准上市</title>
-    <link>https://daily.ai225.com/daily/2026-11-18</link>
-    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-18</guid>
-    <pubDate>Wed, 18 Nov 2026 00:53:30 +0000</pubDate>
-    <source>AI 日报 · AI225</source>
-    <description>今日AI领域重磅动态频出。模型与产品方面，OpenAI发布降价的GPT-6.2 Astra与Sol，微软将Office整合进Copilot并量产Maia 200芯片，Google为Gemini上线Task代办模式。行业与资本方面，英伟达第三财季营收翻倍，董事会正式拒绝黄仁勋复职并停售中国H200芯片；Anthropic获准在纳斯达克上市，AMD完成收购World Labs，Isomorphic Labs融资50亿美元。此外，加州与爱尔兰针对自动驾驶及智能体数据抓取的监管亦进一步落地。</description>
   </item>
   <item>
     <title>DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency</title>
@@ -436,13 +448,6 @@ Points: 102
     <pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
     <source>Google AI 博客</source>
     <description>The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.</description>
-  </item>
-  <item>
-    <title>OpenAI has the #2 model in the Intelligence Index with the release of GPT-6.2 Astra and GPT-6.2 SolNovember 17, 2026</title>
-    <link>https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol</guid>
-    <pubDate>Tue, 17 Nov 2026 20:53:59 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Nexuro AI</title>
@@ -480,11 +485,11 @@ Points: 102
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>Early progress on accelerating drug development with ClaudeWe're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.</title>
-    <link>https://www.anthropic.com/research/early-progress-drug-development</link>
-    <guid isPermaLink="true">https://www.anthropic.com/research/early-progress-drug-development</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
+    <title>OpenAI has the #2 model in the Intelligence Index with the release of GPT-6.2 Astra and GPT-6.2 SolNovember 17, 2026</title>
+    <link>https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol</guid>
+    <pubDate>Tue, 17 Nov 2026 20:53:59 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Inference Providers</title>
@@ -492,6 +497,40 @@ Points: 102
     <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>2026-11-18 AI 日报 · GPT-6.2发布，英伟达拒黄仁勋复职，Anthropic获准上市</title>
+    <link>https://daily.ai225.com/daily/2026-11-18</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-18</guid>
+    <pubDate>Wed, 18 Nov 2026 00:53:30 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>今日AI领域重磅动态频出。模型与产品方面，OpenAI发布降价的GPT-6.2 Astra与Sol，微软将Office整合进Copilot并量产Maia 200芯片，Google为Gemini上线Task代办模式。行业与资本方面，英伟达第三财季营收翻倍，董事会正式拒绝黄仁勋复职并停售中国H200芯片；Anthropic获准在纳斯达克上市，AMD完成收购World Labs，Isomorphic Labs融资50亿美元。此外，加州与爱尔兰针对自动驾驶及智能体数据抓取的监管亦进一步落地。</description>
+  </item>
+  <item>
+    <title>Regular Tech Bros Are Worried About Honeypots</title>
+    <link>https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/</guid>
+    <pubDate>Fri, 20 Nov 2026 11:00:00 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.</description>
+  </item>
+  <item>
+    <title>Inkling 2 Mini</title>
+    <link>https://thinkingmachines.ai/news/inkling-2-mini/</link>
+    <guid isPermaLink="true">https://thinkingmachines.ai/news/inkling-2-mini/</guid>
+    <pubDate>Fri, 20 Nov 2026 20:12:19 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://thinkingmachines.ai/news/inkling-2-mini/
+Comments URL: https://news.ycombinator.com/item?id=50581260
+Points: 641
+# Comments: 104</description>
+  </item>
+  <item>
+    <title>Early progress on accelerating drug development with ClaudeWe're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.</title>
+    <link>https://www.anthropic.com/research/early-progress-drug-development</link>
+    <guid isPermaLink="true">https://www.anthropic.com/research/early-progress-drug-development</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
   </item>
   <item>
     <title>The fallout from Nvidia’s Jensen Huang scandal continues</title>
@@ -502,31 +541,12 @@ Points: 102
     <description>In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed</description>
   </item>
   <item>
-    <title>This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’</title>
-    <link>https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/</guid>
-    <pubDate>Fri, 20 Nov 2026 07:00:00 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.</description>
-  </item>
-  <item>
     <title>Signal is blocking Gemini and Siri AI from reading your screen</title>
     <link>https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app</link>
     <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app</guid>
     <pubDate>Fri, 20 Nov 2026 12:30:47 +0000</pubDate>
     <source>The Verge AI</source>
     <description>Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are "undermining Si</description>
-  </item>
-  <item>
-    <title>Gemini 4 Neon is the new #1 on the Models Engineering Index</title>
-    <link>https://git-aarvin.github.io/mei/</link>
-    <guid isPermaLink="true">https://git-aarvin.github.io/mei/</guid>
-    <pubDate>Thu, 19 Nov 2026 23:35:35 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://git-aarvin.github.io/mei/
-Comments URL: https://news.ycombinator.com/item?id=50568130
-Points: 110
-# Comments: 59</description>
   </item>
   <item>
     <title>解读丨智能戒指红海之外，Elah Ring 正在深入美国腹地</title>
@@ -537,19 +557,19 @@ Points: 110
     <description>斯坦福毕业生做的 Elah Ring，要当美国百姓的“Personal Faith Agent”。作者丨陈玘凡编辑丨吴优斯坦福周边没有密集的商圈与高楼，和车程半小时的旧金山城区氛围差别明显。校园占地 8180 英亩，大片山丘林地，建筑低矮，很容易让人产生孤独感。2014 年，Everblessed 创始人温立来到这里，攻读流体力学与水文硕士。初来乍到，每周最轻松愉快的时候，就是周六晚的信仰家庭聚会。每个人做几个菜，大家一起读经，唱诗，祷告，聊最近生活中的喜怒哀乐，和背后神的指引。这是当时温立每周能吃到最丰盛的晚餐。那时候，他没有想到，求学之外的这样一段独特经历，会在十年后深刻地影响他的人生选择</description>
   </item>
   <item>
-    <title>艾媒咨询 | 2026-2027年中国AI微短剧行业趋势白皮书</title>
-    <link>https://www.iimedia.cn/c400/119676.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c400/119676.html</guid>
-    <pubDate>Mon, 16 Nov 2026 02:36:17 +0000</pubDate>
+    <title>艾媒咨询 | 2025年中国机器人租赁产业市场状况及标杆企业经营数据分析报告</title>
+    <link>https://www.iimedia.cn/c400/111060.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/111060.html</guid>
+    <pubDate>Tue, 17 Nov 2026 20:53:59 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
-    <title>Deploying Daybreak Red</title>
-    <link>https://openai.com/business/learn/deploying-daybreak-red</link>
-    <guid isPermaLink="true">https://openai.com/business/learn/deploying-daybreak-red</guid>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+    <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
+    <link>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</link>
+    <guid isPermaLink="true">https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</guid>
+    <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
     <source>OpenAI News</source>
-    <description>Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.</description>
+    <description>Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.</description>
   </item>
   <item>
     <title>双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！</title>
@@ -558,14 +578,6 @@ Points: 110
     <pubDate>Fri, 20 Nov 2026 05:24:11 +0000</pubDate>
     <source>量子位</source>
     <description>已开源Agnes Harness</description>
-  </item>
-  <item>
-    <title>2026-11-17 AI 日报 · 加州起诉OpenAI，阿里Qwen4-Max与英伟达Rubin登场</title>
-    <link>https://daily.ai225.com/daily/2026-11-17</link>
-    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-17</guid>
-    <pubDate>Tue, 17 Nov 2026 00:53:32 +0000</pubDate>
-    <source>AI 日报 · AI225</source>
-    <description>今日焦点在安全合规、模型迭代与算力硬件。加州起诉 OpenAI 智能体测试失控，OpenAI 引入四家机构开展安全评估试点；FBI 与 Google 预警全自动 AI 黑客威胁。应用侧，阿里发布 2.4 万亿参数 Qwen4-Max，腾讯推出混元4 flash，Claude 支持 HTML-in-Canvas，Moonshot 将 Kimi 转向生物医药，华为云开源具身世界模型 CloudRobo-WM1.2。算力端，英伟达 Vera Rubin 首秀 MLPerf 并发布 Rubin HPC。</description>
   </item>
   <item>
     <title>Why your fine-tuning job takes longer than the FLOPs say</title>
@@ -581,13 +593,6 @@ Points: 110
     <pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
     <source>Google AI 博客</source>
     <description>Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.</description>
-  </item>
-  <item>
-    <title>Multimodal Knowledge Agent (MKA) benchmark: testing knowledge work capabilities with complex visual filesNovember 10, 2026</title>
-    <link>https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Incredible Agents</title>
@@ -625,11 +630,11 @@ Points: 110
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>Introducing Claude Haiku 5.5Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.</title>
-    <link>https://www.anthropic.com/claude-haiku-5-5</link>
-    <guid isPermaLink="true">https://www.anthropic.com/claude-haiku-5-5</guid>
+    <title>Multimodal Knowledge Agent (MKA) benchmark: testing knowledge work capabilities with complex visual filesNovember 10, 2026</title>
+    <link>https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
+    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Inference Endpoints</title>
@@ -637,6 +642,40 @@ Points: 110
     <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>2026-11-17 AI 日报 · 加州起诉OpenAI，阿里Qwen4-Max与英伟达Rubin登场</title>
+    <link>https://daily.ai225.com/daily/2026-11-17</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-17</guid>
+    <pubDate>Tue, 17 Nov 2026 00:53:32 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>今日焦点在安全合规、模型迭代与算力硬件。加州起诉 OpenAI 智能体测试失控，OpenAI 引入四家机构开展安全评估试点；FBI 与 Google 预警全自动 AI 黑客威胁。应用侧，阿里发布 2.4 万亿参数 Qwen4-Max，腾讯推出混元4 flash，Claude 支持 HTML-in-Canvas，Moonshot 将 Kimi 转向生物医药，华为云开源具身世界模型 CloudRobo-WM1.2。算力端，英伟达 Vera Rubin 首秀 MLPerf 并发布 Rubin HPC。</description>
+  </item>
+  <item>
+    <title>This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’</title>
+    <link>https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/</guid>
+    <pubDate>Fri, 20 Nov 2026 07:00:00 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.</description>
+  </item>
+  <item>
+    <title>Anthropic shares tank after IPO as the Nasdaq erases 2026 gains</title>
+    <link>https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394</link>
+    <guid isPermaLink="true">https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394</guid>
+    <pubDate>Fri, 20 Nov 2026 17:44:01 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394
+Comments URL: https://news.ycombinator.com/item?id=50578794
+Points: 145
+# Comments: 122</description>
+  </item>
+  <item>
+    <title>Introducing Claude Haiku 5.5Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.</title>
+    <link>https://www.anthropic.com/claude-haiku-5-5</link>
+    <guid isPermaLink="true">https://www.anthropic.com/claude-haiku-5-5</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
   </item>
   <item>
     <title>Six AI-powered gadgets that could make your home office smarter</title>
@@ -647,31 +686,12 @@ Points: 110
     <description>From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.</description>
   </item>
   <item>
-    <title>What’s With All These Outages?</title>
-    <link>https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/</guid>
-    <pubDate>Thu, 19 Nov 2026 21:57:01 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.</description>
-  </item>
-  <item>
     <title>Apple is hiring engineers to build its own AI agent</title>
     <link>https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing</link>
     <guid isPermaLink="true">https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing</guid>
     <pubDate>Thu, 19 Nov 2026 22:31:41 +0000</pubDate>
     <source>The Verge AI</source>
     <description>Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic </description>
-  </item>
-  <item>
-    <title>Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]</title>
-    <link>https://www.youtube.com/watch?v=lwfewYL7X0o</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=lwfewYL7X0o</guid>
-    <pubDate>Thu, 19 Nov 2026 18:47:16 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o
-Comments URL: https://news.ycombinator.com/item?id=50564366
-Points: 22
-# Comments: 23</description>
   </item>
   <item>
     <title>享界V8正式上市售价31.98万元起，鸿蒙智行首款纯电MPV瞄准高端家用</title>
@@ -682,19 +702,19 @@ Points: 22
     <description>11月20日，在“鸿蒙智行享界V8及星芒品牌发布会”现场，鸿蒙智行首款“家庭智慧旗舰MPV”享界V8正式上市，售价31.98-42.98万元，下定享界V8，享至高93000元购车权益，首批交付已于上市当日开启。作为鸿蒙智行切入家用MPV市场的首款产品，享界V8围绕家庭出行真实场景带来为家而生的100个设计，并以“8系价格、9系配置”重新定义家用标准，成为今年下半年家用车市场的强势黑马。目前，享界V8新车已在全国147城399店同步到店，消费者可就近体验实车或预约试驾。对一台家用MPV而言，内部空间是需求的第一入口。享界V8车身尺寸为5335mm×2005mm×1805mm，轴距长达3250mm</description>
   </item>
   <item>
-    <title>2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴</title>
-    <link>https://www.iimedia.cn/c1061/120072.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120072.html</guid>
-    <pubDate>Sun, 15 Nov 2026 21:02:19 +0000</pubDate>
+    <title>艾媒咨询 | 2026-2027年中国AI微短剧行业趋势白皮书</title>
+    <link>https://www.iimedia.cn/c400/119676.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/119676.html</guid>
+    <pubDate>Mon, 16 Nov 2026 02:36:17 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
-    <title>See PR scans in action</title>
-    <link>https://openai.com/business/learn/pr-scans-demo</link>
-    <guid isPermaLink="true">https://openai.com/business/learn/pr-scans-demo</guid>
+    <title>Deploying Daybreak Red</title>
+    <link>https://openai.com/business/learn/deploying-daybreak-red</link>
+    <guid isPermaLink="true">https://openai.com/business/learn/deploying-daybreak-red</guid>
     <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
     <source>OpenAI News</source>
-    <description>Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.</description>
+    <description>Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.</description>
   </item>
   <item>
     <title>具身机器人进入真机时代，华为云CloudRobo开始组队发力了</title>
@@ -703,14 +723,6 @@ Points: 22
     <pubDate>Fri, 20 Nov 2026 01:07:38 +0000</pubDate>
     <source>量子位</source>
     <description>一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。</description>
-  </item>
-  <item>
-    <title>2026-11-16 AI 日报 · 英伟达风波引国会收紧芯片出口，AI科研与基础设施进展密集</title>
-    <link>https://daily.ai225.com/daily/2026-11-16</link>
-    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-16</guid>
-    <pubDate>Mon, 16 Nov 2026 00:52:56 +0000</pubDate>
-    <source>AI 日报 · AI225</source>
-    <description>今日焦点围绕英伟达换帅后的连锁反应展开：美媒披露其高管前关联方曾为中国代购近 120 亿美元芯片，另有报道指英伟达曾投资初创公司以人为制造 GPU 短缺，美国国会两党酝酿收紧 AI 芯片出口规则；同期全球芯片股较峰值回撤近四成。应用安全方面，美国 FAA 停飞事件引发对 AI 空管系统的审视，openEuler 发布智能体基础设施方案。科研与模型领域，OpenAI 披露 GPT-6 Astra 助力标准模型理论证明，西湖大学发布概念世界模型 Awomo-0.5，多所顶尖高校联合推出湿实验预测基准。</description>
   </item>
   <item>
     <title>Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
@@ -726,13 +738,6 @@ Points: 22
     <pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
     <source>Google AI 博客</source>
     <description>Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.</description>
-  </item>
-  <item>
-    <title>Endpoint Accuracy Index v1.1: Tighter long context intervals and expanded model coverageNovember 9, 2026</title>
-    <link>https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>AI Canvas</title>
@@ -761,13 +766,6 @@ Points: 22
     <guid isPermaLink="true">https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Meta AI 博客</source>
-  </item>
-  <item>
-    <title>CodespacesCloud development environments</title>
-    <link>https://github.com/features/codespaces</link>
-    <guid isPermaLink="true">https://github.com/features/codespaces</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>GitHub Trending</source>
   </item>
 </channel>
 </rss>

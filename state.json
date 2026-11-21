@@ -1,4 +1,67 @@
 {
+ "https://artificialanalysis.ai/articles/inkling-2-mini": {
+  "title": "Thinking Machines has released Inkling 2 Mini, an open weights looped transformerNovember 20, 2026",
+  "source": "Artificial Analysis 智力指数榜",
+  "ts": 1795224874.7986927,
+  "desc": "",
+  "ord": 1
+ },
+ "https://huggingface.co/thinkingmachines/Inkling-2-Mini": {
+  "title": "thinkingmachines/Inkling-2-Mini Image-Text-to-Text • 26B • Updated about 3 hours ago • 136 • 654",
+  "source": "Hugging Face Trending",
+  "ts": 1795224874.7986927,
+  "desc": "",
+  "ord": 18
+ },
+ "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF": {
+  "title": "unsloth/Inkling-2-Mini-GGUF Image-Text-to-Text • 26B • Updated 13 minutes ago • 206",
+  "source": "Hugging Face Trending",
+  "ts": 1795224874.7986927,
+  "desc": "",
+  "ord": 20
+ },
+ "https://daily.ai225.com/daily/2026-11-21": {
+  "title": "2026-11-21 AI 日报 · 英伟达暴跌拖累 AI 板块；Anthropic 数学家宣称携手 Claude 证出黎曼猜想",
+  "source": "AI 日报 · AI225",
+  "ts": 1795222442.0,
+  "desc": "今日 AI 行业冷热交织：资本市场承压，受换帅风波与估值担忧影响，英伟达单日大跌 14%、市值较峰值蒸发 2.73 万亿美元，拖累纳指创 2020 年来最差单周表现；技术与产业层面则持续推进，Anthropic 数学家宣称与 Claude 合作找到黎曼猜想证明并公开 Lean 代码，学界正展开验证。此外，贝佐斯出任 410 亿美元估值公司 Prometheus 联席 CEO 押注物理工程 AI，Thinking Machines Lab 发布循环 MoE 模型 Inkling 2 Mini，AI 路由数据泄露与后训练机制研究亦引发关注。",
+  "ord": 0
+ },
+ "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/": {
+  "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+  "source": "WIRED AI",
+  "ts": 1795217042.0,
+  "desc": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
+  "ord": 0
+ },
+ "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics": {
+  "title": "AI may have solved the most important problem in mathematics",
+  "source": "Hacker News 头版",
+  "ts": 1795214819.0,
+  "desc": "Article URL: https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics\nComments URL: https://news.ycombinator.com/item?id=50583445\nPoints: 27\n# Comments: 13",
+  "ord": 0
+ },
+ "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models": {
+  "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+  "source": "Hacker News 头版",
+  "ts": 1795213100.0,
+  "desc": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models\nComments URL: https://news.ycombinator.com/item?id=50583117\nPoints: 12\n# Comments: 4",
+  "ord": 1
+ },
+ "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/": {
+  "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+  "source": "Ars Technica",
+  "ts": 1795208348.0,
+  "desc": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+  "ord": 0
+ },
+ "https://github.com/diggerhq/opencomputer": {
+  "title": "Show HN: OpenComputer – an open source alternative to Devin",
+  "source": "Hacker News 头版",
+  "ts": 1795205996.0,
+  "desc": "Hi HN!Utpal here, I'm one of the founders of OpenComputer.OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; th",
+  "ord": 2
+ },
  "https://www.anthropic.com/news/ipo-close": {
   "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
   "source": "Anthropic Newsroom",
@@ -11,7 +74,14 @@
   "source": "Hugging Face Trending",
   "ts": 1795205785.1048276,
   "desc": "",
-  "ord": 25
+  "ord": 19
+ },
+ "https://thinkingmachines.ai/news/inkling-2-mini/": {
+  "title": "Inkling 2 Mini",
+  "source": "Hacker News 头版",
+  "ts": 1795205539.0,
+  "desc": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/\nComments URL: https://news.ycombinator.com/item?id=50581260\nPoints: 641\n# Comments: 104",
+  "ord": 3
  },
  "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/": {
   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -377,6 +447,13 @@
   "desc": "",
   "ord": 1
  },
+ "https://openai.com/business/customer-stories/hebbia": {
+  "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+  "source": "OpenAI News",
+  "ts": 1795132800.0,
+  "desc": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+  "ord": 1
+ },
  "https://git-aarvin.github.io/mei/": {
   "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
   "source": "Hacker News 头版",
@@ -641,7 +718,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 23
+  "ord": 25
  },
  "https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html": {
   "title": "阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍",
@@ -809,7 +886,7 @@
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1795055632.1216788,
   "desc": "",
-  "ord": 1
+  "ord": 2
  },
  "https://www.iimedia.cn/c400/119474.html": {
   "title": "艾媒咨询 | 2026年上半年中国人工智能行业投融资市场监测与分析报告",
@@ -1033,7 +1110,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795033783.4331658,
   "desc": "",
-  "ord": 20
+  "ord": 22
  },
  "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/": {
   "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
@@ -1264,14 +1341,14 @@
   "source": "艾媒网",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 2
+  "ord": 0
  },
  "https://huggingface.co/apple/FastFrames-L": {
   "title": "apple/FastFrames-L Text-to-Video • Updated about 6 hours ago • 148",
   "source": "Hugging Face Trending",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 24
+  "ord": 26
  },
  "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/": {
   "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
@@ -1677,7 +1754,7 @@
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 2
+  "ord": 3
  },
  "https://www.iimedia.cn/c400/111060.html": {
   "title": "艾媒咨询 | 2025年中国机器人租赁产业市场状况及标杆企业经营数据分析报告",
@@ -1691,14 +1768,14 @@
   "source": "Hugging Face Trending",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 21
+  "ord": 23
  },
  "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6": {
   "title": "meituan-longcat/LongCat-Video-Avatar-1.6 Updated 4 days ago • 489 • 194",
   "source": "Hugging Face Trending",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 26
+  "ord": 28
  },
  "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/": {
   "title": "Model ML raises $250M to automate investment banking grunt work",
@@ -1887,7 +1964,7 @@
   "source": "Ars Technica",
   "ts": 1794924029.0,
   "desc": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-  "ord": 0
+  "ord": 1
  },
  "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/": {
   "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
@@ -1901,14 +1978,14 @@
   "source": "Hugging Face Trending",
   "ts": 1794916213.0807822,
   "desc": "",
-  "ord": 22
+  "ord": 27
  },
  "https://huggingface.co/n4ze3m/tiny-voca": {
   "title": "n4ze3m/tiny-voca Text-to-Speech • Updated about 17 hours ago • 3.04k • 207",
   "source": "Hugging Face Trending",
   "ts": 1794916213.0807822,
   "desc": "",
-  "ord": 27
+  "ord": 29
  },
  "https://www.qbitai.com/2026/11/510688.html": {
   "title": "李沐加盟的Aimotion，是一家什么AI公司？",
@@ -2153,7 +2230,7 @@
   "source": "Ars Technica",
   "ts": 1794861467.0,
   "desc": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-  "ord": 1
+  "ord": 2
  },
  "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats": {
   "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
@@ -2943,63 +3020,63 @@
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 3
+  "ord": 4
  },
  "https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1": {
   "title": "Endpoint Accuracy Index v1.1: Tighter long context intervals and expanded model coverageNovember 9, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 4
+  "ord": 5
  },
  "https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index": {
   "title": "Meta's Muse Ember is the cheapest model scoring 36 on the Intelligence IndexNovember 9, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 5
+  "ord": 6
  },
  "https://artificialanalysis.ai/articles/decision-index-v2": {
   "title": "Introducing the Artificial Analysis Decision Index v2November 8, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 6
+  "ord": 7
  },
  "https://artificialanalysis.ai/articles/vials-aa": {
   "title": "VIALS-AA: different paths to scientific image reasoningNovember 6, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 7
+  "ord": 8
  },
  "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it": {
   "title": "Thinking Machines Inkling 2 Small: the highest scoring open weights model outside of China pending weights releaseNovember 5, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 8
+  "ord": 9
  },
  "https://artificialanalysis.ai/articles/nanbeige-has-released-nanbeige4-3-33b-scoring-20-on-the-intelligence-index": {
   "title": "Nanbeige has released Nanbeige4.3-33B scoring 20 on the Intelligence IndexNovember 5, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 9
+  "ord": 10
  },
  "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1": {
   "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5October 28, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 10
+  "ord": 11
  },
  "https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost": {
   "title": "GitHub Copilot Fusion orchestrates Anthropic and OpenAI models to balance performance and costOctober 28, 2026",
   "source": "Artificial Analysis 智力指数榜",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 11
+  "ord": 12
  },
  "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5": {
   "title": "Announcing Artificial Analysis Intelligence Index v5October 27, 2026",
@@ -3566,7 +3643,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 19
+  "ord": 24
  },
  "https://huggingface.co/Qwen/Qwen3.8-27B": {
   "title": "Qwen/Qwen3.8-27B Image-Text-to-Text • 28B • Updated 8 days ago • 6.55M • • 20.1k",
@@ -3580,7 +3657,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 18
+  "ord": 21
  },
  "https://huggingface.co/Comfy-Org/MiniMax-H3-Image": {
   "title": "Comfy-Org/MiniMax-H3-Image Text-to-Image • Updated 4 days ago • 1.97M • 404",
@@ -4084,71 +4161,5 @@
   "source": "WIRED AI",
   "ts": 1794585600.0,
   "desc": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals."
- },
- "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/": {
-  "title": "The unfolding Jensen Huang scandal: a timeline",
-  "source": "TechCrunch AI",
-  "ts": 1794585480.0,
-  "desc": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
- },
- "https://openai.com/index/introducing-chatgpt-wallet": {
-  "title": "Introducing ChatGPT Wallet",
-  "source": "OpenAI News",
-  "ts": 1794582000.0,
-  "desc": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
- },
- "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast": {
-  "title": "What’s really at stake in the Jensen Huang saga",
-  "source": "The Verge AI",
-  "ts": 1794581236.0,
-  "desc": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US governme"
- },
- "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/": {
-  "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-  "source": "TechCrunch AI",
-  "ts": 1794581088.0,
-  "desc": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises."
- },
- "https://huggingface.co/blog/ggml-org/llama-cpp-v1": {
-  "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-  "source": "Hugging Face 博客",
-  "ts": 1794578722.0,
-  "desc": ""
- },
- "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on": {
-  "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-  "source": "The Verge AI",
-  "ts": 1794578400.0,
-  "desc": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting c"
- },
- "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/": {
-  "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-  "source": "TechCrunch AI",
-  "ts": 1794574339.0,
-  "desc": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure."
- },
- "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/": {
-  "title": "Jensen Huang didn’t show confidence in his successor, report says",
-  "source": "TechCrunch AI",
-  "ts": 1794572903.0,
-  "desc": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer."
- },
- "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow": {
-  "title": "Let’s talk about Jensen Huang’s many affairs!",
-  "source": "The Verge AI",
-  "ts": 1794571200.0,
-  "desc": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singula"
- },
- "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/": {
-  "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
-  "source": "WIRED AI",
-  "ts": 1794570300.0,
-  "desc": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out."
- },
- "https://www.leiphone.com/category/chips/G6AiPuplIGyPkaQL.html": {
-  "title": "独家｜燧原科技首席生态官李星宇离职",
-  "source": "雷峰网",
-  "ts": 1794564000.0,
-  "desc": "作者｜包永刚编辑｜刘伟雷峰网独家获悉，燧原科技首席生态官李星宇已于近日离职。他离职后已入读港大-北大联合DBA博士项目，但尚未披露下一步职业计划。李星宇拥有超过20年的半导体行业从业经验，工作经历涵盖云端AI计算芯片、自动驾驶AI芯片、智能座舱芯片等领域。加入燧原科技之前，他曾在地平线任职8年，担任生态发展与战略规划副总裁，是地平线创始管理团队成员。更早之前，他曾任职于恩智浦半导体。从地平线的创始管理团队成员，到燧原科技首席生态官，李星宇在企业战略规划和产业生态建设方面积累了丰富经验。他先后任职的地平线与燧原科技，分别于2024年10月和2026年9月上市。据雷峰网了解，李星宇长期看好国内AI"
  }
 }
