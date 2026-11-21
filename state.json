@@ -1,4 +1,11 @@
 {
+ "https://huggingface.co/apple/DepthPro2": {
+  "title": "apple/DepthPro2 Depth Estimation • Updated about 17 hours ago • 134",
+  "source": "Hugging Face Trending",
+  "ts": 1795234035.606287,
+  "desc": "",
+  "ord": 29
+ },
  "https://artificialanalysis.ai/articles/inkling-2-mini": {
   "title": "Thinking Machines has released Inkling 2 Mini, an open weights looped transformerNovember 20, 2026",
   "source": "Artificial Analysis 智力指数榜",
@@ -11,14 +18,14 @@
   "source": "Hugging Face Trending",
   "ts": 1795224874.7986927,
   "desc": "",
-  "ord": 18
+  "ord": 15
  },
  "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF": {
   "title": "unsloth/Inkling-2-Mini-GGUF Image-Text-to-Text • 26B • Updated 13 minutes ago • 206",
   "source": "Hugging Face Trending",
   "ts": 1795224874.7986927,
   "desc": "",
-  "ord": 20
+  "ord": 19
  },
  "https://daily.ai225.com/daily/2026-11-21": {
   "title": "2026-11-21 AI 日报 · 英伟达暴跌拖累 AI 板块；Anthropic 数学家宣称携手 Claude 证出黎曼猜想",
@@ -60,7 +67,7 @@
   "source": "Hacker News 头版",
   "ts": 1795205996.0,
   "desc": "Hi HN!Utpal here, I'm one of the founders of OpenComputer.OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; th",
-  "ord": 2
+  "ord": 1
  },
  "https://www.anthropic.com/news/ipo-close": {
   "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
@@ -74,14 +81,14 @@
   "source": "Hugging Face Trending",
   "ts": 1795205785.1048276,
   "desc": "",
-  "ord": 19
+  "ord": 18
  },
  "https://thinkingmachines.ai/news/inkling-2-mini/": {
   "title": "Inkling 2 Mini",
   "source": "Hacker News 头版",
   "ts": 1795205539.0,
-  "desc": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/\nComments URL: https://news.ycombinator.com/item?id=50581260\nPoints: 641\n# Comments: 104",
-  "ord": 3
+  "desc": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/\nComments URL: https://news.ycombinator.com/item?id=50581260\nPoints: 780\n# Comments: 132",
+  "ord": 2
  },
  "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/": {
   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -711,7 +718,7 @@
   "source": "艾媒网",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 1
+  "ord": 0
  },
  "https://huggingface.co/inworld/voice-isolator": {
   "title": "inworld/voice-isolator Audio-to-Audio • Updated 5 days ago • 155",
@@ -1341,7 +1348,7 @@
   "source": "艾媒网",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 0
+  "ord": 1
  },
  "https://huggingface.co/apple/FastFrames-L": {
   "title": "apple/FastFrames-L Text-to-Video • Updated about 6 hours ago • 148",
@@ -1558,7 +1565,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794970430.0040767,
   "desc": "",
-  "ord": 16
+  "ord": 17
  },
  "https://www.qbitai.com/2026/11/510737.html": {
   "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
@@ -3650,7 +3657,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 17
+  "ord": 20
  },
  "https://huggingface.co/Lightricks/LTX-2.5": {
   "title": "Lightricks/LTX-2.5 Image-to-Video • Updated Oct 11 • 2.75M • 12k",
@@ -3720,7 +3727,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 15
+  "ord": 16
  },
  "https://huggingface.co/Edge0/Edge0-145B-NVFP4": {
   "title": "Edge0/Edge0-145B-NVFP4 Text Generation • 5B • Updated about 3 hours ago • 41.6k • 277",
@@ -4155,11 +4162,5 @@
   "source": "TechCrunch AI",
   "ts": 1794585612.0,
   "desc": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
- },
- "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/": {
-  "title": "Jensen Huang and the End of the Founder Fairy Tale",
-  "source": "WIRED AI",
-  "ts": 1794585600.0,
-  "desc": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals."
  }
 }
