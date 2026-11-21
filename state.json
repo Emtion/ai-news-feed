@@ -1,4 +1,53 @@
 {
+ "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF": {
+  "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF Image-Text-to-Text • 26B • Updated about 5 hours ago • 9.54k • 223",
+  "source": "Hugging Face Trending",
+  "ts": 1795302873.1682804,
+  "desc": "",
+  "ord": 29
+ },
+ "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/": {
+  "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+  "source": "TechCrunch AI",
+  "ts": 1795297030.0,
+  "desc": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+  "ord": 0
+ },
+ "https://tasklet.ai/careers": {
+  "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+  "source": "Hacker News 头版",
+  "ts": 1795295468.0,
+  "desc": "Article URL: https://tasklet.ai/careers\nComments URL: https://news.ycombinator.com/item?id=50593679\nPoints: 0\n# Comments: 0",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/": {
+  "title": "A tale of two Nvidias",
+  "source": "TechCrunch AI",
+  "ts": 1795295262.0,
+  "desc": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+  "ord": 1
+ },
+ "https://www.theverge.com/tech/1039554/un-regulations-killer-robots": {
+  "title": "The UN fails to agree on rules regulating ‘killer robots’",
+  "source": "The Verge AI",
+  "ts": 1795291417.0,
+  "desc": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiat",
+  "ord": 0
+ },
+ "https://pwn.ai/upload2shell": {
+  "title": "Upload2Shell (CVE-2026-125396)",
+  "source": "Hacker News 头版",
+  "ts": 1795285769.0,
+  "desc": "Article URL: https://pwn.ai/upload2shell\nComments URL: https://news.ycombinator.com/item?id=50592097\nPoints: 59\n# Comments: 16",
+  "ord": 1
+ },
+ "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/": {
+  "title": "Here are the top AI agents that can live in your text messages",
+  "source": "TechCrunch AI",
+  "ts": 1795280400.0,
+  "desc": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+  "ord": 2
+ },
  "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/": {
   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
   "source": "TechCrunch AI",
@@ -60,7 +109,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795234035.606287,
   "desc": "",
-  "ord": 29
+  "ord": 26
  },
  "https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html": {
   "title": "享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款",
@@ -88,14 +137,14 @@
   "source": "Hugging Face Trending",
   "ts": 1795224874.7986927,
   "desc": "",
-  "ord": 16
+  "ord": 15
  },
  "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF": {
   "title": "unsloth/Inkling-2-Mini-GGUF Image-Text-to-Text • 26B • Updated 13 minutes ago • 206",
   "source": "Hugging Face Trending",
   "ts": 1795224874.7986927,
   "desc": "",
-  "ord": 17
+  "ord": 16
  },
  "https://daily.ai225.com/daily/2026-11-21": {
   "title": "2026-11-21 AI 日报 · 英伟达暴跌拖累 AI 板块；Anthropic 数学家宣称携手 Claude 证出黎曼猜想",
@@ -150,8 +199,8 @@
   "title": "Inkling 2 Mini",
   "source": "Hacker News 头版",
   "ts": 1795205539.0,
-  "desc": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/\nComments URL: https://news.ycombinator.com/item?id=50581260\nPoints: 1226\n# Comments: 238",
-  "ord": 1
+  "desc": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/\nComments URL: https://news.ycombinator.com/item?id=50581260\nPoints: 1351\n# Comments: 276",
+  "ord": 2
  },
  "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/": {
   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -809,7 +858,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 20
+  "ord": 18
  },
  "https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html": {
   "title": "阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍",
@@ -1201,7 +1250,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795033783.4331658,
   "desc": "",
-  "ord": 18
+  "ord": 17
  },
  "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/": {
   "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
@@ -1439,7 +1488,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 21
+  "ord": 19
  },
  "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/": {
   "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
@@ -1642,14 +1691,14 @@
   "source": "Hugging Face Trending",
   "ts": 1794970430.0040767,
   "desc": "",
-  "ord": 26
+  "ord": 22
  },
  "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted": {
   "title": "harness-hub/Qwen3.8-27B-pi-adapted Updated about 18 hours ago • 153",
   "source": "Hugging Face Trending",
   "ts": 1794970430.0040767,
   "desc": "",
-  "ord": 15
+  "ord": 20
  },
  "https://www.qbitai.com/2026/11/510737.html": {
   "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
@@ -1859,7 +1908,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 28
+  "ord": 24
  },
  "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6": {
   "title": "meituan-longcat/LongCat-Video-Avatar-1.6 Updated 4 days ago • 489 • 194",
@@ -2069,7 +2118,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794916213.0807822,
   "desc": "",
-  "ord": 27
+  "ord": 28
  },
  "https://huggingface.co/n4ze3m/tiny-voca": {
   "title": "n4ze3m/tiny-voca Text-to-Speech • Updated about 17 hours ago • 3.04k • 207",
@@ -3734,21 +3783,21 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 28
+  "ord": 27
  },
  "https://huggingface.co/Qwen/Qwen3.8-27B": {
   "title": "Qwen/Qwen3.8-27B Image-Text-to-Text • 28B • Updated 8 days ago • 6.55M • • 20.1k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 25
+  "ord": 23
  },
  "https://huggingface.co/Lightricks/LTX-2.5": {
   "title": "Lightricks/LTX-2.5 Image-to-Video • Updated Oct 11 • 2.75M • 12k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 19
+  "ord": 25
  },
  "https://huggingface.co/Comfy-Org/MiniMax-H3-Image": {
   "title": "Comfy-Org/MiniMax-H3-Image Text-to-Image • Updated 4 days ago • 1.97M • 404",
@@ -3811,7 +3860,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 22
+  "ord": 21
  },
  "https://huggingface.co/Edge0/Edge0-145B-NVFP4": {
   "title": "Edge0/Edge0-145B-NVFP4 Text Generation • 5B • Updated about 3 hours ago • 41.6k • 277",
@@ -4131,47 +4180,5 @@
   "source": "量子位",
   "ts": 1794650888.0,
   "desc": "马斯克也签名了"
- },
- "https://www.qbitai.com/2026/11/510232.html": {
-  "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
-  "source": "量子位",
-  "ts": 1794650302.0,
-  "desc": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了"
- },
- "https://www.qbitai.com/2026/11/510150.html": {
-  "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
-  "source": "量子位",
-  "ts": 1794649714.0,
-  "desc": "童年的纸飞机，现在终于飞回我手里～"
- },
- "https://www.qbitai.com/2026/11/510094.html": {
-  "title": "绿电进Token出！联想重新定义词元工厂",
-  "source": "量子位",
-  "ts": 1794649262.0,
-  "desc": "年产2000万亿Token，成本狂降70%"
- },
- "https://www.producthunt.com/products/byteask-cloud-agents": {
-  "title": "ByteAsk Cloud Agents",
-  "source": "Product Hunt",
-  "ts": 1794639284.0,
-  "desc": ""
- },
- "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html": {
-  "title": "百度词元所发布首日：供应商暴增超100家，客户新增超1000家",
-  "source": "雷峰网",
-  "ts": 1794635100.0,
-  "desc": "11月14日，从百度获悉，百度词元所发布首日，新增申请入驻的供应商已超过100家，新增超过1000家客户接入。 词元所在11月12日举行的百度世界2026上正式发布，百度创始人李彦宏将其称为“大模型的交易所”。据介绍，词元所一端汇聚模型和模型提供商，另一端服务企业和个人，让用户便捷地找到、购买和使用可信的模型Token。 词元所主打验真与征信两大能力：模型入平台前需通过模型指纹比对、模型能力测试、性能指标与可用性测试等准入核验，上线后接受定期抽检拨测与全链路实时监测，相关结果沉淀为供应商的信用评级。 李彦宏提到，今年前9个月几乎每天都有不止一款新模型发布，调用需求同步爆发，而市面上的词元中转站"
- },
- "https://www.qbitai.com/2026/11/510013.html": {
-  "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
-  "source": "量子位",
-  "ts": 1794625175.0,
-  "desc": "狂揽3000万播放量"
- },
- "https://www.qbitai.com/2026/11/510003.html": {
-  "title": "突发！DeepSeek开放全家桶API",
-  "source": "量子位",
-  "ts": 1794623996.0,
-  "desc": "官方App功能均可自由组合调用"
  }
 }

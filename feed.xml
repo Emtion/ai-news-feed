@@ -5,22 +5,40 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sat, 21 Nov 2026 17:31:01 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 23:15:32 +0000</lastBuildDate>
   <item>
-    <title>Is selling an AI version of your face to this microdrama startup the future of Hollywood?</title>
-    <link>https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/</guid>
-    <pubDate>Sat, 21 Nov 2026 16:00:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.</description>
+    <title>Team &amp; Enterprise</title>
+    <link>https://huggingface.co/enterprise</link>
+    <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
   </item>
   <item>
-    <title>Can Anthropic afford to put safety first?</title>
-    <link>https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</link>
-    <guid isPermaLink="true">https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</guid>
-    <pubDate>Sat, 21 Nov 2026 15:00:00 +0000</pubDate>
+    <title>Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</title>
+    <link>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</guid>
+    <pubDate>Sat, 21 Nov 2026 21:37:10 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Signal is limiting users' ability to take screenshots in both its Android and iOS apps.</description>
+  </item>
+  <item>
+    <title>Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers</title>
+    <link>https://tasklet.ai/careers</link>
+    <guid isPermaLink="true">https://tasklet.ai/careers</guid>
+    <pubDate>Sat, 21 Nov 2026 21:11:08 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://tasklet.ai/careers
+Comments URL: https://news.ycombinator.com/item?id=50593679
+Points: 0
+# Comments: 0</description>
+  </item>
+  <item>
+    <title>The UN fails to agree on rules regulating ‘killer robots’</title>
+    <link>https://www.theverge.com/tech/1039554/un-regulations-killer-robots</link>
+    <guid isPermaLink="true">https://www.theverge.com/tech/1039554/un-regulations-killer-robots</guid>
+    <pubDate>Sat, 21 Nov 2026 20:03:37 +0000</pubDate>
     <source>The Verge AI</source>
-    <description>Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver</description>
+    <description>One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called "killer robots." Eventually, representatives left the meetings agreeing to "start discussing options" after a largely fruitless week of negotiat</description>
   </item>
   <item>
     <title>The Outages Are Just Getting Started</title>
@@ -37,24 +55,6 @@
     <pubDate>Sat, 21 Nov 2026 06:35:59 +0000</pubDate>
     <source>量子位</source>
     <description>还实现可变形物体操控全球首通</description>
-  </item>
-  <item>
-    <title>ClawDOS – An AI coding agent for DOS</title>
-    <link>http://ricapar.net/ClawDOS/</link>
-    <guid isPermaLink="true">http://ricapar.net/ClawDOS/</guid>
-    <pubDate>Sat, 21 Nov 2026 05:38:01 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: http://ricapar.net/ClawDOS/
-Comments URL: https://news.ycombinator.com/item?id=50586292
-Points: 57
-# Comments: 15</description>
-  </item>
-  <item>
-    <title>Team &amp; Enterprise</title>
-    <link>https://huggingface.co/enterprise</link>
-    <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
   </item>
   <item>
     <title>享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款</title>
@@ -175,20 +175,38 @@ Points: 57
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.</title>
-    <link>https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/</guid>
-    <pubDate>Fri, 20 Nov 2026 19:53:41 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.</description>
+    <title>Hugging Face PRO</title>
+    <link>https://huggingface.co/pro</link>
+    <guid isPermaLink="true">https://huggingface.co/pro</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
   </item>
   <item>
-    <title>Chess.com’s next move is a new hub for classic games, from mahjong to sudoku</title>
-    <link>https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai</link>
-    <guid isPermaLink="true">https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai</guid>
-    <pubDate>Sat, 21 Nov 2026 14:00:00 +0000</pubDate>
+    <title>A tale of two Nvidias</title>
+    <link>https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</guid>
+    <pubDate>Sat, 21 Nov 2026 21:07:42 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.</description>
+  </item>
+  <item>
+    <title>Upload2Shell (CVE-2026-125396)</title>
+    <link>https://pwn.ai/upload2shell</link>
+    <guid isPermaLink="true">https://pwn.ai/upload2shell</guid>
+    <pubDate>Sat, 21 Nov 2026 18:29:29 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://pwn.ai/upload2shell
+Comments URL: https://news.ycombinator.com/item?id=50592097
+Points: 59
+# Comments: 16</description>
+  </item>
+  <item>
+    <title>Can Anthropic afford to put safety first?</title>
+    <link>https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</link>
+    <guid isPermaLink="true">https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</guid>
+    <pubDate>Sat, 21 Nov 2026 15:00:00 +0000</pubDate>
     <source>The Verge AI</source>
-    <description>Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of </description>
+    <description>Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver</description>
   </item>
   <item>
     <title>Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop</title>
@@ -205,24 +223,6 @@ Points: 57
     <pubDate>Sat, 21 Nov 2026 06:32:31 +0000</pubDate>
     <source>量子位</source>
     <description>专为本地部署而生</description>
-  </item>
-  <item>
-    <title>AI may have solved the most important problem in mathematics</title>
-    <link>https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics</link>
-    <guid isPermaLink="true">https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics</guid>
-    <pubDate>Fri, 20 Nov 2026 22:46:59 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics
-Comments URL: https://news.ycombinator.com/item?id=50583445
-Points: 27
-# Comments: 13</description>
-  </item>
-  <item>
-    <title>Hugging Face PRO</title>
-    <link>https://huggingface.co/pro</link>
-    <guid isPermaLink="true">https://huggingface.co/pro</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
   </item>
   <item>
     <title>当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！</title>
@@ -335,20 +335,38 @@ Points: 27
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too</title>
-    <link>https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/</guid>
-    <pubDate>Fri, 20 Nov 2026 19:32:08 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.</description>
+    <title>Enterprise Support</title>
+    <link>https://huggingface.co/support</link>
+    <guid isPermaLink="true">https://huggingface.co/support</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
   </item>
   <item>
-    <title>Trump threatens ‘tremendous tax’ for moving AI data centers outside the US</title>
-    <link>https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</link>
-    <guid isPermaLink="true">https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</guid>
-    <pubDate>Fri, 20 Nov 2026 18:50:19 +0000</pubDate>
+    <title>Here are the top AI agents that can live in your text messages</title>
+    <link>https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/</guid>
+    <pubDate>Sat, 21 Nov 2026 17:00:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</description>
+  </item>
+  <item>
+    <title>ClawDOS – An AI coding agent for DOS</title>
+    <link>http://ricapar.net/ClawDOS/</link>
+    <guid isPermaLink="true">http://ricapar.net/ClawDOS/</guid>
+    <pubDate>Sat, 21 Nov 2026 05:38:01 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: http://ricapar.net/ClawDOS/
+Comments URL: https://news.ycombinator.com/item?id=50586292
+Points: 57
+# Comments: 15</description>
+  </item>
+  <item>
+    <title>Chess.com’s next move is a new hub for classic games, from mahjong to sudoku</title>
+    <link>https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai</link>
+    <guid isPermaLink="true">https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai</guid>
+    <pubDate>Sat, 21 Nov 2026 14:00:00 +0000</pubDate>
     <source>The Verge AI</source>
-    <description>President Donald Trump promised to put a "tremendous tax" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. "We're not going to allow our companies to build data centers outside of our coun</description>
+    <description>Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of </description>
   </item>
   <item>
     <title>Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation</title>
@@ -365,24 +383,6 @@ Points: 27
     <pubDate>Sat, 21 Nov 2026 06:30:55 +0000</pubDate>
     <source>量子位</source>
     <description>还透露了不少训练背后的秘诀</description>
-  </item>
-  <item>
-    <title>The Hungry Butler Effect: Concealed Commercial Incentives in LLMs</title>
-    <link>https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models</link>
-    <guid isPermaLink="true">https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models</guid>
-    <pubDate>Fri, 20 Nov 2026 22:18:20 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models
-Comments URL: https://news.ycombinator.com/item?id=50583117
-Points: 12
-# Comments: 4</description>
-  </item>
-  <item>
-    <title>Enterprise Support</title>
-    <link>https://huggingface.co/support</link>
-    <guid isPermaLink="true">https://huggingface.co/support</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
   </item>
   <item>
     <title>上汽通用发布真龙插混MAX，首搭别克至境世家</title>
@@ -488,20 +488,38 @@ Points: 12
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>Chips can survive the space environment — can their financing?</title>
-    <link>https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/</guid>
-    <pubDate>Fri, 20 Nov 2026 17:40:01 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?</description>
+    <title>Inference Providers</title>
+    <link>https://huggingface.co/inference/models</link>
+    <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
   </item>
   <item>
-    <title>Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</link>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</guid>
-    <pubDate>Fri, 20 Nov 2026 16:34:13 +0000</pubDate>
+    <title>Is selling an AI version of your face to this microdrama startup the future of Hollywood?</title>
+    <link>https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/</guid>
+    <pubDate>Sat, 21 Nov 2026 16:00:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.</description>
+  </item>
+  <item>
+    <title>AI may have solved the most important problem in mathematics</title>
+    <link>https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics</link>
+    <guid isPermaLink="true">https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics</guid>
+    <pubDate>Fri, 20 Nov 2026 22:46:59 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics
+Comments URL: https://news.ycombinator.com/item?id=50583445
+Points: 27
+# Comments: 13</description>
+  </item>
+  <item>
+    <title>Trump threatens ‘tremendous tax’ for moving AI data centers outside the US</title>
+    <link>https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</link>
+    <guid isPermaLink="true">https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</guid>
+    <pubDate>Fri, 20 Nov 2026 18:50:19 +0000</pubDate>
     <source>The Verge AI</source>
-    <description>Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic </description>
+    <description>President Donald Trump promised to put a "tremendous tax" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. "We're not going to allow our companies to build data centers outside of our coun</description>
   </item>
   <item>
     <title>Muse Is Unleashing a World of Pettiness on Instagram</title>
@@ -518,24 +536,6 @@ Points: 12
     <pubDate>Fri, 20 Nov 2026 16:25:26 +0000</pubDate>
     <source>量子位</source>
     <description>8B参数，50小时自主运行</description>
-  </item>
-  <item>
-    <title>Inkling 2 Mini</title>
-    <link>https://thinkingmachines.ai/news/inkling-2-mini/</link>
-    <guid isPermaLink="true">https://thinkingmachines.ai/news/inkling-2-mini/</guid>
-    <pubDate>Fri, 20 Nov 2026 20:12:19 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://thinkingmachines.ai/news/inkling-2-mini/
-Comments URL: https://news.ycombinator.com/item?id=50581260
-Points: 1226
-# Comments: 238</description>
-  </item>
-  <item>
-    <title>Inference Providers</title>
-    <link>https://huggingface.co/inference/models</link>
-    <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
   </item>
   <item>
     <title>拓竹 MakerWorld，为什么难复制？</title>
@@ -633,20 +633,38 @@ Points: 1226
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>The fallout from Nvidia’s Jensen Huang scandal continues</title>
-    <link>https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/</link>
-    <guid isPermaLink="true">https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/</guid>
-    <pubDate>Fri, 20 Nov 2026 14:55:44 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed</description>
+    <title>Inference Endpoints</title>
+    <link>https://huggingface.co/inference-endpoints</link>
+    <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
   </item>
   <item>
-    <title>The week everything fell apart</title>
-    <link>https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast</link>
-    <guid isPermaLink="true">https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast</guid>
-    <pubDate>Fri, 20 Nov 2026 14:06:59 +0000</pubDate>
+    <title>Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.</title>
+    <link>https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/</guid>
+    <pubDate>Fri, 20 Nov 2026 19:53:41 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.</description>
+  </item>
+  <item>
+    <title>The Hungry Butler Effect: Concealed Commercial Incentives in LLMs</title>
+    <link>https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models</link>
+    <guid isPermaLink="true">https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models</guid>
+    <pubDate>Fri, 20 Nov 2026 22:18:20 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models
+Comments URL: https://news.ycombinator.com/item?id=50583117
+Points: 12
+# Comments: 4</description>
+  </item>
+  <item>
+    <title>Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</link>
+    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</guid>
+    <pubDate>Fri, 20 Nov 2026 16:34:13 +0000</pubDate>
     <source>The Verge AI</source>
-    <description>There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of somet</description>
+    <description>Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic </description>
   </item>
   <item>
     <title>Regular Tech Bros Are Worried About Honeypots</title>
@@ -662,24 +680,6 @@ Points: 1226
     <guid isPermaLink="true">https://www.qbitai.com/2026/11/511727.html</guid>
     <pubDate>Fri, 20 Nov 2026 16:07:39 +0000</pubDate>
     <source>量子位</source>
-  </item>
-  <item>
-    <title>Anthropic shares tank after IPO as the Nasdaq erases 2026 gains</title>
-    <link>https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394</link>
-    <guid isPermaLink="true">https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394</guid>
-    <pubDate>Fri, 20 Nov 2026 17:44:01 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394
-Comments URL: https://news.ycombinator.com/item?id=50578794
-Points: 145
-# Comments: 122</description>
-  </item>
-  <item>
-    <title>Inference Endpoints</title>
-    <link>https://huggingface.co/inference-endpoints</link>
-    <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
   </item>
   <item>
     <title>灵掌机器人太空灵巧手亮相世界智能制造博览会</title>
