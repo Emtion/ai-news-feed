@@ -1,10 +1,52 @@
 {
+ "https://www.qbitai.com/2026/11/511779.html": {
+  "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+  "source": "量子位",
+  "ts": 1795242959.0,
+  "desc": "还实现可变形物体操控全球首通",
+  "ord": 0
+ },
+ "https://www.qbitai.com/2026/11/511570.html": {
+  "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+  "source": "量子位",
+  "ts": 1795242751.0,
+  "desc": "专为本地部署而生",
+  "ord": 1
+ },
+ "https://www.qbitai.com/2026/11/511757.html": {
+  "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+  "source": "量子位",
+  "ts": 1795242655.0,
+  "desc": "还透露了不少训练背后的秘诀",
+  "ord": 2
+ },
+ "http://ricapar.net/ClawDOS/": {
+  "title": "ClawDOS – An AI coding agent for DOS",
+  "source": "Hacker News 头版",
+  "ts": 1795239481.0,
+  "desc": "Article URL: http://ricapar.net/ClawDOS/\nComments URL: https://news.ycombinator.com/item?id=50586292\nPoints: 57\n# Comments: 15",
+  "ord": 0
+ },
  "https://huggingface.co/apple/DepthPro2": {
   "title": "apple/DepthPro2 Depth Estimation • Updated about 17 hours ago • 134",
   "source": "Hugging Face Trending",
   "ts": 1795234035.606287,
   "desc": "",
   "ord": 29
+ },
+ "https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html": {
+  "title": "享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款",
+  "source": "雷峰网",
+  "ts": 1795232820.0,
+  "desc": "一款车，从上市到全国范围交付，需要多长时间？享界V8给出了答案！ 11月20日下午，享界V8在鸿蒙智行享界V8及星芒品牌发布会正式上市，售价31.98～42.98万元，即刻下定享至高93000元权益。当晚，首批新车交付仪式于北京鸿蒙智行用户中心启动。巴黎奥运会女子20公里竞走冠军杨家玉与一众家庭用户成为首批车主。次日，全国18城同步开启规模交付。下午上市，晚上交付。这不仅是享界V8的交付速度，更是品牌制造产能的良好体现。是其产品力、供应链与服务体系，接受市场第一波检验的开始。伴随着世界冠军与多孩家庭、三代同堂家庭的认可，享界V8“为家而生”的定位，也从产品理念走向真实现实。 冠军之选：竞技精神",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html": {
+  "title": "当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！",
+  "source": "雷峰网",
+  "ts": 1795229940.0,
+  "desc": "过去几年，AI 生图模型在真实感、分辨率和光影表现上不断刷新人们的认知。但当这些图片真正被用于海报、广告这些商业场景时仍会面临文字能否准确呈现、局部修改是否能保留原有设计等问题。这些看似不起眼的要求，至今仍是图像模型的难题。（雷峰网）今年 3 月，微软研究院发布了一项名为 BizGenEval 的商业视觉生成评测，用 400 条提示词和 8000 道检查题测试主流模型。结果发现，模型已经能生成颇具美感的海报和网页，但在精确布局、多个对象之间的属性对应等方面，仍然存在明显短板。也正是在这个阶段，以视频生成出圈的可灵在今天推出了 Kling Image 4.0。Kling Image 4.0 生成",
+  "ord": 1
  },
  "https://artificialanalysis.ai/articles/inkling-2-mini": {
   "title": "Thinking Machines has released Inkling 2 Mini, an open weights looped transformerNovember 20, 2026",
@@ -25,7 +67,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795224874.7986927,
   "desc": "",
-  "ord": 19
+  "ord": 21
  },
  "https://daily.ai225.com/daily/2026-11-21": {
   "title": "2026-11-21 AI 日报 · 英伟达暴跌拖累 AI 板块；Anthropic 数学家宣称携手 Claude 证出黎曼猜想",
@@ -62,13 +104,6 @@
   "desc": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
   "ord": 0
  },
- "https://github.com/diggerhq/opencomputer": {
-  "title": "Show HN: OpenComputer – an open source alternative to Devin",
-  "source": "Hacker News 头版",
-  "ts": 1795205996.0,
-  "desc": "Hi HN!Utpal here, I'm one of the founders of OpenComputer.OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; th",
-  "ord": 1
- },
  "https://www.anthropic.com/news/ipo-close": {
   "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
   "source": "Anthropic Newsroom",
@@ -87,8 +122,8 @@
   "title": "Inkling 2 Mini",
   "source": "Hacker News 头版",
   "ts": 1795205539.0,
-  "desc": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/\nComments URL: https://news.ycombinator.com/item?id=50581260\nPoints: 780\n# Comments: 132",
-  "ord": 2
+  "desc": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/\nComments URL: https://news.ycombinator.com/item?id=50581260\nPoints: 981\n# Comments: 183",
+  "ord": 1
  },
  "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/": {
   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -146,6 +181,20 @@
   "desc": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic ",
   "ord": 1
  },
+ "https://www.qbitai.com/2026/11/511740.html": {
+  "title": "米哈游发了个VLA论文",
+  "source": "量子位",
+  "ts": 1795191926.0,
+  "desc": "8B参数，50小时自主运行",
+  "ord": 3
+ },
+ "https://www.qbitai.com/2026/11/511727.html": {
+  "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+  "source": "量子位",
+  "ts": 1795190859.0,
+  "desc": "",
+  "ord": 4
+ },
  "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/": {
   "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
   "source": "TechCrunch AI",
@@ -181,6 +230,13 @@
   "desc": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Si",
   "ord": 3
  },
+ "https://www.qbitai.com/2026/11/511722.html": {
+  "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
+  "source": "量子位",
+  "ts": 1795177081.0,
+  "desc": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
+  "ord": 5
+ },
  "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/": {
   "title": "Muse Is Unleashing a World of Pettiness on Instagram",
   "source": "WIRED AI",
@@ -193,7 +249,7 @@
   "source": "艾媒网",
   "ts": 1795174686.1234317,
   "desc": "",
-  "ord": 1
+  "ord": 2
  },
  "https://huggingface.co/HuggingFaceTB/SmolVLM2-256M-Video-Instruct": {
   "title": "HuggingFaceTB/SmolVLM2-256M-Video-Instruct Image-Text-to-Text • 0.3B • Updated 7 days ago • 45.3k • 288",
@@ -718,14 +774,14 @@
   "source": "艾媒网",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 0
+  "ord": 3
  },
  "https://huggingface.co/inworld/voice-isolator": {
   "title": "inworld/voice-isolator Audio-to-Audio • Updated 5 days ago • 155",
   "source": "Hugging Face Trending",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 25
+  "ord": 22
  },
  "https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html": {
   "title": "阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍",
@@ -1117,7 +1173,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795033783.4331658,
   "desc": "",
-  "ord": 22
+  "ord": 20
  },
  "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/": {
   "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
@@ -1348,14 +1404,14 @@
   "source": "艾媒网",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 1
+  "ord": 0
  },
  "https://huggingface.co/apple/FastFrames-L": {
   "title": "apple/FastFrames-L Text-to-Video • Updated about 6 hours ago • 148",
   "source": "Hugging Face Trending",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 26
+  "ord": 29
  },
  "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/": {
   "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
@@ -1775,14 +1831,14 @@
   "source": "Hugging Face Trending",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 23
+  "ord": 26
  },
  "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6": {
   "title": "meituan-longcat/LongCat-Video-Avatar-1.6 Updated 4 days ago • 489 • 194",
   "source": "Hugging Face Trending",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 28
+  "ord": 23
  },
  "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/": {
   "title": "Model ML raises $250M to automate investment banking grunt work",
@@ -1992,7 +2048,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794916213.0807822,
   "desc": "",
-  "ord": 29
+  "ord": 24
  },
  "https://www.qbitai.com/2026/11/510688.html": {
   "title": "李沐加盟的Aimotion，是一家什么AI公司？",
@@ -2685,7 +2741,7 @@
   "source": "艾媒网",
   "ts": 1794796577.2351496,
   "desc": "",
-  "ord": 0
+  "ord": 1
  },
  "https://www.iimedia.cn/c1088/120092.html": {
   "title": "11月13日AI新产品讯息：百度发布两款文心应用模型、谷歌推出Gemini Decisions API、百度推出大模型交易平台词元所",
@@ -3650,21 +3706,21 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 24
+  "ord": 28
  },
  "https://huggingface.co/Qwen/Qwen3.8-27B": {
   "title": "Qwen/Qwen3.8-27B Image-Text-to-Text • 28B • Updated 8 days ago • 6.55M • • 20.1k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 20
+  "ord": 25
  },
  "https://huggingface.co/Lightricks/LTX-2.5": {
   "title": "Lightricks/LTX-2.5 Image-to-Video • Updated Oct 11 • 2.75M • 12k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 21
+  "ord": 19
  },
  "https://huggingface.co/Comfy-Org/MiniMax-H3-Image": {
   "title": "Comfy-Org/MiniMax-H3-Image Text-to-Image • Updated 4 days ago • 1.97M • 404",
@@ -4113,54 +4169,5 @@
   "source": "The Verge AI",
   "ts": 1794602710.0,
   "desc": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and "
- },
- "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/": {
-  "title": "AI agent startup LangChain hits $3B valuation",
-  "source": "TechCrunch AI",
-  "ts": 1794598677.0,
-  "desc": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
- },
- "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/": {
-  "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
-  "source": "WIRED AI",
-  "ts": 1794596937.0,
-  "desc": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash."
- },
- "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/": {
-  "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-  "source": "TechCrunch AI",
-  "ts": 1794595230.0,
-  "desc": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
- },
- "https://www.producthunt.com/products/chatgpt": {
-  "title": "ChatGPT Wallet",
-  "source": "Product Hunt",
-  "ts": 1794593173.0,
-  "desc": "",
-  "ord": 0
- },
- "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place": {
-  "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-  "source": "Hugging Face 博客",
-  "ts": 1794592839.0,
-  "desc": ""
- },
- "https://huggingface.co/blog/allenai/xybench": {
-  "title": "XYBench: Helping with the problem behind the question",
-  "source": "Hugging Face 博客",
-  "ts": 1794589355.0,
-  "desc": ""
- },
- "https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html": {
-  "title": "浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年 | 世界模型50人",
-  "source": "雷峰网",
-  "ts": 1794588600.0,
-  "desc": "八年研究，两个落地系统，超六万GitHub Stars。    作者丨李秋悦    编辑丨吴   彤                                                                                                       一支女团跳舞，镜头不必再听导演安排，观众甚至能看到拍摄时不存在的机位。传统MV拍摄，摄影机架在哪里，观众看到的就是哪个角度。现在用多台摄像机同时记录舞者动作，再重建出一个三维动态场景，镜头可以任意调换位置；从队形正面绕到侧面，穿过舞者之间，甚至换一个从未真正架设过的机位，重新观看刚才的表演。今"
- },
- "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/": {
-  "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-  "source": "TechCrunch AI",
-  "ts": 1794585612.0,
-  "desc": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
  }
 }
