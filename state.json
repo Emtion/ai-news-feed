@@ -1,10 +1,38 @@
 {
+ "https://www.iimedia.cn/c1061/120452.html": {
+  "title": "2026年中国消费者希望扫地机器人品质提升的方面分析：清洁效果与耐用性成核心诉求",
+  "source": "艾媒网",
+  "ts": 1795317202.84134,
+  "desc": "",
+  "ord": 2
+ },
+ "https://www.iimedia.cn/c400/120512.html": {
+  "title": "艾媒咨询 | 智能适配 风随人异——2026年AI空调行业消费者认知研究报告",
+  "source": "艾媒网",
+  "ts": 1795317202.84134,
+  "desc": "",
+  "ord": 3
+ },
+ "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/": {
+  "title": "Data Processing Incidents on Inference Providers",
+  "source": "Hacker News 头版",
+  "ts": 1795313654.0,
+  "desc": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/\nComments URL: https://news.ycombinator.com/item?id=50595554\nPoints: 18\n# Comments: 4",
+  "ord": 0
+ },
+ "https://daily.ai225.com/daily/2026-11-22": {
+  "title": "2026-11-22 AI 日报 · 字节与高校开源 Axion 1.0，苹果发布 Depth Pro 2，群联展 NPU 硬盘",
+  "source": "AI 日报 · AI225",
+  "ts": 1795308782.0,
+  "desc": "今日 AI 领域在开源模型、智能体工程与基础设施方面迎来多项进展。字节跳动联合美国高校开源智能体 Axion 1.0；苹果发布单目深度估计模型 Depth Pro 2 并开放代码与权重；OpenAI 发布 GPT-6.2 Astra 与 Sol 新提示词模板并调整 API 行为；AWS 推出 HyperPod 全局推理网关，Hugging Face 与蚂蚁 OceanBase 团队分别围绕智能体适配与跨对话记忆推出方案。此外，群联展示内置 NPU 固态硬盘，联合国未能就自主武器监管达成协议。",
+  "ord": 0
+ },
  "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF": {
   "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF Image-Text-to-Text • 26B • Updated about 5 hours ago • 9.54k • 223",
   "source": "Hugging Face Trending",
   "ts": 1795302873.1682804,
   "desc": "",
-  "ord": 29
+  "ord": 26
  },
  "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/": {
   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -27,6 +55,13 @@
   "desc": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
   "ord": 1
  },
+ "https://www.pandex.io": {
+  "title": "Pandex – Official European Law for AI Agents, over MCP",
+  "source": "Hacker News 头版",
+  "ts": 1795294061.0,
+  "desc": "Article URL: https://www.pandex.io\nComments URL: https://news.ycombinator.com/item?id=50593481\nPoints: 40\n# Comments: 7",
+  "ord": 2
+ },
  "https://www.theverge.com/tech/1039554/un-regulations-killer-robots": {
   "title": "The UN fails to agree on rules regulating ‘killer robots’",
   "source": "The Verge AI",
@@ -38,8 +73,8 @@
   "title": "Upload2Shell (CVE-2026-125396)",
   "source": "Hacker News 头版",
   "ts": 1795285769.0,
-  "desc": "Article URL: https://pwn.ai/upload2shell\nComments URL: https://news.ycombinator.com/item?id=50592097\nPoints: 59\n# Comments: 16",
-  "ord": 1
+  "desc": "Article URL: https://pwn.ai/upload2shell\nComments URL: https://news.ycombinator.com/item?id=50592097\nPoints: 81\n# Comments: 35",
+  "ord": 3
  },
  "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/": {
   "title": "Here are the top AI agents that can live in your text messages",
@@ -109,7 +144,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795234035.606287,
   "desc": "",
-  "ord": 26
+  "ord": 25
  },
  "https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html": {
   "title": "享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款",
@@ -194,13 +229,6 @@
   "ts": 1795205785.1048276,
   "desc": "",
   "ord": 18
- },
- "https://thinkingmachines.ai/news/inkling-2-mini/": {
-  "title": "Inkling 2 Mini",
-  "source": "Hacker News 头版",
-  "ts": 1795205539.0,
-  "desc": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/\nComments URL: https://news.ycombinator.com/item?id=50581260\nPoints: 1351\n# Comments: 276",
-  "ord": 2
  },
  "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/": {
   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -851,7 +879,7 @@
   "source": "艾媒网",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 3
+  "ord": 4
  },
  "https://huggingface.co/inworld/voice-isolator": {
   "title": "inworld/voice-isolator Audio-to-Audio • Updated 5 days ago • 155",
@@ -1908,14 +1936,14 @@
   "source": "Hugging Face Trending",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 24
+  "ord": 23
  },
  "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6": {
   "title": "meituan-longcat/LongCat-Video-Avatar-1.6 Updated 4 days ago • 489 • 194",
   "source": "Hugging Face Trending",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 23
+  "ord": 29
  },
  "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/": {
   "title": "Model ML raises $250M to automate investment banking grunt work",
@@ -3790,14 +3818,14 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 23
+  "ord": 22
  },
  "https://huggingface.co/Lightricks/LTX-2.5": {
   "title": "Lightricks/LTX-2.5 Image-to-Video • Updated Oct 11 • 2.75M • 12k",
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 25
+  "ord": 24
  },
  "https://huggingface.co/Comfy-Org/MiniMax-H3-Image": {
   "title": "Comfy-Org/MiniMax-H3-Image Text-to-Image • Updated 4 days ago • 1.97M • 404",
@@ -4156,29 +4184,5 @@
   "source": "The Verge AI",
   "ts": 1794668400.0,
   "desc": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for"
- },
- "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/": {
-  "title": "Beware the New AI-Fueled Ransomware Boom",
-  "source": "WIRED AI",
-  "ts": 1794661200.0,
-  "desc": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc."
- },
- "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo": {
-  "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-  "source": "The Verge AI",
-  "ts": 1794657600.0,
-  "desc": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leat"
- },
- "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/": {
-  "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
-  "source": "WIRED AI",
-  "ts": 1794654000.0,
-  "desc": "Normally, aviation is slow to embrace new technology—but AI has come for the skies."
- },
- "https://www.qbitai.com/2026/11/510297.html": {
-  "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
-  "source": "量子位",
-  "ts": 1794650888.0,
-  "desc": "马斯克也签名了"
  }
 }
