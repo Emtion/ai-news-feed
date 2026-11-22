@@ -11,13 +11,13 @@
   "source": "艾媒网",
   "ts": 1795317202.84134,
   "desc": "",
-  "ord": 3
+  "ord": 1
  },
  "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/": {
   "title": "Data Processing Incidents on Inference Providers",
   "source": "Hacker News 头版",
   "ts": 1795313654.0,
-  "desc": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/\nComments URL: https://news.ycombinator.com/item?id=50595554\nPoints: 18\n# Comments: 4",
+  "desc": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/\nComments URL: https://news.ycombinator.com/item?id=50595554\nPoints: 25\n# Comments: 7",
   "ord": 0
  },
  "https://daily.ai225.com/daily/2026-11-22": {
@@ -73,7 +73,7 @@
   "title": "Upload2Shell (CVE-2026-125396)",
   "source": "Hacker News 头版",
   "ts": 1795285769.0,
-  "desc": "Article URL: https://pwn.ai/upload2shell\nComments URL: https://news.ycombinator.com/item?id=50592097\nPoints: 81\n# Comments: 35",
+  "desc": "Article URL: https://pwn.ai/upload2shell\nComments URL: https://news.ycombinator.com/item?id=50592097\nPoints: 83\n# Comments: 35",
   "ord": 3
  },
  "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/": {
@@ -97,6 +97,20 @@
   "desc": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver",
   "ord": 0
  },
+ "https://www.qbitai.com/2026/11/511855.html": {
+  "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+  "source": "量子位",
+  "ts": 1795270449.0,
+  "desc": "",
+  "ord": 0
+ },
+ "https://www.qbitai.com/2026/11/511849.html": {
+  "title": "中国计算，走出新的登峰之路",
+  "source": "量子位",
+  "ts": 1795270199.0,
+  "desc": "",
+  "ord": 1
+ },
  "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai": {
   "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
   "source": "The Verge AI",
@@ -110,6 +124,27 @@
   "ts": 1795266000.0,
   "desc": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
   "ord": 0
+ },
+ "https://www.qbitai.com/2026/11/511841.html": {
+  "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+  "source": "量子位",
+  "ts": 1795261211.0,
+  "desc": "",
+  "ord": 2
+ },
+ "https://www.qbitai.com/2026/11/511830.html": {
+  "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
+  "source": "量子位",
+  "ts": 1795260858.0,
+  "desc": "",
+  "ord": 3
+ },
+ "https://www.qbitai.com/2026/11/511791.html": {
+  "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+  "source": "量子位",
+  "ts": 1795260269.0,
+  "desc": "",
+  "ord": 4
  },
  "https://www.qbitai.com/2026/11/511779.html": {
   "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
@@ -879,7 +914,7 @@
   "source": "艾媒网",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 4
+  "ord": 2
  },
  "https://huggingface.co/inworld/voice-isolator": {
   "title": "inworld/voice-isolator Audio-to-Audio • Updated 5 days ago • 155",
@@ -4154,35 +4189,5 @@
   "source": "AI 日报 · AI225",
   "ts": 1794703986.0,
   "desc": "今日AI行业聚焦资本与治理震荡：Anthropic IPO据报获约6倍认购、拟最高募资904亿美元；CEO称算力采购是最深层商业困境，近9010亿美元承诺能否被未来营收覆盖仍不明朗。超11.5万人请愿要求恢复黄仁勋职务，报道称其离职或涉高风险商业担保，亚洲多国政府与风投机构正评估影响；超聚变创业板IPO过会。技术侧，Runway开源机器人模型Praxis-1，OpenAI重组机器人团队，Gemini 4 Carbon登顶MathArena；arXiv论文披露大模型隐写泄露风险与RLVR优化新法。"
- },
- "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/": {
-  "title": "Where was Nvidia’s security team?",
-  "source": "TechCrunch AI",
-  "ts": 1794701287.0,
-  "desc": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which "
- },
- "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/": {
-  "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-  "source": "TechCrunch AI",
-  "ts": 1794692482.0,
-  "desc": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
- },
- "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/": {
-  "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-  "source": "TechCrunch AI",
-  "ts": 1794677400.0,
-  "desc": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
- },
- "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/": {
-  "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-  "source": "TechCrunch AI",
-  "ts": 1794674055.0,
-  "desc": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
- },
- "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview": {
-  "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-  "source": "The Verge AI",
-  "ts": 1794668400.0,
-  "desc": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for"
  }
 }

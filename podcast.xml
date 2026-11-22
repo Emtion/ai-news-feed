@@ -8,6 +8,46 @@
   <itunes:author>Emtion</itunes:author>
   <itunes:category text="Technology"/>
   <item>
+    <title>11月22日速递：Data Processing Incidents on Inference P</title>
+    <description>今日要点：Data Processing Incidents on I；2026-11-22 AI 日报 · 字节与高校开源 Axi；Signal restricts mobile screen；The UN fails to agree on rules；AI给乐队现场搓MV，这是黑客松还是音乐节啊
+
+【本期文字稿】
+男：欢迎收听 AI 行业速递，今天是 2026 年 11 月 22 日，我是老张，咱们先聊今天最炸的一条。
+女：哪条啊，是苹果发模型还是字节开源，我感觉今天信息量有点大。
+男：先说 OpenRouter 那篇公告，多家推理服务商被曝出数据处理事件，用户请求可能被意外留存。
+女：这可不是小事，大家把提示词往 API 一扔，以为只是算个结果，没想到数据去了哪儿都没人盯。
+男：对，Hacker News 上讨论也很热，核心就是推理中间层到底该不该默认记录、记录多久、谁能看。
+女：所以这事的意味是，AI 基础设施的信任问题，已经从模型能力转向数据治理了。
+男：第二条，字节跳动联合美国高校开源了智能体框架 Axion 1.0，主打可复现的智能体工程。
+女：开源智能体现在一抓一把，这个有什么不一样？
+男：它把训练、评测、工具调用打包成一套流程，重点不是炫模型，是让智能体行为能被稳定复现。
+女：那意义就在于，智能体从 demo 走向工程化，大家开始比谁更靠谱而不是谁更会演示。
+男：接着是苹果，发布单目深度估计模型 Depth Pro 2，代码和权重都放出来了。
+女：手机拍一张就能估深度，这对 AR 和空间计算是实打实的地基。
+男：而且苹果愿意开放权重，说明它想在开发者生态里先占住位置，不只是卖硬件。
+女：再往下说，OpenAI 那边发了 GPT-6.2 的 Astra 和 Sol 新提示词模板，还调了 API 行为。
+男：这个对开发者影响挺直接，模板变了，老提示词可能得重调，不然输出风格会漂。
+女：我总结一句，模型厂商现在拼的不只是分数，还有开发者迁移成本。
+男：安全这块也有大新闻，Signal 开始限制手机端截图，理由是应对 AI 监控的生存威胁。
+女：截图都管，是不是有点过？
+男：它的逻辑是，AI 让批量抓取和识别变得太便宜，截图外流成了新的攻击面。
+女：这背后其实是隐私产品在 AI 时代重新划线，便利和保密开始正面冲突。
+男：还有联合国那边，围绕自主武器也就是所谓杀手机器人的规则谈判，这次没谈拢。
+女：没谈拢不意外，但议题摆上桌本身就说明，AI 治理已经从软件蔓延到武器。
+男：基础设施方面，AWS 推出 HyperPod 全局推理网关，想统一调度跨集群的推理流量。
+女：这听着像给推理做负载均衡，企业大规模上线时确实需要这层。
+男：另外 WIRED 那篇说，断网事故才刚开始，攻击者利用新漏洞的速度逼着公司加快打补丁。
+女：所以今天的主线很清楚，能力在涨，但稳定性和安全在拖后腿。
+男：剩下几条一句话带过，群联展了带 NPU 的硬盘，Kling 图像 4.0 强化商业设计，腾讯和 KCL 发了群聊记忆基准。
+女：还有 Thinking Machines 开源 Inkling 2 Mini，Chess.com 扩到麻将数独，Anthropic 上市后谈安全成本。
+男：对，这些我们后面节目再展开，今天就先记住一个判断。
+女：我的总结是，今天 AI 的竞争焦点正从模型多强，转向数据多可信、系统多稳、规则多清，下期见。</description>
+    <link>https://emtion.github.io/ai-news-feed/</link>
+    <guid isPermaLink="false">ep-20261122</guid>
+    <pubDate>Sun, 22 Nov 2026 11:20:52 +0800</pubDate>
+    <enclosure url="https://emtion.github.io/ai-news-feed/episodes/ep-20261122.mp3" length="1474470" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>11月21日速递：2026-11-21 AI 日报 · 英伟达暴跌拖累 AI 板块；Anthrop</title>
     <description>今日要点：2026-11-21 AI 日报 · 英伟达暴跌拖累 AI ；Cops Are Pushing Extremely Cor；AI may have solved the most im；Researcher plants 2m canaries ；Daniel Ek backs AI researcher’
 

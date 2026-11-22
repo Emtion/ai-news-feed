@@ -5,7 +5,7 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sun, 22 Nov 2026 03:13:49 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 03:19:54 +0000</lastBuildDate>
   <item>
     <title>2026年中国消费者认为AI大模型的发展趋势：认为“很好”的占比51.4%</title>
     <link>https://www.iimedia.cn/c1061/111224.html</link>
@@ -21,8 +21,8 @@
     <source>Hacker News 头版</source>
     <description>Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/
 Comments URL: https://news.ycombinator.com/item?id=50595554
-Points: 18
-# Comments: 4</description>
+Points: 25
+# Comments: 7</description>
   </item>
   <item>
     <title>2026-11-22 AI 日报 · 字节与高校开源 Axion 1.0，苹果发布 Depth Pro 2，群联展 NPU 硬盘</title>
@@ -56,20 +56,19 @@ Points: 18
     <description>One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called "killer robots." Eventually, representatives left the meetings agreeing to "start discussing options" after a largely fruitless week of negotiat</description>
   </item>
   <item>
+    <title>AI给乐队现场搓MV，这是黑客松还是音乐节啊</title>
+    <link>https://www.qbitai.com/2026/11/511855.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511855.html</guid>
+    <pubDate>Sat, 21 Nov 2026 14:14:09 +0000</pubDate>
+    <source>量子位</source>
+  </item>
+  <item>
     <title>The Outages Are Just Getting Started</title>
     <link>https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/</link>
     <guid isPermaLink="true">https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/</guid>
     <pubDate>Sat, 21 Nov 2026 13:00:00 +0000</pubDate>
     <source>WIRED AI</source>
     <description>AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.</description>
-  </item>
-  <item>
-    <title>GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍</title>
-    <link>https://www.qbitai.com/2026/11/511779.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511779.html</guid>
-    <pubDate>Sat, 21 Nov 2026 06:35:59 +0000</pubDate>
-    <source>量子位</source>
-    <description>还实现可变形物体操控全球首通</description>
   </item>
   <item>
     <title>享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款</title>
@@ -224,20 +223,19 @@ Points: 0
     <description>Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver</description>
   </item>
   <item>
+    <title>中国计算，走出新的登峰之路</title>
+    <link>https://www.qbitai.com/2026/11/511849.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511849.html</guid>
+    <pubDate>Sat, 21 Nov 2026 14:09:59 +0000</pubDate>
+    <source>量子位</source>
+  </item>
+  <item>
     <title>Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop</title>
     <link>https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/</link>
     <guid isPermaLink="true">https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/</guid>
     <pubDate>Fri, 20 Nov 2026 23:24:02 +0000</pubDate>
     <source>WIRED AI</source>
     <description>The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.</description>
-  </item>
-  <item>
-    <title>刚刚，DeepSeek V1作者创业项目曝光：开源Agent</title>
-    <link>https://www.qbitai.com/2026/11/511570.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511570.html</guid>
-    <pubDate>Sat, 21 Nov 2026 06:32:31 +0000</pubDate>
-    <source>量子位</source>
-    <description>专为本地部署而生</description>
   </item>
   <item>
     <title>当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！</title>
@@ -384,20 +382,19 @@ Points: 40
     <description>Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of </description>
   </item>
   <item>
+    <title>8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准</title>
+    <link>https://www.qbitai.com/2026/11/511841.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511841.html</guid>
+    <pubDate>Sat, 21 Nov 2026 11:40:11 +0000</pubDate>
+    <source>量子位</source>
+  </item>
+  <item>
     <title>Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation</title>
     <link>https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/</link>
     <guid isPermaLink="true">https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/</guid>
     <pubDate>Fri, 20 Nov 2026 19:52:21 +0000</pubDate>
     <source>WIRED AI</source>
     <description>Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”</description>
-  </item>
-  <item>
-    <title>姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图</title>
-    <link>https://www.qbitai.com/2026/11/511757.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511757.html</guid>
-    <pubDate>Sat, 21 Nov 2026 06:30:55 +0000</pubDate>
-    <source>量子位</source>
-    <description>还透露了不少训练背后的秘诀</description>
   </item>
   <item>
     <title>上汽通用发布真龙插混MAX，首搭别克至境世家</title>
@@ -502,7 +499,7 @@ Points: 40
     <source>Hacker News 头版</source>
     <description>Article URL: https://pwn.ai/upload2shell
 Comments URL: https://news.ycombinator.com/item?id=50592097
-Points: 81
+Points: 83
 # Comments: 35</description>
   </item>
   <item>
@@ -537,20 +534,19 @@ Points: 81
     <description>President Donald Trump promised to put a "tremendous tax" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. "We're not going to allow our companies to build data centers outside of our coun</description>
   </item>
   <item>
+    <title>全网疯传！Grok一姐教你如何月提交3000个PR</title>
+    <link>https://www.qbitai.com/2026/11/511830.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511830.html</guid>
+    <pubDate>Sat, 21 Nov 2026 11:34:18 +0000</pubDate>
+    <source>量子位</source>
+  </item>
+  <item>
     <title>Muse Is Unleashing a World of Pettiness on Instagram</title>
     <link>https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/</link>
     <guid isPermaLink="true">https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/</guid>
     <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
     <source>WIRED AI</source>
     <description>Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.</description>
-  </item>
-  <item>
-    <title>米哈游发了个VLA论文</title>
-    <link>https://www.qbitai.com/2026/11/511740.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511740.html</guid>
-    <pubDate>Fri, 20 Nov 2026 16:25:26 +0000</pubDate>
-    <source>量子位</source>
-    <description>8B参数，50小时自主运行</description>
   </item>
   <item>
     <title>拓竹 MakerWorld，为什么难复制？</title>
@@ -682,19 +678,19 @@ Points: 57
     <description>Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic </description>
   </item>
   <item>
+    <title>反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢</title>
+    <link>https://www.qbitai.com/2026/11/511791.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511791.html</guid>
+    <pubDate>Sat, 21 Nov 2026 11:24:29 +0000</pubDate>
+    <source>量子位</source>
+  </item>
+  <item>
     <title>Regular Tech Bros Are Worried About Honeypots</title>
     <link>https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/</link>
     <guid isPermaLink="true">https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/</guid>
     <pubDate>Fri, 20 Nov 2026 11:00:00 +0000</pubDate>
     <source>WIRED AI</source>
     <description>The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.</description>
-  </item>
-  <item>
-    <title>黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明</title>
-    <link>https://www.qbitai.com/2026/11/511727.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511727.html</guid>
-    <pubDate>Fri, 20 Nov 2026 16:07:39 +0000</pubDate>
-    <source>量子位</source>
   </item>
   <item>
     <title>灵掌机器人太空灵巧手亮相世界智能制造博览会</title>
