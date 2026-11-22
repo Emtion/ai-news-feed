@@ -1,4 +1,39 @@
 {
+ "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/": {
+  "title": "Banks Have Had It Up to Here With Your AI Agent",
+  "source": "WIRED AI",
+  "ts": 1795345200.0,
+  "desc": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+  "ord": 0
+ },
+ "https://arxiv.org/abs/2606.14068": {
+  "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+  "source": "Hacker News 头版",
+  "ts": 1795339116.0,
+  "desc": "Article URL: https://arxiv.org/abs/2606.14068\nComments URL: https://news.ycombinator.com/item?id=50597743\nPoints: 3\n# Comments: 0",
+  "ord": 0
+ },
+ "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/": {
+  "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+  "source": "Hacker News 头版",
+  "ts": 1795337854.0,
+  "desc": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/\nComments URL: https://news.ycombinator.com/item?id=50597612\nPoints: 149\n# Comments: 183",
+  "ord": 1
+ },
+ "https://www.qbitai.com/2026/11/511904.html": {
+  "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+  "source": "量子位",
+  "ts": 1795328507.0,
+  "desc": "用葡萄糖发电控制血糖。",
+  "ord": 0
+ },
+ "https://www.qbitai.com/2026/11/511870.html": {
+  "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+  "source": "量子位",
+  "ts": 1795327434.0,
+  "desc": "",
+  "ord": 1
+ },
  "https://www.iimedia.cn/c1061/120452.html": {
   "title": "2026年中国消费者希望扫地机器人品质提升的方面分析：清洁效果与耐用性成核心诉求",
   "source": "艾媒网",
@@ -17,8 +52,15 @@
   "title": "Data Processing Incidents on Inference Providers",
   "source": "Hacker News 头版",
   "ts": 1795313654.0,
-  "desc": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/\nComments URL: https://news.ycombinator.com/item?id=50595554\nPoints: 25\n# Comments: 7",
-  "ord": 0
+  "desc": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/\nComments URL: https://news.ycombinator.com/item?id=50595554\nPoints: 161\n# Comments: 64",
+  "ord": 2
+ },
+ "https://www.noemamag.com/the-mythology-of-conscious-ai/": {
+  "title": "The Mythology of Conscious AI",
+  "source": "Hacker News 头版",
+  "ts": 1795313402.0,
+  "desc": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/\nComments URL: https://news.ycombinator.com/item?id=50595537\nPoints: 74\n# Comments: 152",
+  "ord": 3
  },
  "https://daily.ai225.com/daily/2026-11-22": {
   "title": "2026-11-22 AI 日报 · 字节与高校开源 Axion 1.0，苹果发布 Depth Pro 2，群联展 NPU 硬盘",
@@ -32,7 +74,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795302873.1682804,
   "desc": "",
-  "ord": 26
+  "ord": 23
  },
  "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/": {
   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -73,8 +115,8 @@
   "title": "Upload2Shell (CVE-2026-125396)",
   "source": "Hacker News 头版",
   "ts": 1795285769.0,
-  "desc": "Article URL: https://pwn.ai/upload2shell\nComments URL: https://news.ycombinator.com/item?id=50592097\nPoints: 83\n# Comments: 35",
-  "ord": 3
+  "desc": "Article URL: https://pwn.ai/upload2shell\nComments URL: https://news.ycombinator.com/item?id=50592097\nPoints: 123\n# Comments: 60",
+  "ord": 5
  },
  "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/": {
   "title": "Here are the top AI agents that can live in your text messages",
@@ -179,7 +221,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795234035.606287,
   "desc": "",
-  "ord": 25
+  "ord": 24
  },
  "https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html": {
   "title": "享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款",
@@ -914,14 +956,14 @@
   "source": "艾媒网",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 2
+  "ord": 3
  },
  "https://huggingface.co/inworld/voice-isolator": {
   "title": "inworld/voice-isolator Audio-to-Audio • Updated 5 days ago • 155",
   "source": "Hugging Face Trending",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 18
+  "ord": 17
  },
  "https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html": {
   "title": "阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍",
@@ -1096,7 +1138,7 @@
   "source": "艾媒网",
   "ts": 1795055632.1216788,
   "desc": "",
-  "ord": 2
+  "ord": 0
  },
  "https://www.producthunt.com/products/gemini-6": {
   "title": "Gemini 4 Neon",
@@ -1313,7 +1355,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795033783.4331658,
   "desc": "",
-  "ord": 17
+  "ord": 18
  },
  "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/": {
   "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
@@ -1544,7 +1586,7 @@
   "source": "艾媒网",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 0
+  "ord": 4
  },
  "https://huggingface.co/apple/FastFrames-L": {
   "title": "apple/FastFrames-L Text-to-Video • Updated about 6 hours ago • 148",
@@ -1971,7 +2013,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 23
+  "ord": 25
  },
  "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6": {
   "title": "meituan-longcat/LongCat-Video-Avatar-1.6 Updated 4 days ago • 489 • 194",
@@ -2181,7 +2223,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794916213.0807822,
   "desc": "",
-  "ord": 28
+  "ord": 27
  },
  "https://huggingface.co/n4ze3m/tiny-voca": {
   "title": "n4ze3m/tiny-voca Text-to-Speech • Updated about 17 hours ago • 3.04k • 207",
@@ -3846,7 +3888,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 27
+  "ord": 28
  },
  "https://huggingface.co/Qwen/Qwen3.8-27B": {
   "title": "Qwen/Qwen3.8-27B Image-Text-to-Text • 28B • Updated 8 days ago • 6.55M • • 20.1k",
@@ -3860,7 +3902,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 24
+  "ord": 26
  },
  "https://huggingface.co/Comfy-Org/MiniMax-H3-Image": {
   "title": "Comfy-Org/MiniMax-H3-Image Text-to-Image • Updated 4 days ago • 1.97M • 404",
@@ -4153,41 +4195,5 @@
   "source": "Hacker News 头版",
   "ts": 1794754018.0,
   "desc": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/\nComments URL: https://news.ycombinator.com/item?id=50507303\nPoints: 43\n# Comments: 14"
- },
- "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation": {
-  "title": "An overview of Jensen Huang’s messy days",
-  "source": "The Verge AI",
-  "ts": 1794747600.0,
-  "desc": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepb"
- },
- "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings": {
-  "title": "Understanding Positional Embeddings in Modern LLMs",
-  "source": "Hacker News 头版",
-  "ts": 1794744846.0,
-  "desc": "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings\nComments URL: https://news.ycombinator.com/item?id=50506376\nPoints: 71\n# Comments: 0"
- },
- "https://www.wired.com/story/ai-djs-completely-kill-my-groove/": {
-  "title": "AI DJs Completely Kill My Groove",
-  "source": "WIRED AI",
-  "ts": 1794744000.0,
-  "desc": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe."
- },
- "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/": {
-  "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-  "source": "WIRED AI",
-  "ts": 1794740400.0,
-  "desc": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits."
- },
- "https://www.producthunt.com/products/agentgrid-io": {
-  "title": "Canvas by AgentGrid.io",
-  "source": "Product Hunt",
-  "ts": 1794723729.0,
-  "desc": ""
- },
- "https://daily.ai225.com/daily/2026-11-15": {
-  "title": "2026-11-15 AI 日报 · Anthropic拟创纪录IPO获6倍认购，逾11.5万人请愿要求恢复黄仁勋职务",
-  "source": "AI 日报 · AI225",
-  "ts": 1794703986.0,
-  "desc": "今日AI行业聚焦资本与治理震荡：Anthropic IPO据报获约6倍认购、拟最高募资904亿美元；CEO称算力采购是最深层商业困境，近9010亿美元承诺能否被未来营收覆盖仍不明朗。超11.5万人请愿要求恢复黄仁勋职务，报道称其离职或涉高风险商业担保，亚洲多国政府与风投机构正评估影响；超聚变创业板IPO过会。技术侧，Runway开源机器人模型Praxis-1，OpenAI重组机器人团队，Gemini 4 Carbon登顶MathArena；arXiv论文披露大模型隐写泄露风险与RLVR优化新法。"
  }
 }

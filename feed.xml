@@ -5,24 +5,40 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sun, 22 Nov 2026 03:19:54 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 11:26:35 +0000</lastBuildDate>
+  <item>
+    <title>Banks Have Had It Up to Here With Your AI Agent</title>
+    <link>https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/</guid>
+    <pubDate>Sun, 22 Nov 2026 11:00:00 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.</description>
+  </item>
+  <item>
+    <title>Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts</title>
+    <link>https://arxiv.org/abs/2606.14068</link>
+    <guid isPermaLink="true">https://arxiv.org/abs/2606.14068</guid>
+    <pubDate>Sun, 22 Nov 2026 09:18:36 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://arxiv.org/abs/2606.14068
+Comments URL: https://news.ycombinator.com/item?id=50597743
+Points: 3
+# Comments: 0</description>
+  </item>
+  <item>
+    <title>Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖</title>
+    <link>https://www.qbitai.com/2026/11/511904.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511904.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:21:47 +0000</pubDate>
+    <source>量子位</source>
+    <description>用葡萄糖发电控制血糖。</description>
+  </item>
   <item>
     <title>2026年中国消费者认为AI大模型的发展趋势：认为“很好”的占比51.4%</title>
     <link>https://www.iimedia.cn/c1061/111224.html</link>
     <guid isPermaLink="true">https://www.iimedia.cn/c1061/111224.html</guid>
     <pubDate>Fri, 20 Nov 2026 02:19:05 +0000</pubDate>
     <source>艾媒网</source>
-  </item>
-  <item>
-    <title>Data Processing Incidents on Inference Providers</title>
-    <link>https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/</link>
-    <guid isPermaLink="true">https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/</guid>
-    <pubDate>Sun, 22 Nov 2026 02:14:14 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/
-Comments URL: https://news.ycombinator.com/item?id=50595554
-Points: 25
-# Comments: 7</description>
   </item>
   <item>
     <title>2026-11-22 AI 日报 · 字节与高校开源 Axion 1.0，苹果发布 Depth Pro 2，群联展 NPU 硬盘</title>
@@ -54,21 +70,6 @@ Points: 25
     <pubDate>Sat, 21 Nov 2026 20:03:37 +0000</pubDate>
     <source>The Verge AI</source>
     <description>One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called "killer robots." Eventually, representatives left the meetings agreeing to "start discussing options" after a largely fruitless week of negotiat</description>
-  </item>
-  <item>
-    <title>AI给乐队现场搓MV，这是黑客松还是音乐节啊</title>
-    <link>https://www.qbitai.com/2026/11/511855.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511855.html</guid>
-    <pubDate>Sat, 21 Nov 2026 14:14:09 +0000</pubDate>
-    <source>量子位</source>
-  </item>
-  <item>
-    <title>The Outages Are Just Getting Started</title>
-    <link>https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/</guid>
-    <pubDate>Sat, 21 Nov 2026 13:00:00 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.</description>
   </item>
   <item>
     <title>享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款</title>
@@ -174,22 +175,37 @@ Points: 25
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>艾媒鼎榜 | 2026年中国车载实体AI机器人品牌10强</title>
-    <link>https://www.iimedia.cn/c1106/120376.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1106/120376.html</guid>
-    <pubDate>Wed, 18 Nov 2026 11:40:24 +0000</pubDate>
-    <source>艾媒网</source>
+    <title>The Outages Are Just Getting Started</title>
+    <link>https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/</guid>
+    <pubDate>Sat, 21 Nov 2026 13:00:00 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.</description>
   </item>
   <item>
-    <title>Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers</title>
-    <link>https://tasklet.ai/careers</link>
-    <guid isPermaLink="true">https://tasklet.ai/careers</guid>
-    <pubDate>Sat, 21 Nov 2026 21:11:08 +0000</pubDate>
+    <title>87% of the Anthropic power will come from gas and 11% from coal in 2028</title>
+    <link>https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</link>
+    <guid isPermaLink="true">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</guid>
+    <pubDate>Sun, 22 Nov 2026 08:57:34 +0000</pubDate>
     <source>Hacker News 头版</source>
-    <description>Article URL: https://tasklet.ai/careers
-Comments URL: https://news.ycombinator.com/item?id=50593679
-Points: 0
-# Comments: 0</description>
+    <description>Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/
+Comments URL: https://news.ycombinator.com/item?id=50597612
+Points: 149
+# Comments: 183</description>
+  </item>
+  <item>
+    <title>A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿</title>
+    <link>https://www.qbitai.com/2026/11/511870.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511870.html</guid>
+    <pubDate>Sun, 22 Nov 2026 06:03:54 +0000</pubDate>
+    <source>量子位</source>
+  </item>
+  <item>
+    <title>艾媒咨询 | 2026年上半年中国人工智能行业投融资市场监测与分析报告</title>
+    <link>https://www.iimedia.cn/c400/119474.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/119474.html</guid>
+    <pubDate>Thu, 19 Nov 2026 02:33:52 +0000</pubDate>
+    <source>艾媒网</source>
   </item>
   <item>
     <title>2026-11-21 AI 日报 · 英伟达暴跌拖累 AI 板块；Anthropic 数学家宣称携手 Claude 证出黎曼猜想</title>
@@ -221,21 +237,6 @@ Points: 0
     <pubDate>Sat, 21 Nov 2026 15:00:00 +0000</pubDate>
     <source>The Verge AI</source>
     <description>Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver</description>
-  </item>
-  <item>
-    <title>中国计算，走出新的登峰之路</title>
-    <link>https://www.qbitai.com/2026/11/511849.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511849.html</guid>
-    <pubDate>Sat, 21 Nov 2026 14:09:59 +0000</pubDate>
-    <source>量子位</source>
-  </item>
-  <item>
-    <title>Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop</title>
-    <link>https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/</guid>
-    <pubDate>Fri, 20 Nov 2026 23:24:02 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.</description>
   </item>
   <item>
     <title>当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！</title>
@@ -333,22 +334,37 @@ Points: 0
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop</title>
+    <link>https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/</guid>
+    <pubDate>Fri, 20 Nov 2026 23:24:02 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.</description>
+  </item>
+  <item>
+    <title>Data Processing Incidents on Inference Providers</title>
+    <link>https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/</link>
+    <guid isPermaLink="true">https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/</guid>
+    <pubDate>Sun, 22 Nov 2026 02:14:14 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/
+Comments URL: https://news.ycombinator.com/item?id=50595554
+Points: 161
+# Comments: 64</description>
+  </item>
+  <item>
+    <title>AI给乐队现场搓MV，这是黑客松还是音乐节啊</title>
+    <link>https://www.qbitai.com/2026/11/511855.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511855.html</guid>
+    <pubDate>Sat, 21 Nov 2026 14:14:09 +0000</pubDate>
+    <source>量子位</source>
+  </item>
+  <item>
     <title>2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴</title>
     <link>https://www.iimedia.cn/c1061/120072.html</link>
     <guid isPermaLink="true">https://www.iimedia.cn/c1061/120072.html</guid>
     <pubDate>Sun, 15 Nov 2026 21:02:19 +0000</pubDate>
     <source>艾媒网</source>
-  </item>
-  <item>
-    <title>Pandex – Official European Law for AI Agents, over MCP</title>
-    <link>https://www.pandex.io</link>
-    <guid isPermaLink="true">https://www.pandex.io</guid>
-    <pubDate>Sat, 21 Nov 2026 20:47:41 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://www.pandex.io
-Comments URL: https://news.ycombinator.com/item?id=50593481
-Points: 40
-# Comments: 7</description>
   </item>
   <item>
     <title>2026-11-20 AI 日报 · Anthropic创纪录挂牌纳斯达克，谷歌与Perplexity掀起决策模型架构竞赛</title>
@@ -380,21 +396,6 @@ Points: 40
     <pubDate>Sat, 21 Nov 2026 14:00:00 +0000</pubDate>
     <source>The Verge AI</source>
     <description>Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of </description>
-  </item>
-  <item>
-    <title>8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准</title>
-    <link>https://www.qbitai.com/2026/11/511841.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511841.html</guid>
-    <pubDate>Sat, 21 Nov 2026 11:40:11 +0000</pubDate>
-    <source>量子位</source>
-  </item>
-  <item>
-    <title>Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation</title>
-    <link>https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/</guid>
-    <pubDate>Fri, 20 Nov 2026 19:52:21 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”</description>
   </item>
   <item>
     <title>上汽通用发布真龙插混MAX，首搭别克至境世家</title>
@@ -485,22 +486,37 @@ Points: 40
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation</title>
+    <link>https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/</guid>
+    <pubDate>Fri, 20 Nov 2026 19:52:21 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”</description>
+  </item>
+  <item>
+    <title>The Mythology of Conscious AI</title>
+    <link>https://www.noemamag.com/the-mythology-of-conscious-ai/</link>
+    <guid isPermaLink="true">https://www.noemamag.com/the-mythology-of-conscious-ai/</guid>
+    <pubDate>Sun, 22 Nov 2026 02:10:02 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/
+Comments URL: https://news.ycombinator.com/item?id=50595537
+Points: 74
+# Comments: 152</description>
+  </item>
+  <item>
+    <title>中国计算，走出新的登峰之路</title>
+    <link>https://www.qbitai.com/2026/11/511849.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511849.html</guid>
+    <pubDate>Sat, 21 Nov 2026 14:09:59 +0000</pubDate>
+    <source>量子位</source>
+  </item>
+  <item>
     <title>艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强</title>
     <link>https://www.iimedia.cn/c1106/119852.html</link>
     <guid isPermaLink="true">https://www.iimedia.cn/c1106/119852.html</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>艾媒网</source>
-  </item>
-  <item>
-    <title>Upload2Shell (CVE-2026-125396)</title>
-    <link>https://pwn.ai/upload2shell</link>
-    <guid isPermaLink="true">https://pwn.ai/upload2shell</guid>
-    <pubDate>Sat, 21 Nov 2026 18:29:29 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://pwn.ai/upload2shell
-Comments URL: https://news.ycombinator.com/item?id=50592097
-Points: 83
-# Comments: 35</description>
   </item>
   <item>
     <title>2026-11-19 AI 日报 · Gemini 4 Neon 发布，Anthropic IPO 定价 83 美元</title>
@@ -532,21 +548,6 @@ Points: 83
     <pubDate>Fri, 20 Nov 2026 18:50:19 +0000</pubDate>
     <source>The Verge AI</source>
     <description>President Donald Trump promised to put a "tremendous tax" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. "We're not going to allow our companies to build data centers outside of our coun</description>
-  </item>
-  <item>
-    <title>全网疯传！Grok一姐教你如何月提交3000个PR</title>
-    <link>https://www.qbitai.com/2026/11/511830.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511830.html</guid>
-    <pubDate>Sat, 21 Nov 2026 11:34:18 +0000</pubDate>
-    <source>量子位</source>
-  </item>
-  <item>
-    <title>Muse Is Unleashing a World of Pettiness on Instagram</title>
-    <link>https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/</guid>
-    <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.</description>
   </item>
   <item>
     <title>拓竹 MakerWorld，为什么难复制？</title>
@@ -629,22 +630,37 @@ Points: 83
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Muse Is Unleashing a World of Pettiness on Instagram</title>
+    <link>https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/</link>
+    <guid isPermaLink="true">https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/</guid>
+    <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+    <source>WIRED AI</source>
+    <description>Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.</description>
+  </item>
+  <item>
+    <title>Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers</title>
+    <link>https://tasklet.ai/careers</link>
+    <guid isPermaLink="true">https://tasklet.ai/careers</guid>
+    <pubDate>Sat, 21 Nov 2026 21:11:08 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://tasklet.ai/careers
+Comments URL: https://news.ycombinator.com/item?id=50593679
+Points: 0
+# Comments: 0</description>
+  </item>
+  <item>
+    <title>8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准</title>
+    <link>https://www.qbitai.com/2026/11/511841.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511841.html</guid>
+    <pubDate>Sat, 21 Nov 2026 11:40:11 +0000</pubDate>
+    <source>量子位</source>
+  </item>
+  <item>
     <title>艾媒鼎榜 | 2026年中国AI会议耳机品牌10强</title>
     <link>https://www.iimedia.cn/c1106/119848.html</link>
     <guid isPermaLink="true">https://www.iimedia.cn/c1106/119848.html</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>艾媒网</source>
-  </item>
-  <item>
-    <title>ClawDOS – An AI coding agent for DOS</title>
-    <link>http://ricapar.net/ClawDOS/</link>
-    <guid isPermaLink="true">http://ricapar.net/ClawDOS/</guid>
-    <pubDate>Sat, 21 Nov 2026 05:38:01 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: http://ricapar.net/ClawDOS/
-Comments URL: https://news.ycombinator.com/item?id=50586292
-Points: 57
-# Comments: 15</description>
   </item>
   <item>
     <title>2026-11-18 AI 日报 · GPT-6.2发布，英伟达拒黄仁勋复职，Anthropic获准上市</title>
@@ -676,21 +692,6 @@ Points: 57
     <pubDate>Fri, 20 Nov 2026 16:34:13 +0000</pubDate>
     <source>The Verge AI</source>
     <description>Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic </description>
-  </item>
-  <item>
-    <title>反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢</title>
-    <link>https://www.qbitai.com/2026/11/511791.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/511791.html</guid>
-    <pubDate>Sat, 21 Nov 2026 11:24:29 +0000</pubDate>
-    <source>量子位</source>
-  </item>
-  <item>
-    <title>Regular Tech Bros Are Worried About Honeypots</title>
-    <link>https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/</link>
-    <guid isPermaLink="true">https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/</guid>
-    <pubDate>Fri, 20 Nov 2026 11:00:00 +0000</pubDate>
-    <source>WIRED AI</source>
-    <description>The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.</description>
   </item>
   <item>
     <title>灵掌机器人太空灵巧手亮相世界智能制造博览会</title>
