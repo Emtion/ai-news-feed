@@ -1,10 +1,80 @@
 {
+ "https://huggingface.co/SulphurAI/Sulphur-3": {
+  "title": "SulphurAI/Sulphur-3 Updated 1 day ago • 78.9k • 759",
+  "source": "Hugging Face Trending",
+  "ts": 1795376280.5030785,
+  "desc": "",
+  "ord": 28
+ },
+ "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/": {
+  "title": "Why data centers are at the center of the Big Tech backlash",
+  "source": "TechCrunch AI",
+  "ts": 1795370923.0,
+  "desc": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+  "ord": 0
+ },
+ "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music": {
+  "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+  "source": "The Verge AI",
+  "ts": 1795368320.0,
+  "desc": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files wi",
+  "ord": 0
+ },
+ "https://openai.com/index/perplexity-and-intelligence/": {
+  "title": "Perplexity and Intelligence",
+  "source": "Hacker News 头版",
+  "ts": 1795367187.0,
+  "desc": "Article URL: https://openai.com/index/perplexity-and-intelligence/\nComments URL: https://news.ycombinator.com/item?id=50601525\nPoints: 216\n# Comments: 152",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/transportation/QtQ2DYWViqwYNbhu.html": {
+  "title": "解码比亚迪高端化：一家技术公司的自我进化",
+  "source": "雷峰网",
+  "ts": 1795357140.0,
+  "desc": "20万元以上的车，比亚迪一个季度卖出了17.35万辆。2026年第三季度，比亚迪在这一价格区间的国内零售销量，排到了中国品牌第一。今年前三季度，腾势、方程豹、仰望合计销售40.87万辆，同比增长75.1%，占集团乘用车销量的13.3%。越来越多的消费者，开始为比亚迪的高端车型买单。这些销量来自不同的市场：腾势D9进入商务接待和家庭出行，方程豹吸引追求个性的消费者，仰望则站上了百万级市场。过去，人们谈起比亚迪，最熟悉的是技术、规模和成本。如今，这家公司正在把积累多年的技术，放进不同价位、不同用途的产品里，也开始更细致地研究：买这些车的人，究竟在意什么？从一辆车卖起来，到几个品牌各自找到用户，比亚",
+  "ord": 0
+ },
+ "https://github.com/gulivan/worker755": {
+  "title": "Show HN: I built a game where you are an LLM's subagent",
+  "source": "Hacker News 头版",
+  "ts": 1795355818.0,
+  "desc": "Article URL: https://github.com/gulivan/worker755\nComments URL: https://news.ycombinator.com/item?id=50599762\nPoints: 177\n# Comments: 45",
+  "ord": 1
+ },
+ "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera": {
+  "title": "The vibe-coding revolution is coming to all the gadgets",
+  "source": "The Verge AI",
+  "ts": 1795352400.0,
+  "desc": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things wit",
+  "ord": 1
+ },
+ "https://www.leiphone.com/category/transportation/fhogNEQ0PWQ74TGa.html": {
+  "title": "磨了 8 年、折了 9.6 万次，比亚迪折叠智舱终究会「真香」",
+  "source": "雷峰网",
+  "ts": 1795352100.0,
+  "desc": "近日，方程豹钛 9 折叠智舱版上市，最受关注的一项配置是折叠方向盘。但新车发布后，争议也随之而来。开车时，方向盘会不会意外折起来？停车以后，又有多少场景真的需要把它收起来？雷峰网认为，既然是一个量产配置，就肯定有实际用途，也有明确的安全边界。对在服务区小憩、在车里等充电的人来说，它让主驾多了一个可以伸开腿的休息位置。日常手动折叠，则必须在车辆停稳、挂入 P 挡后由车主主动触发。01方向盘什么时候能折起来？钛 9 的手动操作逻辑是，车主先把车停稳、挂入 P 挡，再按下折叠键，方向盘才会收起。车辆在 D 挡下等红灯，即使已经停住，也达不到触发条件。钛 9 还支持离车泊入时“边泊入边折叠”，泊出时“",
+  "ord": 1
+ },
  "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/": {
   "title": "Banks Have Had It Up to Here With Your AI Agent",
   "source": "WIRED AI",
   "ts": 1795345200.0,
   "desc": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
   "ord": 0
+ },
+ "https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html": {
+  "title": "特朗普表态：英伟达Blackwell芯片可对华销售，但有个条件；OpenAI被曝入局智能手机赛道；DeepSeek第二轮千亿融资落地，31家出资方入局",
+  "source": "雷峰网",
+  "ts": 1795342500.0,
+  "desc": "要闻提示1.OpenAI被曝入局智能手机赛道，富士康获组装订单2.特朗普表态：英伟达Blackwell芯片可对华销售，但有个条件3.DeepSeek千亿融资落地，31家出资方入股梁文锋搭建的持股平台4.马斯克自称“中国超级粉丝”：首次到访深圳被震撼，特斯拉将继续在华提高产量5.字节跳动拟追加5亿美元微软云服务合同6.西祠胡同创始人响马突发心梗：到急诊几分钟后心脏骤停，现已回家静养7.黄仁勋继任者被曝已有人选！马斯克：英伟达把他赶走，堪比公牛队连胜时踢走乔丹8.Anthropic完成史上最大规模IPO，上市估值达1.5万亿美元今日头条OpenAI被曝入局智能手机赛道，富士康获组装订单11月19日",
+  "ord": 2
+ },
+ "https://simonwillison.net/2026/Nov/21/muru/": {
+  "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+  "source": "Hacker News 头版",
+  "ts": 1795341421.0,
+  "desc": "Article URL: https://simonwillison.net/2026/Nov/21/muru/\nComments URL: https://news.ycombinator.com/item?id=50597959\nPoints: 55\n# Comments: 9",
+  "ord": 2
  },
  "https://arxiv.org/abs/2606.14068": {
   "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
@@ -52,8 +122,8 @@
   "title": "Data Processing Incidents on Inference Providers",
   "source": "Hacker News 头版",
   "ts": 1795313654.0,
-  "desc": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/\nComments URL: https://news.ycombinator.com/item?id=50595554\nPoints: 161\n# Comments: 64",
-  "ord": 2
+  "desc": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/\nComments URL: https://news.ycombinator.com/item?id=50595554\nPoints: 257\n# Comments: 88",
+  "ord": 4
  },
  "https://www.noemamag.com/the-mythology-of-conscious-ai/": {
   "title": "The Mythology of Conscious AI",
@@ -69,12 +139,19 @@
   "desc": "今日 AI 领域在开源模型、智能体工程与基础设施方面迎来多项进展。字节跳动联合美国高校开源智能体 Axion 1.0；苹果发布单目深度估计模型 Depth Pro 2 并开放代码与权重；OpenAI 发布 GPT-6.2 Astra 与 Sol 新提示词模板并调整 API 行为；AWS 推出 HyperPod 全局推理网关，Hugging Face 与蚂蚁 OceanBase 团队分别围绕智能体适配与跨对话记忆推出方案。此外，群联展示内置 NPU 固态硬盘，联合国未能就自主武器监管达成协议。",
   "ord": 0
  },
+ "https://openai.com/index/perplexity-and-intelligence": {
+  "title": "Perplexity and Intelligence",
+  "source": "OpenAI News",
+  "ts": 1795305600.0,
+  "desc": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+  "ord": 0
+ },
  "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF": {
   "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF Image-Text-to-Text • 26B • Updated about 5 hours ago • 9.54k • 223",
   "source": "Hugging Face Trending",
   "ts": 1795302873.1682804,
   "desc": "",
-  "ord": 23
+  "ord": 22
  },
  "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/": {
   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -110,13 +187,6 @@
   "ts": 1795291417.0,
   "desc": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiat",
   "ord": 0
- },
- "https://pwn.ai/upload2shell": {
-  "title": "Upload2Shell (CVE-2026-125396)",
-  "source": "Hacker News 头版",
-  "ts": 1795285769.0,
-  "desc": "Article URL: https://pwn.ai/upload2shell\nComments URL: https://news.ycombinator.com/item?id=50592097\nPoints: 123\n# Comments: 60",
-  "ord": 5
  },
  "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/": {
   "title": "Here are the top AI agents that can live in your text messages",
@@ -221,7 +291,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795234035.606287,
   "desc": "",
-  "ord": 24
+  "ord": 23
  },
  "https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html": {
   "title": "享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款",
@@ -956,7 +1026,7 @@
   "source": "艾媒网",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 3
+  "ord": 2
  },
  "https://huggingface.co/inworld/voice-isolator": {
   "title": "inworld/voice-isolator Audio-to-Audio • Updated 5 days ago • 155",
@@ -1586,7 +1656,7 @@
   "source": "艾媒网",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 4
+  "ord": 0
  },
  "https://huggingface.co/apple/FastFrames-L": {
   "title": "apple/FastFrames-L Text-to-Video • Updated about 6 hours ago • 148",
@@ -3895,7 +3965,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 22
+  "ord": 24
  },
  "https://huggingface.co/Lightricks/LTX-2.5": {
   "title": "Lightricks/LTX-2.5 Image-to-Video • Updated Oct 11 • 2.75M • 12k",
@@ -4127,73 +4197,5 @@
   "ts": 1794756557.5737543,
   "desc": "",
   "ord": 21
- },
- "https://github.com/trending?spoken_language_code=bh": {
-  "title": "Bihari languages",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 22
- },
- "https://github.com/trending?spoken_language_code=ca": {
-  "title": "Catalan, Valencian",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 23
- },
- "https://github.com/trending?spoken_language_code=ny": {
-  "title": "Chichewa, Chewa, Nyanja",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 24
- },
- "https://github.com/trending?spoken_language_code=dv": {
-  "title": "Divehi, Dhivehi, Maldivian",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 25
- },
- "https://github.com/trending?spoken_language_code=nl": {
-  "title": "Dutch, Flemish",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 26
- },
- "https://github.com/trending?spoken_language_code=ht": {
-  "title": "Haitian, Haitian Creole",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 27
- },
- "https://github.com/trending?spoken_language_code=ia": {
-  "title": "Interlingua (International Auxil...",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 28
- },
- "https://github.com/trending?spoken_language_code=ie": {
-  "title": "Interlingue, Occidental",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 29
- },
- "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html": {
-  "title": "A Human Reads the Anthropic IPO Filing",
-  "source": "Hacker News 头版",
-  "ts": 1794755886.0,
-  "desc": "Article URL: https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html\nComments URL: https://news.ycombinator.com/item?id=50507517\nPoints: 7\n# Comments: 1"
- },
- "https://jakub.jankiewicz.org/blog/ai-code-open-source/": {
-  "title": "All AI-generated code should be Open Source",
-  "source": "Hacker News 头版",
-  "ts": 1794754018.0,
-  "desc": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/\nComments URL: https://news.ycombinator.com/item?id=50507303\nPoints: 43\n# Comments: 14"
  }
 }

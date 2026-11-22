@@ -5,7 +5,49 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sun, 22 Nov 2026 11:26:35 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 19:38:20 +0000</lastBuildDate>
+  <item>
+    <title>Team &amp; Enterprise</title>
+    <link>https://huggingface.co/enterprise</link>
+    <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>Why data centers are at the center of the Big Tech backlash</title>
+    <link>https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</guid>
+    <pubDate>Sun, 22 Nov 2026 18:08:43 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Journalist Paris Marx unpacks his new book "Hyperscale."</description>
+  </item>
+  <item>
+    <title>Binding of Isaac developer removes AI music from Repentance Plus</title>
+    <link>https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</link>
+    <guid isPermaLink="true">https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</guid>
+    <pubDate>Sun, 22 Nov 2026 17:25:20 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files wi</description>
+  </item>
+  <item>
+    <title>Perplexity and Intelligence</title>
+    <link>https://openai.com/index/perplexity-and-intelligence/</link>
+    <guid isPermaLink="true">https://openai.com/index/perplexity-and-intelligence/</guid>
+    <pubDate>Sun, 22 Nov 2026 17:06:27 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://openai.com/index/perplexity-and-intelligence/
+Comments URL: https://news.ycombinator.com/item?id=50601525
+Points: 216
+# Comments: 152</description>
+  </item>
+  <item>
+    <title>解码比亚迪高端化：一家技术公司的自我进化</title>
+    <link>https://www.leiphone.com/category/transportation/QtQ2DYWViqwYNbhu.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/transportation/QtQ2DYWViqwYNbhu.html</guid>
+    <pubDate>Sun, 22 Nov 2026 14:19:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>20万元以上的车，比亚迪一个季度卖出了17.35万辆。2026年第三季度，比亚迪在这一价格区间的国内零售销量，排到了中国品牌第一。今年前三季度，腾势、方程豹、仰望合计销售40.87万辆，同比增长75.1%，占集团乘用车销量的13.3%。越来越多的消费者，开始为比亚迪的高端车型买单。这些销量来自不同的市场：腾势D9进入商务接待和家庭出行，方程豹吸引追求个性的消费者，仰望则站上了百万级市场。过去，人们谈起比亚迪，最熟悉的是技术、规模和成本。如今，这家公司正在把积累多年的技术，放进不同价位、不同用途的产品里，也开始更细致地研究：买这些车的人，究竟在意什么？从一辆车卖起来，到几个品牌各自找到用户，比亚</description>
+  </item>
   <item>
     <title>Banks Have Had It Up to Here With Your AI Agent</title>
     <link>https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/</link>
@@ -13,17 +55,6 @@
     <pubDate>Sun, 22 Nov 2026 11:00:00 +0000</pubDate>
     <source>WIRED AI</source>
     <description>Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.</description>
-  </item>
-  <item>
-    <title>Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts</title>
-    <link>https://arxiv.org/abs/2606.14068</link>
-    <guid isPermaLink="true">https://arxiv.org/abs/2606.14068</guid>
-    <pubDate>Sun, 22 Nov 2026 09:18:36 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://arxiv.org/abs/2606.14068
-Comments URL: https://news.ycombinator.com/item?id=50597743
-Points: 3
-# Comments: 0</description>
   </item>
   <item>
     <title>Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖</title>
@@ -49,35 +80,12 @@ Points: 3
     <description>今日 AI 领域在开源模型、智能体工程与基础设施方面迎来多项进展。字节跳动联合美国高校开源智能体 Axion 1.0；苹果发布单目深度估计模型 Depth Pro 2 并开放代码与权重；OpenAI 发布 GPT-6.2 Astra 与 Sol 新提示词模板并调整 API 行为；AWS 推出 HyperPod 全局推理网关，Hugging Face 与蚂蚁 OceanBase 团队分别围绕智能体适配与跨对话记忆推出方案。此外，群联展示内置 NPU 固态硬盘，联合国未能就自主武器监管达成协议。</description>
   </item>
   <item>
-    <title>Team &amp; Enterprise</title>
-    <link>https://huggingface.co/enterprise</link>
-    <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</title>
-    <link>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</guid>
-    <pubDate>Sat, 21 Nov 2026 21:37:10 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Signal is limiting users' ability to take screenshots in both its Android and iOS apps.</description>
-  </item>
-  <item>
-    <title>The UN fails to agree on rules regulating ‘killer robots’</title>
-    <link>https://www.theverge.com/tech/1039554/un-regulations-killer-robots</link>
-    <guid isPermaLink="true">https://www.theverge.com/tech/1039554/un-regulations-killer-robots</guid>
-    <pubDate>Sat, 21 Nov 2026 20:03:37 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called "killer robots." Eventually, representatives left the meetings agreeing to "start discussing options" after a largely fruitless week of negotiat</description>
-  </item>
-  <item>
-    <title>享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款</title>
-    <link>https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html</guid>
-    <pubDate>Sat, 21 Nov 2026 03:47:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>一款车，从上市到全国范围交付，需要多长时间？享界V8给出了答案！ 11月20日下午，享界V8在鸿蒙智行享界V8及星芒品牌发布会正式上市，售价31.98～42.98万元，即刻下定享至高93000元权益。当晚，首批新车交付仪式于北京鸿蒙智行用户中心启动。巴黎奥运会女子20公里竞走冠军杨家玉与一众家庭用户成为首批车主。次日，全国18城同步开启规模交付。下午上市，晚上交付。这不仅是享界V8的交付速度，更是品牌制造产能的良好体现。是其产品力、供应链与服务体系，接受市场第一波检验的开始。伴随着世界冠军与多孩家庭、三代同堂家庭的认可，享界V8“为家而生”的定位，也从产品理念走向真实现实。 冠军之选：竞技精神</description>
+    <title>Perplexity and Intelligence</title>
+    <link>https://openai.com/index/perplexity-and-intelligence</link>
+    <guid isPermaLink="true">https://openai.com/index/perplexity-and-intelligence</guid>
+    <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+    <source>OpenAI News</source>
+    <description>How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.</description>
   </item>
   <item>
     <title>Artificial Analysis</title>
@@ -100,14 +108,6 @@ Points: 3
     <guid isPermaLink="true">https://www.anthropic.com/claude-fable-and-mythos-5-2</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Combatting adversarial distillation</title>
-    <link>https://openai.com/index/combatting-adversarial-distillation</link>
-    <guid isPermaLink="true">https://openai.com/index/combatting-adversarial-distillation</guid>
-    <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
-    <source>OpenAI News</source>
-    <description>OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.</description>
   </item>
   <item>
     <title>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
@@ -175,23 +175,54 @@ Points: 3
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Hugging Face PRO</title>
+    <link>https://huggingface.co/pro</link>
+    <guid isPermaLink="true">https://huggingface.co/pro</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</title>
+    <link>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</guid>
+    <pubDate>Sat, 21 Nov 2026 21:37:10 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Signal is limiting users' ability to take screenshots in both its Android and iOS apps.</description>
+  </item>
+  <item>
+    <title>The vibe-coding revolution is coming to all the gadgets</title>
+    <link>https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera</link>
+    <guid isPermaLink="true">https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera</guid>
+    <pubDate>Sun, 22 Nov 2026 13:00:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things wit</description>
+  </item>
+  <item>
+    <title>Show HN: I built a game where you are an LLM's subagent</title>
+    <link>https://github.com/gulivan/worker755</link>
+    <guid isPermaLink="true">https://github.com/gulivan/worker755</guid>
+    <pubDate>Sun, 22 Nov 2026 13:56:58 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://github.com/gulivan/worker755
+Comments URL: https://news.ycombinator.com/item?id=50599762
+Points: 177
+# Comments: 45</description>
+  </item>
+  <item>
+    <title>磨了 8 年、折了 9.6 万次，比亚迪折叠智舱终究会「真香」</title>
+    <link>https://www.leiphone.com/category/transportation/fhogNEQ0PWQ74TGa.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/transportation/fhogNEQ0PWQ74TGa.html</guid>
+    <pubDate>Sun, 22 Nov 2026 12:55:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>近日，方程豹钛 9 折叠智舱版上市，最受关注的一项配置是折叠方向盘。但新车发布后，争议也随之而来。开车时，方向盘会不会意外折起来？停车以后，又有多少场景真的需要把它收起来？雷峰网认为，既然是一个量产配置，就肯定有实际用途，也有明确的安全边界。对在服务区小憩、在车里等充电的人来说，它让主驾多了一个可以伸开腿的休息位置。日常手动折叠，则必须在车辆停稳、挂入 P 挡后由车主主动触发。01方向盘什么时候能折起来？钛 9 的手动操作逻辑是，车主先把车停稳、挂入 P 挡，再按下折叠键，方向盘才会收起。车辆在 D 挡下等红灯，即使已经停住，也达不到触发条件。钛 9 还支持离车泊入时“边泊入边折叠”，泊出时“</description>
+  </item>
+  <item>
     <title>The Outages Are Just Getting Started</title>
     <link>https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/</link>
     <guid isPermaLink="true">https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/</guid>
     <pubDate>Sat, 21 Nov 2026 13:00:00 +0000</pubDate>
     <source>WIRED AI</source>
     <description>AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.</description>
-  </item>
-  <item>
-    <title>87% of the Anthropic power will come from gas and 11% from coal in 2028</title>
-    <link>https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</link>
-    <guid isPermaLink="true">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</guid>
-    <pubDate>Sun, 22 Nov 2026 08:57:34 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/
-Comments URL: https://news.ycombinator.com/item?id=50597612
-Points: 149
-# Comments: 183</description>
   </item>
   <item>
     <title>A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿</title>
@@ -216,35 +247,12 @@ Points: 149
     <description>今日 AI 行业冷热交织：资本市场承压，受换帅风波与估值担忧影响，英伟达单日大跌 14%、市值较峰值蒸发 2.73 万亿美元，拖累纳指创 2020 年来最差单周表现；技术与产业层面则持续推进，Anthropic 数学家宣称与 Claude 合作找到黎曼猜想证明并公开 Lean 代码，学界正展开验证。此外，贝佐斯出任 410 亿美元估值公司 Prometheus 联席 CEO 押注物理工程 AI，Thinking Machines Lab 发布循环 MoE 模型 Inkling 2 Mini，AI 路由数据泄露与后训练机制研究亦引发关注。</description>
   </item>
   <item>
-    <title>Hugging Face PRO</title>
-    <link>https://huggingface.co/pro</link>
-    <guid isPermaLink="true">https://huggingface.co/pro</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>A tale of two Nvidias</title>
-    <link>https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</guid>
-    <pubDate>Sat, 21 Nov 2026 21:07:42 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.</description>
-  </item>
-  <item>
-    <title>Can Anthropic afford to put safety first?</title>
-    <link>https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</link>
-    <guid isPermaLink="true">https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</guid>
-    <pubDate>Sat, 21 Nov 2026 15:00:00 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver</description>
-  </item>
-  <item>
-    <title>当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！</title>
-    <link>https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html</guid>
-    <pubDate>Sat, 21 Nov 2026 02:59:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>过去几年，AI 生图模型在真实感、分辨率和光影表现上不断刷新人们的认知。但当这些图片真正被用于海报、广告这些商业场景时仍会面临文字能否准确呈现、局部修改是否能保留原有设计等问题。这些看似不起眼的要求，至今仍是图像模型的难题。（雷峰网）今年 3 月，微软研究院发布了一项名为 BizGenEval 的商业视觉生成评测，用 400 条提示词和 8000 道检查题测试主流模型。结果发现，模型已经能生成颇具美感的海报和网页，但在精确布局、多个对象之间的属性对应等方面，仍然存在明显短板。也正是在这个阶段，以视频生成出圈的可灵在今天推出了 Kling Image 4.0。Kling Image 4.0 生成</description>
+    <title>Combatting adversarial distillation</title>
+    <link>https://openai.com/index/combatting-adversarial-distillation</link>
+    <guid isPermaLink="true">https://openai.com/index/combatting-adversarial-distillation</guid>
+    <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
+    <source>OpenAI News</source>
+    <description>OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.</description>
   </item>
   <item>
     <title>Thinking Machines has released Inkling 2 Mini, an open weights looped transformerNovember 20, 2026</title>
@@ -267,14 +275,6 @@ Points: 149
     <guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Can AI help scientists identify promising drug candidates?</title>
-    <link>https://openai.com/index/introducing-medchembench</link>
-    <guid isPermaLink="true">https://openai.com/index/introducing-medchembench</guid>
-    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-    <source>OpenAI News</source>
-    <description>MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.</description>
   </item>
   <item>
     <title>Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost</title>
@@ -334,23 +334,54 @@ Points: 149
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Enterprise Support</title>
+    <link>https://huggingface.co/support</link>
+    <guid isPermaLink="true">https://huggingface.co/support</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>A tale of two Nvidias</title>
+    <link>https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</guid>
+    <pubDate>Sat, 21 Nov 2026 21:07:42 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.</description>
+  </item>
+  <item>
+    <title>The UN fails to agree on rules regulating ‘killer robots’</title>
+    <link>https://www.theverge.com/tech/1039554/un-regulations-killer-robots</link>
+    <guid isPermaLink="true">https://www.theverge.com/tech/1039554/un-regulations-killer-robots</guid>
+    <pubDate>Sat, 21 Nov 2026 20:03:37 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called "killer robots." Eventually, representatives left the meetings agreeing to "start discussing options" after a largely fruitless week of negotiat</description>
+  </item>
+  <item>
+    <title>Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator</title>
+    <link>https://simonwillison.net/2026/Nov/21/muru/</link>
+    <guid isPermaLink="true">https://simonwillison.net/2026/Nov/21/muru/</guid>
+    <pubDate>Sun, 22 Nov 2026 09:57:01 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://simonwillison.net/2026/Nov/21/muru/
+Comments URL: https://news.ycombinator.com/item?id=50597959
+Points: 55
+# Comments: 9</description>
+  </item>
+  <item>
+    <title>特朗普表态：英伟达Blackwell芯片可对华销售，但有个条件；OpenAI被曝入局智能手机赛道；DeepSeek第二轮千亿融资落地，31家出资方入局</title>
+    <link>https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html</guid>
+    <pubDate>Sun, 22 Nov 2026 10:15:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>要闻提示1.OpenAI被曝入局智能手机赛道，富士康获组装订单2.特朗普表态：英伟达Blackwell芯片可对华销售，但有个条件3.DeepSeek千亿融资落地，31家出资方入股梁文锋搭建的持股平台4.马斯克自称“中国超级粉丝”：首次到访深圳被震撼，特斯拉将继续在华提高产量5.字节跳动拟追加5亿美元微软云服务合同6.西祠胡同创始人响马突发心梗：到急诊几分钟后心脏骤停，现已回家静养7.黄仁勋继任者被曝已有人选！马斯克：英伟达把他赶走，堪比公牛队连胜时踢走乔丹8.Anthropic完成史上最大规模IPO，上市估值达1.5万亿美元今日头条OpenAI被曝入局智能手机赛道，富士康获组装订单11月19日</description>
+  </item>
+  <item>
     <title>Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop</title>
     <link>https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/</link>
     <guid isPermaLink="true">https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/</guid>
     <pubDate>Fri, 20 Nov 2026 23:24:02 +0000</pubDate>
     <source>WIRED AI</source>
     <description>The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.</description>
-  </item>
-  <item>
-    <title>Data Processing Incidents on Inference Providers</title>
-    <link>https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/</link>
-    <guid isPermaLink="true">https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/</guid>
-    <pubDate>Sun, 22 Nov 2026 02:14:14 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/
-Comments URL: https://news.ycombinator.com/item?id=50595554
-Points: 161
-# Comments: 64</description>
   </item>
   <item>
     <title>AI给乐队现场搓MV，这是黑客松还是音乐节啊</title>
@@ -360,10 +391,10 @@ Points: 161
     <source>量子位</source>
   </item>
   <item>
-    <title>2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴</title>
-    <link>https://www.iimedia.cn/c1061/120072.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120072.html</guid>
-    <pubDate>Sun, 15 Nov 2026 21:02:19 +0000</pubDate>
+    <title>艾媒鼎榜 | 2026年中国车载实体AI机器人品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/120376.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/120376.html</guid>
+    <pubDate>Wed, 18 Nov 2026 11:40:24 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
@@ -375,35 +406,12 @@ Points: 161
     <description>2026年11月20日，全球AI行业迎来标志性事件：Anthropic正式在纳斯达克挂牌交易，开盘暴涨超30%，创下全球史上最大规模IPO纪录。大模型产品与工程架构加速向智能体（Agent）深层演进，谷歌为macOS版Gemini上线直接控制电脑的“Computer Use”能力，并推出跳过文本生成、直接输出概率的决策模型Gemini Decision 1；Perplexity亦发布专为决策定制的Decider v1.3，重构注意力机制实现批量无干扰判断。此外，阿里巴巴最新财报披露AI云业务同比大涨53%，并确认千问正基于平头哥国产芯片训练下一代模型；DeepSeek则调整计费策略，模型调用内</description>
   </item>
   <item>
-    <title>Enterprise Support</title>
-    <link>https://huggingface.co/support</link>
-    <guid isPermaLink="true">https://huggingface.co/support</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>Here are the top AI agents that can live in your text messages</title>
-    <link>https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/</guid>
-    <pubDate>Sat, 21 Nov 2026 17:00:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</description>
-  </item>
-  <item>
-    <title>Chess.com’s next move is a new hub for classic games, from mahjong to sudoku</title>
-    <link>https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai</link>
-    <guid isPermaLink="true">https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai</guid>
-    <pubDate>Sat, 21 Nov 2026 14:00:00 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of </description>
-  </item>
-  <item>
-    <title>上汽通用发布真龙插混MAX，首搭别克至境世家</title>
-    <link>https://www.leiphone.com/category/industrynews/SiETkjl6gqYBSCz4.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/SiETkjl6gqYBSCz4.html</guid>
-    <pubDate>Fri, 20 Nov 2026 14:07:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>2026年11月20日，上汽通用汽车发布全新一代插混技术——真龙插混MAX，将首搭别克MPV全新至境世家，并于11月27日广州车展对公众亮相。这套系统由2.0T混动专用发动机、800V高压平台与支持6C充电的插混专用电池组成。据介绍，真龙插混MAX，基于插电混动独有的物理架构优势，相对于真龙插混与真龙插混Pro，在性能、静谧、安全到智能等方面进一步升级。 动力：满电与亏电加速相差0.1秒真龙插混MAX搭载通用汽车首款2.0T混动专用发动机、WLTC工况效率93.07%的插混电驱，以及800V高压架构，系统综合最大功率550kW，峰值扭矩815N·m。上汽通用称，电池在20% SOC时仍可释放4</description>
+    <title>Can AI help scientists identify promising drug candidates?</title>
+    <link>https://openai.com/index/introducing-medchembench</link>
+    <guid isPermaLink="true">https://openai.com/index/introducing-medchembench</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    <source>OpenAI News</source>
+    <description>MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.</description>
   </item>
   <item>
     <title>Google continues to accelerate its release cadence with Gemini 4 NeonNovember 18, 2026</title>
@@ -426,14 +434,6 @@ Points: 161
     <guid isPermaLink="true">https://www.anthropic.com/news/s1-sec</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Hebbia sees improvements in financial research with GPT-6 Astra</title>
-    <link>https://openai.com/business/customer-stories/hebbia</link>
-    <guid isPermaLink="true">https://openai.com/business/customer-stories/hebbia</guid>
-    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-    <source>OpenAI News</source>
-    <description>Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.</description>
   </item>
   <item>
     <title>DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency</title>
@@ -486,23 +486,54 @@ Points: 161
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Inference Providers</title>
+    <link>https://huggingface.co/inference/models</link>
+    <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>Here are the top AI agents that can live in your text messages</title>
+    <link>https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/</guid>
+    <pubDate>Sat, 21 Nov 2026 17:00:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</description>
+  </item>
+  <item>
+    <title>Can Anthropic afford to put safety first?</title>
+    <link>https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</link>
+    <guid isPermaLink="true">https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</guid>
+    <pubDate>Sat, 21 Nov 2026 15:00:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver</description>
+  </item>
+  <item>
+    <title>Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts</title>
+    <link>https://arxiv.org/abs/2606.14068</link>
+    <guid isPermaLink="true">https://arxiv.org/abs/2606.14068</guid>
+    <pubDate>Sun, 22 Nov 2026 09:18:36 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://arxiv.org/abs/2606.14068
+Comments URL: https://news.ycombinator.com/item?id=50597743
+Points: 3
+# Comments: 0</description>
+  </item>
+  <item>
+    <title>享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款</title>
+    <link>https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html</guid>
+    <pubDate>Sat, 21 Nov 2026 03:47:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>一款车，从上市到全国范围交付，需要多长时间？享界V8给出了答案！ 11月20日下午，享界V8在鸿蒙智行享界V8及星芒品牌发布会正式上市，售价31.98～42.98万元，即刻下定享至高93000元权益。当晚，首批新车交付仪式于北京鸿蒙智行用户中心启动。巴黎奥运会女子20公里竞走冠军杨家玉与一众家庭用户成为首批车主。次日，全国18城同步开启规模交付。下午上市，晚上交付。这不仅是享界V8的交付速度，更是品牌制造产能的良好体现。是其产品力、供应链与服务体系，接受市场第一波检验的开始。伴随着世界冠军与多孩家庭、三代同堂家庭的认可，享界V8“为家而生”的定位，也从产品理念走向真实现实。 冠军之选：竞技精神</description>
+  </item>
+  <item>
     <title>Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation</title>
     <link>https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/</link>
     <guid isPermaLink="true">https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/</guid>
     <pubDate>Fri, 20 Nov 2026 19:52:21 +0000</pubDate>
     <source>WIRED AI</source>
     <description>Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”</description>
-  </item>
-  <item>
-    <title>The Mythology of Conscious AI</title>
-    <link>https://www.noemamag.com/the-mythology-of-conscious-ai/</link>
-    <guid isPermaLink="true">https://www.noemamag.com/the-mythology-of-conscious-ai/</guid>
-    <pubDate>Sun, 22 Nov 2026 02:10:02 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/
-Comments URL: https://news.ycombinator.com/item?id=50595537
-Points: 74
-# Comments: 152</description>
   </item>
   <item>
     <title>中国计算，走出新的登峰之路</title>
@@ -512,10 +543,10 @@ Points: 74
     <source>量子位</source>
   </item>
   <item>
-    <title>艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强</title>
-    <link>https://www.iimedia.cn/c1106/119852.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119852.html</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <title>2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴</title>
+    <link>https://www.iimedia.cn/c1061/120072.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120072.html</guid>
+    <pubDate>Sun, 15 Nov 2026 21:02:19 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
@@ -527,35 +558,12 @@ Points: 74
     <description>今日大模型与资本市场迎来多项进展：Google DeepMind 发布前沿模型 Gemini 4 Neon 并同步开放多端使用，同时向 AI Ultra 订阅用户推出世界模型 Genie 4；微软发布 MAI 系列七款高性价比模型；Anthropic 正式将 IPO 定价定为每股 83 美元，预计 11 月 19 日以“ANT”代码登陆纳斯达克。国内方面，腾讯 Q3 财报披露资本开支同比大增 528%；字节跳动豆包工作 DAU 突破 800 万。英伟达在黄仁勋离职后的首次全员会上宣布 12 月提前加薪与增加股权激励，以稳定团队；开源与学术界则在 32GB 内存运行 180B MoE 模型与流式</description>
   </item>
   <item>
-    <title>Inference Providers</title>
-    <link>https://huggingface.co/inference/models</link>
-    <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>Is selling an AI version of your face to this microdrama startup the future of Hollywood?</title>
-    <link>https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/</guid>
-    <pubDate>Sat, 21 Nov 2026 16:00:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.</description>
-  </item>
-  <item>
-    <title>Trump threatens ‘tremendous tax’ for moving AI data centers outside the US</title>
-    <link>https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</link>
-    <guid isPermaLink="true">https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</guid>
-    <pubDate>Fri, 20 Nov 2026 18:50:19 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>President Donald Trump promised to put a "tremendous tax" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. "We're not going to allow our companies to build data centers outside of our coun</description>
-  </item>
-  <item>
-    <title>拓竹 MakerWorld，为什么难复制？</title>
-    <link>https://www.leiphone.com/category/weiwu/zv5a8TgwqnZmROX5.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/zv5a8TgwqnZmROX5.html</guid>
-    <pubDate>Fri, 20 Nov 2026 11:10:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>模型社区成了 3D 打印厂商争夺的下一块阵地。作者丨姚单编辑丨董子博2026 年 9 月底，一个 3D 打印模型社区收益榜上排第一的创作者，纯靠赚积分，已经攒下价值约 55 万元人民币的收益。年末是购机和打印高峰，照这个势头，全年冲到 80~90 万元也不成问题。这不是个例。头部创作者一年收入高达 40 万美金，足以支撑一份全职；中腰部把创作当副业、一年赚 5 万~10 万美金，被形容"不算很难"。这些收益，真实发生在拓竹旗下的模型社区 MakerWorld。拓竹成立于 2020 年，寥寥数年就冲进行业的第一梯队。早在创业初期，拓竹就判断，硬件壁垒最多只有 18 个月的红利期，社区生态才是真正</description>
+    <title>Hebbia sees improvements in financial research with GPT-6 Astra</title>
+    <link>https://openai.com/business/customer-stories/hebbia</link>
+    <guid isPermaLink="true">https://openai.com/business/customer-stories/hebbia</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    <source>OpenAI News</source>
+    <description>Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.</description>
   </item>
   <item>
     <title>OpenAI has the #2 model in the Intelligence Index with the release of GPT-6.2 Astra and GPT-6.2 SolNovember 17, 2026</title>
@@ -570,14 +578,6 @@ Points: 74
     <guid isPermaLink="true">https://www.anthropic.com/research/early-progress-drug-development</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
-    <link>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</link>
-    <guid isPermaLink="true">https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</guid>
-    <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
-    <source>OpenAI News</source>
-    <description>Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.</description>
   </item>
   <item>
     <title>Why your fine-tuning job takes longer than the FLOPs say</title>
@@ -630,23 +630,54 @@ Points: 74
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Inference Endpoints</title>
+    <link>https://huggingface.co/inference-endpoints</link>
+    <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>Is selling an AI version of your face to this microdrama startup the future of Hollywood?</title>
+    <link>https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/</guid>
+    <pubDate>Sat, 21 Nov 2026 16:00:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.</description>
+  </item>
+  <item>
+    <title>Chess.com’s next move is a new hub for classic games, from mahjong to sudoku</title>
+    <link>https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai</link>
+    <guid isPermaLink="true">https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai</guid>
+    <pubDate>Sat, 21 Nov 2026 14:00:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of </description>
+  </item>
+  <item>
+    <title>87% of the Anthropic power will come from gas and 11% from coal in 2028</title>
+    <link>https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</link>
+    <guid isPermaLink="true">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</guid>
+    <pubDate>Sun, 22 Nov 2026 08:57:34 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/
+Comments URL: https://news.ycombinator.com/item?id=50597612
+Points: 149
+# Comments: 183</description>
+  </item>
+  <item>
+    <title>当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！</title>
+    <link>https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html</guid>
+    <pubDate>Sat, 21 Nov 2026 02:59:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>过去几年，AI 生图模型在真实感、分辨率和光影表现上不断刷新人们的认知。但当这些图片真正被用于海报、广告这些商业场景时仍会面临文字能否准确呈现、局部修改是否能保留原有设计等问题。这些看似不起眼的要求，至今仍是图像模型的难题。（雷峰网）今年 3 月，微软研究院发布了一项名为 BizGenEval 的商业视觉生成评测，用 400 条提示词和 8000 道检查题测试主流模型。结果发现，模型已经能生成颇具美感的海报和网页，但在精确布局、多个对象之间的属性对应等方面，仍然存在明显短板。也正是在这个阶段，以视频生成出圈的可灵在今天推出了 Kling Image 4.0。Kling Image 4.0 生成</description>
+  </item>
+  <item>
     <title>Muse Is Unleashing a World of Pettiness on Instagram</title>
     <link>https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/</link>
     <guid isPermaLink="true">https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/</guid>
     <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
     <source>WIRED AI</source>
     <description>Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.</description>
-  </item>
-  <item>
-    <title>Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers</title>
-    <link>https://tasklet.ai/careers</link>
-    <guid isPermaLink="true">https://tasklet.ai/careers</guid>
-    <pubDate>Sat, 21 Nov 2026 21:11:08 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://tasklet.ai/careers
-Comments URL: https://news.ycombinator.com/item?id=50593679
-Points: 0
-# Comments: 0</description>
   </item>
   <item>
     <title>8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准</title>
@@ -656,9 +687,9 @@ Points: 0
     <source>量子位</source>
   </item>
   <item>
-    <title>艾媒鼎榜 | 2026年中国AI会议耳机品牌10强</title>
-    <link>https://www.iimedia.cn/c1106/119848.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119848.html</guid>
+    <title>艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/119852.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119852.html</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>艾媒网</source>
   </item>
@@ -671,35 +702,12 @@ Points: 0
     <description>今日AI领域重磅动态频出。模型与产品方面，OpenAI发布降价的GPT-6.2 Astra与Sol，微软将Office整合进Copilot并量产Maia 200芯片，Google为Gemini上线Task代办模式。行业与资本方面，英伟达第三财季营收翻倍，董事会正式拒绝黄仁勋复职并停售中国H200芯片；Anthropic获准在纳斯达克上市，AMD完成收购World Labs，Isomorphic Labs融资50亿美元。此外，加州与爱尔兰针对自动驾驶及智能体数据抓取的监管亦进一步落地。</description>
   </item>
   <item>
-    <title>Inference Endpoints</title>
-    <link>https://huggingface.co/inference-endpoints</link>
-    <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.</title>
-    <link>https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/</guid>
-    <pubDate>Fri, 20 Nov 2026 19:53:41 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.</description>
-  </item>
-  <item>
-    <title>Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</link>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</guid>
-    <pubDate>Fri, 20 Nov 2026 16:34:13 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic </description>
-  </item>
-  <item>
-    <title>灵掌机器人太空灵巧手亮相世界智能制造博览会</title>
-    <link>https://www.leiphone.com/category/industrynews/leaIWtsEkg58zaCy.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/leaIWtsEkg58zaCy.html</guid>
-    <pubDate>Fri, 20 Nov 2026 10:27:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>11月19日至21日，第十一届世界智能制造博览会（以下简称“智博会”）在南京国际博览中心举办。无锡灵掌机器人科技有限公司（以下简称“灵掌机器人”）携全系列共9款灵巧手产品参展，重点展示了灵巧手在工业制造、太空任务、特种作业、科研与人形机器人等行业领域的落地场景及解决方案。灵掌机器人创始人兼首席执行官张超介绍，灵巧手是具身智能走向真实操作的重要一环，也是连接智能决策与物理执行的关键末端。当前灵巧手行业正进入快速发展期，逐步进入真实应用场景中，市场需求也在持续释放。从工业产线上的重物抓取搬运，到危险环境中的远程防爆作业，再到太空航天器维修，灵巧手的市场应用空间广阔。在张超看来，机器人发展的重要价值</description>
+    <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
+    <link>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</link>
+    <guid isPermaLink="true">https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</guid>
+    <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
+    <source>OpenAI News</source>
+    <description>Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.</description>
   </item>
   <item>
     <title>Multimodal Knowledge Agent (MKA) benchmark: testing knowledge work capabilities with complex visual filesNovember 10, 2026</title>
@@ -714,14 +722,6 @@ Points: 0
     <guid isPermaLink="true">https://www.anthropic.com/claude-haiku-5-5</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Anthropic Newsroom</source>
-  </item>
-  <item>
-    <title>Deploying Daybreak Red</title>
-    <link>https://openai.com/business/learn/deploying-daybreak-red</link>
-    <guid isPermaLink="true">https://openai.com/business/learn/deploying-daybreak-red</guid>
-    <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-    <source>OpenAI News</source>
-    <description>Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.</description>
   </item>
   <item>
     <title>Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
