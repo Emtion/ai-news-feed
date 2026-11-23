@@ -5,13 +5,36 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Mon, 23 Nov 2026 00:52:29 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 03:52:24 +0000</lastBuildDate>
   <item>
-    <title>GitHubRepository hosting, code review, and collaboration</title>
-    <link>https://github.com/platform</link>
-    <guid isPermaLink="true">https://github.com/platform</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <title>2026年中国消费者认为AI大模型的发展趋势：认为“很好”的占比51.4%</title>
+    <link>https://www.iimedia.cn/c1061/111224.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/111224.html</guid>
+    <pubDate>Fri, 20 Nov 2026 02:19:05 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>Build with Copilot</title>
+    <link>https://github.com/features/ai</link>
+    <guid isPermaLink="true">https://github.com/features/ai</guid>
+    <pubDate>Mon, 23 Nov 2026 03:52:04 +0000</pubDate>
     <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO</title>
+    <link>https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</guid>
+    <pubDate>Mon, 23 Nov 2026 01:25:53 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Three significant backers share what gave them conviction to bet billions on Anthropic.</description>
+  </item>
+  <item>
+    <title>2026-11-23 AI 日报 · Lean确认Claude协作黎曼猜想证明，可灵增资后估值近180亿美元</title>
+    <link>https://daily.ai225.com/daily/2026-11-23</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-23</guid>
+    <pubDate>Mon, 23 Nov 2026 00:53:38 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>本期聚焦 AI 数学推理与产业动态。Lean FRO 与 Mathlib 社区确认 Claude 协作完成的黎曼猜想形式化证明正确，同一数学家另联合纽约大学学者发布 Navier-Stokes 爆破证明。可灵 AI 完成约 198 亿元增资，转为快手仍控股的独立经营主体，投后估值近 180 亿美元；OpenAI 与 Anthropic 高管讨论限制 AI 节奏，微软支持并披露 MAI-2 数据；METR 警告模型进步已快于安全评估能力。算力上，曙光 8000 支撑科研团队获 ACM 戈登·贝尔奖，AWS 推出 TorchNeuron。</description>
   </item>
   <item>
     <title>0rwx – A simple model of AI usage, inspired by Unix permissions</title>
@@ -31,14 +54,6 @@ Points: 8
     <pubDate>Sun, 22 Nov 2026 22:48:02 +0000</pubDate>
     <source>The Verge AI</source>
     <description>Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: "The Americ</description>
-  </item>
-  <item>
-    <title>OpenAI’s chief scientist has thoughts on how to limit AI development</title>
-    <link>https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</guid>
-    <pubDate>Sun, 22 Nov 2026 21:14:07 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>To establish a speed limit on AI development, you need to agree on how to measure speed.</description>
   </item>
   <item>
     <title>Team &amp; Enterprise</title>
@@ -70,21 +85,6 @@ Points: 8
     <pubDate>Sun, 22 Nov 2026 06:21:47 +0000</pubDate>
     <source>量子位</source>
     <description>用葡萄糖发电控制血糖。</description>
-  </item>
-  <item>
-    <title>2026年中国消费者认为AI大模型的发展趋势：认为“很好”的占比51.4%</title>
-    <link>https://www.iimedia.cn/c1061/111224.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1061/111224.html</guid>
-    <pubDate>Fri, 20 Nov 2026 02:19:05 +0000</pubDate>
-    <source>艾媒网</source>
-  </item>
-  <item>
-    <title>2026-11-22 AI 日报 · 字节与高校开源 Axion 1.0，苹果发布 Depth Pro 2，群联展 NPU 硬盘</title>
-    <link>https://daily.ai225.com/daily/2026-11-22</link>
-    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-22</guid>
-    <pubDate>Sun, 22 Nov 2026 00:53:02 +0000</pubDate>
-    <source>AI 日报 · AI225</source>
-    <description>今日 AI 领域在开源模型、智能体工程与基础设施方面迎来多项进展。字节跳动联合美国高校开源智能体 Axion 1.0；苹果发布单目深度估计模型 Depth Pro 2 并开放代码与权重；OpenAI 发布 GPT-6.2 Astra 与 Sol 新提示词模板并调整 API 行为；AWS 推出 HyperPod 全局推理网关，Hugging Face 与蚂蚁 OceanBase 团队分别围绕智能体适配与跨对话记忆推出方案。此外，群联展示内置 NPU 固态硬盘，联合国未能就自主武器监管达成协议。</description>
   </item>
   <item>
     <title>Perplexity and Intelligence</title>
@@ -175,11 +175,34 @@ Points: 8
     <source>Meta AI 博客</source>
   </item>
   <item>
-    <title>CopilotAI coding agent for tasks, projects, and automated work</title>
-    <link>https://github.com/features/copilot</link>
-    <guid isPermaLink="true">https://github.com/features/copilot</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <title>艾媒咨询 | 2026年上半年中国人工智能行业投融资市场监测与分析报告</title>
+    <link>https://www.iimedia.cn/c400/119474.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/119474.html</guid>
+    <pubDate>Thu, 19 Nov 2026 02:33:52 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>Trending repos</title>
+    <link>https://github.com/trending</link>
+    <guid isPermaLink="true">https://github.com/trending</guid>
+    <pubDate>Mon, 23 Nov 2026 03:52:04 +0000</pubDate>
     <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>OpenAI’s chief scientist has thoughts on how to limit AI development</title>
+    <link>https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</guid>
+    <pubDate>Sun, 22 Nov 2026 21:14:07 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>To establish a speed limit on AI development, you need to agree on how to measure speed.</description>
+  </item>
+  <item>
+    <title>2026-11-22 AI 日报 · 字节与高校开源 Axion 1.0，苹果发布 Depth Pro 2，群联展 NPU 硬盘</title>
+    <link>https://daily.ai225.com/daily/2026-11-22</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-22</guid>
+    <pubDate>Sun, 22 Nov 2026 00:53:02 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>今日 AI 领域在开源模型、智能体工程与基础设施方面迎来多项进展。字节跳动联合美国高校开源智能体 Axion 1.0；苹果发布单目深度估计模型 Depth Pro 2 并开放代码与权重；OpenAI 发布 GPT-6.2 Astra 与 Sol 新提示词模板并调整 API 行为；AWS 推出 HyperPod 全局推理网关，Hugging Face 与蚂蚁 OceanBase 团队分别围绕智能体适配与跨对话记忆推出方案。此外，群联展示内置 NPU 固态硬盘，联合国未能就自主武器监管达成协议。</description>
   </item>
   <item>
     <title>Progress map for the Lean formalization of Alessandro Masullo's manuscript</title>
@@ -189,8 +212,8 @@ Points: 8
     <source>Hacker News 头版</source>
     <description>Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3
 Comments URL: https://news.ycombinator.com/item?id=50605045
-Points: 114
-# Comments: 70</description>
+Points: 173
+# Comments: 149</description>
   </item>
   <item>
     <title>Binding of Isaac developer removes AI music from Repentance Plus</title>
@@ -199,14 +222,6 @@ Points: 114
     <pubDate>Sun, 22 Nov 2026 17:25:20 +0000</pubDate>
     <source>The Verge AI</source>
     <description>The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files wi</description>
-  </item>
-  <item>
-    <title>Why data centers are at the center of the Big Tech backlash</title>
-    <link>https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</guid>
-    <pubDate>Sun, 22 Nov 2026 18:08:43 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Journalist Paris Marx unpacks his new book "Hyperscale."</description>
   </item>
   <item>
     <title>Hugging Face PRO</title>
@@ -237,21 +252,6 @@ Points: 114
     <guid isPermaLink="true">https://www.qbitai.com/2026/11/511870.html</guid>
     <pubDate>Sun, 22 Nov 2026 06:03:54 +0000</pubDate>
     <source>量子位</source>
-  </item>
-  <item>
-    <title>艾媒咨询 | 2026年上半年中国人工智能行业投融资市场监测与分析报告</title>
-    <link>https://www.iimedia.cn/c400/119474.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c400/119474.html</guid>
-    <pubDate>Thu, 19 Nov 2026 02:33:52 +0000</pubDate>
-    <source>艾媒网</source>
-  </item>
-  <item>
-    <title>2026-11-21 AI 日报 · 英伟达暴跌拖累 AI 板块；Anthropic 数学家宣称携手 Claude 证出黎曼猜想</title>
-    <link>https://daily.ai225.com/daily/2026-11-21</link>
-    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-21</guid>
-    <pubDate>Sat, 21 Nov 2026 00:54:02 +0000</pubDate>
-    <source>AI 日报 · AI225</source>
-    <description>今日 AI 行业冷热交织：资本市场承压，受换帅风波与估值担忧影响，英伟达单日大跌 14%、市值较峰值蒸发 2.73 万亿美元，拖累纳指创 2020 年来最差单周表现；技术与产业层面则持续推进，Anthropic 数学家宣称与 Claude 合作找到黎曼猜想证明并公开 Lean 代码，学界正展开验证。此外，贝佐斯出任 410 亿美元估值公司 Prometheus 联席 CEO 押注物理工程 AI，Thinking Machines Lab 发布循环 MoE 模型 Inkling 2 Mini，AI 路由数据泄露与后训练机制研究亦引发关注。</description>
   </item>
   <item>
     <title>Combatting adversarial distillation</title>
@@ -334,11 +334,34 @@ Points: 114
     <source>Meta AI 博客</source>
   </item>
   <item>
-    <title>ActionsCI/CD and automation</title>
-    <link>https://github.com/features/actions</link>
-    <guid isPermaLink="true">https://github.com/features/actions</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <title>艾媒鼎榜 | 2026年中国车载实体AI机器人品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/120376.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/120376.html</guid>
+    <pubDate>Wed, 18 Nov 2026 11:40:24 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>GitHub Sponsors</title>
+    <link>https://github.com/open-source/sponsors</link>
+    <guid isPermaLink="true">https://github.com/open-source/sponsors</guid>
+    <pubDate>Mon, 23 Nov 2026 03:52:04 +0000</pubDate>
     <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>Why data centers are at the center of the Big Tech backlash</title>
+    <link>https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</guid>
+    <pubDate>Sun, 22 Nov 2026 18:08:43 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Journalist Paris Marx unpacks his new book "Hyperscale."</description>
+  </item>
+  <item>
+    <title>2026-11-21 AI 日报 · 英伟达暴跌拖累 AI 板块；Anthropic 数学家宣称携手 Claude 证出黎曼猜想</title>
+    <link>https://daily.ai225.com/daily/2026-11-21</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-21</guid>
+    <pubDate>Sat, 21 Nov 2026 00:54:02 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>今日 AI 行业冷热交织：资本市场承压，受换帅风波与估值担忧影响，英伟达单日大跌 14%、市值较峰值蒸发 2.73 万亿美元，拖累纳指创 2020 年来最差单周表现；技术与产业层面则持续推进，Anthropic 数学家宣称与 Claude 合作找到黎曼猜想证明并公开 Lean 代码，学界正展开验证。此外，贝佐斯出任 410 亿美元估值公司 Prometheus 联席 CEO 押注物理工程 AI，Thinking Machines Lab 发布循环 MoE 模型 Inkling 2 Mini，AI 路由数据泄露与后训练机制研究亦引发关注。</description>
   </item>
   <item>
     <title>Localcode, open source agentic coding on your Mac with one command</title>
@@ -358,14 +381,6 @@ Points: 12
     <pubDate>Sun, 22 Nov 2026 13:00:00 +0000</pubDate>
     <source>The Verge AI</source>
     <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things wit</description>
-  </item>
-  <item>
-    <title>Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</title>
-    <link>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</guid>
-    <pubDate>Sat, 21 Nov 2026 21:37:10 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Signal is limiting users' ability to take screenshots in both its Android and iOS apps.</description>
   </item>
   <item>
     <title>Enterprise Support</title>
@@ -396,21 +411,6 @@ Points: 12
     <guid isPermaLink="true">https://www.qbitai.com/2026/11/511855.html</guid>
     <pubDate>Sat, 21 Nov 2026 14:14:09 +0000</pubDate>
     <source>量子位</source>
-  </item>
-  <item>
-    <title>2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴</title>
-    <link>https://www.iimedia.cn/c1061/120072.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120072.html</guid>
-    <pubDate>Sun, 15 Nov 2026 21:02:19 +0000</pubDate>
-    <source>艾媒网</source>
-  </item>
-  <item>
-    <title>2026-11-20 AI 日报 · Anthropic创纪录挂牌纳斯达克，谷歌与Perplexity掀起决策模型架构竞赛</title>
-    <link>https://daily.ai225.com/daily/2026-11-20</link>
-    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-20</guid>
-    <pubDate>Fri, 20 Nov 2026 01:00:57 +0000</pubDate>
-    <source>AI 日报 · AI225</source>
-    <description>2026年11月20日，全球AI行业迎来标志性事件：Anthropic正式在纳斯达克挂牌交易，开盘暴涨超30%，创下全球史上最大规模IPO纪录。大模型产品与工程架构加速向智能体（Agent）深层演进，谷歌为macOS版Gemini上线直接控制电脑的“Computer Use”能力，并推出跳过文本生成、直接输出概率的决策模型Gemini Decision 1；Perplexity亦发布专为决策定制的Decider v1.3，重构注意力机制实现批量无干扰判断。此外，阿里巴巴最新财报披露AI云业务同比大涨53%，并确认千问正基于平头哥国产芯片训练下一代模型；DeepSeek则调整计费策略，模型调用内</description>
   </item>
   <item>
     <title>Can AI help scientists identify promising drug candidates?</title>
@@ -486,11 +486,34 @@ Points: 12
     <source>Meta AI 博客</source>
   </item>
   <item>
-    <title>Code QualityQuality analysis, fixes, and enforcement</title>
-    <link>https://github.com/features/code-quality</link>
-    <guid isPermaLink="true">https://github.com/features/code-quality</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <title>2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴</title>
+    <link>https://www.iimedia.cn/c1061/120072.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120072.html</guid>
+    <pubDate>Sun, 15 Nov 2026 21:02:19 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>Developer articles</title>
+    <link>https://github.com/resources/articles</link>
+    <guid isPermaLink="true">https://github.com/resources/articles</guid>
+    <pubDate>Mon, 23 Nov 2026 03:52:04 +0000</pubDate>
     <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</title>
+    <link>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</guid>
+    <pubDate>Sat, 21 Nov 2026 21:37:10 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Signal is limiting users' ability to take screenshots in both its Android and iOS apps.</description>
+  </item>
+  <item>
+    <title>2026-11-20 AI 日报 · Anthropic创纪录挂牌纳斯达克，谷歌与Perplexity掀起决策模型架构竞赛</title>
+    <link>https://daily.ai225.com/daily/2026-11-20</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-20</guid>
+    <pubDate>Fri, 20 Nov 2026 01:00:57 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>2026年11月20日，全球AI行业迎来标志性事件：Anthropic正式在纳斯达克挂牌交易，开盘暴涨超30%，创下全球史上最大规模IPO纪录。大模型产品与工程架构加速向智能体（Agent）深层演进，谷歌为macOS版Gemini上线直接控制电脑的“Computer Use”能力，并推出跳过文本生成、直接输出概率的决策模型Gemini Decision 1；Perplexity亦发布专为决策定制的Decider v1.3，重构注意力机制实现批量无干扰判断。此外，阿里巴巴最新财报披露AI云业务同比大涨53%，并确认千问正基于平头哥国产芯片训练下一代模型；DeepSeek则调整计费策略，模型调用内</description>
   </item>
   <item>
     <title>Agent swarm trying to solve P vs. NP</title>
@@ -510,14 +533,6 @@ Points: 88
     <pubDate>Sat, 21 Nov 2026 20:03:37 +0000</pubDate>
     <source>The Verge AI</source>
     <description>One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called "killer robots." Eventually, representatives left the meetings agreeing to "start discussing options" after a largely fruitless week of negotiat</description>
-  </item>
-  <item>
-    <title>A tale of two Nvidias</title>
-    <link>https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</guid>
-    <pubDate>Sat, 21 Nov 2026 21:07:42 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.</description>
   </item>
   <item>
     <title>Inference Providers</title>
@@ -548,21 +563,6 @@ Points: 88
     <guid isPermaLink="true">https://www.qbitai.com/2026/11/511849.html</guid>
     <pubDate>Sat, 21 Nov 2026 14:09:59 +0000</pubDate>
     <source>量子位</source>
-  </item>
-  <item>
-    <title>艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强</title>
-    <link>https://www.iimedia.cn/c1106/119852.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119852.html</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>艾媒网</source>
-  </item>
-  <item>
-    <title>2026-11-19 AI 日报 · Gemini 4 Neon 发布，Anthropic IPO 定价 83 美元</title>
-    <link>https://daily.ai225.com/daily/2026-11-19</link>
-    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-19</guid>
-    <pubDate>Thu, 19 Nov 2026 01:03:05 +0000</pubDate>
-    <source>AI 日报 · AI225</source>
-    <description>今日大模型与资本市场迎来多项进展：Google DeepMind 发布前沿模型 Gemini 4 Neon 并同步开放多端使用，同时向 AI Ultra 订阅用户推出世界模型 Genie 4；微软发布 MAI 系列七款高性价比模型；Anthropic 正式将 IPO 定价定为每股 83 美元，预计 11 月 19 日以“ANT”代码登陆纳斯达克。国内方面，腾讯 Q3 财报披露资本开支同比大增 528%；字节跳动豆包工作 DAU 突破 800 万。英伟达在黄仁勋离职后的首次全员会上宣布 12 月提前加薪与增加股权激励，以稳定团队；开源与学术界则在 32GB 内存运行 180B MoE 模型与流式</description>
   </item>
   <item>
     <title>Hebbia sees improvements in financial research with GPT-6 Astra</title>
@@ -630,11 +630,34 @@ Points: 88
     <source>Meta AI 博客</source>
   </item>
   <item>
-    <title>CodespacesCloud development environments</title>
-    <link>https://github.com/features/codespaces</link>
-    <guid isPermaLink="true">https://github.com/features/codespaces</guid>
+    <title>艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/119852.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119852.html</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>Financial services</title>
+    <link>https://github.com/solutions/industry/financial-services</link>
+    <guid isPermaLink="true">https://github.com/solutions/industry/financial-services</guid>
+    <pubDate>Mon, 23 Nov 2026 03:52:04 +0000</pubDate>
     <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>A tale of two Nvidias</title>
+    <link>https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</guid>
+    <pubDate>Sat, 21 Nov 2026 21:07:42 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.</description>
+  </item>
+  <item>
+    <title>2026-11-19 AI 日报 · Gemini 4 Neon 发布，Anthropic IPO 定价 83 美元</title>
+    <link>https://daily.ai225.com/daily/2026-11-19</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-19</guid>
+    <pubDate>Thu, 19 Nov 2026 01:03:05 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>今日大模型与资本市场迎来多项进展：Google DeepMind 发布前沿模型 Gemini 4 Neon 并同步开放多端使用，同时向 AI Ultra 订阅用户推出世界模型 Genie 4；微软发布 MAI 系列七款高性价比模型；Anthropic 正式将 IPO 定价定为每股 83 美元，预计 11 月 19 日以“ANT”代码登陆纳斯达克。国内方面，腾讯 Q3 财报披露资本开支同比大增 528%；字节跳动豆包工作 DAU 突破 800 万。英伟达在黄仁勋离职后的首次全员会上宣布 12 月提前加薪与增加股权激励，以稳定团队；开源与学术界则在 32GB 内存运行 180B MoE 模型与流式</description>
   </item>
   <item>
     <title>A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth</title>
@@ -654,14 +677,6 @@ Points: 170
     <pubDate>Sat, 21 Nov 2026 15:00:00 +0000</pubDate>
     <source>The Verge AI</source>
     <description>Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver</description>
-  </item>
-  <item>
-    <title>Here are the top AI agents that can live in your text messages</title>
-    <link>https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/</guid>
-    <pubDate>Sat, 21 Nov 2026 17:00:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</description>
   </item>
   <item>
     <title>Inference Endpoints</title>
@@ -692,21 +707,6 @@ Points: 170
     <guid isPermaLink="true">https://www.qbitai.com/2026/11/511841.html</guid>
     <pubDate>Sat, 21 Nov 2026 11:40:11 +0000</pubDate>
     <source>量子位</source>
-  </item>
-  <item>
-    <title>艾媒鼎榜 | 2026年中国AI会议耳机品牌10强</title>
-    <link>https://www.iimedia.cn/c1106/119848.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119848.html</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>艾媒网</source>
-  </item>
-  <item>
-    <title>2026-11-18 AI 日报 · GPT-6.2发布，英伟达拒黄仁勋复职，Anthropic获准上市</title>
-    <link>https://daily.ai225.com/daily/2026-11-18</link>
-    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-18</guid>
-    <pubDate>Wed, 18 Nov 2026 00:53:30 +0000</pubDate>
-    <source>AI 日报 · AI225</source>
-    <description>今日AI领域重磅动态频出。模型与产品方面，OpenAI发布降价的GPT-6.2 Astra与Sol，微软将Office整合进Copilot并量产Maia 200芯片，Google为Gemini上线Task代办模式。行业与资本方面，英伟达第三财季营收翻倍，董事会正式拒绝黄仁勋复职并停售中国H200芯片；Anthropic获准在纳斯达克上市，AMD完成收购World Labs，Isomorphic Labs融资50亿美元。此外，加州与爱尔兰针对自动驾驶及智能体数据抓取的监管亦进一步落地。</description>
   </item>
   <item>
     <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>

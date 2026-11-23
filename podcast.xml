@@ -8,6 +8,37 @@
   <itunes:author>Emtion</itunes:author>
   <itunes:category text="Technology"/>
   <item>
+    <title>11月23日速递：Build with Copilot</title>
+    <description>今日要点：Build with Copilot；How Notable Capital, GIC, and ；2026-11-23 AI 日报 · Lean确认Claud；0rwx – A simple model of AI us；We haven’t seen the last of th
+
+【本期文字稿】
+男：欢迎收听 AI 行业速递，今天是 2026 年 11 月 23 日，我是老张，咱们先聊今天最炸的一条。
+女：是不是那个黎曼猜想？我刷到的时候还以为是假新闻。
+男：是真的，Lean 形式化社区确认了 Claude 协作完成的黎曼猜想证明，代码级别验证通过。
+女：这可不是写篇论文，是机器能逐行检查的形式化证明，性质完全不一样。
+男：更狠的是同一位数学家又联合纽约大学学者，甩出了 Navier-Stokes 的爆破证明。
+女：两个千禧难题连着来，还逼出一份写了十二年的九百四十页纯人类手稿，这剧情太离谱了。
+男：所以今天第一条主线就是 AI 数学推理，从辅助工具变成了能出成果的合作者。
+女：那第二条呢，我看可灵那边动静也不小。
+男：可灵完成约一百九十八亿元增资，变成快手仍控股的独立经营主体，投后估值接近一百八十亿美元。
+女：等于把一块最赚钱的业务单独拎出来跑，既融资又保留控制权，这操作挺聪明。
+男：再看资本那头，Notable Capital、GIC、Baillie Gifford 几家在 Anthropic 上市前就重仓押注。
+女：他们赌的不是某个模型，是这家公司在安全叙事上的长期位置。
+男：说到安全，OpenAI 首席科学家在谈怎么给 AI 发展设限速，微软也表态支持并披露了 MAI-2 的数据。
+女：限速的前提是大家得先同意怎么计量速度，这事儿比喊口号难多了。
+男：还有一条挺现实，美国多家大银行开始禁止第三方 AI 代理登录用户账户。
+女：而且明确说，机器人操作出错的钱算你自己的，这锅甩得干干净净。
+男：游戏圈也有意思，以撒的结合新版本因为用了 AI 音乐，被玩家在 Steam 上刷差评，开发者只好撤掉。
+女：玩家用脚投票，说明 AI 内容进商业作品，接受度还是有门槛的。
+男：剩下几条一句话带过：GitHub 上 Copilot 和本地编码代理继续升温，英伟达 Blackwell 对华销售有了条件，DeepSeek 千亿融资落地，还有用电刺激迷走神经给大鼠控糖的研究上了 Nature。
+女：好，今天从数学证明到银行禁令，AI 一边在突破上限，一边在被划边界。
+男：下期见。</description>
+    <link>https://emtion.github.io/ai-news-feed/</link>
+    <guid isPermaLink="false">ep-20261123</guid>
+    <pubDate>Mon, 23 Nov 2026 11:53:01 +0800</pubDate>
+    <enclosure url="https://emtion.github.io/ai-news-feed/episodes/ep-20261123.mp3" length="1012545" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>11月22日速递：Data Processing Incidents on Inference P</title>
     <description>今日要点：Data Processing Incidents on I；2026-11-22 AI 日报 · 字节与高校开源 Axi；Signal restricts mobile screen；The UN fails to agree on rules；AI给乐队现场搓MV，这是黑客松还是音乐节啊
 

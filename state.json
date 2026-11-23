@@ -1,4 +1,130 @@
 {
+ "https://www.iimedia.cn/c1061/120432.html": {
+  "title": "2026年扫地机器人升级需求洞察：耗材与噪音痛点凸显，基础体验亟待优化",
+  "source": "艾媒网",
+  "ts": 1795405924.5103695,
+  "desc": "",
+  "ord": 1
+ },
+ "https://github.com/features/ai": {
+  "title": "Build with Copilot",
+  "source": "GitHub Trending",
+  "ts": 1795405924.5103695,
+  "desc": "",
+  "ord": 7
+ },
+ "https://github.com/trending": {
+  "title": "Trending repos",
+  "source": "GitHub Trending",
+  "ts": 1795405924.5103695,
+  "desc": "",
+  "ord": 8
+ },
+ "https://github.com/open-source/sponsors": {
+  "title": "GitHub Sponsors",
+  "source": "GitHub Trending",
+  "ts": 1795405924.5103695,
+  "desc": "",
+  "ord": 9
+ },
+ "https://github.com/resources/articles": {
+  "title": "Developer articles",
+  "source": "GitHub Trending",
+  "ts": 1795405924.5103695,
+  "desc": "",
+  "ord": 10
+ },
+ "https://github.com/solutions/industry/financial-services": {
+  "title": "Financial services",
+  "source": "GitHub Trending",
+  "ts": 1795405924.5103695,
+  "desc": "",
+  "ord": 11
+ },
+ "https://github.com/solutions/industry": {
+  "title": "See all industries",
+  "source": "GitHub Trending",
+  "ts": 1795405924.5103695,
+  "desc": "",
+  "ord": 12
+ },
+ "https://github.com/customer-stories": {
+  "title": "Customer Stories",
+  "source": "GitHub Trending",
+  "ts": 1795405924.5103695,
+  "desc": "",
+  "ord": 13
+ },
+ "https://github.com/solutions/executive-insights": {
+  "title": "Business insights",
+  "source": "GitHub Trending",
+  "ts": 1795405924.5103695,
+  "desc": "",
+  "ord": 14
+ },
+ "https://github.com/security/advanced-security": {
+  "title": "GitHub Advanced SecurityEnterprise-grade code security",
+  "source": "GitHub Trending",
+  "ts": 1795405924.5103695,
+  "desc": "",
+  "ord": 15
+ },
+ "https://github.com/features/copilot/copilot-business": {
+  "title": "Copilot for businessEnterprise-grade AI features",
+  "source": "GitHub Trending",
+  "ts": 1795405924.5103695,
+  "desc": "",
+  "ord": 16
+ },
+ "https://github.com/enterprise/premium-support": {
+  "title": "Premium SupportEnterprise-grade 24/7 support",
+  "source": "GitHub Trending",
+  "ts": 1795405924.5103695,
+  "desc": "",
+  "ord": 17
+ },
+ "https://github.com/resources": {
+  "title": "Resource center",
+  "source": "GitHub Trending",
+  "ts": 1795405924.5103695,
+  "desc": "",
+  "ord": 18
+ },
+ "https://github.com/resources/events": {
+  "title": "Events & webinars",
+  "source": "GitHub Trending",
+  "ts": 1795405924.5103695,
+  "desc": "",
+  "ord": 19
+ },
+ "https://github.com/orgs/community/discussions": {
+  "title": "Community Forum",
+  "source": "GitHub Trending",
+  "ts": 1795405924.5103695,
+  "desc": "",
+  "ord": 20
+ },
+ "https://github.com/sponsors/explore": {
+  "title": "GitHub Sponsors",
+  "source": "GitHub Trending",
+  "ts": 1795405924.5103695,
+  "desc": "",
+  "ord": 21
+ },
+ "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/": {
+  "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+  "source": "TechCrunch AI",
+  "ts": 1795397153.0,
+  "desc": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+  "ord": 0
+ },
+ "https://daily.ai225.com/daily/2026-11-23": {
+  "title": "2026-11-23 AI 日报 · Lean确认Claude协作黎曼猜想证明，可灵增资后估值近180亿美元",
+  "source": "AI 日报 · AI225",
+  "ts": 1795395218.0,
+  "desc": "本期聚焦 AI 数学推理与产业动态。Lean FRO 与 Mathlib 社区确认 Claude 协作完成的黎曼猜想形式化证明正确，同一数学家另联合纽约大学学者发布 Navier-Stokes 爆破证明。可灵 AI 完成约 198 亿元增资，转为快手仍控股的独立经营主体，投后估值近 180 亿美元；OpenAI 与 Anthropic 高管讨论限制 AI 节奏，微软支持并披露 MAI-2 数据；METR 警告模型进步已快于安全评估能力。算力上，曙光 8000 支撑科研团队获 ACM 戈登·贝尔奖，AWS 推出 TorchNeuron。",
+  "ord": 0
+ },
  "https://github.com/trending?spoken_language_code=bh": {
   "title": "Bihari languages",
   "source": "GitHub Trending",
@@ -66,7 +192,7 @@
   "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
   "source": "Hacker News 头版",
   "ts": 1795389130.0,
-  "desc": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3\nComments URL: https://news.ycombinator.com/item?id=50605045\nPoints: 114\n# Comments: 70",
+  "desc": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3\nComments URL: https://news.ycombinator.com/item?id=50605045\nPoints: 173\n# Comments: 149",
   "ord": 1
  },
  "https://www.theverge.com/tech/1039851/major-tech-outages": {
@@ -109,7 +235,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795376280.5030785,
   "desc": "",
-  "ord": 27
+  "ord": 26
  },
  "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/": {
   "title": "Why data centers are at the center of the Big Tech backlash",
@@ -136,8 +262,8 @@
   "title": "Perplexity and Intelligence",
   "source": "Hacker News 头版",
   "ts": 1795367187.0,
-  "desc": "Article URL: https://openai.com/index/perplexity-and-intelligence/\nComments URL: https://news.ycombinator.com/item?id=50601525\nPoints: 464\n# Comments: 320",
-  "ord": 6
+  "desc": "Article URL: https://openai.com/index/perplexity-and-intelligence/\nComments URL: https://news.ycombinator.com/item?id=50601525\nPoints: 514\n# Comments: 355",
+  "ord": 5
  },
  "https://www.leiphone.com/category/transportation/QtQ2DYWViqwYNbhu.html": {
   "title": "解码比亚迪高端化：一家技术公司的自我进化",
@@ -1761,7 +1887,7 @@
   "source": "艾媒网",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 4
+  "ord": 0
  },
  "https://huggingface.co/apple/FastFrames-L": {
   "title": "apple/FastFrames-L Text-to-Video • Updated about 6 hours ago • 148",
@@ -4071,131 +4197,5 @@
   "ts": 1794756557.5737543,
   "desc": "",
   "ord": 23
- },
- "https://huggingface.co/Lightricks/LTX-2.5": {
-  "title": "Lightricks/LTX-2.5 Image-to-Video • Updated Oct 11 • 2.75M • 12k",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 26
- },
- "https://huggingface.co/Comfy-Org/MiniMax-H3-Image": {
-  "title": "Comfy-Org/MiniMax-H3-Image Text-to-Image • Updated 4 days ago • 1.97M • 404",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 21
- },
- "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF": {
-  "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF Image-Text-to-Text • 27B • Updated 2 days ago • 1.71M • 3.15k",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 27
- },
- "https://huggingface.co/Zyphra/ZONOS3-Mini": {
-  "title": "Zyphra/ZONOS3-Mini Text-to-Speech • 0.9B • Updated 1 day ago • 39.9k • 373",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 28
- },
- "https://huggingface.co/speridlabs/idol": {
-  "title": "speridlabs/idol Image-to-3D • Updated 17 days ago • 33.4k • 2.36k",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 26
- },
- "https://huggingface.co/thinkingmachines/Inkling-2-Small": {
-  "title": "thinkingmachines/Inkling-2-Small Image-Text-to-Text • 594B • Updated about 10 hours ago • 7.33k • • 333",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 28
- },
- "https://huggingface.co/NousResearch/Arete-27B": {
-  "title": "NousResearch/Arete-27B Text Generation • 27B • Updated 9 days ago • 7.5k • 606",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 26
- },
- "https://huggingface.co/moonshotai/Kimi-K3.1-Pro": {
-  "title": "moonshotai/Kimi-K3.1-Pro Image-Text-to-Text • 2.8T • Updated 10 days ago • 46.8k • • 2.09k",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 25
- },
- "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF": {
-  "title": "unsloth/Qwen3.8-27B-GGUF 27B • Updated 4 days ago • 6.57M • 5.98k",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 28
- },
- "https://huggingface.co/higurashi-ai/Haru-4B": {
-  "title": "higurashi-ai/Haru-4B Audio-to-Audio • 5B • Updated 3 days ago • 2.1k • 277",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 21
- },
- "https://huggingface.co/Edge0/Edge0-145B-NVFP4": {
-  "title": "Edge0/Edge0-145B-NVFP4 Text Generation • 5B • Updated about 3 hours ago • 41.6k • 277",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 28
- },
- "https://github.com/platform": {
-  "title": "GitHubRepository hosting, code review, and collaboration",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 0
- },
- "https://github.com/features/copilot": {
-  "title": "CopilotAI coding agent for tasks, projects, and automated work",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 1
- },
- "https://github.com/features/actions": {
-  "title": "ActionsCI/CD and automation",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 2
- },
- "https://github.com/features/code-quality": {
-  "title": "Code QualityQuality analysis, fixes, and enforcement",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 3
- },
- "https://github.com/features/codespaces": {
-  "title": "CodespacesCloud development environments",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 4
- },
- "https://github.com/security/advanced-security/code-security": {
-  "title": "Code SecurityVulnerability detection and remediation",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 5
- },
- "https://github.com/security/advanced-security/secret-protection": {
-  "title": "Secret ProtectionSecret scanning and leak prevention",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 6
  }
 }
