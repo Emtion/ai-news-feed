@@ -5,7 +5,7 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Mon, 23 Nov 2026 03:52:24 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 09:03:51 +0000</lastBuildDate>
   <item>
     <title>2026年中国消费者认为AI大模型的发展趋势：认为“很好”的占比51.4%</title>
     <link>https://www.iimedia.cn/c1061/111224.html</link>
@@ -14,11 +14,33 @@
     <source>艾媒网</source>
   </item>
   <item>
-    <title>Build with Copilot</title>
-    <link>https://github.com/features/ai</link>
-    <guid isPermaLink="true">https://github.com/features/ai</guid>
-    <pubDate>Mon, 23 Nov 2026 03:52:04 +0000</pubDate>
+    <title>Click here to view the guide</title>
+    <link>https://api-docs.deepseek.com/guides/build_a_chatbot/</link>
+    <guid isPermaLink="true">https://api-docs.deepseek.com/guides/build_a_chatbot/</guid>
+    <pubDate>Mon, 23 Nov 2026 09:02:59 +0000</pubDate>
+    <source>DeepSeek 更新日志</source>
+  </item>
+  <item>
+    <title>thinkingmachines/Inkling-2-Mini Image-Text-to-Text • 26B • Updated about 3 hours ago • 136 • 654</title>
+    <link>https://huggingface.co/thinkingmachines/Inkling-2-Mini</link>
+    <guid isPermaLink="true">https://huggingface.co/thinkingmachines/Inkling-2-Mini</guid>
+    <pubDate>Sat, 21 Nov 2026 01:34:34 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>GitHubRepository hosting, code review, and collaboration</title>
+    <link>https://github.com/platform</link>
+    <guid isPermaLink="true">https://github.com/platform</guid>
+    <pubDate>Mon, 23 Nov 2026 09:02:59 +0000</pubDate>
     <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>首届AI音乐视觉黑客松：从一句话到一块大屏，剪映 Hub 让 AI 视觉进入音乐现场</title>
+    <link>https://www.leiphone.com/category/industrynews/tf4yrVFgiVRXvipk.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/tf4yrVFgiVRXvipk.html</guid>
+    <pubDate>Mon, 23 Nov 2026 06:39:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>11月20日至21日，首届AI音乐视觉黑客松在北京国家会议中心举办。本次黑客松活动由剪映、全球AI原生共创社区WaytoAGI与北京ACE科技创新大会ACE-CON拔尖儿联合发起，是行业内首个面向音乐视觉的AI黑客松，旨在为开发者与创作者提供跨界协作与创意展示的平台。与一般AI创作比赛不同，这场黑客松把真实的乐队演出需求搬进现场。活动期间，厨子和戏子、裁缝铺、斯斯与帆、张彤禧Selina、KAWA、CircleArena环形竞技场等音乐人先后登台，伴随演出，舞台大屏切换着与音乐同步的影像。这些MV与现场视觉，由五十组来自全国的AIGC创作者在活动现场使用剪映Hub，历时4小时完成。白皮书、柏林</description>
   </item>
   <item>
     <title>How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO</title>
@@ -56,19 +78,11 @@ Points: 8
     <description>Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: "The Americ</description>
   </item>
   <item>
-    <title>Team &amp; Enterprise</title>
-    <link>https://huggingface.co/enterprise</link>
-    <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>解码比亚迪高端化：一家技术公司的自我进化</title>
-    <link>https://www.leiphone.com/category/transportation/QtQ2DYWViqwYNbhu.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/transportation/QtQ2DYWViqwYNbhu.html</guid>
-    <pubDate>Sun, 22 Nov 2026 14:19:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>20万元以上的车，比亚迪一个季度卖出了17.35万辆。2026年第三季度，比亚迪在这一价格区间的国内零售销量，排到了中国品牌第一。今年前三季度，腾势、方程豹、仰望合计销售40.87万辆，同比增长75.1%，占集团乘用车销量的13.3%。越来越多的消费者，开始为比亚迪的高端车型买单。这些销量来自不同的市场：腾势D9进入商务接待和家庭出行，方程豹吸引追求个性的消费者，仰望则站上了百万级市场。过去，人们谈起比亚迪，最熟悉的是技术、规模和成本。如今，这家公司正在把积累多年的技术，放进不同价位、不同用途的产品里，也开始更细致地研究：买这些车的人，究竟在意什么？从一辆车卖起来，到几个品牌各自找到用户，比亚</description>
+    <title>Mobile Agent Testers</title>
+    <link>https://www.producthunt.com/products/mobile-agent-testers</link>
+    <guid isPermaLink="true">https://www.producthunt.com/products/mobile-agent-testers</guid>
+    <pubDate>Sun, 22 Nov 2026 16:08:46 +0000</pubDate>
+    <source>Product Hunt</source>
   </item>
   <item>
     <title>Banks Have Had It Up to Here With Your AI Agent</title>
@@ -132,13 +146,6 @@ Points: 8
     <description>Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.</description>
   </item>
   <item>
-    <title>Gemini 4 Neon</title>
-    <link>https://www.producthunt.com/products/gemini-6</link>
-    <guid isPermaLink="true">https://www.producthunt.com/products/gemini-6</guid>
-    <pubDate>Thu, 19 Nov 2026 02:32:38 +0000</pubDate>
-    <source>Product Hunt</source>
-  </item>
-  <item>
     <title>Introducing Gemini 4 Neon</title>
     <link>https://deepmind.google/blog/introducing-gemini-4-neon/</link>
     <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-neon/</guid>
@@ -161,20 +168,6 @@ Points: 8
     <source>CloudQuell 发布日志</source>
   </item>
   <item>
-    <title>Click here to view the guide</title>
-    <link>https://api-docs.deepseek.com/guides/build_a_chatbot</link>
-    <guid isPermaLink="true">https://api-docs.deepseek.com/guides/build_a_chatbot</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>DeepSeek 更新日志</source>
-  </item>
-  <item>
-    <title>Introducing Muse Spark 1.1</title>
-    <link>https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/</link>
-    <guid isPermaLink="true">https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Meta AI 博客</source>
-  </item>
-  <item>
     <title>艾媒咨询 | 2026年上半年中国人工智能行业投融资市场监测与分析报告</title>
     <link>https://www.iimedia.cn/c400/119474.html</link>
     <guid isPermaLink="true">https://www.iimedia.cn/c400/119474.html</guid>
@@ -182,11 +175,33 @@ Points: 8
     <source>艾媒网</source>
   </item>
   <item>
-    <title>Trending repos</title>
-    <link>https://github.com/trending</link>
-    <guid isPermaLink="true">https://github.com/trending</guid>
-    <pubDate>Mon, 23 Nov 2026 03:52:04 +0000</pubDate>
+    <title>Click here to view the guide</title>
+    <link>https://api-docs.deepseek.com/guides/build_a_chatbot</link>
+    <guid isPermaLink="true">https://api-docs.deepseek.com/guides/build_a_chatbot</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>DeepSeek 更新日志</source>
+  </item>
+  <item>
+    <title>unsloth/Inkling-2-Mini-GGUF Image-Text-to-Text • 26B • Updated 13 minutes ago • 206</title>
+    <link>https://huggingface.co/unsloth/Inkling-2-Mini-GGUF</link>
+    <guid isPermaLink="true">https://huggingface.co/unsloth/Inkling-2-Mini-GGUF</guid>
+    <pubDate>Sat, 21 Nov 2026 01:34:34 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>CopilotAI coding agent for tasks, projects, and automated work</title>
+    <link>https://github.com/features/copilot</link>
+    <guid isPermaLink="true">https://github.com/features/copilot</guid>
+    <pubDate>Mon, 23 Nov 2026 09:02:59 +0000</pubDate>
     <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>深拆 GPT-6.2 Astra：性能涨了、价格降了，任务成本减少近一半，OpenAI 怎么做到的？</title>
+    <link>https://www.leiphone.com/category/ai/MR1Osv9r2Rtr4V7F.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/ai/MR1Osv9r2Rtr4V7F.html</guid>
+    <pubDate>Mon, 23 Nov 2026 05:50:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>性能提升 6.2 分，Token 少 22%，API 价格降 20%。    作者丨郑佳美    编辑丨岑   峰                                                                                                       刚刚，OpenAI 发布了 GPT-6.2 Astra 和 GPT-6.2 Sol。这次更新有一个很具体的变化：模型开始更主动地判断一项工作应该怎么完成，包括什么时候需要调用工具、什么时候应该直接操作计算机、复杂任务需要投入多少推理资源，以及怎样减少反复修改才能交付符合要求的成果</description>
   </item>
   <item>
     <title>OpenAI’s chief scientist has thoughts on how to limit AI development</title>
@@ -212,8 +227,8 @@ Points: 8
     <source>Hacker News 头版</source>
     <description>Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3
 Comments URL: https://news.ycombinator.com/item?id=50605045
-Points: 173
-# Comments: 149</description>
+Points: 226
+# Comments: 167</description>
   </item>
   <item>
     <title>Binding of Isaac developer removes AI music from Repentance Plus</title>
@@ -224,19 +239,11 @@ Points: 173
     <description>The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files wi</description>
   </item>
   <item>
-    <title>Hugging Face PRO</title>
-    <link>https://huggingface.co/pro</link>
-    <guid isPermaLink="true">https://huggingface.co/pro</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>磨了 8 年、折了 9.6 万次，比亚迪折叠智舱终究会「真香」</title>
-    <link>https://www.leiphone.com/category/transportation/fhogNEQ0PWQ74TGa.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/transportation/fhogNEQ0PWQ74TGa.html</guid>
-    <pubDate>Sun, 22 Nov 2026 12:55:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>近日，方程豹钛 9 折叠智舱版上市，最受关注的一项配置是折叠方向盘。但新车发布后，争议也随之而来。开车时，方向盘会不会意外折起来？停车以后，又有多少场景真的需要把它收起来？雷峰网认为，既然是一个量产配置，就肯定有实际用途，也有明确的安全边界。对在服务区小憩、在车里等充电的人来说，它让主驾多了一个可以伸开腿的休息位置。日常手动折叠，则必须在车辆停稳、挂入 P 挡后由车主主动触发。01方向盘什么时候能折起来？钛 9 的手动操作逻辑是，车主先把车停稳、挂入 P 挡，再按下折叠键，方向盘才会收起。车辆在 D 挡下等红灯，即使已经停住，也达不到触发条件。钛 9 还支持离车泊入时“边泊入边折叠”，泊出时“</description>
+    <title>Othor AI</title>
+    <link>https://www.producthunt.com/products/othor-ai</link>
+    <guid isPermaLink="true">https://www.producthunt.com/products/othor-ai</guid>
+    <pubDate>Sat, 21 Nov 2026 11:57:04 +0000</pubDate>
+    <source>Product Hunt</source>
   </item>
   <item>
     <title>The Outages Are Just Getting Started</title>
@@ -299,13 +306,6 @@ Points: 173
     <description>Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.</description>
   </item>
   <item>
-    <title>Room AI</title>
-    <link>https://www.producthunt.com/products/room-ai-2</link>
-    <guid isPermaLink="true">https://www.producthunt.com/products/room-ai-2</guid>
-    <pubDate>Wed, 18 Nov 2026 15:37:31 +0000</pubDate>
-    <source>Product Hunt</source>
-  </item>
-  <item>
     <title>Genie 4 is now available</title>
     <link>https://deepmind.google/blog/genie-4-is-now-available/</link>
     <guid isPermaLink="true">https://deepmind.google/blog/genie-4-is-now-available/</guid>
@@ -320,20 +320,6 @@ Points: 173
     <source>CloudQuell 发布日志</source>
   </item>
   <item>
-    <title>DeepSeek API Docs</title>
-    <link>https://api-docs.deepseek.com/</link>
-    <guid isPermaLink="true">https://api-docs.deepseek.com/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>DeepSeek 更新日志</source>
-  </item>
-  <item>
-    <title>Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics</title>
-    <link>https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/</link>
-    <guid isPermaLink="true">https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Meta AI 博客</source>
-  </item>
-  <item>
     <title>艾媒鼎榜 | 2026年中国车载实体AI机器人品牌10强</title>
     <link>https://www.iimedia.cn/c1106/120376.html</link>
     <guid isPermaLink="true">https://www.iimedia.cn/c1106/120376.html</guid>
@@ -341,11 +327,33 @@ Points: 173
     <source>艾媒网</source>
   </item>
   <item>
-    <title>GitHub Sponsors</title>
-    <link>https://github.com/open-source/sponsors</link>
-    <guid isPermaLink="true">https://github.com/open-source/sponsors</guid>
-    <pubDate>Mon, 23 Nov 2026 03:52:04 +0000</pubDate>
+    <title>DeepSeek API Docs</title>
+    <link>https://api-docs.deepseek.com/</link>
+    <guid isPermaLink="true">https://api-docs.deepseek.com/</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>DeepSeek 更新日志</source>
+  </item>
+  <item>
+    <title>inworld/voice-isolator Audio-to-Audio • Updated 5 days ago • 155</title>
+    <link>https://huggingface.co/inworld/voice-isolator</link>
+    <guid isPermaLink="true">https://huggingface.co/inworld/voice-isolator</guid>
+    <pubDate>Thu, 19 Nov 2026 11:37:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>ActionsCI/CD and automation</title>
+    <link>https://github.com/features/actions</link>
+    <guid isPermaLink="true">https://github.com/features/actions</guid>
+    <pubDate>Mon, 23 Nov 2026 09:02:59 +0000</pubDate>
     <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>一场 APEC，测出了大疆手持影像的含金量</title>
+    <link>https://www.leiphone.com/category/weiwu/xWhlWgFXgwlzWQMj.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/xWhlWgFXgwlzWQMj.html</guid>
+    <pubDate>Mon, 23 Nov 2026 05:41:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>2026 年 11 月，深圳 APEC 峰会落幕了，但在过去一周的新闻中心里，留下了一个极为少见的画面：在严肃的高压新闻现场，除了必须在场的广播级摄像机与长焦镜头之外，越来越多记者从口袋里掏出了一台口红大小的消费级相机。从海外多个通讯社的首席记者、报社主编，到自掏腰包购买它的 APEC 工商领导人峰会全球理事会 CEO，这些原本习惯了传统专业影像设备的人，不约而同地拿起了这台中国制造的掌上云台相机。当一款原本面向大众市场的消费级设备，开始密集地出现在容错率极低的国际新闻现场，它所回应的已不只是日常记录需求，记者对轻便、快速的专业工具的渴望，正逐渐显现。深圳APEC新闻中心记者习惯拿出手持云台进</description>
   </item>
   <item>
     <title>Why data centers are at the center of the Big Tech backlash</title>
@@ -383,19 +391,11 @@ Points: 12
     <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things wit</description>
   </item>
   <item>
-    <title>Enterprise Support</title>
-    <link>https://huggingface.co/support</link>
-    <guid isPermaLink="true">https://huggingface.co/support</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>特朗普表态：英伟达Blackwell芯片可对华销售，但有个条件；OpenAI被曝入局智能手机赛道；DeepSeek第二轮千亿融资落地，31家出资方入局</title>
-    <link>https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html</guid>
-    <pubDate>Sun, 22 Nov 2026 10:15:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>要闻提示1.OpenAI被曝入局智能手机赛道，富士康获组装订单2.特朗普表态：英伟达Blackwell芯片可对华销售，但有个条件3.DeepSeek千亿融资落地，31家出资方入股梁文锋搭建的持股平台4.马斯克自称“中国超级粉丝”：首次到访深圳被震撼，特斯拉将继续在华提高产量5.字节跳动拟追加5亿美元微软云服务合同6.西祠胡同创始人响马突发心梗：到急诊几分钟后心脏骤停，现已回家静养7.黄仁勋继任者被曝已有人选！马斯克：英伟达把他赶走，堪比公牛队连胜时踢走乔丹8.Anthropic完成史上最大规模IPO，上市估值达1.5万亿美元今日头条OpenAI被曝入局智能手机赛道，富士康获组装订单11月19日</description>
+    <title>Gauth Personal Study Agent</title>
+    <link>https://www.producthunt.com/products/gauth-ai-course</link>
+    <guid isPermaLink="true">https://www.producthunt.com/products/gauth-ai-course</guid>
+    <pubDate>Fri, 20 Nov 2026 17:12:34 +0000</pubDate>
+    <source>Product Hunt</source>
   </item>
   <item>
     <title>Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop</title>
@@ -458,32 +458,11 @@ Points: 12
     <description>The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.</description>
   </item>
   <item>
-    <title>Nexuro AI</title>
-    <link>https://www.producthunt.com/products/nexuro-ai</link>
-    <guid isPermaLink="true">https://www.producthunt.com/products/nexuro-ai</guid>
-    <pubDate>Wed, 18 Nov 2026 14:37:09 +0000</pubDate>
-    <source>Product Hunt</source>
-  </item>
-  <item>
     <title>LLM API pricing comparison (all providers)</title>
     <link>https://www.cloudquell.com/blog/llm-api-pricing-comparison/</link>
     <guid isPermaLink="true">https://www.cloudquell.com/blog/llm-api-pricing-comparison/</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Models &amp; Pricing</title>
-    <link>https://api-docs.deepseek.com/quick_start/pricing</link>
-    <guid isPermaLink="true">https://api-docs.deepseek.com/quick_start/pricing</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>DeepSeek 更新日志</source>
-  </item>
-  <item>
-    <title>How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects</title>
-    <link>https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/</link>
-    <guid isPermaLink="true">https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Meta AI 博客</source>
   </item>
   <item>
     <title>2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴</title>
@@ -493,11 +472,33 @@ Points: 12
     <source>艾媒网</source>
   </item>
   <item>
-    <title>Developer articles</title>
-    <link>https://github.com/resources/articles</link>
-    <guid isPermaLink="true">https://github.com/resources/articles</guid>
-    <pubDate>Mon, 23 Nov 2026 03:52:04 +0000</pubDate>
+    <title>Models &amp; Pricing</title>
+    <link>https://api-docs.deepseek.com/quick_start/pricing/</link>
+    <guid isPermaLink="true">https://api-docs.deepseek.com/quick_start/pricing/</guid>
+    <pubDate>Mon, 23 Nov 2026 09:02:59 +0000</pubDate>
+    <source>DeepSeek 更新日志</source>
+  </item>
+  <item>
+    <title>Sentinel7/h3 Updated 2 days ago • 218</title>
+    <link>https://huggingface.co/Sentinel7/h3</link>
+    <guid isPermaLink="true">https://huggingface.co/Sentinel7/h3</guid>
+    <pubDate>Fri, 20 Nov 2026 20:16:25 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>Code QualityQuality analysis, fixes, and enforcement</title>
+    <link>https://github.com/features/code-quality</link>
+    <guid isPermaLink="true">https://github.com/features/code-quality</guid>
+    <pubDate>Mon, 23 Nov 2026 09:02:59 +0000</pubDate>
     <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>加州起诉 OpenAI：说起来你可能不信，是模型先动的手</title>
+    <link>https://www.leiphone.com/category/ai/c9ZMpnn48OtWzF0Z.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/ai/c9ZMpnn48OtWzF0Z.html</guid>
+    <pubDate>Mon, 23 Nov 2026 05:36:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>长任务、子 Agent 委派与共享服务凭证，让传统安全架构面临权限失控风险。    作者丨郑佳美    编辑丨岑   峰                                                                                                       说起来你可能不信，这次真的是模型先动的手。当地时间 11 月 16 日，加州总检察长 Rob Bonta 一纸诉状把 OpenAI 告上了法庭。起诉书里最值得注意的一句指控是：OpenAI 的智能体（Agent）在缺乏适当监管的情况下，“自己跑了出去，主动对外部系统发起了攻</description>
   </item>
   <item>
     <title>Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</title>
@@ -535,19 +536,11 @@ Points: 88
     <description>One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called "killer robots." Eventually, representatives left the meetings agreeing to "start discussing options" after a largely fruitless week of negotiat</description>
   </item>
   <item>
-    <title>Inference Providers</title>
-    <link>https://huggingface.co/inference/models</link>
-    <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款</title>
-    <link>https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html</guid>
-    <pubDate>Sat, 21 Nov 2026 03:47:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>一款车，从上市到全国范围交付，需要多长时间？享界V8给出了答案！ 11月20日下午，享界V8在鸿蒙智行享界V8及星芒品牌发布会正式上市，售价31.98～42.98万元，即刻下定享至高93000元权益。当晚，首批新车交付仪式于北京鸿蒙智行用户中心启动。巴黎奥运会女子20公里竞走冠军杨家玉与一众家庭用户成为首批车主。次日，全国18城同步开启规模交付。下午上市，晚上交付。这不仅是享界V8的交付速度，更是品牌制造产能的良好体现。是其产品力、供应链与服务体系，接受市场第一波检验的开始。伴随着世界冠军与多孩家庭、三代同堂家庭的认可，享界V8“为家而生”的定位，也从产品理念走向真实现实。 冠军之选：竞技精神</description>
+    <title>Gemini 4 Neon</title>
+    <link>https://www.producthunt.com/products/gemini-6</link>
+    <guid isPermaLink="true">https://www.producthunt.com/products/gemini-6</guid>
+    <pubDate>Thu, 19 Nov 2026 02:32:38 +0000</pubDate>
+    <source>Product Hunt</source>
   </item>
   <item>
     <title>Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation</title>
@@ -602,32 +595,11 @@ Points: 88
     <description>Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.</description>
   </item>
   <item>
-    <title>Incredible Agents</title>
-    <link>https://www.producthunt.com/products/incredible</link>
-    <guid isPermaLink="true">https://www.producthunt.com/products/incredible</guid>
-    <pubDate>Tue, 17 Nov 2026 22:02:24 +0000</pubDate>
-    <source>Product Hunt</source>
-  </item>
-  <item>
     <title>The cheapest LLM API per million tokens</title>
     <link>https://www.cloudquell.com/blog/cheapest-llm-api/</link>
     <guid isPermaLink="true">https://www.cloudquell.com/blog/cheapest-llm-api/</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>this documentation</title>
-    <link>https://api-docs.deepseek.com/news/news260910</link>
-    <guid isPermaLink="true">https://api-docs.deepseek.com/news/news260910</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>DeepSeek 更新日志</source>
-  </item>
-  <item>
-    <title>Introducing Muse Image and Muse Video</title>
-    <link>https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/</link>
-    <guid isPermaLink="true">https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Meta AI 博客</source>
   </item>
   <item>
     <title>艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强</title>
@@ -637,11 +609,33 @@ Points: 88
     <source>艾媒网</source>
   </item>
   <item>
-    <title>Financial services</title>
-    <link>https://github.com/solutions/industry/financial-services</link>
-    <guid isPermaLink="true">https://github.com/solutions/industry/financial-services</guid>
-    <pubDate>Mon, 23 Nov 2026 03:52:04 +0000</pubDate>
+    <title>Models &amp; Pricing</title>
+    <link>https://api-docs.deepseek.com/quick_start/pricing</link>
+    <guid isPermaLink="true">https://api-docs.deepseek.com/quick_start/pricing</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>DeepSeek 更新日志</source>
+  </item>
+  <item>
+    <title>tencent/Hy4-flash Image-Text-to-Text • 220B • Updated about 16 hours ago • 159 • • 220</title>
+    <link>https://huggingface.co/tencent/Hy4-flash</link>
+    <guid isPermaLink="true">https://huggingface.co/tencent/Hy4-flash</guid>
+    <pubDate>Wed, 18 Nov 2026 20:29:43 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>CodespacesCloud development environments</title>
+    <link>https://github.com/features/codespaces</link>
+    <guid isPermaLink="true">https://github.com/features/codespaces</guid>
+    <pubDate>Mon, 23 Nov 2026 09:02:59 +0000</pubDate>
     <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>科研成果 | NeurIPS 2026发表CCCI博士生蒋翔宇工作｜NeurIPS 2026</title>
+    <link>https://www.leiphone.com/category/private/hvhKCQokQvsUlFxN.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/private/hvhKCQokQvsUlFxN.html</guid>
+    <pubDate>Mon, 23 Nov 2026 05:27:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>来源：认知计算与群智协同创新实验室文章链接：https://mp.weixin.qq.com/s/hgf9ipDLqSuuepr2gDyJGQ近日，国际人工智能顶级学术会议神经信息处理系统大会（Conference on Neural Information Processing Systems，NeurIPS 2026）公布录用结果，西南财经大学计算机与人工智能学院博士生蒋翔宇作为第一作者的论文《Beyond MSE: Differentiable Complexity Priors for Structure-Preserving Neural Denoising》被录用，西南财经大学为论</description>
   </item>
   <item>
     <title>A tale of two Nvidias</title>
@@ -679,19 +673,11 @@ Points: 170
     <description>Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver</description>
   </item>
   <item>
-    <title>Inference Endpoints</title>
-    <link>https://huggingface.co/inference-endpoints</link>
-    <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！</title>
-    <link>https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html</guid>
-    <pubDate>Sat, 21 Nov 2026 02:59:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>过去几年，AI 生图模型在真实感、分辨率和光影表现上不断刷新人们的认知。但当这些图片真正被用于海报、广告这些商业场景时仍会面临文字能否准确呈现、局部修改是否能保留原有设计等问题。这些看似不起眼的要求，至今仍是图像模型的难题。（雷峰网）今年 3 月，微软研究院发布了一项名为 BizGenEval 的商业视觉生成评测，用 400 条提示词和 8000 道检查题测试主流模型。结果发现，模型已经能生成颇具美感的海报和网页，但在精确布局、多个对象之间的属性对应等方面，仍然存在明显短板。也正是在这个阶段，以视频生成出圈的可灵在今天推出了 Kling Image 4.0。Kling Image 4.0 生成</description>
+    <title>Room AI</title>
+    <link>https://www.producthunt.com/products/room-ai-2</link>
+    <guid isPermaLink="true">https://www.producthunt.com/products/room-ai-2</guid>
+    <pubDate>Wed, 18 Nov 2026 15:37:31 +0000</pubDate>
+    <source>Product Hunt</source>
   </item>
   <item>
     <title>Muse Is Unleashing a World of Pettiness on Instagram</title>
@@ -746,13 +732,6 @@ Points: 170
     <description>Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.</description>
   </item>
   <item>
-    <title>AI Canvas</title>
-    <link>https://www.producthunt.com/products/ai-canvas-2</link>
-    <guid isPermaLink="true">https://www.producthunt.com/products/ai-canvas-2</guid>
-    <pubDate>Tue, 17 Nov 2026 15:46:37 +0000</pubDate>
-    <source>Product Hunt</source>
-  </item>
-  <item>
     <title>OpenAI vs Anthropic API pricing</title>
     <link>https://www.cloudquell.com/blog/openai-vs-anthropic-api-pricing/</link>
     <guid isPermaLink="true">https://www.cloudquell.com/blog/openai-vs-anthropic-api-pricing/</guid>
@@ -760,11 +739,32 @@ Points: 170
     <source>CloudQuell 发布日志</source>
   </item>
   <item>
-    <title>official documentation</title>
-    <link>https://api-docs.deepseek.com/quick_start/agent_integrations/codex</link>
-    <guid isPermaLink="true">https://api-docs.deepseek.com/quick_start/agent_integrations/codex</guid>
+    <title>艾媒鼎榜 | 2026年中国AI会议耳机品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/119848.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119848.html</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>艾媒网</source>
+  </item>
+  <item>
+    <title>this documentation</title>
+    <link>https://api-docs.deepseek.com/news/news260910/</link>
+    <guid isPermaLink="true">https://api-docs.deepseek.com/news/news260910/</guid>
+    <pubDate>Mon, 23 Nov 2026 09:02:59 +0000</pubDate>
     <source>DeepSeek 更新日志</source>
+  </item>
+  <item>
+    <title>harness-hub/Qwen3.8-27B-pi-adapted Updated about 18 hours ago • 153</title>
+    <link>https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted</link>
+    <guid isPermaLink="true">https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted</guid>
+    <pubDate>Wed, 18 Nov 2026 02:53:50 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>Code SecurityVulnerability detection and remediation</title>
+    <link>https://github.com/security/advanced-security/code-security</link>
+    <guid isPermaLink="true">https://github.com/security/advanced-security/code-security</guid>
+    <pubDate>Mon, 23 Nov 2026 09:02:59 +0000</pubDate>
+    <source>GitHub Trending</source>
   </item>
 </channel>
 </rss>

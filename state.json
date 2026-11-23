@@ -1,4 +1,207 @@
 {
+ "https://www.iimedia.cn/c1088/120514.html": {
+  "title": "11月21日AI新产品讯息：超芯AI发布智能体Coboo2.0、谷歌推出Gemini 4 Neon模型、火山引擎上线豆包实时通话API服务",
+  "source": "艾媒网",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 2
+ },
+ "https://www.iimedia.cn/c1040/120516.html": {
+  "title": "华为子品牌星芒首款AI手机OSTA O1 Pro发布，主打鸿蒙AI体验",
+  "source": "艾媒网",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 3
+ },
+ "https://api-docs.deepseek.com/guides/build_a_chatbot/": {
+  "title": "Click here to view the guide",
+  "source": "DeepSeek 更新日志",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 0
+ },
+ "https://api-docs.deepseek.com/quick_start/pricing/": {
+  "title": "Models & Pricing",
+  "source": "DeepSeek 更新日志",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 2
+ },
+ "https://api-docs.deepseek.com/news/news260910/": {
+  "title": "this documentation",
+  "source": "DeepSeek 更新日志",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 3
+ },
+ "https://api-docs.deepseek.com/quick_start/agent_integrations/codex/": {
+  "title": "official documentation",
+  "source": "DeepSeek 更新日志",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 4
+ },
+ "https://api-docs.deepseek.com/news/news260813/": {
+  "title": "this documentation",
+  "source": "DeepSeek 更新日志",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 5
+ },
+ "https://api-docs.deepseek.com/news/news260424/": {
+  "title": "this documentation",
+  "source": "DeepSeek 更新日志",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 6
+ },
+ "https://api-docs.deepseek.com/news/news251201/": {
+  "title": "this documentation",
+  "source": "DeepSeek 更新日志",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 7
+ },
+ "https://api-docs.deepseek.com/news/news250929/": {
+  "title": "this documentation",
+  "source": "DeepSeek 更新日志",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 8
+ },
+ "https://api-docs.deepseek.com/news/news250120/": {
+  "title": "DeepSeek-R1 Release",
+  "source": "DeepSeek 更新日志",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 9
+ },
+ "https://api-docs.deepseek.com/news/news1226/": {
+  "title": "introducing DeepSeek-V3",
+  "source": "DeepSeek 更新日志",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 10
+ },
+ "https://api-docs.deepseek.com/news/news0802/": {
+  "title": "Context Caching is Available 2024/08/02",
+  "source": "DeepSeek 更新日志",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 11
+ },
+ "https://api-docs.deepseek.com/news/news0725/": {
+  "title": "New API Features 2024/07/25",
+  "source": "DeepSeek 更新日志",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 12
+ },
+ "https://huggingface.co/higurashi-ai/Haru-4B": {
+  "title": "higurashi-ai/Haru-4B Audio-to-Audio • 5B • Updated 10 days ago • 8.61k • 910",
+  "source": "Hugging Face Trending",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 22
+ },
+ "https://huggingface.co/Lightricks/LTX-2.5": {
+  "title": "Lightricks/LTX-2.5 Image-to-Video • Updated Oct 11 • 2.99M • 13.1k",
+  "source": "Hugging Face Trending",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 27
+ },
+ "https://github.com/platform": {
+  "title": "GitHubRepository hosting, code review, and collaboration",
+  "source": "GitHub Trending",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 0
+ },
+ "https://github.com/features/copilot": {
+  "title": "CopilotAI coding agent for tasks, projects, and automated work",
+  "source": "GitHub Trending",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 1
+ },
+ "https://github.com/features/actions": {
+  "title": "ActionsCI/CD and automation",
+  "source": "GitHub Trending",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 2
+ },
+ "https://github.com/features/code-quality": {
+  "title": "Code QualityQuality analysis, fixes, and enforcement",
+  "source": "GitHub Trending",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 3
+ },
+ "https://github.com/features/codespaces": {
+  "title": "CodespacesCloud development environments",
+  "source": "GitHub Trending",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 4
+ },
+ "https://github.com/security/advanced-security/code-security": {
+  "title": "Code SecurityVulnerability detection and remediation",
+  "source": "GitHub Trending",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 5
+ },
+ "https://github.com/security/advanced-security/secret-protection": {
+  "title": "Secret ProtectionSecret scanning and leak prevention",
+  "source": "GitHub Trending",
+  "ts": 1795424579.789836,
+  "desc": "",
+  "ord": 6
+ },
+ "https://www.leiphone.com/category/industrynews/tf4yrVFgiVRXvipk.html": {
+  "title": "首届AI音乐视觉黑客松：从一句话到一块大屏，剪映 Hub 让 AI 视觉进入音乐现场",
+  "source": "雷峰网",
+  "ts": 1795415940.0,
+  "desc": "11月20日至21日，首届AI音乐视觉黑客松在北京国家会议中心举办。本次黑客松活动由剪映、全球AI原生共创社区WaytoAGI与北京ACE科技创新大会ACE-CON拔尖儿联合发起，是行业内首个面向音乐视觉的AI黑客松，旨在为开发者与创作者提供跨界协作与创意展示的平台。与一般AI创作比赛不同，这场黑客松把真实的乐队演出需求搬进现场。活动期间，厨子和戏子、裁缝铺、斯斯与帆、张彤禧Selina、KAWA、CircleArena环形竞技场等音乐人先后登台，伴随演出，舞台大屏切换着与音乐同步的影像。这些MV与现场视觉，由五十组来自全国的AIGC创作者在活动现场使用剪映Hub，历时4小时完成。白皮书、柏林",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/ai/MR1Osv9r2Rtr4V7F.html": {
+  "title": "深拆 GPT-6.2 Astra：性能涨了、价格降了，任务成本减少近一半，OpenAI 怎么做到的？",
+  "source": "雷峰网",
+  "ts": 1795413000.0,
+  "desc": "性能提升 6.2 分，Token 少 22%，API 价格降 20%。    作者丨郑佳美    编辑丨岑   峰                                                                                                       刚刚，OpenAI 发布了 GPT-6.2 Astra 和 GPT-6.2 Sol。这次更新有一个很具体的变化：模型开始更主动地判断一项工作应该怎么完成，包括什么时候需要调用工具、什么时候应该直接操作计算机、复杂任务需要投入多少推理资源，以及怎样减少反复修改才能交付符合要求的成果",
+  "ord": 1
+ },
+ "https://www.leiphone.com/category/weiwu/xWhlWgFXgwlzWQMj.html": {
+  "title": "一场 APEC，测出了大疆手持影像的含金量",
+  "source": "雷峰网",
+  "ts": 1795412460.0,
+  "desc": "2026 年 11 月，深圳 APEC 峰会落幕了，但在过去一周的新闻中心里，留下了一个极为少见的画面：在严肃的高压新闻现场，除了必须在场的广播级摄像机与长焦镜头之外，越来越多记者从口袋里掏出了一台口红大小的消费级相机。从海外多个通讯社的首席记者、报社主编，到自掏腰包购买它的 APEC 工商领导人峰会全球理事会 CEO，这些原本习惯了传统专业影像设备的人，不约而同地拿起了这台中国制造的掌上云台相机。当一款原本面向大众市场的消费级设备，开始密集地出现在容错率极低的国际新闻现场，它所回应的已不只是日常记录需求，记者对轻便、快速的专业工具的渴望，正逐渐显现。深圳APEC新闻中心记者习惯拿出手持云台进",
+  "ord": 2
+ },
+ "https://www.leiphone.com/category/ai/c9ZMpnn48OtWzF0Z.html": {
+  "title": "加州起诉 OpenAI：说起来你可能不信，是模型先动的手",
+  "source": "雷峰网",
+  "ts": 1795412160.0,
+  "desc": "长任务、子 Agent 委派与共享服务凭证，让传统安全架构面临权限失控风险。    作者丨郑佳美    编辑丨岑   峰                                                                                                       说起来你可能不信，这次真的是模型先动的手。当地时间 11 月 16 日，加州总检察长 Rob Bonta 一纸诉状把 OpenAI 告上了法庭。起诉书里最值得注意的一句指控是：OpenAI 的智能体（Agent）在缺乏适当监管的情况下，“自己跑了出去，主动对外部系统发起了攻",
+  "ord": 3
+ },
+ "https://www.leiphone.com/category/private/hvhKCQokQvsUlFxN.html": {
+  "title": "科研成果 | NeurIPS 2026发表CCCI博士生蒋翔宇工作｜NeurIPS 2026",
+  "source": "雷峰网",
+  "ts": 1795411620.0,
+  "desc": "来源：认知计算与群智协同创新实验室文章链接：https://mp.weixin.qq.com/s/hgf9ipDLqSuuepr2gDyJGQ近日，国际人工智能顶级学术会议神经信息处理系统大会（Conference on Neural Information Processing Systems，NeurIPS 2026）公布录用结果，西南财经大学计算机与人工智能学院博士生蒋翔宇作为第一作者的论文《Beyond MSE: Differentiable Complexity Priors for Structure-Preserving Neural Denoising》被录用，西南财经大学为论",
+  "ord": 4
+ },
+ "https://www.leiphone.com/category/industrynews/VK4viDe2WQp64rON.html": {
+  "title": "蚂蚁CEO韩歆毅：AI拓宽人类健康自塑边界，1.5亿人已用阿福管健康",
+  "source": "雷峰网",
+  "ts": 1795407000.0,
+  "desc": "11月22-23日，2026蚂蚁阿福医疗健康生态大会在广州举行。蚂蚁集团首席执行官韩歆毅在主论坛发言中表示，AI正在拓宽人类健康自塑的边界，让健康管理从“千人一方”走向“一人一方”、从“以治病为中心”转向“以健康为中心”，这是AI对医疗健康领域最深远的影响之一，其价值不亚于AI医疗和AI药物研发。他认为，AI与健康的深度融合正当其时，AI促进健康蕴含巨大需求空间。  图说：韩歆毅在蚂蚁阿福医疗健康生态大会发言时，佩戴了阿福全新发布的AI健康戒指。 韩歆毅表示，从行业趋势看，AI正在快速提升医疗服务的“下限”和“上限”，一头促进医疗服务的均衡普惠，一头重塑医药研发的创新范式。今天，借助蚂蚁阿福等",
+  "ord": 5
+ },
  "https://www.iimedia.cn/c1061/120432.html": {
   "title": "2026年扫地机器人升级需求洞察：耗材与噪音痛点凸显，基础体验亟待优化",
   "source": "艾媒网",
@@ -111,6 +314,41 @@
   "desc": "",
   "ord": 21
  },
+ "https://www.leiphone.com/category/industrynews/YXUz5sDMtx6SzE3P.html": {
+  "title": "蚂蚁阿福App新版发布：实时视频“望闻问切”功能上线，小毛小病在家也能搞定",
+  "source": "雷峰网",
+  "ts": 1795405620.0,
+  "desc": "11月23日的蚂蚁阿福医疗健康生态大会上，健康AI蚂蚁阿福发布新版：基于蚂蚁百灵医疗健康系列模型，新增实时视频“看健康”功能，用户可与阿福视频电话，让阿福帮忙看症状、看状态、看药品、看报告，像真人一样“望闻问切”分析健康问题，并可联动医生在线把关。这意味着，日常一些不舒服或者小毛小病，用户通过“AI+真人医生”在家就能搞定。 此外，新版蚂蚁阿福App对于“AI健康管家”能力也做了升级：结合用户的健康档案或者智能健康硬件，制定个性化减重、控糖、育儿等方案，并陪伴用户达成。为了让健康管理更量化和简单，阿福也进一步扩容了所打通的健康硬件品类，在体脂秤、血糖仪、运动手表等基础上，新发布了阿福AI健康手",
+  "ord": 6
+ },
+ "https://www.leiphone.com/category/industrynews/Ljtu9TVFrPPeiBsX.html": {
+  "title": "国内首个！蚂蚁阿福医生版上线“循证金标准”UpToDate ，打造全场景医生AI工作台",
+  "source": "雷峰网",
+  "ts": 1795405080.0,
+  "desc": "11月22日，蚂蚁阿福医生版发布PC工作台（电脑端）版本，同时接入威科集团循证医学临床决策支持解决方案UpToDate，成为国内首个接入该专业功能的AI平台。即日起，全国医生、护士及药师等卫生专业技术人员都可通过阿福医生版限时免费试用UpToDate。 此次升级，阿福医生版实现了手机App加PC工作台的双端布局，医生既可以便捷地在手机上借助阿福在线接诊、管理和沟通患者，也能在电脑上借助阿福的AI工具完成整理病历、分析数据、生成医学PPT等较复杂任务，双端打通使用起来更方便。 “阿福期待成为医生临床判断的得力助手，和医生一起应对医疗的复杂性。”蚂蚁集团CEO韩歆毅在当天的论坛上表示。他强调，AI",
+  "ord": 7
+ },
+ "https://www.leiphone.com/category/industrynews/UJ2aT1MWPavF3L26.html": {
+  "title": "0跨境经验，鞋履卖家借助Shopee轻出海跨出第一步",
+  "source": "雷峰网",
+  "ts": 1795401540.0,
+  "desc": "近些年来，伴随着东南亚电商市场的蓬勃发展，不少国内电商卖家开始把目光转移到东南亚地区，但对于这些卖家来说，国内的经营已是轻车熟路，但如何把已打通的渠道和供应链复刻到其他市场？这是一次机会也是一次挑战，沁竹电子商务商行（以下简称“沁竹”）的经营者小雅，便是其中的探索者。此前，小雅一直专注于国内电商市场，尚未涉足跨境业务。今年7月底，小雅从平台了解到Shopee轻出海模式后决定尝试将现有商品销售到海外。如今，这支仅有两人的经营团队，已经通过轻出海将商品同步到东南亚七大站点，跑出了一条专属于中小卖家的跨境经验。 01 从0到1，跨出出海第一步2025年，小雅开始涉足电商业务，主要经营男鞋、女鞋等商品",
+  "ord": 8
+ },
+ "https://www.leiphone.com/category/industrynews/HTBJLib1WgKs3OIR.html": {
+  "title": "APEC 时刻，PHAIN 登上央视新闻，展现中国自研实力",
+  "source": "雷峰网",
+  "ts": 1795400820.0,
+  "desc": "央视镜头里的PHAIN数据手套：从人手操作到机器人训练数据APEC 期间，PHAIN 梵因动力自主研发的 G03 Pro T 数据手套亮相央视新闻《聊会儿APEC》。公司首席科学家 Peter Bradley Shull（肖培德）博士参与节目，佩戴 G03 Pro T 进行机器人遥操作演示，介绍利用手套采集操作数据、支持灵巧手训练的研究用途。“这是梵因动力的手套。”谈及灵巧手训练所需的数据，Peter 向观众介绍了手中的 G03。在全球目光聚焦 APEC 之际，PHAIN 的自研产品与科研探索一同走进国家级媒体镜头，展现中国企业在具身智能数据采集领域的创新成果。自研工具，服务灵巧手训练10 月",
+  "ord": 9
+ },
+ "https://www.leiphone.com/category/industrynews/MseGRLc64j2hTZxj.html": {
+  "title": "中通快递与阿里云伶鹊达成深度合作，智慧AI打造客服新体验",
+  "source": "雷峰网",
+  "ts": 1795400760.0,
+  "desc": "近日，阿里云伶鹊与中通快递达成深度合作，为中通快递打造企业级AI客服，在小件末端配送场景中落地智能语音热线和智能语音外呼两大能力。上线后“呼入+外呼”日均服务量达数十万通，AI“呼入”热线带来的下单转化率提升近20%。  （AI客服产品示意图） 在“呼入”场景下，用户拨通中通快递客服热线后，伶鹊可以听懂“我要改地址”、“快递显示签收但我没收到”、“到上海要几天”等高频诉求，再结合订单的实时状态，通过多轮对话引导用户修改和确认信息，直到把问题办完。 在“外呼”场景下，快递员派件扫码前，伶鹊会自动拨通收件人电话，核对地址、取得客户授权、处理异常情况，批量完成服务。快递员只需处理真正复杂的情况，送件",
+  "ord": 10
+ },
  "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/": {
   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
   "source": "TechCrunch AI",
@@ -192,7 +430,7 @@
   "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
   "source": "Hacker News 头版",
   "ts": 1795389130.0,
-  "desc": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3\nComments URL: https://news.ycombinator.com/item?id=50605045\nPoints: 173\n# Comments: 149",
+  "desc": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3\nComments URL: https://news.ycombinator.com/item?id=50605045\nPoints: 226\n# Comments: 167",
   "ord": 1
  },
  "https://www.theverge.com/tech/1039851/major-tech-outages": {
@@ -235,7 +473,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795376280.5030785,
   "desc": "",
-  "ord": 26
+  "ord": 25
  },
  "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/": {
   "title": "Why data centers are at the center of the Big Tech backlash",
@@ -258,12 +496,12 @@
   "desc": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files wi",
   "ord": 0
  },
- "https://openai.com/index/perplexity-and-intelligence/": {
-  "title": "Perplexity and Intelligence",
-  "source": "Hacker News 头版",
-  "ts": 1795367187.0,
-  "desc": "Article URL: https://openai.com/index/perplexity-and-intelligence/\nComments URL: https://news.ycombinator.com/item?id=50601525\nPoints: 514\n# Comments: 355",
-  "ord": 5
+ "https://www.producthunt.com/products/mobile-agent-testers": {
+  "title": "Mobile Agent Testers",
+  "source": "Product Hunt",
+  "ts": 1795363726.0,
+  "desc": "",
+  "ord": 1
  },
  "https://www.leiphone.com/category/transportation/QtQ2DYWViqwYNbhu.html": {
   "title": "解码比亚迪高端化：一家技术公司的自我进化",
@@ -354,7 +592,7 @@
   "source": "艾媒网",
   "ts": 1795317202.84134,
   "desc": "",
-  "ord": 2
+  "ord": 1
  },
  "https://www.noemamag.com/the-mythology-of-conscious-ai/": {
   "title": "The Mythology of Conscious AI",
@@ -468,6 +706,13 @@
   "desc": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
   "ord": 0
  },
+ "https://www.producthunt.com/products/othor-ai": {
+  "title": "Othor AI",
+  "source": "Product Hunt",
+  "ts": 1795262224.0,
+  "desc": "",
+  "ord": 2
+ },
  "https://www.qbitai.com/2026/11/511841.html": {
   "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
   "source": "量子位",
@@ -522,7 +767,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795234035.606287,
   "desc": "",
-  "ord": 22
+  "ord": 21
  },
  "https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html": {
   "title": "享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款",
@@ -649,6 +894,13 @@
   "ts": 1795196401.0,
   "desc": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
   "ord": 2
+ },
+ "https://www.producthunt.com/products/gauth-ai-course": {
+  "title": "Gauth Personal Study Agent",
+  "source": "Product Hunt",
+  "ts": 1795194754.0,
+  "desc": "",
+  "ord": 0
  },
  "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/": {
   "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
@@ -1257,7 +1509,7 @@
   "source": "艾媒网",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 3
+  "ord": 4
  },
  "https://huggingface.co/inworld/voice-isolator": {
   "title": "inworld/voice-isolator Audio-to-Audio • Updated 5 days ago • 155",
@@ -1894,7 +2146,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 25
+  "ord": 26
  },
  "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/": {
   "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
@@ -3945,257 +4197,5 @@
   "ts": 1794756557.5737543,
   "desc": "",
   "ord": 5
- },
- "https://api-docs.deepseek.com/news/news260424": {
-  "title": "this documentation",
-  "source": "DeepSeek 更新日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 6
- },
- "https://api-docs.deepseek.com/news/news251201": {
-  "title": "this documentation",
-  "source": "DeepSeek 更新日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 7
- },
- "https://api-docs.deepseek.com/news/news250929": {
-  "title": "this documentation",
-  "source": "DeepSeek 更新日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 8
- },
- "https://api-docs.deepseek.com/news/news250120": {
-  "title": "DeepSeek-R1 Release",
-  "source": "DeepSeek 更新日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 9
- },
- "https://api-docs.deepseek.com/news/news1226": {
-  "title": "introducing DeepSeek-V3",
-  "source": "DeepSeek 更新日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 10
- },
- "https://api-docs.deepseek.com/news/news0802": {
-  "title": "Context Caching is Available 2024/08/02",
-  "source": "DeepSeek 更新日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 11
- },
- "https://api-docs.deepseek.com/news/news0725": {
-  "title": "New API Features 2024/07/25",
-  "source": "DeepSeek 更新日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 12
- },
- "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/": {
-  "title": "Introducing Muse Spark 1.1",
-  "source": "Meta AI 博客",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 0
- },
- "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/": {
-  "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
-  "source": "Meta AI 博客",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 1
- },
- "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/": {
-  "title": "How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects",
-  "source": "Meta AI 博客",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 2
- },
- "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/": {
-  "title": "Introducing Muse Image and Muse Video",
-  "source": "Meta AI 博客",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 3
- },
- "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/": {
-  "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
-  "source": "Meta AI 博客",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 4
- },
- "https://ai.meta.com/meta-ai/media-generation/": {
-  "title": "Media Generation",
-  "source": "Meta AI 博客",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 5
- },
- "https://ai.meta.com/muse/what-are-ai-agents/": {
-  "title": "AI agents explained",
-  "source": "Meta AI 博客",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 6
- },
- "https://ai.meta.com/muse/what-is-agentic-ai/": {
-  "title": "What is agentic AI",
-  "source": "Meta AI 博客",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 7
- },
- "https://ai.meta.com/muse/agentic-ai-examples/": {
-  "title": "Agentic AI examples",
-  "source": "Meta AI 博客",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 8
- },
- "https://ai.meta.com/resources/": {
-  "title": "Resources & tools",
-  "source": "Meta AI 博客",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 9
- },
- "https://huggingface.co/enterprise": {
-  "title": "Team & Enterprise",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 0
- },
- "https://huggingface.co/pro": {
-  "title": "Hugging Face PRO",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 1
- },
- "https://huggingface.co/support": {
-  "title": "Enterprise Support",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 2
- },
- "https://huggingface.co/inference/models": {
-  "title": "Inference Providers",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 3
- },
- "https://huggingface.co/inference-endpoints": {
-  "title": "Inference Endpoints",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 4
- },
- "https://huggingface.co/storage": {
-  "title": "Storage Buckets",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 5
- },
- "https://huggingface.co/models?pipeline_tag=text-generation": {
-  "title": "Text Generation",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 6
- },
- "https://huggingface.co/models?pipeline_tag=image-text-to-text": {
-  "title": "Image-Text-to-Text",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 7
- },
- "https://huggingface.co/models?pipeline_tag=image-to-image": {
-  "title": "Image-to-Image",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 8
- },
- "https://huggingface.co/models?pipeline_tag=text-to-speech": {
-  "title": "Text-to-Speech",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 9
- },
- "https://huggingface.co/models?library=tf": {
-  "title": ".cls-1 { fill: none; } .cls-2 { clip-path: url(#clip-path); } .cls-3 { fill: url(#linear-gradient); } .cls-4 { clip-path: url(#clip-path-2); } .cls-5 { fill: url(#linear-gradient-2); } google-tensorflow TensorFlow",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 10
- },
- "https://huggingface.co/models?library=jax": {
-  "title": ".J { stroke: #dce0df; } .K { stroke-linejoin: round; } JAX",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 11
- },
- "https://huggingface.co/models?library=transformers.js": {
-  "title": "Transformers.js",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 12
- },
- "https://huggingface.co/models?inference_provider=featherless-ai": {
-  "title": "Featherless AI",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 13
- },
- "https://huggingface.co/models?inference_provider=ovhcloud": {
-  "title": "OVHcloud AI Endpoints",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 14
- },
- "https://huggingface.co/settings/hardware": {
-  "title": "Add your hardware",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 14
- },
- "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic": {
-  "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic Text Generation • 9B • Updated 3 days ago • 27k • 7.47k",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 15
- },
- "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image": {
-  "title": "MiniMaxAI/MiniMax-H3-Image Text-to-Image • Updated 4 days ago • 571k • 1.16k",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 28
- },
- "https://huggingface.co/Qwen/Qwen3.8-27B": {
-  "title": "Qwen/Qwen3.8-27B Image-Text-to-Text • 28B • Updated 8 days ago • 6.55M • • 20.1k",
-  "source": "Hugging Face Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 23
  }
 }
