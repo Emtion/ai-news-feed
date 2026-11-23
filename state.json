@@ -1,17 +1,465 @@
 {
+ "https://www.iimedia.cn/c1088/120606.html": {
+  "title": "艾媒一周热评381期 | 当Token走进大众消费：买算力像充话费一样简单；商业秘密｜当399元羽绒服售罄后，中高端品牌该怎么走？",
+  "source": "艾媒网",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 2
+ },
+ "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/": {
+  "title": "Introducing Muse Spark 1.1",
+  "source": "Meta AI 博客",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 0
+ },
+ "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/": {
+  "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
+  "source": "Meta AI 博客",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 1
+ },
+ "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/": {
+  "title": "How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects",
+  "source": "Meta AI 博客",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 2
+ },
+ "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/": {
+  "title": "Introducing Muse Image and Muse Video",
+  "source": "Meta AI 博客",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 3
+ },
+ "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/": {
+  "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
+  "source": "Meta AI 博客",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 4
+ },
+ "https://ai.meta.com/meta-ai/media-generation/": {
+  "title": "Media Generation",
+  "source": "Meta AI 博客",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 5
+ },
+ "https://ai.meta.com/muse/what-are-ai-agents/": {
+  "title": "AI agents explained",
+  "source": "Meta AI 博客",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 6
+ },
+ "https://ai.meta.com/muse/what-is-agentic-ai/": {
+  "title": "What is agentic AI",
+  "source": "Meta AI 博客",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 7
+ },
+ "https://ai.meta.com/muse/agentic-ai-examples/": {
+  "title": "Agentic AI examples",
+  "source": "Meta AI 博客",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 8
+ },
+ "https://ai.meta.com/resources/": {
+  "title": "Resources & tools",
+  "source": "Meta AI 博客",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 9
+ },
+ "https://huggingface.co/enterprise": {
+  "title": "Team & Enterprise",
+  "source": "Hugging Face Trending",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 0
+ },
+ "https://huggingface.co/pro": {
+  "title": "Hugging Face PRO",
+  "source": "Hugging Face Trending",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 1
+ },
+ "https://huggingface.co/support": {
+  "title": "Enterprise Support",
+  "source": "Hugging Face Trending",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 2
+ },
+ "https://huggingface.co/inference/models": {
+  "title": "Inference Providers",
+  "source": "Hugging Face Trending",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 3
+ },
+ "https://huggingface.co/inference-endpoints": {
+  "title": "Inference Endpoints",
+  "source": "Hugging Face Trending",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 4
+ },
+ "https://huggingface.co/storage": {
+  "title": "Storage Buckets",
+  "source": "Hugging Face Trending",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 5
+ },
+ "https://huggingface.co/models?pipeline_tag=text-generation": {
+  "title": "Text Generation",
+  "source": "Hugging Face Trending",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 6
+ },
+ "https://huggingface.co/models?pipeline_tag=image-text-to-text": {
+  "title": "Image-Text-to-Text",
+  "source": "Hugging Face Trending",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 7
+ },
+ "https://huggingface.co/models?pipeline_tag=image-to-image": {
+  "title": "Image-to-Image",
+  "source": "Hugging Face Trending",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 8
+ },
+ "https://huggingface.co/models?pipeline_tag=text-to-speech": {
+  "title": "Text-to-Speech",
+  "source": "Hugging Face Trending",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 9
+ },
+ "https://huggingface.co/models?library=tf": {
+  "title": ".cls-1 { fill: none; } .cls-2 { clip-path: url(#clip-path); } .cls-3 { fill: url(#linear-gradient); } .cls-4 { clip-path: url(#clip-path-2); } .cls-5 { fill: url(#linear-gradient-2); } google-tensorflow TensorFlow",
+  "source": "Hugging Face Trending",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 10
+ },
+ "https://huggingface.co/models?library=jax": {
+  "title": ".J { stroke: #dce0df; } .K { stroke-linejoin: round; } JAX",
+  "source": "Hugging Face Trending",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 11
+ },
+ "https://huggingface.co/models?library=transformers.js": {
+  "title": "Transformers.js",
+  "source": "Hugging Face Trending",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 12
+ },
+ "https://huggingface.co/models?inference_provider=featherless-ai": {
+  "title": "Featherless AI",
+  "source": "Hugging Face Trending",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 13
+ },
+ "https://huggingface.co/settings/hardware": {
+  "title": "Add your hardware",
+  "source": "Hugging Face Trending",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 14
+ },
+ "https://huggingface.co/Qwen/Qwen3.8-27B": {
+  "title": "Qwen/Qwen3.8-27B Image-Text-to-Text • 28B • Updated 17 days ago • 6.19M • • 21.7k",
+  "source": "Hugging Face Trending",
+  "ts": 1795468950.1454487,
+  "desc": "",
+  "ord": 24
+ },
+ "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit": {
+  "title": "AI data centers throw another wrench into chaotic UN climate talks",
+  "source": "The Verge AI",
+  "ts": 1795468177.0,
+  "desc": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/": {
+  "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+  "source": "TechCrunch AI",
+  "ts": 1795466333.0,
+  "desc": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+  "ord": 0
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests": {
+  "title": "Claude AI can review pull requests and ship fixes on its own now",
+  "source": "The Verge AI",
+  "ts": 1795464000.0,
+  "desc": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks t",
+  "ord": 1
+ },
+ "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return": {
+  "title": "How Jensen Huang ended up as Nvidia CEO again",
+  "source": "The Verge AI",
+  "ts": 1795463838.0,
+  "desc": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been \"unfai",
+  "ord": 2
+ },
+ "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/": {
+  "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+  "source": "TechCrunch AI",
+  "ts": 1795461286.0,
+  "desc": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+  "ord": 1
+ },
+ "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording": {
+  "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+  "source": "The Verge AI",
+  "ts": 1795460692.0,
+  "desc": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's",
+  "ord": 3
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit": {
+  "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+  "source": "The Verge AI",
+  "ts": 1795458407.0,
+  "desc": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok ",
+  "ord": 4
+ },
+ "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/": {
+  "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+  "source": "TechCrunch AI",
+  "ts": 1795457542.0,
+  "desc": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+  "ord": 2
+ },
+ "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/": {
+  "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+  "source": "WIRED AI",
+  "ts": 1795456376.0,
+  "desc": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
+  "ord": 0
+ },
+ "https://huggingface.co/blog/allenai/robotrack": {
+  "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+  "source": "Hugging Face 博客",
+  "ts": 1795454437.0,
+  "desc": "",
+  "ord": 0
+ },
+ "https://www.greptile.com/blog/trex-computer-use": {
+  "title": "How should an LLM see a computer?",
+  "source": "Hacker News 头版",
+  "ts": 1795454365.0,
+  "desc": "Article URL: https://www.greptile.com/blog/trex-computer-use\nComments URL: https://news.ycombinator.com/item?id=50615520\nPoints: 28\n# Comments: 18",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/": {
+  "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+  "source": "TechCrunch AI",
+  "ts": 1795454063.0,
+  "desc": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+  "ord": 3
+ },
+ "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/": {
+  "title": "A more tailored Google Search that’s uniquely yours",
+  "source": "Google AI 博客",
+  "ts": 1795453200.0,
+  "desc": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+  "ord": 0
+ },
+ "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/": {
+  "title": "Finding faster quantum algorithms with agents and formal verification",
+  "source": "Google DeepMind",
+  "ts": 1795453180.0,
+  "desc": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/": {
+  "title": "Jensen Huang isn’t out of the woods yet",
+  "source": "TechCrunch AI",
+  "ts": 1795453060.0,
+  "desc": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+  "ord": 4
+ },
+ "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/": {
+  "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+  "source": "TechCrunch AI",
+  "ts": 1795451950.0,
+  "desc": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+  "ord": 5
+ },
+ "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated": {
+  "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+  "source": "The Verge AI",
+  "ts": 1795451411.0,
+  "desc": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven C",
+  "ord": 5
+ },
+ "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay": {
+  "title": "Tech leaders are celebrating Jensen Huang’s return",
+  "source": "The Verge AI",
+  "ts": 1795450444.0,
+  "desc": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable co",
+  "ord": 6
+ },
+ "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/": {
+  "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+  "source": "TechCrunch AI",
+  "ts": 1795446241.0,
+  "desc": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+  "ord": 6
+ },
+ "https://www.leiphone.com/category/private/wwE4LOG5RjKsajCu.html": {
+  "title": "科研成果 | 智能计算实验室方承煜同学成果被NeurIPS2026接收｜NeurIPS 2026",
+  "source": "雷峰网",
+  "ts": 1795445880.0,
+  "desc": "来源：THUSIGSICLAB文章链接：https://mp.weixin.qq.com/s/AadX6xpxE2gywQDMF4dyQQ论文题目：PRISM: Rethinking Atmospheric Scattering Reconstruction as a Unified Understanding and Restoration Model for Real-world Dehazing论文链接：https://arxiv.org/pdf/2604.07048论文简介01研究概述真实世界图像去雾面临非均匀雾分布、空间变化的颜色偏移，以及真实配对数据稀缺等挑战。本文提出 PRISM",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/": {
+  "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+  "source": "TechCrunch AI",
+  "ts": 1795444983.0,
+  "desc": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+  "ord": 7
+ },
+ "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/": {
+  "title": "Jensen Huang Is Back as Nvidia CEO",
+  "source": "WIRED AI",
+  "ts": 1795444055.0,
+  "desc": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
+  "ord": 1
+ },
+ "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/": {
+  "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+  "source": "TechCrunch AI",
+  "ts": 1795443719.0,
+  "desc": "The stunning reversal was supported by senior officials in the U.S. government.",
+  "ord": 8
+ },
+ "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated": {
+  "title": "Jensen Huang is back as Nvidia’s CEO",
+  "source": "The Verge AI",
+  "ts": 1795442664.0,
+  "desc": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which the Board was satisfied with respect to Mr. Huang's candor and ability to lead NV",
+  "ord": 7
+ },
+ "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF": {
+  "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+  "source": "Hacker News 头版",
+  "ts": 1795441358.0,
+  "desc": "We built NariQ: 3-bit-or-lower quantizations of Qwen3.8-27B that retain near-BF16 quality across agentic tasks, math, multilingual reasoning, and image understanding.To our knowledge, this is the first 3-bit-or-lower quantization that retains BF16 lvl performance on long-horizon agentic tasks.Benchm",
+  "ord": 1
+ },
+ "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/": {
+  "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+  "source": "WIRED AI",
+  "ts": 1795439508.0,
+  "desc": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
+  "ord": 2
+ },
+ "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/": {
+  "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+  "source": "WIRED AI",
+  "ts": 1795435200.0,
+  "desc": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
+  "ord": 3
+ },
+ "https://www.qbitai.com/2026/11/512195.html": {
+  "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
+  "source": "量子位",
+  "ts": 1795431675.0,
+  "desc": "零Token成本，断网也能自由Vibe Coding",
+  "ord": 0
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday": {
+  "title": "Meta Muse can do your Black Friday shopping at Walmart",
+  "source": "The Verge AI",
+  "ts": 1795431600.0,
+  "desc": "Walmart will now let Meta's Muse shop on your behalf, allowing the AI agent to find and purchase Black Friday deals via Walmart's Sparky AI assistant. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for ",
+  "ord": 8
+ },
+ "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/": {
+  "title": "States Sue SpaceX Over Grok Deepfakes",
+  "source": "WIRED AI",
+  "ts": 1795431600.0,
+  "desc": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
+  "ord": 4
+ },
+ "https://www.leiphone.com/category/weiwu/wXdEB0qbbYQ2PfPH.html": {
+  "title": "驭电飞驰，向车而行 | 光跃投资走进2026中国大学生方程式大赛合肥赛场",
+  "source": "雷峰网",
+  "ts": 1795430640.0,
+  "desc": "2026   年 11 月 16 日至 22 日，2026 中国大学生电动 & 无人驾驶方程式大赛在合肥骆岗公园举行。作为国内最早一批关注并参与 FSC 赛事筹建的投资机构，光跃投资合伙人曾参与首届 FSC 赛事的筹备工作；本届赛事期间，光跃联合缘梦公益平台，带领企业与投资伙伴走进赛场、走进车队 P 房，近距离观察青年工程师的造车现场。一、百余支车队齐聚合肥，赛场成为工程实践的现场本届大赛上，来自境内外的车队依次登场。车检环节，机械结构、电气检查、淋雨测试、制动测试层层把关，是车辆合规的终极考场。静态赛场，参赛学子围绕赛车设计报告、成本与制造分析、商业报告开展答辩，是工程思维与市场意识的交锋。",
+  "ord": 1
+ },
+ "https://www.leiphone.com/category/zaobao/WvQYh5bertpjOZdF.html": {
+  "title": "华为星芒限时5499元起，网友喊话再便宜500，刘赫回应：我们选择创新优先；英伟达才说H200芯片不卖中国，美财长突喊：不用再限丨雷峰早报",
+  "source": "雷峰网",
+  "ts": 1795430400.0,
+  "desc": "要闻提示1.英伟达才说H200芯片不卖中国，美财长突喊：不用再限2.限时售价5499元起！华为星芒总经理回应OSTA O1 Pro定价高：我们选择创新优先3.ASML总裁急了：切断光刻机售后也没用，中国工厂依然能造芯4.第一批买iPhone Duo的人亏麻了：渠道价大跌破发！差价至少4600元5.娃哈哈董事长许思敏被曝辞职6.小米从小鹏挖来了欧洲汽车业务负责人7.腾讯就《仙逆》盗版纠纷起诉百度，索赔金额达1亿元8.马斯克预警：AI 行业明年可能面临严重资金短缺，或需要数千亿美元额外投入今日头条英伟达才说H200芯片不卖中国，美财长突喊：不用再限11月21日消息，英伟达H200芯片的对华出口政策",
+  "ord": 2
+ },
+ "https://z.ai/blog/glm-5.4": {
+  "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+  "source": "Hacker News 头版",
+  "ts": 1795428403.0,
+  "desc": "Article URL: https://z.ai/blog/glm-5.4\nComments URL: https://news.ycombinator.com/item?id=50609685\nPoints: 947\n# Comments: 319",
+  "ord": 2
+ },
+ "https://www.wired.com/story/goodbye-world-the-end-of-programmers/": {
+  "title": "Goodbye, World: The End of Programmers",
+  "source": "WIRED AI",
+  "ts": 1795428000.0,
+  "desc": "The last thing you should ever read—and the last thing I may ever write—about the craft of coding.",
+  "ord": 5
+ },
+ "https://www.leiphone.com/category/industrynews/nZ7Wi4BaZP4Ej5G2.html": {
+  "title": "市场份额超90%！从康辉街头出镜到APEC，大疆Pocket为何被反复选择？",
+  "source": "雷峰网",
+  "ts": 1795427700.0,
+  "desc": "2026年深圳APEC会议落下帷幕，“全球记者人手一台大疆”在社交平台持续走红。在高规格国际会议一线，来自20多个经济体的记者掏出仅有手掌大小的Pocket云台相机，再配一枚硬币大小的无线麦克风，一个人即可完成拍摄、收音和回传。大疆手持智能影像成为APEC期间“曝光率最高”的设备背后，是其在消费市场常年位居第一的市场占有率。市场研究机构洛图科技11月23日发布的《中国手持智能相机线上零售市场周度追踪》报告显示，2026年第38–40周，中国线上零售市场（京东、天猫、抖音）中，大疆以82.8%的销量份额位居第一，其中云台相机、运动相机、拇指相机三大品类份额均居首位。具体来看，在云台相机品类，大疆",
+  "ord": 3
+ },
+ "https://www.leiphone.com/category/industrynews/A2PIgIjrlQx63RSp.html": {
+  "title": "独家解读丨苦战三个月，AI办公经得起财报检验吗？",
+  "source": "雷峰网",
+  "ts": 1795427640.0,
+  "desc": "AI办公，正在进入财报检验期。过去一个季度，大厂集中火力攻克这门AI应用生意。腾讯在Q3财报及业绩电话会中披露了WorkBuddy更多商业化进展，包括Token消耗、企业客户采用情况，以及相关收入增长数据。二级市场有人买账，认为“WorkBuddy进展不错”，但也有人泼冷水，“还是得看带来多少收益”。而阿里最新一期财报暂未单独披露千问办公的收入及经营情况，只披露了包含千问办公在内的AI实验室与应用分部整体财务数据。两份财报披露的关键指标不多，但过去三个月各家在线下的动作，或许能提供另一种观察视角。从更长远来看，市场也尤为关心：AI办公究竟是门多大的生意？它能否在未来成为大厂新的利润增长点？01",
+  "ord": 4
+ },
+ "https://www.qbitai.com/2026/11/512179.html": {
+  "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
+  "source": "量子位",
+  "ts": 1795425008.0,
+  "desc": "企业核心需求不是交付设备，而是能持续上岗的劳动力",
+  "ord": 1
+ },
  "https://www.iimedia.cn/c1088/120514.html": {
   "title": "11月21日AI新产品讯息：超芯AI发布智能体Coboo2.0、谷歌推出Gemini 4 Neon模型、火山引擎上线豆包实时通话API服务",
   "source": "艾媒网",
   "ts": 1795424579.789836,
   "desc": "",
-  "ord": 2
+  "ord": 4
  },
  "https://www.iimedia.cn/c1040/120516.html": {
   "title": "华为子品牌星芒首款AI手机OSTA O1 Pro发布，主打鸿蒙AI体验",
   "source": "艾媒网",
   "ts": 1795424579.789836,
   "desc": "",
-  "ord": 3
+  "ord": 5
  },
  "https://api-docs.deepseek.com/guides/build_a_chatbot/": {
   "title": "Click here to view the guide",
@@ -102,7 +550,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795424579.789836,
   "desc": "",
-  "ord": 22
+  "ord": 20
  },
  "https://huggingface.co/Lightricks/LTX-2.5": {
   "title": "Lightricks/LTX-2.5 Image-to-Video • Updated Oct 11 • 2.99M • 13.1k",
@@ -160,6 +608,34 @@
   "desc": "",
   "ord": 6
  },
+ "https://openai.com/business/learn/connected-intelligence-for-in-house-legal": {
+  "title": "Connected intelligence for in-house legal",
+  "source": "OpenAI News",
+  "ts": 1795420800.0,
+  "desc": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+  "ord": 0
+ },
+ "https://openai.com/business/customer-stories/richpanel-ai-customer-support": {
+  "title": "Richpanel helps companies automate 50% of support in 30 days",
+  "source": "OpenAI News",
+  "ts": 1795420800.0,
+  "desc": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+  "ord": 1
+ },
+ "https://www.qbitai.com/2026/11/512017.html": {
+  "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
+  "source": "量子位",
+  "ts": 1795419721.0,
+  "desc": "阿福大升级：让模型像医生一样思考",
+  "ord": 2
+ },
+ "https://www.qbitai.com/2026/11/512004.html": {
+  "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
+  "source": "量子位",
+  "ts": 1795417178.0,
+  "desc": "一个完全由AI组成的科学家社会，是什么样？",
+  "ord": 3
+ },
  "https://www.leiphone.com/category/industrynews/tf4yrVFgiVRXvipk.html": {
   "title": "首届AI音乐视觉黑客松：从一句话到一块大屏，剪映 Hub 让 AI 视觉进入音乐现场",
   "source": "雷峰网",
@@ -201,6 +677,13 @@
   "ts": 1795407000.0,
   "desc": "11月22-23日，2026蚂蚁阿福医疗健康生态大会在广州举行。蚂蚁集团首席执行官韩歆毅在主论坛发言中表示，AI正在拓宽人类健康自塑的边界，让健康管理从“千人一方”走向“一人一方”、从“以治病为中心”转向“以健康为中心”，这是AI对医疗健康领域最深远的影响之一，其价值不亚于AI医疗和AI药物研发。他认为，AI与健康的深度融合正当其时，AI促进健康蕴含巨大需求空间。  图说：韩歆毅在蚂蚁阿福医疗健康生态大会发言时，佩戴了阿福全新发布的AI健康戒指。 韩歆毅表示，从行业趋势看，AI正在快速提升医疗服务的“下限”和“上限”，一头促进医疗服务的均衡普惠，一头重塑医药研发的创新范式。今天，借助蚂蚁阿福等",
   "ord": 5
+ },
+ "https://www.qbitai.com/2026/11/511998.html": {
+  "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
+  "source": "量子位",
+  "ts": 1795406194.0,
+  "desc": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领",
+  "ord": 4
  },
  "https://www.iimedia.cn/c1061/120432.html": {
   "title": "2026年扫地机器人升级需求洞察：耗材与噪音痛点凸显，基础体验亟待优化",
@@ -314,6 +797,13 @@
   "desc": "",
   "ord": 21
  },
+ "https://www.qbitai.com/2026/11/511989.html": {
+  "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
+  "source": "量子位",
+  "ts": 1795405666.0,
+  "desc": "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。",
+  "ord": 5
+ },
  "https://www.leiphone.com/category/industrynews/YXUz5sDMtx6SzE3P.html": {
   "title": "蚂蚁阿福App新版发布：实时视频“望闻问切”功能上线，小毛小病在家也能搞定",
   "source": "雷峰网",
@@ -328,12 +818,26 @@
   "desc": "11月22日，蚂蚁阿福医生版发布PC工作台（电脑端）版本，同时接入威科集团循证医学临床决策支持解决方案UpToDate，成为国内首个接入该专业功能的AI平台。即日起，全国医生、护士及药师等卫生专业技术人员都可通过阿福医生版限时免费试用UpToDate。 此次升级，阿福医生版实现了手机App加PC工作台的双端布局，医生既可以便捷地在手机上借助阿福在线接诊、管理和沟通患者，也能在电脑上借助阿福的AI工具完成整理病历、分析数据、生成医学PPT等较复杂任务，双端打通使用起来更方便。 “阿福期待成为医生临床判断的得力助手，和医生一起应对医疗的复杂性。”蚂蚁集团CEO韩歆毅在当天的论坛上表示。他强调，AI",
   "ord": 7
  },
+ "https://www.qbitai.com/2026/11/511978.html": {
+  "title": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
+  "source": "量子位",
+  "ts": 1795403586.0,
+  "desc": "RoboChallenge正式发布全新评测基准RoboChallenge Zero",
+  "ord": 6
+ },
  "https://www.leiphone.com/category/industrynews/UJ2aT1MWPavF3L26.html": {
   "title": "0跨境经验，鞋履卖家借助Shopee轻出海跨出第一步",
   "source": "雷峰网",
   "ts": 1795401540.0,
   "desc": "近些年来，伴随着东南亚电商市场的蓬勃发展，不少国内电商卖家开始把目光转移到东南亚地区，但对于这些卖家来说，国内的经营已是轻车熟路，但如何把已打通的渠道和供应链复刻到其他市场？这是一次机会也是一次挑战，沁竹电子商务商行（以下简称“沁竹”）的经营者小雅，便是其中的探索者。此前，小雅一直专注于国内电商市场，尚未涉足跨境业务。今年7月底，小雅从平台了解到Shopee轻出海模式后决定尝试将现有商品销售到海外。如今，这支仅有两人的经营团队，已经通过轻出海将商品同步到东南亚七大站点，跑出了一条专属于中小卖家的跨境经验。 01 从0到1，跨出出海第一步2025年，小雅开始涉足电商业务，主要经营男鞋、女鞋等商品",
   "ord": 8
+ },
+ "https://www.qbitai.com/2026/11/511933.html": {
+  "title": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班",
+  "source": "量子位",
+  "ts": 1795400964.0,
+  "desc": "豆包工作是目前字节优先级最高的产品",
+  "ord": 7
  },
  "https://www.leiphone.com/category/industrynews/HTBJLib1WgKs3OIR.html": {
   "title": "APEC 时刻，PHAIN 登上央视新闻，展现中国自研实力",
@@ -348,6 +852,13 @@
   "ts": 1795400760.0,
   "desc": "近日，阿里云伶鹊与中通快递达成深度合作，为中通快递打造企业级AI客服，在小件末端配送场景中落地智能语音热线和智能语音外呼两大能力。上线后“呼入+外呼”日均服务量达数十万通，AI“呼入”热线带来的下单转化率提升近20%。  （AI客服产品示意图） 在“呼入”场景下，用户拨通中通快递客服热线后，伶鹊可以听懂“我要改地址”、“快递显示签收但我没收到”、“到上海要几天”等高频诉求，再结合订单的实时状态，通过多轮对话引导用户修改和确认信息，直到把问题办完。 在“外呼”场景下，快递员派件扫码前，伶鹊会自动拨通收件人电话，核对地址、取得客户授权、处理异常情况，批量完成服务。快递员只需处理真正复杂的情况，送件",
   "ord": 10
+ },
+ "https://www.qbitai.com/2026/11/511921.html": {
+  "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+  "source": "量子位",
+  "ts": 1795399799.0,
+  "desc": "还透露了不少训练背后的秘诀",
+  "ord": 8
  },
  "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/": {
   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -419,19 +930,19 @@
   "desc": "",
   "ord": 29
  },
+ "https://huggingface.co/blog/agentic-evals": {
+  "title": "How to build and maintain an agentic evaluation",
+  "source": "Hugging Face 博客",
+  "ts": 1795392000.0,
+  "desc": "",
+  "ord": 1
+ },
  "https://0rwx.com/": {
   "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
   "source": "Hacker News 头版",
   "ts": 1795391580.0,
   "desc": "Article URL: https://0rwx.com/\nComments URL: https://news.ycombinator.com/item?id=50605445\nPoints: 8\n# Comments: 2",
   "ord": 0
- },
- "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3": {
-  "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-  "source": "Hacker News 头版",
-  "ts": 1795389130.0,
-  "desc": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3\nComments URL: https://news.ycombinator.com/item?id=50605045\nPoints: 226\n# Comments: 167",
-  "ord": 1
  },
  "https://www.theverge.com/tech/1039851/major-tech-outages": {
   "title": "We haven’t seen the last of the major tech outages",
@@ -473,7 +984,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795376280.5030785,
   "desc": "",
-  "ord": 25
+  "ord": 22
  },
  "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/": {
   "title": "Why data centers are at the center of the Big Tech backlash",
@@ -592,7 +1103,7 @@
   "source": "艾媒网",
   "ts": 1795317202.84134,
   "desc": "",
-  "ord": 1
+  "ord": 3
  },
  "https://www.noemamag.com/the-mythology-of-conscious-ai/": {
   "title": "The Mythology of Conscious AI",
@@ -620,7 +1131,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795302873.1682804,
   "desc": "",
-  "ord": 20
+  "ord": 18
  },
  "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/": {
   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -767,7 +1278,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795234035.606287,
   "desc": "",
-  "ord": 21
+  "ord": 26
  },
  "https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html": {
   "title": "享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款",
@@ -984,7 +1495,7 @@
   "source": "艾媒网",
   "ts": 1795174686.1234317,
   "desc": "",
-  "ord": 2
+  "ord": 1
  },
  "https://huggingface.co/HuggingFaceTB/SmolVLM2-256M-Video-Instruct": {
   "title": "HuggingFaceTB/SmolVLM2-256M-Video-Instruct Image-Text-to-Text • 0.3B • Updated 7 days ago • 45.3k • 288",
@@ -1908,7 +2419,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795033783.4331658,
   "desc": "",
-  "ord": 18
+  "ord": 21
  },
  "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/": {
   "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
@@ -2146,7 +2657,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 26
+  "ord": 25
  },
  "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/": {
   "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
@@ -2349,7 +2860,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794970430.0040767,
   "desc": "",
-  "ord": 22
+  "ord": 29
  },
  "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted": {
   "title": "harness-hub/Qwen3.8-27B-pi-adapted Updated about 18 hours ago • 153",
@@ -2566,7 +3077,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 24
+  "ord": 23
  },
  "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6": {
   "title": "meituan-longcat/LongCat-Video-Avatar-1.6 Updated 4 days ago • 489 • 194",
@@ -3687,515 +4198,5 @@
   "ts": 1794756557.5737543,
   "desc": "",
   "ord": 8
- },
- "https://www.cloudquell.com/blog/": {
-  "title": "← Back to all posts",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": ""
- },
- "https://www.cloudquell.com/cloud-cost-optimization/": {
-  "title": "Cloud cost optimization",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 9
- },
- "https://www.cloudquell.com/multi-cloud-cost-management/": {
-  "title": "Multi-cloud cost management",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 10
- },
- "https://www.cloudquell.com/cloud-cost-allocation/": {
-  "title": "Cloud cost allocation",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 11
- },
- "https://www.cloudquell.com/aws-cost-anomaly-detection/": {
-  "title": "AWS cost anomaly detection",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 12
- },
- "https://www.cloudquell.com/finops-mcp-server/": {
-  "title": "FinOps MCP server",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 13
- },
- "https://www.cloudquell.com/effective-coverage/": {
-  "title": "Effective Coverage %",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 14
- },
- "https://www.cloudquell.com/integrations/aws/": {
-  "title": "AWS integration",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 15
- },
- "https://www.cloudquell.com/integrations/bedrock/": {
-  "title": "Bedrock cost tracking",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 16
- },
- "https://www.cloudquell.com/integrations/snowflake/": {
-  "title": "Snowflake integration",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 17
- },
- "https://www.cloudquell.com/integrations/openai/": {
-  "title": "OpenAI integration",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 18
- },
- "https://www.cloudquell.com/integrations/anthropic/": {
-  "title": "Anthropic integration",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 19
- },
- "https://www.cloudquell.com/integrations/azure/": {
-  "title": "Azure integration",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 20
- },
- "https://www.cloudquell.com/integrations/azure-openai/": {
-  "title": "Azure OpenAI cost tracking",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 21
- },
- "https://www.cloudquell.com/integrations/gcp/": {
-  "title": "GCP integration",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 22
- },
- "https://www.cloudquell.com/integrations/vertex-ai/": {
-  "title": "Vertex AI cost tracking",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 23
- },
- "https://www.cloudquell.com/subprocessors/": {
-  "title": "Sub-processors",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 24
- },
- "https://artificialanalysis.ai/": {
-  "title": "Artificial Analysis",
-  "source": "Artificial Analysis 智力指数榜",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 0
- },
- "https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent": {
-  "title": "Multimodal Knowledge Agent (MKA) benchmark: testing knowledge work capabilities with complex visual filesNovember 10, 2026",
-  "source": "Artificial Analysis 智力指数榜",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 4
- },
- "https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1": {
-  "title": "Endpoint Accuracy Index v1.1: Tighter long context intervals and expanded model coverageNovember 9, 2026",
-  "source": "Artificial Analysis 智力指数榜",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 5
- },
- "https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index": {
-  "title": "Meta's Muse Ember is the cheapest model scoring 36 on the Intelligence IndexNovember 9, 2026",
-  "source": "Artificial Analysis 智力指数榜",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 6
- },
- "https://artificialanalysis.ai/articles/decision-index-v2": {
-  "title": "Introducing the Artificial Analysis Decision Index v2November 8, 2026",
-  "source": "Artificial Analysis 智力指数榜",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 7
- },
- "https://artificialanalysis.ai/articles/vials-aa": {
-  "title": "VIALS-AA: different paths to scientific image reasoningNovember 6, 2026",
-  "source": "Artificial Analysis 智力指数榜",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 8
- },
- "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it": {
-  "title": "Thinking Machines Inkling 2 Small: the highest scoring open weights model outside of China pending weights releaseNovember 5, 2026",
-  "source": "Artificial Analysis 智力指数榜",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 9
- },
- "https://artificialanalysis.ai/articles/nanbeige-has-released-nanbeige4-3-33b-scoring-20-on-the-intelligence-index": {
-  "title": "Nanbeige has released Nanbeige4.3-33B scoring 20 on the Intelligence IndexNovember 5, 2026",
-  "source": "Artificial Analysis 智力指数榜",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 10
- },
- "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1": {
-  "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5October 28, 2026",
-  "source": "Artificial Analysis 智力指数榜",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 11
- },
- "https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost": {
-  "title": "GitHub Copilot Fusion orchestrates Anthropic and OpenAI models to balance performance and costOctober 28, 2026",
-  "source": "Artificial Analysis 智力指数榜",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 12
- },
- "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5": {
-  "title": "Announcing Artificial Analysis Intelligence Index v5October 27, 2026",
-  "source": "Artificial Analysis 智力指数榜",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 12
- },
- "https://artificialanalysis.ai/articles/gpt-6-1-terra-pushes-the-cost-efficiency-frontier": {
-  "title": "GPT-6.1 Terra pushes the cost efficiency frontierOctober 26, 2026",
-  "source": "Artificial Analysis 智力指数榜",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 12
- },
- "https://artificialanalysis.ai/articles/code2video-aa": {
-  "title": "Code2Video-AA: how well do AI models design videos in code?October 26, 2026",
-  "source": "Artificial Analysis 智力指数榜",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 12
- },
- "https://artificialanalysis.ai/leaderboards/models": {
-  "title": "LLM Leaderboard",
-  "source": "Artificial Analysis 智力指数榜",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 13
- },
- "https://artificialanalysis.ai/models/recommend": {
-  "title": "Model Recommender",
-  "source": "Artificial Analysis 智力指数榜",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 14
- },
- "https://artificialanalysis.ai/data-playground": {
-  "title": "Data Playground",
-  "source": "Artificial Analysis 智力指数榜",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 15
- },
- "https://www.iimedia.cn/c1106/119852.html": {
-  "title": "艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强",
-  "source": "艾媒网",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 0
- },
- "https://www.iimedia.cn/c1106/119848.html": {
-  "title": "艾媒鼎榜 | 2026年中国AI会议耳机品牌10强",
-  "source": "艾媒网",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 0
- },
- "https://www.iimedia.cn/c1088/120050.html": {
-  "title": "2026年中国AI会议耳机十大品牌出炉！科大讯飞、华为、sanag位列前三",
-  "source": "艾媒网",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 4
- },
- "https://www.iimedia.cn/c1088/119988.html": {
-  "title": "11月11日AI新产品讯息：千问大模型Qwen4即将发布、蚂蚁灵波发布LingBot-Touch模型、上药云健康首发“益药·智能服务矩阵”",
-  "source": "艾媒网",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 2
- },
- "https://www.anthropic.com/claude-fable-and-mythos-5-2": {
-  "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 0
- },
- "https://www.anthropic.com/news/public-benefit-fund": {
-  "title": "Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 1
- },
- "https://www.anthropic.com/news/s1-sec": {
-  "title": "Anthropic files S-1 with the SEC for proposed initial public offeringToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 2
- },
- "https://www.anthropic.com/research/early-progress-drug-development": {
-  "title": "Early progress on accelerating drug development with ClaudeWe're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 3
- },
- "https://www.anthropic.com/claude-haiku-5-5": {
-  "title": "Introducing Claude Haiku 5.5Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 4
- },
- "https://www.anthropic.com/claude-opus-5-5": {
-  "title": "Introducing Claude Opus 5.5Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 5
- },
- "https://www.anthropic.com/features/ebola-response": {
-  "title": "The Situation Report",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 6
- },
- "https://www.anthropic.com/institute/econ-scenarios": {
-  "title": "Scenarios for our economic future",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 7
- },
- "https://www.anthropic.com/features/making-of-claude-code": {
-  "title": "The making of Claude Code",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 8
- },
- "https://www.anthropic.com/features/project-deal": {
-  "title": "Project Deal: our Claude-run marketplace experiment",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 9
- },
- "https://www.anthropic.com/features/claude-on-mars": {
-  "title": "The first AI-planned drive on Mars",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 10
- },
- "https://www.anthropic.com/news/roadshow-launch": {
-  "title": "Anthropic launches roadshow for proposed initial public offering",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 13
- },
- "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions": {
-  "title": "AI for Science expands to foundations and research institutions",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 14
- },
- "https://www.anthropic.com/news/expanding-partnership-gsa": {
-  "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 15
- },
- "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation": {
-  "title": "Donating Agent Skills to the Agentic AI Foundation",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 16
- },
- "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences": {
-  "title": "Open call for guest investigators in the life sciences",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 17
- },
- "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust": {
-  "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 18
- },
- "https://www.anthropic.com/news/an-update-on-independent-evaluators": {
-  "title": "An update on independent evaluators",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 19
- },
- "https://www.anthropic.com/news/2026-us-midterms": {
-  "title": "Preparing for the 2026 US midterms",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 20
- },
- "https://www.anthropic.com/news/singapore-office-opening": {
-  "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 21
- },
- "https://www.anthropic.com/news/distillation-defenses": {
-  "title": "Strengthening our defenses against distillation attacks",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 22
- },
- "https://www.anthropic.com/news/anthropic-cyber-mission": {
-  "title": "Introducing the Anthropic Cyber Mission",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 23
- },
- "https://www.anthropic.com/news/2026-usage-policy-update": {
-  "title": "2026 Usage Policy update",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 24
- },
- "https://www.anthropic.com/news/genesis-mission-commitment": {
-  "title": "Building on our commitment to American scientific discovery",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 25
- },
- "https://www.anthropic.com/news/cyber-verification-program": {
-  "title": "Expanding the Cyber Verification Program",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 26
- },
- "https://www.anthropic.com/news/claude-frontier-academy": {
-  "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 27
- },
- "https://www.anthropic.com/news/barclays-scales-claude": {
-  "title": "Barclays scales Claude to upgrade operations and improve client experience",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 28
- },
- "https://www.anthropic.com/claude-sonnet-5-5": {
-  "title": "Introducing Claude Sonnet 5.5",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 29
- },
- "https://www.anthropic.com/news/accenture-embedded-evaluation": {
-  "title": "Partnering with Accenture on embedded evaluation",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 28
- },
- "https://www.anthropic.com/press-kit": {
-  "title": "Download press kit",
-  "source": "Anthropic Newsroom",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 29
- },
- "https://api-docs.deepseek.com/guides/build_a_chatbot": {
-  "title": "Click here to view the guide",
-  "source": "DeepSeek 更新日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 0
- },
- "https://api-docs.deepseek.com/": {
-  "title": "DeepSeek API Docs",
-  "source": "DeepSeek 更新日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 1
- },
- "https://api-docs.deepseek.com/quick_start/pricing": {
-  "title": "Models & Pricing",
-  "source": "DeepSeek 更新日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 2
- },
- "https://api-docs.deepseek.com/news/news260910": {
-  "title": "this documentation",
-  "source": "DeepSeek 更新日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 3
- },
- "https://api-docs.deepseek.com/quick_start/agent_integrations/codex": {
-  "title": "official documentation",
-  "source": "DeepSeek 更新日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 4
- },
- "https://api-docs.deepseek.com/news/news260813": {
-  "title": "this documentation",
-  "source": "DeepSeek 更新日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 5
  }
 }
