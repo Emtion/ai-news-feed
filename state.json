@@ -1,10 +1,115 @@
 {
+ "https://github.com/trending?spoken_language_code=bh": {
+  "title": "Bihari languages",
+  "source": "GitHub Trending",
+  "ts": 1795395123.916399,
+  "desc": "",
+  "ord": 22
+ },
+ "https://github.com/trending?spoken_language_code=ca": {
+  "title": "Catalan, Valencian",
+  "source": "GitHub Trending",
+  "ts": 1795395123.916399,
+  "desc": "",
+  "ord": 23
+ },
+ "https://github.com/trending?spoken_language_code=ny": {
+  "title": "Chichewa, Chewa, Nyanja",
+  "source": "GitHub Trending",
+  "ts": 1795395123.916399,
+  "desc": "",
+  "ord": 24
+ },
+ "https://github.com/trending?spoken_language_code=dv": {
+  "title": "Divehi, Dhivehi, Maldivian",
+  "source": "GitHub Trending",
+  "ts": 1795395123.916399,
+  "desc": "",
+  "ord": 25
+ },
+ "https://github.com/trending?spoken_language_code=nl": {
+  "title": "Dutch, Flemish",
+  "source": "GitHub Trending",
+  "ts": 1795395123.916399,
+  "desc": "",
+  "ord": 26
+ },
+ "https://github.com/trending?spoken_language_code=ht": {
+  "title": "Haitian, Haitian Creole",
+  "source": "GitHub Trending",
+  "ts": 1795395123.916399,
+  "desc": "",
+  "ord": 27
+ },
+ "https://github.com/trending?spoken_language_code=ia": {
+  "title": "Interlingua (International Auxil...",
+  "source": "GitHub Trending",
+  "ts": 1795395123.916399,
+  "desc": "",
+  "ord": 28
+ },
+ "https://github.com/trending?spoken_language_code=ie": {
+  "title": "Interlingue, Occidental",
+  "source": "GitHub Trending",
+  "ts": 1795395123.916399,
+  "desc": "",
+  "ord": 29
+ },
+ "https://0rwx.com/": {
+  "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+  "source": "Hacker News 头版",
+  "ts": 1795391580.0,
+  "desc": "Article URL: https://0rwx.com/\nComments URL: https://news.ycombinator.com/item?id=50605445\nPoints: 8\n# Comments: 2",
+  "ord": 0
+ },
+ "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3": {
+  "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+  "source": "Hacker News 头版",
+  "ts": 1795389130.0,
+  "desc": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3\nComments URL: https://news.ycombinator.com/item?id=50605045\nPoints: 114\n# Comments: 70",
+  "ord": 1
+ },
+ "https://www.theverge.com/tech/1039851/major-tech-outages": {
+  "title": "We haven’t seen the last of the major tech outages",
+  "source": "The Verge AI",
+  "ts": 1795387682.0,
+  "desc": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The Americ",
+  "ord": 0
+ },
+ "https://github.com/mjwsolo/localcode": {
+  "title": "Localcode, open source agentic coding on your Mac with one command",
+  "source": "Hacker News 头版",
+  "ts": 1795385928.0,
+  "desc": "Article URL: https://github.com/mjwsolo/localcode\nComments URL: https://news.ycombinator.com/item?id=50604540\nPoints: 12\n# Comments: 1",
+  "ord": 2
+ },
+ "https://pequalnp.com/": {
+  "title": "Agent swarm trying to solve P vs. NP",
+  "source": "Hacker News 头版",
+  "ts": 1795384425.0,
+  "desc": "Article URL: https://pequalnp.com/\nComments URL: https://news.ycombinator.com/item?id=50604314\nPoints: 88\n# Comments: 78",
+  "ord": 3
+ },
+ "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/": {
+  "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+  "source": "TechCrunch AI",
+  "ts": 1795382047.0,
+  "desc": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+  "ord": 0
+ },
+ "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth": {
+  "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+  "source": "Hacker News 头版",
+  "ts": 1795381276.0,
+  "desc": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth\nComments URL: https://news.ycombinator.com/item?id=50603845\nPoints: 170\n# Comments: 59",
+  "ord": 4
+ },
  "https://huggingface.co/SulphurAI/Sulphur-3": {
   "title": "SulphurAI/Sulphur-3 Updated 1 day ago • 78.9k • 759",
   "source": "Hugging Face Trending",
   "ts": 1795376280.5030785,
   "desc": "",
-  "ord": 28
+  "ord": 27
  },
  "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/": {
   "title": "Why data centers are at the center of the Big Tech backlash",
@@ -12,6 +117,13 @@
   "ts": 1795370923.0,
   "desc": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
   "ord": 0
+ },
+ "https://boazbk.github.io/mltheoryseminar/": {
+  "title": "Harvard CS 2881R AI Safety",
+  "source": "Hacker News 头版",
+  "ts": 1795370514.0,
+  "desc": "Article URL: https://boazbk.github.io/mltheoryseminar/\nComments URL: https://news.ycombinator.com/item?id=50602153\nPoints: 32\n# Comments: 3",
+  "ord": 5
  },
  "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music": {
   "title": "Binding of Isaac developer removes AI music from Repentance Plus",
@@ -24,8 +136,8 @@
   "title": "Perplexity and Intelligence",
   "source": "Hacker News 头版",
   "ts": 1795367187.0,
-  "desc": "Article URL: https://openai.com/index/perplexity-and-intelligence/\nComments URL: https://news.ycombinator.com/item?id=50601525\nPoints: 216\n# Comments: 152",
-  "ord": 0
+  "desc": "Article URL: https://openai.com/index/perplexity-and-intelligence/\nComments URL: https://news.ycombinator.com/item?id=50601525\nPoints: 464\n# Comments: 320",
+  "ord": 6
  },
  "https://www.leiphone.com/category/transportation/QtQ2DYWViqwYNbhu.html": {
   "title": "解码比亚迪高端化：一家技术公司的自我进化",
@@ -116,14 +228,7 @@
   "source": "艾媒网",
   "ts": 1795317202.84134,
   "desc": "",
-  "ord": 1
- },
- "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/": {
-  "title": "Data Processing Incidents on Inference Providers",
-  "source": "Hacker News 头版",
-  "ts": 1795313654.0,
-  "desc": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/\nComments URL: https://news.ycombinator.com/item?id=50595554\nPoints: 257\n# Comments: 88",
-  "ord": 4
+  "ord": 2
  },
  "https://www.noemamag.com/the-mythology-of-conscious-ai/": {
   "title": "The Mythology of Conscious AI",
@@ -151,7 +256,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795302873.1682804,
   "desc": "",
-  "ord": 22
+  "ord": 20
  },
  "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/": {
   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -291,7 +396,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795234035.606287,
   "desc": "",
-  "ord": 23
+  "ord": 22
  },
  "https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html": {
   "title": "享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款",
@@ -1026,7 +1131,7 @@
   "source": "艾媒网",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 2
+  "ord": 3
  },
  "https://huggingface.co/inworld/voice-isolator": {
   "title": "inworld/voice-isolator Audio-to-Audio • Updated 5 days ago • 155",
@@ -1656,14 +1761,14 @@
   "source": "艾媒网",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 0
+  "ord": 4
  },
  "https://huggingface.co/apple/FastFrames-L": {
   "title": "apple/FastFrames-L Text-to-Video • Updated about 6 hours ago • 148",
   "source": "Hugging Face Trending",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 19
+  "ord": 25
  },
  "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/": {
   "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
@@ -1873,7 +1978,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794970430.0040767,
   "desc": "",
-  "ord": 20
+  "ord": 19
  },
  "https://www.qbitai.com/2026/11/510737.html": {
   "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
@@ -2083,7 +2188,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794948839.781622,
   "desc": "",
-  "ord": 25
+  "ord": 24
  },
  "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6": {
   "title": "meituan-longcat/LongCat-Video-Avatar-1.6 Updated 4 days ago • 489 • 194",
@@ -2293,7 +2398,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794916213.0807822,
   "desc": "",
-  "ord": 27
+  "ord": 28
  },
  "https://huggingface.co/n4ze3m/tiny-voca": {
   "title": "n4ze3m/tiny-voca Text-to-Speech • Updated about 17 hours ago • 3.04k • 207",
@@ -3965,7 +4070,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794756557.5737543,
   "desc": "",
-  "ord": 24
+  "ord": 23
  },
  "https://huggingface.co/Lightricks/LTX-2.5": {
   "title": "Lightricks/LTX-2.5 Image-to-Video • Updated Oct 11 • 2.75M • 12k",
@@ -4092,110 +4197,5 @@
   "ts": 1794756557.5737543,
   "desc": "",
   "ord": 6
- },
- "https://github.com/features/ai": {
-  "title": "Build with Copilot",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 7
- },
- "https://github.com/trending": {
-  "title": "Trending repos",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 8
- },
- "https://github.com/open-source/sponsors": {
-  "title": "GitHub Sponsors",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 9
- },
- "https://github.com/resources/articles": {
-  "title": "Developer articles",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 10
- },
- "https://github.com/solutions/industry/financial-services": {
-  "title": "Financial services",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 11
- },
- "https://github.com/solutions/industry": {
-  "title": "See all industries",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 12
- },
- "https://github.com/customer-stories": {
-  "title": "Customer Stories",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 13
- },
- "https://github.com/solutions/executive-insights": {
-  "title": "Business insights",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 14
- },
- "https://github.com/security/advanced-security": {
-  "title": "GitHub Advanced SecurityEnterprise-grade code security",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 15
- },
- "https://github.com/features/copilot/copilot-business": {
-  "title": "Copilot for businessEnterprise-grade AI features",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 16
- },
- "https://github.com/enterprise/premium-support": {
-  "title": "Premium SupportEnterprise-grade 24/7 support",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 17
- },
- "https://github.com/resources": {
-  "title": "Resource center",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 18
- },
- "https://github.com/resources/events": {
-  "title": "Events & webinars",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 19
- },
- "https://github.com/orgs/community/discussions": {
-  "title": "Community Forum",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 20
- },
- "https://github.com/sponsors/explore": {
-  "title": "GitHub Sponsors",
-  "source": "GitHub Trending",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 21
  }
 }

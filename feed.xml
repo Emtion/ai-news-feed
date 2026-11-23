@@ -5,40 +5,47 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sun, 22 Nov 2026 19:38:20 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 00:52:29 +0000</lastBuildDate>
+  <item>
+    <title>GitHubRepository hosting, code review, and collaboration</title>
+    <link>https://github.com/platform</link>
+    <guid isPermaLink="true">https://github.com/platform</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
+    <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>0rwx – A simple model of AI usage, inspired by Unix permissions</title>
+    <link>https://0rwx.com/</link>
+    <guid isPermaLink="true">https://0rwx.com/</guid>
+    <pubDate>Sun, 22 Nov 2026 23:53:00 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://0rwx.com/
+Comments URL: https://news.ycombinator.com/item?id=50605445
+Points: 8
+# Comments: 2</description>
+  </item>
+  <item>
+    <title>We haven’t seen the last of the major tech outages</title>
+    <link>https://www.theverge.com/tech/1039851/major-tech-outages</link>
+    <guid isPermaLink="true">https://www.theverge.com/tech/1039851/major-tech-outages</guid>
+    <pubDate>Sun, 22 Nov 2026 22:48:02 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: "The Americ</description>
+  </item>
+  <item>
+    <title>OpenAI’s chief scientist has thoughts on how to limit AI development</title>
+    <link>https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</guid>
+    <pubDate>Sun, 22 Nov 2026 21:14:07 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>To establish a speed limit on AI development, you need to agree on how to measure speed.</description>
+  </item>
   <item>
     <title>Team &amp; Enterprise</title>
     <link>https://huggingface.co/enterprise</link>
     <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>Why data centers are at the center of the Big Tech backlash</title>
-    <link>https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</guid>
-    <pubDate>Sun, 22 Nov 2026 18:08:43 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Journalist Paris Marx unpacks his new book "Hyperscale."</description>
-  </item>
-  <item>
-    <title>Binding of Isaac developer removes AI music from Repentance Plus</title>
-    <link>https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</link>
-    <guid isPermaLink="true">https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</guid>
-    <pubDate>Sun, 22 Nov 2026 17:25:20 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files wi</description>
-  </item>
-  <item>
-    <title>Perplexity and Intelligence</title>
-    <link>https://openai.com/index/perplexity-and-intelligence/</link>
-    <guid isPermaLink="true">https://openai.com/index/perplexity-and-intelligence/</guid>
-    <pubDate>Sun, 22 Nov 2026 17:06:27 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://openai.com/index/perplexity-and-intelligence/
-Comments URL: https://news.ycombinator.com/item?id=50601525
-Points: 216
-# Comments: 152</description>
   </item>
   <item>
     <title>解码比亚迪高端化：一家技术公司的自我进化</title>
@@ -168,11 +175,38 @@ Points: 216
     <source>Meta AI 博客</source>
   </item>
   <item>
-    <title>GitHubRepository hosting, code review, and collaboration</title>
-    <link>https://github.com/platform</link>
-    <guid isPermaLink="true">https://github.com/platform</guid>
+    <title>CopilotAI coding agent for tasks, projects, and automated work</title>
+    <link>https://github.com/features/copilot</link>
+    <guid isPermaLink="true">https://github.com/features/copilot</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>Progress map for the Lean formalization of Alessandro Masullo's manuscript</title>
+    <link>https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3</link>
+    <guid isPermaLink="true">https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3</guid>
+    <pubDate>Sun, 22 Nov 2026 23:12:10 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3
+Comments URL: https://news.ycombinator.com/item?id=50605045
+Points: 114
+# Comments: 70</description>
+  </item>
+  <item>
+    <title>Binding of Isaac developer removes AI music from Repentance Plus</title>
+    <link>https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</link>
+    <guid isPermaLink="true">https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</guid>
+    <pubDate>Sun, 22 Nov 2026 17:25:20 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files wi</description>
+  </item>
+  <item>
+    <title>Why data centers are at the center of the Big Tech backlash</title>
+    <link>https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</guid>
+    <pubDate>Sun, 22 Nov 2026 18:08:43 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Journalist Paris Marx unpacks his new book "Hyperscale."</description>
   </item>
   <item>
     <title>Hugging Face PRO</title>
@@ -180,33 +214,6 @@ Points: 216
     <guid isPermaLink="true">https://huggingface.co/pro</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</title>
-    <link>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</guid>
-    <pubDate>Sat, 21 Nov 2026 21:37:10 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Signal is limiting users' ability to take screenshots in both its Android and iOS apps.</description>
-  </item>
-  <item>
-    <title>The vibe-coding revolution is coming to all the gadgets</title>
-    <link>https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera</link>
-    <guid isPermaLink="true">https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera</guid>
-    <pubDate>Sun, 22 Nov 2026 13:00:00 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things wit</description>
-  </item>
-  <item>
-    <title>Show HN: I built a game where you are an LLM's subagent</title>
-    <link>https://github.com/gulivan/worker755</link>
-    <guid isPermaLink="true">https://github.com/gulivan/worker755</guid>
-    <pubDate>Sun, 22 Nov 2026 13:56:58 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://github.com/gulivan/worker755
-Comments URL: https://news.ycombinator.com/item?id=50599762
-Points: 177
-# Comments: 45</description>
   </item>
   <item>
     <title>磨了 8 年、折了 9.6 万次，比亚迪折叠智舱终究会「真香」</title>
@@ -327,11 +334,38 @@ Points: 177
     <source>Meta AI 博客</source>
   </item>
   <item>
-    <title>CopilotAI coding agent for tasks, projects, and automated work</title>
-    <link>https://github.com/features/copilot</link>
-    <guid isPermaLink="true">https://github.com/features/copilot</guid>
+    <title>ActionsCI/CD and automation</title>
+    <link>https://github.com/features/actions</link>
+    <guid isPermaLink="true">https://github.com/features/actions</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>Localcode, open source agentic coding on your Mac with one command</title>
+    <link>https://github.com/mjwsolo/localcode</link>
+    <guid isPermaLink="true">https://github.com/mjwsolo/localcode</guid>
+    <pubDate>Sun, 22 Nov 2026 22:18:48 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://github.com/mjwsolo/localcode
+Comments URL: https://news.ycombinator.com/item?id=50604540
+Points: 12
+# Comments: 1</description>
+  </item>
+  <item>
+    <title>The vibe-coding revolution is coming to all the gadgets</title>
+    <link>https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera</link>
+    <guid isPermaLink="true">https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera</guid>
+    <pubDate>Sun, 22 Nov 2026 13:00:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things wit</description>
+  </item>
+  <item>
+    <title>Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance</title>
+    <link>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/</guid>
+    <pubDate>Sat, 21 Nov 2026 21:37:10 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Signal is limiting users' ability to take screenshots in both its Android and iOS apps.</description>
   </item>
   <item>
     <title>Enterprise Support</title>
@@ -339,33 +373,6 @@ Points: 177
     <guid isPermaLink="true">https://huggingface.co/support</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>A tale of two Nvidias</title>
-    <link>https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</guid>
-    <pubDate>Sat, 21 Nov 2026 21:07:42 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.</description>
-  </item>
-  <item>
-    <title>The UN fails to agree on rules regulating ‘killer robots’</title>
-    <link>https://www.theverge.com/tech/1039554/un-regulations-killer-robots</link>
-    <guid isPermaLink="true">https://www.theverge.com/tech/1039554/un-regulations-killer-robots</guid>
-    <pubDate>Sat, 21 Nov 2026 20:03:37 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called "killer robots." Eventually, representatives left the meetings agreeing to "start discussing options" after a largely fruitless week of negotiat</description>
-  </item>
-  <item>
-    <title>Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator</title>
-    <link>https://simonwillison.net/2026/Nov/21/muru/</link>
-    <guid isPermaLink="true">https://simonwillison.net/2026/Nov/21/muru/</guid>
-    <pubDate>Sun, 22 Nov 2026 09:57:01 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://simonwillison.net/2026/Nov/21/muru/
-Comments URL: https://news.ycombinator.com/item?id=50597959
-Points: 55
-# Comments: 9</description>
   </item>
   <item>
     <title>特朗普表态：英伟达Blackwell芯片可对华销售，但有个条件；OpenAI被曝入局智能手机赛道；DeepSeek第二轮千亿融资落地，31家出资方入局</title>
@@ -391,10 +398,10 @@ Points: 55
     <source>量子位</source>
   </item>
   <item>
-    <title>艾媒鼎榜 | 2026年中国车载实体AI机器人品牌10强</title>
-    <link>https://www.iimedia.cn/c1106/120376.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1106/120376.html</guid>
-    <pubDate>Wed, 18 Nov 2026 11:40:24 +0000</pubDate>
+    <title>2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴</title>
+    <link>https://www.iimedia.cn/c1061/120072.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120072.html</guid>
+    <pubDate>Sun, 15 Nov 2026 21:02:19 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
@@ -479,11 +486,38 @@ Points: 55
     <source>Meta AI 博客</source>
   </item>
   <item>
-    <title>ActionsCI/CD and automation</title>
-    <link>https://github.com/features/actions</link>
-    <guid isPermaLink="true">https://github.com/features/actions</guid>
+    <title>Code QualityQuality analysis, fixes, and enforcement</title>
+    <link>https://github.com/features/code-quality</link>
+    <guid isPermaLink="true">https://github.com/features/code-quality</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>Agent swarm trying to solve P vs. NP</title>
+    <link>https://pequalnp.com/</link>
+    <guid isPermaLink="true">https://pequalnp.com/</guid>
+    <pubDate>Sun, 22 Nov 2026 21:53:45 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://pequalnp.com/
+Comments URL: https://news.ycombinator.com/item?id=50604314
+Points: 88
+# Comments: 78</description>
+  </item>
+  <item>
+    <title>The UN fails to agree on rules regulating ‘killer robots’</title>
+    <link>https://www.theverge.com/tech/1039554/un-regulations-killer-robots</link>
+    <guid isPermaLink="true">https://www.theverge.com/tech/1039554/un-regulations-killer-robots</guid>
+    <pubDate>Sat, 21 Nov 2026 20:03:37 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called "killer robots." Eventually, representatives left the meetings agreeing to "start discussing options" after a largely fruitless week of negotiat</description>
+  </item>
+  <item>
+    <title>A tale of two Nvidias</title>
+    <link>https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/</guid>
+    <pubDate>Sat, 21 Nov 2026 21:07:42 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.</description>
   </item>
   <item>
     <title>Inference Providers</title>
@@ -491,33 +525,6 @@ Points: 55
     <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>Here are the top AI agents that can live in your text messages</title>
-    <link>https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/</guid>
-    <pubDate>Sat, 21 Nov 2026 17:00:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</description>
-  </item>
-  <item>
-    <title>Can Anthropic afford to put safety first?</title>
-    <link>https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</link>
-    <guid isPermaLink="true">https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</guid>
-    <pubDate>Sat, 21 Nov 2026 15:00:00 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver</description>
-  </item>
-  <item>
-    <title>Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts</title>
-    <link>https://arxiv.org/abs/2606.14068</link>
-    <guid isPermaLink="true">https://arxiv.org/abs/2606.14068</guid>
-    <pubDate>Sun, 22 Nov 2026 09:18:36 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://arxiv.org/abs/2606.14068
-Comments URL: https://news.ycombinator.com/item?id=50597743
-Points: 3
-# Comments: 0</description>
   </item>
   <item>
     <title>享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款</title>
@@ -543,10 +550,10 @@ Points: 3
     <source>量子位</source>
   </item>
   <item>
-    <title>2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴</title>
-    <link>https://www.iimedia.cn/c1061/120072.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120072.html</guid>
-    <pubDate>Sun, 15 Nov 2026 21:02:19 +0000</pubDate>
+    <title>艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/119852.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119852.html</guid>
+    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
@@ -623,11 +630,38 @@ Points: 3
     <source>Meta AI 博客</source>
   </item>
   <item>
-    <title>Code QualityQuality analysis, fixes, and enforcement</title>
-    <link>https://github.com/features/code-quality</link>
-    <guid isPermaLink="true">https://github.com/features/code-quality</guid>
+    <title>CodespacesCloud development environments</title>
+    <link>https://github.com/features/codespaces</link>
+    <guid isPermaLink="true">https://github.com/features/codespaces</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth</title>
+    <link>https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</link>
+    <guid isPermaLink="true">https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth</guid>
+    <pubDate>Sun, 22 Nov 2026 21:01:16 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth
+Comments URL: https://news.ycombinator.com/item?id=50603845
+Points: 170
+# Comments: 59</description>
+  </item>
+  <item>
+    <title>Can Anthropic afford to put safety first?</title>
+    <link>https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</link>
+    <guid isPermaLink="true">https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</guid>
+    <pubDate>Sat, 21 Nov 2026 15:00:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver</description>
+  </item>
+  <item>
+    <title>Here are the top AI agents that can live in your text messages</title>
+    <link>https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/</guid>
+    <pubDate>Sat, 21 Nov 2026 17:00:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</description>
   </item>
   <item>
     <title>Inference Endpoints</title>
@@ -635,33 +669,6 @@ Points: 3
     <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>Is selling an AI version of your face to this microdrama startup the future of Hollywood?</title>
-    <link>https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/</guid>
-    <pubDate>Sat, 21 Nov 2026 16:00:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.</description>
-  </item>
-  <item>
-    <title>Chess.com’s next move is a new hub for classic games, from mahjong to sudoku</title>
-    <link>https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai</link>
-    <guid isPermaLink="true">https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai</guid>
-    <pubDate>Sat, 21 Nov 2026 14:00:00 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of </description>
-  </item>
-  <item>
-    <title>87% of the Anthropic power will come from gas and 11% from coal in 2028</title>
-    <link>https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</link>
-    <guid isPermaLink="true">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</guid>
-    <pubDate>Sun, 22 Nov 2026 08:57:34 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/
-Comments URL: https://news.ycombinator.com/item?id=50597612
-Points: 149
-# Comments: 183</description>
   </item>
   <item>
     <title>当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！</title>
@@ -687,9 +694,9 @@ Points: 149
     <source>量子位</source>
   </item>
   <item>
-    <title>艾媒鼎榜 | 2026年中国AI行车记录仪品牌10强</title>
-    <link>https://www.iimedia.cn/c1106/119852.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119852.html</guid>
+    <title>艾媒鼎榜 | 2026年中国AI会议耳机品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/119848.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/119848.html</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>艾媒网</source>
   </item>
@@ -758,13 +765,6 @@ Points: 149
     <guid isPermaLink="true">https://api-docs.deepseek.com/quick_start/agent_integrations/codex</guid>
     <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
     <source>DeepSeek 更新日志</source>
-  </item>
-  <item>
-    <title>From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery</title>
-    <link>https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/</link>
-    <guid isPermaLink="true">https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/</guid>
-    <pubDate>Sun, 15 Nov 2026 15:29:17 +0000</pubDate>
-    <source>Meta AI 博客</source>
   </item>
 </channel>
 </rss>
