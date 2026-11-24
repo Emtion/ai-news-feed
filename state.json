@@ -1,10 +1,591 @@
 {
+ "https://www.cloudquell.com/cloud-cost-optimization/": {
+  "title": "Cloud cost optimization",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 9
+ },
+ "https://www.cloudquell.com/multi-cloud-cost-management/": {
+  "title": "Multi-cloud cost management",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 10
+ },
+ "https://www.cloudquell.com/cloud-cost-allocation/": {
+  "title": "Cloud cost allocation",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 11
+ },
+ "https://www.cloudquell.com/aws-cost-anomaly-detection/": {
+  "title": "AWS cost anomaly detection",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 12
+ },
+ "https://www.cloudquell.com/finops-mcp-server/": {
+  "title": "FinOps MCP server",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 13
+ },
+ "https://www.cloudquell.com/effective-coverage/": {
+  "title": "Effective Coverage %",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 14
+ },
+ "https://www.cloudquell.com/integrations/aws/": {
+  "title": "AWS integration",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 15
+ },
+ "https://www.cloudquell.com/integrations/bedrock/": {
+  "title": "Bedrock cost tracking",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 16
+ },
+ "https://www.cloudquell.com/integrations/snowflake/": {
+  "title": "Snowflake integration",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 17
+ },
+ "https://www.cloudquell.com/integrations/openai/": {
+  "title": "OpenAI integration",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 18
+ },
+ "https://www.cloudquell.com/integrations/anthropic/": {
+  "title": "Anthropic integration",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 19
+ },
+ "https://www.cloudquell.com/integrations/azure/": {
+  "title": "Azure integration",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 20
+ },
+ "https://www.cloudquell.com/integrations/azure-openai/": {
+  "title": "Azure OpenAI cost tracking",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 21
+ },
+ "https://www.cloudquell.com/integrations/gcp/": {
+  "title": "GCP integration",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 22
+ },
+ "https://www.cloudquell.com/integrations/vertex-ai/": {
+  "title": "Vertex AI cost tracking",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 23
+ },
+ "https://www.cloudquell.com/subprocessors/": {
+  "title": "Sub-processors",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 24
+ },
+ "https://artificialanalysis.ai/": {
+  "title": "Artificial Analysis",
+  "source": "Artificial Analysis 智力指数榜",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 0
+ },
+ "https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent": {
+  "title": "Multimodal Knowledge Agent (MKA) benchmark: testing knowledge work capabilities with complex visual filesNovember 10, 2026",
+  "source": "Artificial Analysis 智力指数榜",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 4
+ },
+ "https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1": {
+  "title": "Endpoint Accuracy Index v1.1: Tighter long context intervals and expanded model coverageNovember 9, 2026",
+  "source": "Artificial Analysis 智力指数榜",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 5
+ },
+ "https://artificialanalysis.ai/articles/meta-s-muse-ember-is-the-cheapest-model-scoring-36-on-the-intelligence-index": {
+  "title": "Meta's Muse Ember is the cheapest model scoring 36 on the Intelligence IndexNovember 9, 2026",
+  "source": "Artificial Analysis 智力指数榜",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 6
+ },
+ "https://artificialanalysis.ai/articles/decision-index-v2": {
+  "title": "Introducing the Artificial Analysis Decision Index v2November 8, 2026",
+  "source": "Artificial Analysis 智力指数榜",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 7
+ },
+ "https://artificialanalysis.ai/articles/vials-aa": {
+  "title": "VIALS-AA: different paths to scientific image reasoningNovember 6, 2026",
+  "source": "Artificial Analysis 智力指数榜",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 8
+ },
+ "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it": {
+  "title": "Thinking Machines Inkling 2 Small: the highest scoring open weights model outside of China pending weights releaseNovember 5, 2026",
+  "source": "Artificial Analysis 智力指数榜",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 9
+ },
+ "https://artificialanalysis.ai/articles/nanbeige-has-released-nanbeige4-3-33b-scoring-20-on-the-intelligence-index": {
+  "title": "Nanbeige has released Nanbeige4.3-33B scoring 20 on the Intelligence IndexNovember 5, 2026",
+  "source": "Artificial Analysis 智力指数榜",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 10
+ },
+ "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1": {
+  "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5October 28, 2026",
+  "source": "Artificial Analysis 智力指数榜",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 11
+ },
+ "https://artificialanalysis.ai/articles/github-copilot-fusion-orchestrates-anthropic-and-openai-models-to-balance-performance-and-cost": {
+  "title": "GitHub Copilot Fusion orchestrates Anthropic and OpenAI models to balance performance and costOctober 28, 2026",
+  "source": "Artificial Analysis 智力指数榜",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 12
+ },
+ "https://artificialanalysis.ai/leaderboards/models": {
+  "title": "LLM Leaderboard",
+  "source": "Artificial Analysis 智力指数榜",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 13
+ },
+ "https://artificialanalysis.ai/models/recommend": {
+  "title": "Model Recommender",
+  "source": "Artificial Analysis 智力指数榜",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 14
+ },
+ "https://artificialanalysis.ai/data-playground": {
+  "title": "Data Playground",
+  "source": "Artificial Analysis 智力指数榜",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 15
+ },
+ "https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42": {
+  "title": "艾媒一周热评381期 | 当Token走进大众消费：买算力像充话费一样简单；商业秘密｜当399元羽绒",
+  "source": "艾媒网",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 0
+ },
+ "https://www.iimedia.cn/c1040/120636.html": {
+  "title": "蚂蚁阿福发布AI健康穿戴新品，2026年中国消费者智能穿戴偏好洞察：手环手表领跑、运动追踪最受关注",
+  "source": "艾媒网",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 2
+ },
+ "https://www.anthropic.com/claude-fable-and-mythos-5-2": {
+  "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 0
+ },
+ "https://www.anthropic.com/news/public-benefit-fund": {
+  "title": "Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 1
+ },
+ "https://www.anthropic.com/news/s1-sec": {
+  "title": "Anthropic files S-1 with the SEC for proposed initial public offeringToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 2
+ },
+ "https://www.anthropic.com/research/early-progress-drug-development": {
+  "title": "Early progress on accelerating drug development with ClaudeWe're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 3
+ },
+ "https://www.anthropic.com/claude-haiku-5-5": {
+  "title": "Introducing Claude Haiku 5.5Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 4
+ },
+ "https://www.anthropic.com/claude-opus-5-5": {
+  "title": "Introducing Claude Opus 5.5Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 5
+ },
+ "https://www.anthropic.com/features/ebola-response": {
+  "title": "The Situation Report",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 6
+ },
+ "https://www.anthropic.com/institute/econ-scenarios": {
+  "title": "Scenarios for our economic future",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 7
+ },
+ "https://www.anthropic.com/features/making-of-claude-code": {
+  "title": "The making of Claude Code",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 8
+ },
+ "https://www.anthropic.com/features/project-deal": {
+  "title": "Project Deal: our Claude-run marketplace experiment",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 9
+ },
+ "https://www.anthropic.com/features/claude-on-mars": {
+  "title": "The first AI-planned drive on Mars",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 10
+ },
+ "https://www.anthropic.com/news/roadshow-launch": {
+  "title": "Anthropic launches roadshow for proposed initial public offering",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 13
+ },
+ "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions": {
+  "title": "AI for Science expands to foundations and research institutions",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 14
+ },
+ "https://www.anthropic.com/news/expanding-partnership-gsa": {
+  "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 15
+ },
+ "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation": {
+  "title": "Donating Agent Skills to the Agentic AI Foundation",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 16
+ },
+ "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences": {
+  "title": "Open call for guest investigators in the life sciences",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 17
+ },
+ "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust": {
+  "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 18
+ },
+ "https://www.anthropic.com/news/an-update-on-independent-evaluators": {
+  "title": "An update on independent evaluators",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 19
+ },
+ "https://www.anthropic.com/news/2026-us-midterms": {
+  "title": "Preparing for the 2026 US midterms",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 20
+ },
+ "https://www.anthropic.com/news/singapore-office-opening": {
+  "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 21
+ },
+ "https://www.anthropic.com/news/distillation-defenses": {
+  "title": "Strengthening our defenses against distillation attacks",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 22
+ },
+ "https://www.anthropic.com/news/anthropic-cyber-mission": {
+  "title": "Introducing the Anthropic Cyber Mission",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 23
+ },
+ "https://www.anthropic.com/news/2026-usage-policy-update": {
+  "title": "2026 Usage Policy update",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 24
+ },
+ "https://www.anthropic.com/news/genesis-mission-commitment": {
+  "title": "Building on our commitment to American scientific discovery",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 25
+ },
+ "https://www.anthropic.com/news/cyber-verification-program": {
+  "title": "Expanding the Cyber Verification Program",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 26
+ },
+ "https://www.anthropic.com/news/claude-frontier-academy": {
+  "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 27
+ },
+ "https://www.anthropic.com/news/barclays-scales-claude": {
+  "title": "Barclays scales Claude to upgrade operations and improve client experience",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 28
+ },
+ "https://www.anthropic.com/claude-sonnet-5-5": {
+  "title": "Introducing Claude Sonnet 5.5",
+  "source": "Anthropic Newsroom",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 29
+ },
+ "https://api-docs.deepseek.com/": {
+  "title": "DeepSeek API Docs",
+  "source": "DeepSeek 更新日志",
+  "ts": 1795500042.4920855,
+  "desc": "",
+  "ord": 1
+ },
+ "https://www.qbitai.com/2026/11/512329.html": {
+  "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+  "source": "量子位",
+  "ts": 1795491228.0,
+  "desc": "12.9 北京，来MEET2027现场",
+  "ord": 0
+ },
+ "https://www.qbitai.com/2026/11/512330.html": {
+  "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+  "source": "量子位",
+  "ts": 1795491046.0,
+  "desc": "中国AI数据平台加速崛起",
+  "ord": 1
+ },
+ "https://www.qbitai.com/2026/11/512305.html": {
+  "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+  "source": "量子位",
+  "ts": 1795490472.0,
+  "desc": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
+  "ord": 2
+ },
+ "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26": {
+  "title": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
+  "source": "Hacker News 头版",
+  "ts": 1795490218.0,
+  "desc": "Article URL: https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26\nComments URL: https://news.ycombinator.com/item?id=50623175\nPoints: 8\n# Comments: 0",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html": {
+  "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
+  "source": "雷峰网",
+  "ts": 1795489980.0,
+  "desc": "AI在医疗健康领域的应用，正在从疾病识别、健康咨询向更长期的健康风险预测延伸。11月24日，蚂蚁百灵宣布开源医疗健康预测模型 LingSante Pulse，可通过理解人体日常产生的生理信号，预测未来六年内150种疾病表型的发生风险。不同于传统模型主要针对某一种生理信号或特定疾病进行训练，LingSante Pulse能够统一处理脑电图、心电图、光电脉搏波、肌电图等多种生理信号，并适应不同传感器的组合。模型基于超过15万小时、多场景生理序列数据预训练，能够从不同生理信号中提取人体状态特征，实现健康情况的远期预测。在相关评测中，其可达到较高预测可靠性的疾病表型数量，比此前最优模型增加约42%。即",
+  "ord": 0
+ },
+ "https://davidtemkin.github.io/declarelang/": {
+  "title": "Declare is a UI language for you and your AI",
+  "source": "Hacker News 头版",
+  "ts": 1795487816.0,
+  "desc": "Article URL: https://davidtemkin.github.io/declarelang/\nComments URL: https://news.ycombinator.com/item?id=50622854\nPoints: 28\n# Comments: 8",
+  "ord": 1
+ },
+ "https://www.qbitai.com/2026/11/512297.html": {
+  "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
+  "source": "量子位",
+  "ts": 1795487768.0,
+  "desc": "「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。",
+  "ord": 3
+ },
+ "https://www.qbitai.com/2026/11/512264.html": {
+  "title": "具身行业，终于等来了自己的通用智能时刻",
+  "source": "量子位",
+  "ts": 1795485116.0,
+  "desc": "行业苦等多年的预训练通用智能，终于有了答案",
+  "ord": 4
+ },
+ "https://www.leiphone.com/category/industrynews/SWU1FnevSoIn4MNM.html": {
+  "title": "豆包工作下调多款模型消耗倍率，超八成日常任务免费用",
+  "source": "雷峰网",
+  "ts": 1795484820.0,
+  "desc": "近日，豆包工作宣布接入多款第三方大模型，并同步推出多项优惠计划。其中，用户日常使用频率较高的 DeepSeek V4.1 Flash 和豆包 2.1 Lite 两款模型，额度消耗倍率已下调至 0.01。相关实测数据显示，借助倍率调整与部分模型低消耗任务免费机制，超过八成日常办公任务可通过豆包工作免费完成。据介绍，豆包工作正式发布以来已陆续出台多项优惠举措。符合条件的新用户可领取 30 天体验会员；日常使用中，简单对话及低消耗任务直接免费，用户每日签到还可领取 200 额度，周一额度翻倍，累计签到 30 天可获得 8800 额度，接近标准套餐一个月的使用额度。在金融投研、增长营销、文档写作、PP",
+  "ord": 1
+ },
+ "https://www.leiphone.com/category/industrynews/ICe6gznRO80vcMxl.html": {
+  "title": "公积金智能化应用创新案例发布，支付宝参与共建",
+  "source": "雷峰网",
+  "ts": 1795484640.0,
+  "desc": "11月20日，由中国建设报社主办的住房公积金智能化应用创新实践交流座谈会在江苏苏州举行。会上发布了《住房公积金智能化应用创新案例集》，汇集北京、苏州等17个地方的典型实践，其中10个案例采用支付宝民生办事AI全场景解决方案，涵盖政策咨询、办事引导、对话式业务办理等多个应用场景。人工智能正加速进入政务服务领域，如何让AI与办事场景深度融合，是住房公积金行业关注的重点。会上，支付宝介绍了在政务智能体建设方面的探索，展示AI如何从政策咨询、智能导办进一步融入公积金业务办理流程。以政务AI助手“支付宝晓政”为例。“支付宝晓政”目前合作上线的官方智能体超过120个，接入1000余项MCP服务，月活跃用户",
+  "ord": 2
+ },
+ "https://www.leiphone.com/category/zaobao/Ao31dQuXPBTU7qpK.html": {
+  "title": "英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接；DeepSeek最新估值或达6078亿元；蚂蚁开源医疗AI模型家族丨雷峰早报",
+  "source": "雷峰网",
+  "ts": 1795484520.0,
+  "desc": "要闻提示1.英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接2.DeepSeek最新估值或达6078亿元3.送100台iPhone Duo被质疑内定！影视飓风Tim：很难自证，但这点信誉还是有的4.智谱发布新一代大模型GLM-5.45.从多模态理解到疾病风险预测，蚂蚁开源医疗AI模型家族6.雷军：小米澎程系列车主提车后，纯电行驶里程占比大约9成7.马斯克被曝在菲律宾悄悄开发岛屿！菲驻美大使称听说有一两座8.Meta Muse数据研究负责人王子健已加入OpenAI今日头条英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接11月24日消息，英伟达周一宣布，公司创始",
+  "ord": 3
+ },
+ "https://www.qbitai.com/2026/11/512252.html": {
+  "title": "老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”",
+  "source": "量子位",
+  "ts": 1795483957.0,
+  "desc": "离职员工：我可能走早了",
+  "ord": 5
+ },
+ "https://daily.ai225.com/daily/2026-11-24": {
+  "title": "2026-11-24 AI 日报 · 黄仁勋复职英伟达CEO董事会全票通过，亚马逊75亿美元收购Decart优化技术",
+  "source": "AI 日报 · AI225",
+  "ts": 1795481610.0,
+  "desc": "今日AI领域迎来重大人事与商业转折：英伟达董事会全票恢复黄仁勋的CEO与董事职务，历时不到两周的高层风波告一段落，股价盘前涨超30%；亚马逊斥资约75亿美元收购AI初创公司Decart的技术与团队，强化自研芯片竞争力。产品层面，Anthropic推出测试版Claude Ship代码代理，智谱发布GLM-5.4技术公告，OpenAI联手思科开源运行时防护工具Shirudo。同时，xAI被曝向竞争对手出租算力，SpaceX因Grok深伪内容遭两州起诉，公安部公布10起AI造谣案件。",
+  "ord": 0
+ },
+ "https://arxiv.org/abs/2602.20031": {
+  "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+  "source": "Hacker News 头版",
+  "ts": 1795472988.0,
+  "desc": "Article URL: https://arxiv.org/abs/2602.20031\nComments URL: https://news.ycombinator.com/item?id=50620328\nPoints: 50\n# Comments: 4",
+  "ord": 2
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated": {
+  "title": "Trump engineered a risky comeback for Jensen Huang",
+  "source": "The Verge AI",
+  "ts": 1795472712.0,
+  "desc": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Hua",
+  "ord": 0
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang": {
+  "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+  "source": "The Verge AI",
+  "ts": 1795471832.0,
+  "desc": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia execu",
+  "ord": 1
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang": {
+  "title": "Welcome to elite impunity, Jensen Huang",
+  "source": "The Verge AI",
+  "ts": 1795471766.0,
+  "desc": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is ",
+  "ord": 2
+ },
+ "https://github.com/anthropics/formal-math/tree/main/vp-vnp": {
+  "title": "VP ≠ VNP over Every Field",
+  "source": "Hacker News 头版",
+  "ts": 1795471750.0,
+  "desc": "Paper: https://github.com/anthropics/formal-math/blob/11b6c7e3c927d...\n\nComments URL: https://news.ycombinator.com/item?id=50620102\nPoints: 303\n# Comments: 264",
+  "ord": 3
+ },
+ "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/": {
+  "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+  "source": "TechCrunch AI",
+  "ts": 1795471550.0,
+  "desc": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/": {
+  "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+  "source": "TechCrunch AI",
+  "ts": 1795471325.0,
+  "desc": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+  "ord": 1
+ },
+ "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/": {
+  "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+  "source": "TechCrunch AI",
+  "ts": 1795470461.0,
+  "desc": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+  "ord": 2
+ },
+ "https://openai.com/index/introducing-shirudo/": {
+  "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+  "source": "Hacker News 头版",
+  "ts": 1795469441.0,
+  "desc": "Article URL: https://openai.com/index/introducing-shirudo/\nComments URL: https://news.ycombinator.com/item?id=50619630\nPoints: 56\n# Comments: 15",
+  "ord": 4
+ },
+ "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/": {
+  "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+  "source": "TechCrunch AI",
+  "ts": 1795469142.0,
+  "desc": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+  "ord": 3
+ },
  "https://www.iimedia.cn/c1088/120606.html": {
   "title": "艾媒一周热评381期 | 当Token走进大众消费：买算力像充话费一样简单；商业秘密｜当399元羽绒服售罄后，中高端品牌该怎么走？",
   "source": "艾媒网",
   "ts": 1795468950.1454487,
   "desc": "",
-  "ord": 2
+  "ord": 3
  },
  "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/": {
   "title": "Introducing Muse Spark 1.1",
@@ -186,7 +767,14 @@
   "source": "Hugging Face Trending",
   "ts": 1795468950.1454487,
   "desc": "",
-  "ord": 24
+  "ord": 25
+ },
+ "https://openai.com/index/introducing-shirudo": {
+  "title": "OpenAI and Cisco introduce Shirudo",
+  "source": "OpenAI News",
+  "ts": 1795468800.0,
+  "desc": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+  "ord": 0
  },
  "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit": {
   "title": "AI data centers throw another wrench into chaotic UN climate talks",
@@ -194,6 +782,13 @@
   "ts": 1795468177.0,
   "desc": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close",
   "ord": 0
+ },
+ "https://github.com/zed-industries/gpui": {
+  "title": "GPUI is getting its own repository",
+  "source": "Hacker News 头版",
+  "ts": 1795467174.0,
+  "desc": "Article URL: https://github.com/zed-industries/gpui\nComments URL: https://news.ycombinator.com/item?id=50619103\nPoints: 207\n# Comments: 73",
+  "ord": 5
  },
  "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/": {
   "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
@@ -410,13 +1005,6 @@
   "source": "雷峰网",
   "ts": 1795430400.0,
   "desc": "要闻提示1.英伟达才说H200芯片不卖中国，美财长突喊：不用再限2.限时售价5499元起！华为星芒总经理回应OSTA O1 Pro定价高：我们选择创新优先3.ASML总裁急了：切断光刻机售后也没用，中国工厂依然能造芯4.第一批买iPhone Duo的人亏麻了：渠道价大跌破发！差价至少4600元5.娃哈哈董事长许思敏被曝辞职6.小米从小鹏挖来了欧洲汽车业务负责人7.腾讯就《仙逆》盗版纠纷起诉百度，索赔金额达1亿元8.马斯克预警：AI 行业明年可能面临严重资金短缺，或需要数千亿美元额外投入今日头条英伟达才说H200芯片不卖中国，美财长突喊：不用再限11月21日消息，英伟达H200芯片的对华出口政策",
-  "ord": 2
- },
- "https://z.ai/blog/glm-5.4": {
-  "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-  "source": "Hacker News 头版",
-  "ts": 1795428403.0,
-  "desc": "Article URL: https://z.ai/blog/glm-5.4\nComments URL: https://news.ycombinator.com/item?id=50609685\nPoints: 947\n# Comments: 319",
   "ord": 2
  },
  "https://www.wired.com/story/goodbye-world-the-end-of-programmers/": {
@@ -1103,7 +1691,7 @@
   "source": "艾媒网",
   "ts": 1795317202.84134,
   "desc": "",
-  "ord": 3
+  "ord": 4
  },
  "https://www.noemamag.com/the-mythology-of-conscious-ai/": {
   "title": "The Mythology of Conscious AI",
@@ -1362,7 +1950,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795205785.1048276,
   "desc": "",
-  "ord": 18
+  "ord": 29
  },
  "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/": {
   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -2657,7 +3245,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 25
+  "ord": 24
  },
  "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/": {
   "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
@@ -3610,593 +4198,5 @@
   "ts": 1794852670.0,
   "desc": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
   "ord": 0
- },
- "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/": {
-  "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-  "source": "TechCrunch AI",
-  "ts": 1794850603.0,
-  "desc": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-  "ord": 1
- },
- "https://news.ycombinator.com/item?id=50520076": {
-  "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
-  "source": "Hacker News 头版",
-  "ts": 1794849628.0,
-  "desc": "A lot of people outside tech ask me if AI is going to replace programmers and I just think: if that were the case we should be running out of things to doThe bug backlog should be empty and we've caught up to every feature request from PMs to the point that we are bottlenecked on the business sideBu",
-  "ord": 0
- },
- "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/": {
-  "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-  "source": "TechCrunch AI",
-  "ts": 1794849000.0,
-  "desc": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-  "ord": 2
- },
- "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/": {
-  "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
-  "source": "TechCrunch AI",
-  "ts": 1794848563.0,
-  "desc": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-  "ord": 3
- },
- "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/": {
-  "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-  "source": "TechCrunch AI",
-  "ts": 1794848400.0,
-  "desc": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
-  "ord": 4
- },
- "https://openai.com/index/expanding-chatgpt-for-academic-researchers": {
-  "title": "Broadening access to AI for scientists",
-  "source": "OpenAI News",
-  "ts": 1794848400.0,
-  "desc": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-  "ord": 0
- },
- "https://openai.com/index/strengthening-online-child-safety": {
-  "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-  "source": "OpenAI News",
-  "ts": 1794848400.0,
-  "desc": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-  "ord": 1
- },
- "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/": {
-  "title": "Jensen Huang Is Gone. Now What?",
-  "source": "WIRED AI",
-  "ts": 1794845571.0,
-  "desc": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
-  "ord": 0
- },
- "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/": {
-  "title": "Audible turns to AI to help users discover audiobooks",
-  "source": "TechCrunch AI",
-  "ts": 1794844339.0,
-  "desc": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
-  "ord": 5
- },
- "https://www.leiphone.com/category/transportation/9YeGaaNjyBi0zkQ4.html": {
-  "title": "26.99万元起，腾势N8正式上市：首搭易三方Evo，纯电续航1003公里",
-  "source": "雷峰网",
-  "ts": 1794842460.0,
-  "desc": "11月12日，腾势汽车旗下全新大五座SUV腾势N8正式上市，共推出纯电、插混两种动力版本、六款车型，官方指导价为26.99万—32.99万元。雷峰网了解到，作为腾势面向中高端家庭SUV市场推出的新产品，N8搭载了多项比亚迪最新技术，包括易三方Evo、第二代刀片电池及闪充技术、天神之眼5.0辅助驾驶系统，以及云辇-A闭式双腔空气悬架。其中，纯电版本CLTC续航达到1003公里，插混版本CLTC纯电续航435公里、综合续航1567公里。新车还首次搭载腾势巨幕智能座舱，采用30英寸巨幕屏与1.1米天际屏组合，并引入AI超级智能体迪迪虾及AI萌宠交互功能。按照官方公布的购车政策，新车上市期间提供最高价",
-  "ord": 0
- },
- "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/": {
-  "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-  "source": "TechCrunch AI",
-  "ts": 1794841354.0,
-  "desc": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
-  "ord": 6
- },
- "https://www.leiphone.com/category/industrynews/LTOeijdeWR08fZGP.html": {
-  "title": "平均年龄25岁，00后小伙带队拿下首届蚂蚁灵波具身大模型挑战赛最高分",
-  "source": "雷峰网",
-  "ts": 1794840960.0,
-  "desc": "11月16日，蚂蚁灵波首届具身大模型挑战赛总决赛结果出炉。来自福田实验室、西北工业大学、普渡机器人、天津大学的五位选手组成的“TARS”战队获得一等奖；华中科技大学、清华大学深圳研究院、湖北元一智能的三位选手组成的“EVA”战队，以及天津大学、北京大学、中国科学院自动化研究所三位选手组成的“SST”战队获得二等奖；“Vida”、“FDU_SONIC”、“ai-robot”战队获得三等奖；另有9支队伍获得优秀奖，3支队伍获得观察团特别奖。TARS战队获得首届蚂蚁灵波具身大模型挑战赛一等奖 图源：受访对象48小时真机比拼，机器人要过三道关11月14日，15支决赛队伍在上海张江科学会堂集结。选手们从",
-  "ord": 1
- },
- "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/": {
-  "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-  "source": "TechCrunch AI",
-  "ts": 1794840493.0,
-  "desc": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
-  "ord": 7
- },
- "https://www.leiphone.com/category/industrynews/kfphRdgYwSdN13Nv.html": {
-  "title": "当充电像加油一样快，租车自驾的边界被拓宽",
-  "source": "雷峰网",
-  "ts": 1794838620.0,
-  "desc": "服务自驾生态，成为租车平台下一个增长点。作者 | 郑浩钧编辑 | 王瑞昊傍晚，济南机场的还车点，一家四口把两个大箱子从后备箱里搬下来，这趟山东租车自驾游算是收尾了。车该还了，可电量已经不多，还车点旁边就是闪充站，插上充电枪，妈妈带着孩子去便利店买零食，买完回来，不到十分钟，电量已经接近充满。这趟自驾游，出发时开走的是一台满电车，收尾时又在这儿把电顺手补满。一头一尾，补能从没让这家人等待太久。2026年11月10日，当济南机场站首批闪充车、闪充站投放落地后，这样的场景可能每天都会发生。取车时满电开走，还车时顺手补满，你不再需要把自驾游算成一张充电桩分布图，补能这件事，在还车点就能完成。而这样的场",
-  "ord": 2
- },
- "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability": {
-  "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
-  "source": "The Verge AI",
-  "ts": 1794837600.0,
-  "desc": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more informat",
-  "ord": 0
- },
- "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning": {
-  "title": "Google Maps can now create trip itineraries for you",
-  "source": "The Verge AI",
-  "ts": 1794837600.0,
-  "desc": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spannin",
-  "ord": 1
- },
- "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/": {
-  "title": "New Ask Maps features to help with holiday travel and prep",
-  "source": "Google AI 博客",
-  "ts": 1794837600.0,
-  "desc": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
-  "ord": 0
- },
- "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down": {
-  "title": "The Nvidia scandal isn’t slowing down",
-  "source": "The Verge AI",
-  "ts": 1794834000.0,
-  "desc": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpac",
-  "ord": 2
- },
- "https://www.producthunt.com/products/qwen3": {
-  "title": "Qwen4-Max",
-  "source": "Product Hunt",
-  "ts": 1794832352.0,
-  "desc": "",
-  "ord": 3
- },
- "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/": {
-  "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-  "source": "TechCrunch AI",
-  "ts": 1794832200.0,
-  "desc": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
-  "ord": 8
- },
- "https://openai.com/index/science-at-the-frontier": {
-  "title": "Science at the Frontier: How scientists use ChatGPT",
-  "source": "OpenAI News",
-  "ts": 1794830400.0,
-  "desc": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-  "ord": 2
- },
- "https://www.leiphone.com/category/zaobao/QP6ok2UwM4JBsMEx.html": {
-  "title": "黄仁勋被曝考虑重返英伟达担任CEO！其硅谷盟友正施压董事会；女子因拒绝给HR带咖啡被取消面试，BOSS直聘回应；李牧青出任AI公司联席CEO",
-  "source": "雷峰网",
-  "ts": 1794828060.0,
-  "desc": "要闻提示1.黄仁勋被曝考虑重返英伟达担任 CEO！其硅谷盟友正施压董事会2.女子称因拒绝给HR带咖啡被取消面试，BOSS直聘回应：已暂停该招聘账号权限3.董明珠：格力对文凭的考虑已逐步取消，本事才是硬通行证4.腾讯 AI 李牧青离职，出任 AI 公司联席 CEO5.韩路也来凑热闹！Tim喊话网友说“难听话”抽iPhone Duo：结果收到一句“祝你年入百万”6.重磅！闻泰科技发布关于荷兰企业法庭作出临时措施裁定的声明7.比亚迪辟谣收购“某数字能源”：无任何事实依据8.连马斯克自己都嫌贵！吐槽特斯拉Cybercab每月花2000买FSD：喊话要降价今日头条黄仁勋被曝考虑重返英伟达担任 CEO！其",
-  "ord": 3
- },
- "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/": {
-  "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-  "source": "WIRED AI",
-  "ts": 1794826800.0,
-  "desc": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
-  "ord": 1
- },
- "https://www.qbitai.com/2026/11/510542.html": {
-  "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
-  "source": "量子位",
-  "ts": 1794826651.0,
-  "desc": "具身智能的真正价值是“把人的经验、技能复刻出来”",
-  "ord": 0
- },
- "https://www.leiphone.com/category/industrynews/OCFaX1WjrKRkcFm5.html": {
-  "title": "启境GT7 Ultra舒享版纯电/增程正式上新！首付6.66万起，拿下L3级架构猎装",
-  "source": "雷峰网",
-  "ts": 1794822840.0,
-  "desc": "11月13日，启境汽车以“一车双能 为热爱上新”为主题，正式推出启境GT7 Ultra舒享版增程、纯电双车型，限时权益价分别为22.19万元与23.19万元。两款新车均标配面向L3级自动驾驶架构，启境GT7此次上新进一步拓宽了动力选择：增程版主打超长续航，纯电版兼顾豪华舒享。双车型均享最低首付6.66万元、5年分期前3年0息的金融政策，让面向L3级架构猎装真正走入20万级市场。启境由广汽集团与华为乾崑联合打造，双方以“车企主导、共同定义”的方式，将广汽近30年的整车制造与品质体系，和华为乾崑全栈智能能力深度融合。继启境GX7上市全国交付突破4000台，启境GT7乘势加推双车型，为热爱户外生活、",
-  "ord": 4
- },
- "https://openai.com/business/customer-stories/revolut": {
-  "title": "How Revolut raises ambition without lowering the bar",
-  "source": "OpenAI News",
-  "ts": 1794821400.0,
-  "desc": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-  "ord": 4
- },
- "https://openai.com/index/lvmh-media-division-partnership": {
-  "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-  "source": "OpenAI News",
-  "ts": 1794819600.0,
-  "desc": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-  "ord": 3
- },
- "https://www.leiphone.com/category/industrynews/hnSL5YwUtQjerTRK.html": {
-  "title": "豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景",
-  "source": "雷峰网",
-  "ts": 1794819540.0,
-  "desc": "近日，豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育、创意设计等21个专业场景，让AI办公进一步走向职业化。据悉，这也是业内首个面向多个专业场景、不同职业人群定制的AI工作台功能。工作台页面据豆包工作官方介绍，“工作台”是为用户的专业工作场景提供的专属AI工作空间。金融、医疗、教育、创意设计等21个场景所需要的技能、工具，都预先配置在这个空间里，用户不必再逐项挑选。这大幅降低了专业工作场景的AI使用门槛，也提升了工作效率。用户打开豆包工作，进入“工作台”页面，选择相关专业工作台后即可直接使用。以金融投研工作台为例，其首页提供了公告解读、业绩分析、市场简报、公司研究等常用任务入口，并连",
-  "ord": 5
- },
- "https://www.qbitai.com/2026/11/510526.html": {
-  "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
-  "source": "量子位",
-  "ts": 1794818717.0,
-  "desc": "12月1日，细数AI的未竟之问。",
-  "ord": 1
- },
- "https://www.leiphone.com/category/chips/yYPDwzuTBbcMSCSx.html": {
-  "title": "智算接棒：物理AI的下一个风口，在于计算基础设施",
-  "source": "雷峰网",
-  "ts": 1794816240.0,
-  "desc": "物理AI的热度，正从机器人本体向产业链上下游扩散。过去一年，人形机器人、四足机器狗频繁出现在工厂、仓库和门店。产业界关心的问题正在变化：从“机器人能完成什么动作”转向“如何让它越做越准”。答案不只在机器人本体，更在其背后的计算系统：数据从哪里来，仿真在哪里运行，模型多久迭代，算力如何匹配研发节奏。这些都不是多买几台服务器能解决的。英伟达提出“三台计算机”概念：一台训练模型，一台在数字孪生与仿真环境中训练、验证技能，第三台部署在机器人本体上执行。Omniverse、Isaac、Cosmos等平台，旨在打通训练、仿真与终端计算成为一条链。最新一季财报显示，其数据中心业务收入同比增长117%，物理A",
-  "ord": 6
- },
- "https://www.qbitai.com/2026/11/510496.html": {
-  "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
-  "source": "量子位",
-  "ts": 1794816127.0,
-  "desc": "在华为待了快10000天。",
-  "ord": 2
- },
- "https://openai.com/index/our-first-phase-of-embedded-assessments": {
-  "title": "Our first phase of embedded assessments",
-  "source": "OpenAI News",
-  "ts": 1794816000.0,
-  "desc": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-  "ord": 4
- },
- "https://www.leiphone.com/category/private/j1CWHNsD9eBM7Wwc.html": {
-  "title": "HCI 先驱 de Souza：当 AI 替我们阅读，谁来为知识负责？| ACM MM 2026",
-  "source": "雷峰网",
-  "ts": 1794815940.0,
-  "desc": "研究者需要的不只是AI生成的答案，更是审查答案、追溯来源并为知识判断负责的能力。    作者丨张   璐    编辑丨马晓宁                                                                                                       你有没有过这样的经历：面对几十页密密麻麻的PDF，实在抽不出时间细读，于是把论文丢给ChatGPT或Claude，让它帮你提炼核心观点。几秒钟后，一份条理清晰的摘要出现在屏幕上。你点点头，觉得自己已经掌握了论文的主要内容，甚至直接将其中的观点引用进了自己的研究。但是，等",
-  "ord": 7
- },
- "https://www.qbitai.com/2026/11/510493.html": {
-  "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
-  "source": "量子位",
-  "ts": 1794815937.0,
-  "desc": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
-  "ord": 3
- },
- "https://www.qbitai.com/2026/11/510486.html": {
-  "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
-  "source": "量子位",
-  "ts": 1794815517.0,
-  "desc": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
-  "ord": 4
- },
- "https://www.leiphone.com/category/ai/zV4No5T5XDHJcupr.html": {
-  "title": "李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？",
-  "source": "雷峰网",
-  "ts": 1794814080.0,
-  "desc": "时隔两年，World Labs 的工作已经完全不同了。    作者丨齐铖湧    编辑丨岑   峰                                                                                                       2026年11月，CoRL（机器人学习顶会）在奥斯汀开幕。这一届的演讲嘉宾，有一个无法回避的名字，李飞飞。斯坦福教授、ImageNet发起者、World Labs创始人。就在本届CoRL之前，World Labs被AMD收购的消息正在圈内发酵，她即将出任AMD首席科学家。这届CoRL现场，她不仅",
-  "ord": 8
- },
- "https://www.qbitai.com/2026/11/510436.html": {
-  "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
-  "source": "量子位",
-  "ts": 1794813993.0,
-  "desc": "余承东重新明确分工",
-  "ord": 5
- },
- "https://www.leiphone.com/category/ai/b2VJ0YUl2gN5nNie.html": {
-  "title": "李飞飞对话苏姿丰：AMD 收购后首次同台，CoRL 现场谈算力、机器人与「这个时代最大的失误」",
-  "source": "雷峰网",
-  "ts": 1794813840.0,
-  "desc": "一场横跨科研、经济、AI、社会话题、算力未来的女性对话。    作者丨齐铖湧    编辑丨岑   峰                                                                                                       2026年11月，奥斯汀，CoRL 2026的台下坐满了机器人研究者。台上三把椅子，两位嘉宾，左边是即将出任AMD首席科学家的李飞飞，右边是AMD CEO苏姿丰。这是AMD收购World Labs消息传出后，两人的首次公开同台，也是李飞飞以\"AMD首席科学家\"身份，第一次面对整个机器人学术社区",
-  "ord": 9
- },
- "https://openai.com/index/advancing-computer-use-for-healthcare-teams": {
-  "title": "Advancing computer-use agents for healthcare teams",
-  "source": "OpenAI News",
-  "ts": 1794808800.0,
-  "desc": "",
-  "ord": 5
- },
- "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare": {
-  "title": "More ways to move care forward with ChatGPT for Healthcare",
-  "source": "OpenAI News",
-  "ts": 1794808800.0,
-  "desc": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-  "ord": 6
- },
- "https://www.leiphone.com/category/industrynews/cKZQPQOnwbz4y30h.html": {
-  "title": "韩国消费者爱上速卖通双11！中国品牌成交大涨4倍",
-  "source": "雷峰网",
-  "ts": 1794807180.0,
-  "desc": "今年海外双11，阿里旗下跨境电商平台速卖通在韩国加大品牌投入，豪送4辆特斯拉，直接带动双11首日Brand+品牌商品成交额同比去年大涨4倍，石头、绿联等一众中国品牌在韩国市场实现数倍增长。  （速卖通韩国在双11活动现场送出特斯拉大奖） 速卖通平台数据显示，11月1日至10日，电脑办公品牌朗科Netac销售额同比增长超8倍，清洁家电品牌石头Roborock同比增长超3倍，手机配件品牌绿联UGREEN同比增超100%。汽车配件品牌ETENWOLF、消费电子品牌Fosi Audio、运动户外品牌LEYDUN也均达成超50%的增长。 网红文化风靡韩国，本土达人带货成为新品牌打开韩国市场的一条“捷径”",
-  "ord": 0
- },
- "https://www.leiphone.com/category/industrynews/Qm4GG0NRchACeSdH.html": {
-  "title": "韩国消费者爱上双11！速卖通上中国品牌成交大涨4倍",
-  "source": "雷峰网",
-  "ts": 1794807060.0,
-  "desc": "今年海外双11，阿里旗下跨境电商平台速卖通在韩国加大品牌投入，豪送4辆特斯拉，直接带动双11首日Brand+品牌商品成交额同比去年大涨4倍，石头、绿联等一众中国品牌在韩国市场实现数倍增长。随着新能源车的兴起，电动汽车配件也在韩国热卖。11月1日至10日，速卖通汽摩配类目的买家数较去年同期几乎翻番，电动汽车元件、汽车收纳、清洁和保养类产品销量增长超过300%。速卖通持续用网红带货、现场体验、平台背书增强韩国消费者对速卖通的信任，领跑韩国跨境电商。",
-  "ord": 1
- },
- "https://www.qbitai.com/2026/11/510416.html": {
-  "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
-  "source": "量子位",
-  "ts": 1794805522.0,
-  "desc": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。",
-  "ord": 6
- },
- "https://www.leiphone.com/category/industrynews/tDhzNl3D84AjopSh.html": {
-  "title": "模型选择自由！千问办公上线Qwen4、Kimi-K3.1、GLM-5.3等10款模型",
-  "source": "雷峰网",
-  "ts": 1794802080.0,
-  "desc": "11月16日，千问办公一口气上线10款模型，包括刚刚发布的Qwen4-Max，以及Kimi、GLM、DeepSeek、MiniMax、Step等多款三方大模型。目前，千问办公的模型列表已向用户开放选择，个人版和企业标准版用户可结合自身使用场景自由选择模型。  此前，千问办公在模型供给上为用户提供了标准、高级和Qwen3.8-Max三档模型选择，可满足绝大多数日常办公任务的需求。但随着用户使用Agent的场景不断深入，用户对Agent背后的模型需求也越来越个性化。核心原因是，不同模型在不同复杂度的任务上，效果、响应速度和成本都有明显差异。为此，千问办公在原有三档模型的基础上提供更丰富的模型选择，",
-  "ord": 2
- },
- "https://www.leiphone.com/category/industrynews/JDoXug7VZqSjkQrQ.html": {
-  "title": "百度世界2026｜让金融AI用得起、更专业，度小满“轩辕”探索中小机构落地新路径",
-  "source": "雷峰网",
-  "ts": 1794801600.0,
-  "desc": "11月12日，百度世界2026在北京举行，大会聚焦 AI 时代下如何提升组织能力。百度创始人李彦宏在开幕式上判断，人工智能的下一幕是“智能组织”，并首次提出“组织进化三原则”：打破岗位边界、沉淀隐性知识、设计流程闭环。“如果说，人工智能是新电能。那么，智能组织就是AI时代的新厂房，是生产力真正发生的地方。” 本届大会期间，百度围绕“芯云模体”四层架构，发布多项成果：正式推出大模型交易平台词元所，发布文心大模型5.5 Flash预览版及两款文心应用模型；百度搭子、库库、百度一镜、伐谋四大智能体迎来升级；百度智能云正式发布天池1024卡超节点，昆仑芯公布新的产品计划，萝卜快跑全球化运营再提速。 “",
-  "ord": 3
- },
- "https://www.qbitai.com/2026/11/510404.html": {
-  "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
-  "source": "量子位",
-  "ts": 1794801270.0,
-  "desc": "50岁，以“华为董事”之名退休，又有几人？",
-  "ord": 7
- },
- "https://www.leiphone.com/category/weiwu/nFSVApZT1GmSFH9T.html": {
-  "title": "众筹超500万美元，全球首款多地形跟拍机器人Beni线下首发",
-  "source": "雷峰网",
-  "ts": 1794801000.0,
-  "desc": "2026 年 11 月 14 日，深圳湾文化广场北馆INNO100 全球创新旗舰店，Kickstarter为其平台上的众筹爆款新品——妙动科技打造的多地形跟拍机器人Beni，举办“首硬礼”中国线下首发活动。即日起用户可在该线下门店现场体验并直接购买Beni跟拍机器人，标准套装4999元、探索套装5799元。此前，Beni刚以“全球首款多地形跟拍机器人”的定位，通过海外众筹平台Kickstarter首发亮相，截至上月众筹收官，共收获了7926名支持者，总筹资超 500 万美元，成为该平台众筹金额历史第一的消费级机器人。11 月 10 日，Beni 面向全球开启现货发售，国内用户在京东下单即买即发",
-  "ord": 4
- },
- "https://www.leiphone.com/category/industrynews/k4AfYGyYAfHKk0WW.html": {
-  "title": "抖音商城双11 好物节收官：品牌如何在大促中收获生意爆发？",
-  "source": "雷峰网",
-  "ts": 1794800220.0,
-  "desc": "2026年抖音商城双11好物节已落下帷幕，品牌商家们围绕不同的消费需求规划货盘与内容，并结合消费券、补贴和现货履约保障，取得了各具特点的经营成果。接下来，本文将结合品牌的真实案例，分享商家在大促中的“高能打法”与可复用的经营策略。荣耀：携手「上新了！超级开新」IP首发年度新品，联动明星达人直播引爆大场对于硬核电竞玩家而言，纸面上的参数再漂亮，也不如一场高帧率实战来得实在。荣耀在抖音商城首发WIN2系列，联动「上新了！超级开新」IP，结合平台消费券等多重补贴，促进了电竞游戏消费者的下单。同时，品牌在直播间携手明星打造了“街头发布会”，还邀请了垂类达人进播，用贴合游戏爱好者语境的方式安排互动讲解，",
-  "ord": 5
- },
- "https://www.leiphone.com/category/industrynews/uQHWYgknaxF4jzlB.html": {
-  "title": "华为Mate X8官宣第二代灵珑屏，折叠屏手机进入大焕新时代？",
-  "source": "雷峰网",
-  "ts": 1794800100.0,
-  "desc": "11月16日，华为终端发布华为Mate X8新机屏幕卖点视频，官宣其将搭载第二代灵珑屏。与此同时，以“大、亮、平”为主题的户外广告同步登陆多个核心商圈户外大屏，迅速掀起新一轮热议。作为新一代大折叠的核心升级点，这次屏幕焕新显然不止是常规参数迭代，而是预示着折叠屏体验即将迎来一次全面进阶。提到折叠屏的核心优势，大屏观感始终是最直观的吸引力。从目前曝光的信息来看，华为Mate X8的屏幕尺寸将进一步升级，展开状态下的视野更开阔，搭配华为在折叠屏软件生态上的长期适配优化，分屏办公、多应用协同的操作逻辑会更高效，追剧、游戏等场景的视觉沉浸感也会更强。当然，尺寸升级只是“大不一样”的其中一面，在这次官宣",
-  "ord": 6
- },
- "https://www.leiphone.com/category/industrynews/TRw4D5Bw5HsTmC1G.html": {
-  "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
-  "source": "雷峰网",
-  "ts": 1794799980.0,
-  "desc": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max，总参数2.4T，具备原生视觉能力，支持百万上下文。基于创新的模型架构和训练优化，Qwen4-Max以更少的Token消耗实现了更高的性能，在智能体和编程等关键能力项上持续进化：在权威的全球前端编程盲测CodeArena中，Qwen4位居第六；在Agents' Last Exam（ALE）、Vals Index等智能体能力及专业任务三方评测中，Qwen4均处于领先梯队。Qwen4面向全领域的真实任务深度优化，可更好地调用专业工具处理长周期任务，推进AI在汽车制造、游戏开发、金融投研及科学研究等专业领域的深入落地。Qwen4-Max现",
-  "ord": 7
- },
- "https://www.qbitai.com/2026/11/510382.html": {
-  "title": "今天截止！2026年度AI表彰，错过再等一年！",
-  "source": "量子位",
-  "ts": 1794799193.0,
-  "desc": "量子位在寻找“能干”的答案",
-  "ord": 8
- },
- "https://www.qbitai.com/2026/11/510369.html": {
-  "title": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
-  "source": "量子位",
-  "ts": 1794798459.0,
-  "desc": "是石科技最新发布多模态模型服务",
-  "ord": 9
- },
- "https://www.leiphone.com/category/industrynews/vBMqo9G7ViFbsPER.html": {
-  "title": "会畅科技发布任务管理原生 Agent 矩阵 软硬件协同深耕企业执行场景",
-  "source": "雷峰网",
-  "ts": 1794796740.0,
-  "desc": "2026 年 11 月 12 日，“会联运营・畅享执行 ——2026 会畅科技任务管理原生 Agent 发布会” 在上海举办。会畅科技现场推出白泽任务管理 OS 与会畅超光桌面 AI 助理终端两大核心产品，首次提出 “以任务为 AI 原生组织最小协作单元” 的产业判断，通过 “软件中枢 + 硬件入口” 一体化布局，打通战略到执行的全链路闭环，为企业从流程数字化迈向执行智能化提供落地方案。一、AI 落地进入深水区：从工具叠加到组织重构，任务成为核心破局点回顾产业演进，历次技术革命最终都指向组织协作方式的重塑：工业革命降低物理生产成本，催生流水线分工与层级制组织;信息革命降低信息传递成本，催生 S",
-  "ord": 8
- },
- "https://www.iimedia.cn/c400/119676.html": {
-  "title": "艾媒咨询 | 2026-2027年中国AI微短剧行业趋势白皮书",
-  "source": "艾媒网",
-  "ts": 1794796577.2351496,
-  "desc": "",
-  "ord": 1
- },
- "https://www.iimedia.cn/c1088/120092.html": {
-  "title": "11月13日AI新产品讯息：百度发布两款文心应用模型、谷歌推出Gemini Decisions API、百度推出大模型交易平台词元所",
-  "source": "艾媒网",
-  "ts": 1794796577.2351496,
-  "desc": "",
-  "ord": 3
- },
- "https://qwen.ai/blog?id=qwen4-max": {
-  "title": "Qwen4-Max",
-  "source": "Hacker News 头版",
-  "ts": 1794795284.0,
-  "desc": "Article URL: https://qwen.ai/blog?id=qwen4-max\nComments URL: https://news.ycombinator.com/item?id=50513215\nPoints: 408\n# Comments: 149",
-  "ord": 0
- },
- "https://www.leiphone.com/category/ai/pzBYjjLW3Cjb6AAO.html": {
-  "title": "AI公司转型最难的一步：如何构建AI Native的产品体系",
-  "source": "雷峰网",
-  "ts": 1794795120.0,
-  "desc": "企业把大模型接进产品之后，新的经营问题才刚刚展开。客户提出一项任务，系统能拿到哪些信息，由谁核准结果，出现例外时如何处理，都会影响AI能否持续投入使用。产品演示中的能力，需要经由完整的服务过程才能转化为客户价值。王强宇出任百望股份首席执行官（CEO），为观察这项变化提供了一个具体切口：王强宇如何将百望的财税场景积累转化为专业模型与智能体产品，并让研发、交付和组织能力共同支撑商业化。产品的交付单位开始发生变化在传统软件服务中，功能上线、接口联通与流程配置，是重要的交付内容。AI进一步参与工作后，客户会关心一次任务能否可靠完成，以及整个过程需要多少人工干预。以交易核对为例，系统可能要在授权范围内读",
-  "ord": 9
- },
- "https://www.hntrends.com/2026/november.html": {
-  "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-  "source": "Hacker News 头版",
-  "ts": 1794792690.0,
-  "desc": "Article URL: https://www.hntrends.com/2026/november.html\nComments URL: https://news.ycombinator.com/item?id=50512950\nPoints: 44\n# Comments: 11",
-  "ord": 0
- },
- "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/": {
-  "title": "Apple launches new app to study how people use AI for health",
-  "source": "TechCrunch AI",
-  "ts": 1794792600.0,
-  "desc": "Apple's new app for a study will answer everyday medical questions",
-  "ord": 0
- },
- "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools": {
-  "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-  "source": "The Verge AI",
-  "ts": 1794792416.0,
-  "desc": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by he",
-  "ord": 0
- },
- "https://daily.ai225.com/daily/2026-11-16": {
-  "title": "2026-11-16 AI 日报 · 英伟达风波引国会收紧芯片出口，AI科研与基础设施进展密集",
-  "source": "AI 日报 · AI225",
-  "ts": 1794790376.0,
-  "desc": "今日焦点围绕英伟达换帅后的连锁反应展开：美媒披露其高管前关联方曾为中国代购近 120 亿美元芯片，另有报道指英伟达曾投资初创公司以人为制造 GPU 短缺，美国国会两党酝酿收紧 AI 芯片出口规则；同期全球芯片股较峰值回撤近四成。应用安全方面，美国 FAA 停飞事件引发对 AI 空管系统的审视，openEuler 发布智能体基础设施方案。科研与模型领域，OpenAI 披露 GPT-6 Astra 助力标准模型理论证明，西湖大学发布概念世界模型 Awomo-0.5，多所顶尖高校联合推出湿实验预测基准。",
-  "ord": 0
- },
- "https://openai.com/index/the-kings-trust-and-openai": {
-  "title": "The King’s Trust and OpenAI launch £1m partnership",
-  "source": "OpenAI News",
-  "ts": 1794787200.0,
-  "desc": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-  "ord": 7
- },
- "https://huggingface.co/blog/openrouter": {
-  "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-  "source": "Hugging Face 博客",
-  "ts": 1794787200.0,
-  "desc": "",
-  "ord": 0
- },
- "https://openai.com/business/customer-stories/holiday-extras-dots": {
-  "title": "At Holiday Extras, dots get to work before anyone asks",
-  "source": "OpenAI News",
-  "ts": 1794787200.0,
-  "desc": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
-  "ord": 8
- },
- "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/": {
-  "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-  "source": "TechCrunch AI",
-  "ts": 1794785400.0,
-  "desc": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-  "ord": 0
- },
- "https://openai.com/index/step-toward-defining-the-standard-model": {
-  "title": "A step toward defining the Standard Model on a lattice",
-  "source": "OpenAI News",
-  "ts": 1794780001.0,
-  "desc": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-  "ord": 0
- },
- "https://openai.com/index/our-new-blog-for-science": {
-  "title": "Our new blog for science",
-  "source": "OpenAI News",
-  "ts": 1794780000.0,
-  "desc": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-  "ord": 1
- },
- "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/": {
-  "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-  "source": "TechCrunch AI",
-  "ts": 1794779795.0,
-  "desc": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-  "ord": 1
- },
- "https://www.iimedia.cn/c1061/120072.html": {
-  "title": "2026年中国消费者购买AI玩具主要用途分析：亲子互动成核心驱动力，超四成家庭聚焦情感陪伴",
-  "source": "艾媒网",
-  "ts": 1794776539.4226813,
-  "desc": "",
-  "ord": 0
- },
- "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed": {
-  "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-  "source": "The Verge AI",
-  "ts": 1794775429.0,
-  "desc": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a ",
-  "ord": 0
- },
- "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/": {
-  "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-  "source": "TechCrunch AI",
-  "ts": 1794774057.0,
-  "desc": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-  "ord": 0
- },
- "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/": {
-  "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-  "source": "Hacker News 头版",
-  "ts": 1794771586.0,
-  "desc": "Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/\nComments URL: https://news.ycombinator.com/item?id=50509953\nPoints: 38\n# Comments: 24",
-  "ord": 0
- },
- "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china": {
-  "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-  "source": "The Verge AI",
-  "ts": 1794770143.0,
-  "desc": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded th",
-  "ord": 1
- },
- "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy": {
-  "title": "black-forest-labs/flux-3-image-klein-comfy Image-to-Image • Updated 13 days ago • 1.18M • 3.23k",
-  "source": "Hugging Face Trending",
-  "ts": 1794764798.455464,
-  "desc": "",
-  "ord": 23
- },
- "https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/": {
-  "title": "What Picasso taught me about building AI Agents",
-  "source": "Hacker News 头版",
-  "ts": 1794759386.0,
-  "desc": "Article URL: https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=50508076\nPoints: 5\n# Comments: 1",
-  "ord": 0
- },
- "https://www.cloudquell.com/blog/new-ai-models-october-2026/": {
-  "title": "October 2026 releases, in depth",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 0
- },
- "https://www.cloudquell.com/blog/new-ai-models-september-2026/": {
-  "title": "September 2026 releases, in depth",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 1
- },
- "https://www.cloudquell.com/blog/llm-api-pricing-comparison/": {
-  "title": "LLM API pricing comparison (all providers)",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 2
- },
- "https://www.cloudquell.com/blog/cheapest-llm-api/": {
-  "title": "The cheapest LLM API per million tokens",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 3
- },
- "https://www.cloudquell.com/blog/openai-vs-anthropic-api-pricing/": {
-  "title": "OpenAI vs Anthropic API pricing",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 4
- },
- "https://www.cloudquell.com/ai-cost-management/": {
-  "title": "AI cost management: track AI spend next to your cloud bill",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 5
- },
- "https://www.cloudquell.com/blog/ai-spend-budget-alerts/": {
-  "title": "Set a budget on your AI spend before the invoice does",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 6
- },
- "https://www.cloudquell.com/blog/anthropic-api-cost-tracking/": {
-  "title": "Anthropic API cost tracking",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 7
- },
- "https://www.cloudquell.com/blog/track-openai-api-costs/": {
-  "title": "How to track OpenAI API costs",
-  "source": "CloudQuell 发布日志",
-  "ts": 1794756557.5737543,
-  "desc": "",
-  "ord": 8
  }
 }
