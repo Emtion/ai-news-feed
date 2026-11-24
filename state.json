@@ -1,4 +1,95 @@
 {
+ "https://www.cloudquell.com/blog/new-ai-models-october-2026/": {
+  "title": "October 2026 releases, in depth",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795503606.1137688,
+  "desc": "",
+  "ord": 0
+ },
+ "https://www.cloudquell.com/blog/new-ai-models-september-2026/": {
+  "title": "September 2026 releases, in depth",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795503606.1137688,
+  "desc": "",
+  "ord": 1
+ },
+ "https://www.cloudquell.com/blog/llm-api-pricing-comparison/": {
+  "title": "LLM API pricing comparison (all providers)",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795503606.1137688,
+  "desc": "",
+  "ord": 2
+ },
+ "https://www.cloudquell.com/blog/cheapest-llm-api/": {
+  "title": "The cheapest LLM API per million tokens",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795503606.1137688,
+  "desc": "",
+  "ord": 3
+ },
+ "https://www.cloudquell.com/blog/openai-vs-anthropic-api-pricing/": {
+  "title": "OpenAI vs Anthropic API pricing",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795503606.1137688,
+  "desc": "",
+  "ord": 4
+ },
+ "https://www.cloudquell.com/ai-cost-management/": {
+  "title": "AI cost management: track AI spend next to your cloud bill",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795503606.1137688,
+  "desc": "",
+  "ord": 5
+ },
+ "https://www.cloudquell.com/blog/ai-spend-budget-alerts/": {
+  "title": "Set a budget on your AI spend before the invoice does",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795503606.1137688,
+  "desc": "",
+  "ord": 6
+ },
+ "https://www.cloudquell.com/blog/anthropic-api-cost-tracking/": {
+  "title": "Anthropic API cost tracking",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795503606.1137688,
+  "desc": "",
+  "ord": 7
+ },
+ "https://www.cloudquell.com/blog/track-openai-api-costs/": {
+  "title": "How to track OpenAI API costs",
+  "source": "CloudQuell 发布日志",
+  "ts": 1795503606.1137688,
+  "desc": "",
+  "ord": 8
+ },
+ "https://huggingface.co/inclusionAI/Ling-3.2-air": {
+  "title": "inclusionAI/Ling-3.2-air 128B • Updated about 16 hours ago • 128",
+  "source": "Hugging Face Trending",
+  "ts": 1795503606.1137688,
+  "desc": "",
+  "ord": 29
+ },
+ "https://www.qbitai.com/2026/11/512354.html": {
+  "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+  "source": "量子位",
+  "ts": 1795501348.0,
+  "desc": "",
+  "ord": 0
+ },
+ "https://www.qbitai.com/2026/11/512348.html": {
+  "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
+  "source": "量子位",
+  "ts": 1795500938.0,
+  "desc": "11月19日，方程豹钛9上市，售价27.99万元起",
+  "ord": 1
+ },
+ "https://www.qbitai.com/2026/11/512343.html": {
+  "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
+  "source": "量子位",
+  "ts": 1795500736.0,
+  "desc": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场",
+  "ord": 2
+ },
  "https://www.cloudquell.com/cloud-cost-optimization/": {
   "title": "Cloud cost optimization",
   "source": "CloudQuell 发布日志",
@@ -207,14 +298,14 @@
   "source": "艾媒网",
   "ts": 1795500042.4920855,
   "desc": "",
-  "ord": 0
+  "ord": 1
  },
  "https://www.iimedia.cn/c1040/120636.html": {
   "title": "蚂蚁阿福发布AI健康穿戴新品，2026年中国消费者智能穿戴偏好洞察：手环手表领跑、运动追踪最受关注",
   "source": "艾媒网",
   "ts": 1795500042.4920855,
   "desc": "",
-  "ord": 2
+  "ord": 4
  },
  "https://www.anthropic.com/claude-fable-and-mythos-5-2": {
   "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
@@ -419,6 +510,20 @@
   "desc": "",
   "ord": 1
  },
+ "https://github.com/GenesisAgentInfra/genesis": {
+  "title": "Show HN: Genesis Map – Visualize your agent's changes. See where they can break",
+  "source": "Hacker News 头版",
+  "ts": 1795496681.0,
+  "desc": "When agent ships code faster and faster, human review is no longer possible. Which brings 2 problems, at least for me:1. I need to understand what my agent changes as quickly and easily as possible, cuz I don't wanna lose track of the current status of my product, or be the main bottleneck in shippi",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/industrynews/X2LHtIreyiO6depw.html": {
+  "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+  "source": "雷峰网",
+  "ts": 1795493400.0,
+  "desc": "11 月 24 日，文心 5.5 Flash Preview（ERNIE 5.5 Flash Preview）正式开源，采用 Apache 2.0 协议面向全球开源社区开放。开发者可在 Hugging Face、ModelScope 平台获取模型权重与配套资源，进行本地部署与二次开发，支持 vLLM、SGLang 等主流推理框架进行部署。   文心 5.5 Flash Preview总参数量达 2800 亿，每个 Token 激活 140 亿参数，支持最长 100 万 Token 的上下文，在编程、3D 建模、知识工作、内容创作等方面表现突出，在Terminal-Bench、Automatio",
+  "ord": 0
+ },
  "https://www.qbitai.com/2026/11/512329.html": {
   "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
   "source": "量子位",
@@ -537,13 +642,6 @@
   "ts": 1795471766.0,
   "desc": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is ",
   "ord": 2
- },
- "https://github.com/anthropics/formal-math/tree/main/vp-vnp": {
-  "title": "VP ≠ VNP over Every Field",
-  "source": "Hacker News 头版",
-  "ts": 1795471750.0,
-  "desc": "Paper: https://github.com/anthropics/formal-math/blob/11b6c7e3c927d...\n\nComments URL: https://news.ycombinator.com/item?id=50620102\nPoints: 303\n# Comments: 264",
-  "ord": 3
  },
  "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/": {
   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
@@ -1691,7 +1789,7 @@
   "source": "艾媒网",
   "ts": 1795317202.84134,
   "desc": "",
-  "ord": 4
+  "ord": 3
  },
  "https://www.noemamag.com/the-mythology-of-conscious-ai/": {
   "title": "The Mythology of Conscious AI",
@@ -2790,7 +2888,7 @@
   "source": "艾媒网",
   "ts": 1795055632.1216788,
   "desc": "",
-  "ord": 0
+  "ord": 2
  },
  "https://www.producthunt.com/products/gemini-6": {
   "title": "Gemini 4 Neon",
@@ -4100,103 +4198,5 @@
   "ts": 1794869900.0,
   "desc": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/\nComments URL: https://news.ycombinator.com/item?id=50524736\nPoints: 256\n# Comments: 137",
   "ord": 1
- },
- "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/": {
-  "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-  "source": "TechCrunch AI",
-  "ts": 1794866582.0,
-  "desc": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
-  "ord": 1
- },
- "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit": {
-  "title": "California sues OpenAI over rogue AI hacking incidents",
-  "source": "The Verge AI",
-  "ts": 1794861961.0,
-  "desc": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper ",
-  "ord": 1
- },
- "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor": {
-  "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-  "source": "The Verge AI",
-  "ts": 1794861688.0,
-  "desc": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" […]",
-  "ord": 2
- },
- "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/": {
-  "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-  "source": "Ars Technica",
-  "ts": 1794861467.0,
-  "desc": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-  "ord": 2
- },
- "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats": {
-  "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-  "source": "The Verge AI",
-  "ts": 1794860977.0,
-  "desc": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addr",
-  "ord": 3
- },
- "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard": {
-  "title": "US data centers now burn more electricity than a midsized country",
-  "source": "The Verge AI",
-  "ts": 1794860878.0,
-  "desc": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. ",
-  "ord": 4
- },
- "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/": {
-  "title": "California state AG sues OpenAI over rogue agent incidents",
-  "source": "TechCrunch AI",
-  "ts": 1794859633.0,
-  "desc": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-  "ord": 2
- },
- "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription": {
-  "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-  "source": "The Verge AI",
-  "ts": 1794857080.0,
-  "desc": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advan",
-  "ord": 5
- },
- "https://www.theverge.com/policy/1034527/openai-csam-classifier": {
-  "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-  "source": "The Verge AI",
-  "ts": 1794857025.0,
-  "desc": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether",
-  "ord": 6
- },
- "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/": {
-  "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-  "source": "TechCrunch AI",
-  "ts": 1794856322.0,
-  "desc": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-  "ord": 3
- },
- "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back": {
-  "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-  "source": "The Verge AI",
-  "ts": 1794854615.0,
-  "desc": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, alon",
-  "ord": 7
- },
- "https://www.producthunt.com/products/ody-ai-business-phone": {
-  "title": "Ody Ai Business Phone",
-  "source": "Product Hunt",
-  "ts": 1794854217.0,
-  "desc": "",
-  "ord": 5
- },
- "https://www.iimedia.cn/c1088/120188.html": {
-  "title": "11月16日AI新产品讯息：斑马AI学发布2027版本、腾讯混元发布实时语音模型Hy Realtime、DeepSeek发布全家桶应用API",
-  "source": "艾媒网",
-  "ts": 1794853915.7400143,
-  "desc": "",
-  "ord": 1
- },
- "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/": {
-  "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-  "source": "TechCrunch AI",
-  "ts": 1794852670.0,
-  "desc": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-  "ord": 0
  }
 }

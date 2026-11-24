@@ -5,13 +5,27 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 24 Nov 2026 06:01:42 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 07:00:38 +0000</lastBuildDate>
   <item>
-    <title>Cloud cost optimization</title>
-    <link>https://www.cloudquell.com/cloud-cost-optimization/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/cloud-cost-optimization/</guid>
-    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
+    <title>October 2026 releases, in depth</title>
+    <link>https://www.cloudquell.com/blog/new-ai-models-october-2026/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/blog/new-ai-models-october-2026/</guid>
+    <pubDate>Tue, 24 Nov 2026 07:00:06 +0000</pubDate>
     <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Team &amp; Enterprise</title>
+    <link>https://huggingface.co/enterprise</link>
+    <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议</title>
+    <link>https://www.qbitai.com/2026/11/512354.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512354.html</guid>
+    <pubDate>Tue, 24 Nov 2026 06:22:28 +0000</pubDate>
+    <source>量子位</source>
   </item>
   <item>
     <title>Artificial Analysis</title>
@@ -21,10 +35,10 @@
     <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
-    <title>艾媒一周热评381期 | 当Token走进大众消费：买算力像充话费一样简单；商业秘密｜当399元羽绒</title>
-    <link>https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42</guid>
-    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
+    <title>2026年中国消费者认为AI大模型的发展趋势：认为“很好”的占比51.4%</title>
+    <link>https://www.iimedia.cn/c1061/111224.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/111224.html</guid>
+    <pubDate>Fri, 20 Nov 2026 02:19:05 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
@@ -42,31 +56,20 @@
     <source>DeepSeek 更新日志</source>
   </item>
   <item>
-    <title>报名从速｜来MEET2027！听AI前沿实践者交出“判断”</title>
-    <link>https://www.qbitai.com/2026/11/512329.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512329.html</guid>
-    <pubDate>Tue, 24 Nov 2026 03:33:48 +0000</pubDate>
-    <source>量子位</source>
-    <description>12.9 北京，来MEET2027现场</description>
-  </item>
-  <item>
-    <title>Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in</title>
-    <link>https://juncts.com/app?demo=1&amp;utm_source=hackernews&amp;utm_medium=launch&amp;utm_campaign=launch-nov26</link>
-    <guid isPermaLink="true">https://juncts.com/app?demo=1&amp;utm_source=hackernews&amp;utm_medium=launch&amp;utm_campaign=launch-nov26</guid>
-    <pubDate>Tue, 24 Nov 2026 03:16:58 +0000</pubDate>
+    <title>Show HN: Genesis Map – Visualize your agent's changes. See where they can break</title>
+    <link>https://github.com/GenesisAgentInfra/genesis</link>
+    <guid isPermaLink="true">https://github.com/GenesisAgentInfra/genesis</guid>
+    <pubDate>Tue, 24 Nov 2026 05:04:41 +0000</pubDate>
     <source>Hacker News 头版</source>
-    <description>Article URL: https://juncts.com/app?demo=1&amp;utm_source=hackernews&amp;utm_medium=launch&amp;utm_campaign=launch-nov26
-Comments URL: https://news.ycombinator.com/item?id=50623175
-Points: 8
-# Comments: 0</description>
+    <description>When agent ships code faster and faster, human review is no longer possible. Which brings 2 problems, at least for me:1. I need to understand what my agent changes as quickly and easily as possible, cuz I don't wanna lose track of the current status of my product, or be the main bottleneck in shippi</description>
   </item>
   <item>
-    <title>蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险</title>
-    <link>https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html</guid>
-    <pubDate>Tue, 24 Nov 2026 03:13:00 +0000</pubDate>
+    <title>文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议</title>
+    <link>https://www.leiphone.com/category/industrynews/X2LHtIreyiO6depw.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/X2LHtIreyiO6depw.html</guid>
+    <pubDate>Tue, 24 Nov 2026 04:10:00 +0000</pubDate>
     <source>雷峰网</source>
-    <description>AI在医疗健康领域的应用，正在从疾病识别、健康咨询向更长期的健康风险预测延伸。11月24日，蚂蚁百灵宣布开源医疗健康预测模型 LingSante Pulse，可通过理解人体日常产生的生理信号，预测未来六年内150种疾病表型的发生风险。不同于传统模型主要针对某一种生理信号或特定疾病进行训练，LingSante Pulse能够统一处理脑电图、心电图、光电脉搏波、肌电图等多种生理信号，并适应不同传感器的组合。模型基于超过15万小时、多场景生理序列数据预训练，能够从不同生理信号中提取人体状态特征，实现健康情况的远期预测。在相关评测中，其可达到较高预测可靠性的疾病表型数量，比此前最优模型增加约42%。即</description>
+    <description>11 月 24 日，文心 5.5 Flash Preview（ERNIE 5.5 Flash Preview）正式开源，采用 Apache 2.0 协议面向全球开源社区开放。开发者可在 Hugging Face、ModelScope 平台获取模型权重与配套资源，进行本地部署与二次开发，支持 vLLM、SGLang 等主流推理框架进行部署。   文心 5.5 Flash Preview总参数量达 2800 亿，每个 Token 激活 140 亿参数，支持最长 100 万 Token 的上下文，在编程、3D 建模、知识工作、内容创作等方面表现突出，在Terminal-Bench、Automatio</description>
   </item>
   <item>
     <title>2026-11-24 AI 日报 · 黄仁勋复职英伟达CEO董事会全票通过，亚马逊75亿美元收购Decart优化技术</title>
@@ -98,13 +101,6 @@ Points: 8
     <guid isPermaLink="true">https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/</guid>
     <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
     <source>Meta AI 博客</source>
-  </item>
-  <item>
-    <title>Team &amp; Enterprise</title>
-    <link>https://huggingface.co/enterprise</link>
-    <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
   </item>
   <item>
     <title>OpenAI and Cisco introduce Shirudo</title>
@@ -176,11 +172,26 @@ Points: 8
     <description>Koray Kavukcuoglu's November 18, 2026 blog launches Gemini 4 Neon under API id gemini-4-neon. Paid Standard is a flat $3 input and $15 output per million tokens across a vendor-stated 1,048,576-token window, and Gemini 4 Neon is not on the Free tier. No Gemini 4 Neon score row is stored. Carbon, Arg</description>
   </item>
   <item>
-    <title>Multi-cloud cost management</title>
-    <link>https://www.cloudquell.com/multi-cloud-cost-management/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/multi-cloud-cost-management/</guid>
-    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
+    <title>September 2026 releases, in depth</title>
+    <link>https://www.cloudquell.com/blog/new-ai-models-september-2026/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/blog/new-ai-models-september-2026/</guid>
+    <pubDate>Tue, 24 Nov 2026 07:00:06 +0000</pubDate>
     <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Hugging Face PRO</title>
+    <link>https://huggingface.co/pro</link>
+    <guid isPermaLink="true">https://huggingface.co/pro</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车</title>
+    <link>https://www.qbitai.com/2026/11/512348.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512348.html</guid>
+    <pubDate>Tue, 24 Nov 2026 06:15:38 +0000</pubDate>
+    <source>量子位</source>
+    <description>11月19日，方程豹钛9上市，售价27.99万元起</description>
   </item>
   <item>
     <title>Thinking Machines has released Inkling 2 Mini, an open weights looped transformerNovember 20, 2026</title>
@@ -190,10 +201,10 @@ Points: 8
     <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
-    <title>2026年中国消费者认为AI大模型的发展趋势：认为“很好”的占比51.4%</title>
-    <link>https://www.iimedia.cn/c1061/111224.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1061/111224.html</guid>
-    <pubDate>Fri, 20 Nov 2026 02:19:05 +0000</pubDate>
+    <title>艾媒鼎榜 | 2026年中国车载实体AI机器人品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/120376.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/120376.html</guid>
+    <pubDate>Wed, 18 Nov 2026 11:40:24 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
@@ -211,31 +222,23 @@ Points: 8
     <source>DeepSeek 更新日志</source>
   </item>
   <item>
-    <title>蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源</title>
-    <link>https://www.qbitai.com/2026/11/512330.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512330.html</guid>
-    <pubDate>Tue, 24 Nov 2026 03:30:46 +0000</pubDate>
-    <source>量子位</source>
-    <description>中国AI数据平台加速崛起</description>
-  </item>
-  <item>
-    <title>Declare is a UI language for you and your AI</title>
-    <link>https://davidtemkin.github.io/declarelang/</link>
-    <guid isPermaLink="true">https://davidtemkin.github.io/declarelang/</guid>
-    <pubDate>Tue, 24 Nov 2026 02:36:56 +0000</pubDate>
+    <title>Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in</title>
+    <link>https://juncts.com/app?demo=1&amp;utm_source=hackernews&amp;utm_medium=launch&amp;utm_campaign=launch-nov26</link>
+    <guid isPermaLink="true">https://juncts.com/app?demo=1&amp;utm_source=hackernews&amp;utm_medium=launch&amp;utm_campaign=launch-nov26</guid>
+    <pubDate>Tue, 24 Nov 2026 03:16:58 +0000</pubDate>
     <source>Hacker News 头版</source>
-    <description>Article URL: https://davidtemkin.github.io/declarelang/
-Comments URL: https://news.ycombinator.com/item?id=50622854
-Points: 28
-# Comments: 8</description>
+    <description>Article URL: https://juncts.com/app?demo=1&amp;utm_source=hackernews&amp;utm_medium=launch&amp;utm_campaign=launch-nov26
+Comments URL: https://news.ycombinator.com/item?id=50623175
+Points: 8
+# Comments: 0</description>
   </item>
   <item>
-    <title>豆包工作下调多款模型消耗倍率，超八成日常任务免费用</title>
-    <link>https://www.leiphone.com/category/industrynews/SWU1FnevSoIn4MNM.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/SWU1FnevSoIn4MNM.html</guid>
-    <pubDate>Tue, 24 Nov 2026 01:47:00 +0000</pubDate>
+    <title>蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险</title>
+    <link>https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html</guid>
+    <pubDate>Tue, 24 Nov 2026 03:13:00 +0000</pubDate>
     <source>雷峰网</source>
-    <description>近日，豆包工作宣布接入多款第三方大模型，并同步推出多项优惠计划。其中，用户日常使用频率较高的 DeepSeek V4.1 Flash 和豆包 2.1 Lite 两款模型，额度消耗倍率已下调至 0.01。相关实测数据显示，借助倍率调整与部分模型低消耗任务免费机制，超过八成日常办公任务可通过豆包工作免费完成。据介绍，豆包工作正式发布以来已陆续出台多项优惠举措。符合条件的新用户可领取 30 天体验会员；日常使用中，简单对话及低消耗任务直接免费，用户每日签到还可领取 200 额度，周一额度翻倍，累计签到 30 天可获得 8800 额度，接近标准套餐一个月的使用额度。在金融投研、增长营销、文档写作、PP</description>
+    <description>AI在医疗健康领域的应用，正在从疾病识别、健康咨询向更长期的健康风险预测延伸。11月24日，蚂蚁百灵宣布开源医疗健康预测模型 LingSante Pulse，可通过理解人体日常产生的生理信号，预测未来六年内150种疾病表型的发生风险。不同于传统模型主要针对某一种生理信号或特定疾病进行训练，LingSante Pulse能够统一处理脑电图、心电图、光电脉搏波、肌电图等多种生理信号，并适应不同传感器的组合。模型基于超过15万小时、多场景生理序列数据预训练，能够从不同生理信号中提取人体状态特征，实现健康情况的远期预测。在相关评测中，其可达到较高预测可靠性的疾病表型数量，比此前最优模型增加约42%。即</description>
   </item>
   <item>
     <title>2026-11-23 AI 日报 · Lean确认Claude协作黎曼猜想证明，可灵增资后估值近180亿美元</title>
@@ -267,13 +270,6 @@ Points: 28
     <guid isPermaLink="true">https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/</guid>
     <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
     <source>Meta AI 博客</source>
-  </item>
-  <item>
-    <title>Hugging Face PRO</title>
-    <link>https://huggingface.co/pro</link>
-    <guid isPermaLink="true">https://huggingface.co/pro</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
   </item>
   <item>
     <title>Connected intelligence for in-house legal</title>
@@ -336,11 +332,26 @@ Points: 28
     <description>AI agent takes unapproved actions even when laptop lid is closed and told not to.</description>
   </item>
   <item>
-    <title>Cloud cost allocation</title>
-    <link>https://www.cloudquell.com/cloud-cost-allocation/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/cloud-cost-allocation/</guid>
-    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
+    <title>LLM API pricing comparison (all providers)</title>
+    <link>https://www.cloudquell.com/blog/llm-api-pricing-comparison/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/blog/llm-api-pricing-comparison/</guid>
+    <pubDate>Tue, 24 Nov 2026 07:00:06 +0000</pubDate>
     <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Enterprise Support</title>
+    <link>https://huggingface.co/support</link>
+    <guid isPermaLink="true">https://huggingface.co/support</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>巴新总理见证，仰望U8交付巴布亚新几内亚市场</title>
+    <link>https://www.qbitai.com/2026/11/512343.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512343.html</guid>
+    <pubDate>Tue, 24 Nov 2026 06:12:16 +0000</pubDate>
+    <source>量子位</source>
+    <description>2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场</description>
   </item>
   <item>
     <title>Google continues to accelerate its release cadence with Gemini 4 NeonNovember 18, 2026</title>
@@ -350,10 +361,10 @@ Points: 28
     <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
-    <title>艾媒咨询 | 2026年上半年中国人工智能行业投融资市场监测与分析报告</title>
-    <link>https://www.iimedia.cn/c400/119474.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c400/119474.html</guid>
-    <pubDate>Thu, 19 Nov 2026 02:33:52 +0000</pubDate>
+    <title>艾媒一周热评381期 | 当Token走进大众消费：买算力像充话费一样简单；商业秘密｜当399元羽绒</title>
+    <link>https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
@@ -371,31 +382,23 @@ Points: 28
     <source>DeepSeek 更新日志</source>
   </item>
   <item>
-    <title>释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会</title>
-    <link>https://www.qbitai.com/2026/11/512305.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512305.html</guid>
-    <pubDate>Tue, 24 Nov 2026 03:21:12 +0000</pubDate>
-    <source>量子位</source>
-    <description>2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。</description>
-  </item>
-  <item>
-    <title>Latent Introspection: LLMs Can Detect Prior Concept Injections</title>
-    <link>https://arxiv.org/abs/2602.20031</link>
-    <guid isPermaLink="true">https://arxiv.org/abs/2602.20031</guid>
-    <pubDate>Mon, 23 Nov 2026 22:29:48 +0000</pubDate>
+    <title>Declare is a UI language for you and your AI</title>
+    <link>https://davidtemkin.github.io/declarelang/</link>
+    <guid isPermaLink="true">https://davidtemkin.github.io/declarelang/</guid>
+    <pubDate>Tue, 24 Nov 2026 02:36:56 +0000</pubDate>
     <source>Hacker News 头版</source>
-    <description>Article URL: https://arxiv.org/abs/2602.20031
-Comments URL: https://news.ycombinator.com/item?id=50620328
-Points: 50
-# Comments: 4</description>
+    <description>Article URL: https://davidtemkin.github.io/declarelang/
+Comments URL: https://news.ycombinator.com/item?id=50622854
+Points: 28
+# Comments: 8</description>
   </item>
   <item>
-    <title>公积金智能化应用创新案例发布，支付宝参与共建</title>
-    <link>https://www.leiphone.com/category/industrynews/ICe6gznRO80vcMxl.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ICe6gznRO80vcMxl.html</guid>
-    <pubDate>Tue, 24 Nov 2026 01:44:00 +0000</pubDate>
+    <title>豆包工作下调多款模型消耗倍率，超八成日常任务免费用</title>
+    <link>https://www.leiphone.com/category/industrynews/SWU1FnevSoIn4MNM.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/SWU1FnevSoIn4MNM.html</guid>
+    <pubDate>Tue, 24 Nov 2026 01:47:00 +0000</pubDate>
     <source>雷峰网</source>
-    <description>11月20日，由中国建设报社主办的住房公积金智能化应用创新实践交流座谈会在江苏苏州举行。会上发布了《住房公积金智能化应用创新案例集》，汇集北京、苏州等17个地方的典型实践，其中10个案例采用支付宝民生办事AI全场景解决方案，涵盖政策咨询、办事引导、对话式业务办理等多个应用场景。人工智能正加速进入政务服务领域，如何让AI与办事场景深度融合，是住房公积金行业关注的重点。会上，支付宝介绍了在政务智能体建设方面的探索，展示AI如何从政策咨询、智能导办进一步融入公积金业务办理流程。以政务AI助手“支付宝晓政”为例。“支付宝晓政”目前合作上线的官方智能体超过120个，接入1000余项MCP服务，月活跃用户</description>
+    <description>近日，豆包工作宣布接入多款第三方大模型，并同步推出多项优惠计划。其中，用户日常使用频率较高的 DeepSeek V4.1 Flash 和豆包 2.1 Lite 两款模型，额度消耗倍率已下调至 0.01。相关实测数据显示，借助倍率调整与部分模型低消耗任务免费机制，超过八成日常办公任务可通过豆包工作免费完成。据介绍，豆包工作正式发布以来已陆续出台多项优惠举措。符合条件的新用户可领取 30 天体验会员；日常使用中，简单对话及低消耗任务直接免费，用户每日签到还可领取 200 额度，周一额度翻倍，累计签到 30 天可获得 8800 额度，接近标准套餐一个月的使用额度。在金融投研、增长营销、文档写作、PP</description>
   </item>
   <item>
     <title>2026-11-22 AI 日报 · 字节与高校开源 Axion 1.0，苹果发布 Depth Pro 2，群联展 NPU 硬盘</title>
@@ -427,13 +430,6 @@ Points: 50
     <guid isPermaLink="true">https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/</guid>
     <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
     <source>Meta AI 博客</source>
-  </item>
-  <item>
-    <title>Enterprise Support</title>
-    <link>https://huggingface.co/support</link>
-    <guid isPermaLink="true">https://huggingface.co/support</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
   </item>
   <item>
     <title>Richpanel helps companies automate 50% of support in 30 days</title>
@@ -488,19 +484,26 @@ Points: 50
     <source>Product Hunt</source>
   </item>
   <item>
-    <title>Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day</title>
-    <link>https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/</link>
-    <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/</guid>
-    <pubDate>Mon, 16 Nov 2026 20:37:47 +0000</pubDate>
-    <source>Ars Technica</source>
-    <description>The PC sales slump "more than offset” AI boom gains, shareholders say.</description>
+    <title>The cheapest LLM API per million tokens</title>
+    <link>https://www.cloudquell.com/blog/cheapest-llm-api/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/blog/cheapest-llm-api/</guid>
+    <pubDate>Tue, 24 Nov 2026 07:00:06 +0000</pubDate>
+    <source>CloudQuell 发布日志</source>
   </item>
   <item>
-    <title>AWS cost anomaly detection</title>
-    <link>https://www.cloudquell.com/aws-cost-anomaly-detection/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/aws-cost-anomaly-detection/</guid>
-    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
-    <source>CloudQuell 发布日志</source>
+    <title>Inference Providers</title>
+    <link>https://huggingface.co/inference/models</link>
+    <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>报名从速｜来MEET2027！听AI前沿实践者交出“判断”</title>
+    <link>https://www.qbitai.com/2026/11/512329.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512329.html</guid>
+    <pubDate>Tue, 24 Nov 2026 03:33:48 +0000</pubDate>
+    <source>量子位</source>
+    <description>12.9 北京，来MEET2027现场</description>
   </item>
   <item>
     <title>OpenAI has the #2 model in the Intelligence Index with the release of GPT-6.2 Astra and GPT-6.2 SolNovember 17, 2026</title>
@@ -510,10 +513,10 @@ Points: 50
     <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
-    <title>艾媒鼎榜 | 2026年中国车载实体AI机器人品牌10强</title>
-    <link>https://www.iimedia.cn/c1106/120376.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1106/120376.html</guid>
-    <pubDate>Wed, 18 Nov 2026 11:40:24 +0000</pubDate>
+    <title>2026年扫地机器人升级需求洞察：耗材与噪音痛点凸显，基础体验亟待优化</title>
+    <link>https://www.iimedia.cn/c1061/120432.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120432.html</guid>
+    <pubDate>Mon, 23 Nov 2026 03:52:04 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
@@ -531,32 +534,23 @@ Points: 50
     <source>DeepSeek 更新日志</source>
   </item>
   <item>
-    <title>“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！</title>
-    <link>https://www.qbitai.com/2026/11/512297.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512297.html</guid>
-    <pubDate>Tue, 24 Nov 2026 02:36:08 +0000</pubDate>
-    <source>量子位</source>
-    <description>「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。</description>
-  </item>
-  <item>
-    <title>VP ≠ VNP over Every Field</title>
-    <link>https://github.com/anthropics/formal-math/tree/main/vp-vnp</link>
-    <guid isPermaLink="true">https://github.com/anthropics/formal-math/tree/main/vp-vnp</guid>
-    <pubDate>Mon, 23 Nov 2026 22:09:10 +0000</pubDate>
+    <title>Latent Introspection: LLMs Can Detect Prior Concept Injections</title>
+    <link>https://arxiv.org/abs/2602.20031</link>
+    <guid isPermaLink="true">https://arxiv.org/abs/2602.20031</guid>
+    <pubDate>Mon, 23 Nov 2026 22:29:48 +0000</pubDate>
     <source>Hacker News 头版</source>
-    <description>Paper: https://github.com/anthropics/formal-math/blob/11b6c7e3c927d...
-
-Comments URL: https://news.ycombinator.com/item?id=50620102
-Points: 303
-# Comments: 264</description>
+    <description>Article URL: https://arxiv.org/abs/2602.20031
+Comments URL: https://news.ycombinator.com/item?id=50620328
+Points: 50
+# Comments: 4</description>
   </item>
   <item>
-    <title>英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接；DeepSeek最新估值或达6078亿元；蚂蚁开源医疗AI模型家族丨雷峰早报</title>
-    <link>https://www.leiphone.com/category/zaobao/Ao31dQuXPBTU7qpK.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/Ao31dQuXPBTU7qpK.html</guid>
-    <pubDate>Tue, 24 Nov 2026 01:42:00 +0000</pubDate>
+    <title>公积金智能化应用创新案例发布，支付宝参与共建</title>
+    <link>https://www.leiphone.com/category/industrynews/ICe6gznRO80vcMxl.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ICe6gznRO80vcMxl.html</guid>
+    <pubDate>Tue, 24 Nov 2026 01:44:00 +0000</pubDate>
     <source>雷峰网</source>
-    <description>要闻提示1.英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接2.DeepSeek最新估值或达6078亿元3.送100台iPhone Duo被质疑内定！影视飓风Tim：很难自证，但这点信誉还是有的4.智谱发布新一代大模型GLM-5.45.从多模态理解到疾病风险预测，蚂蚁开源医疗AI模型家族6.雷军：小米澎程系列车主提车后，纯电行驶里程占比大约9成7.马斯克被曝在菲律宾悄悄开发岛屿！菲驻美大使称听说有一两座8.Meta Muse数据研究负责人王子健已加入OpenAI今日头条英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接11月24日消息，英伟达周一宣布，公司创始</description>
+    <description>11月20日，由中国建设报社主办的住房公积金智能化应用创新实践交流座谈会在江苏苏州举行。会上发布了《住房公积金智能化应用创新案例集》，汇集北京、苏州等17个地方的典型实践，其中10个案例采用支付宝民生办事AI全场景解决方案，涵盖政策咨询、办事引导、对话式业务办理等多个应用场景。人工智能正加速进入政务服务领域，如何让AI与办事场景深度融合，是住房公积金行业关注的重点。会上，支付宝介绍了在政务智能体建设方面的探索，展示AI如何从政策咨询、智能导办进一步融入公积金业务办理流程。以政务AI助手“支付宝晓政”为例。“支付宝晓政”目前合作上线的官方智能体超过120个，接入1000余项MCP服务，月活跃用户</description>
   </item>
   <item>
     <title>2026-11-21 AI 日报 · 英伟达暴跌拖累 AI 板块；Anthropic 数学家宣称携手 Claude 证出黎曼猜想</title>
@@ -588,13 +582,6 @@ Points: 303
     <guid isPermaLink="true">https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/</guid>
     <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
     <source>Meta AI 博客</source>
-  </item>
-  <item>
-    <title>Inference Providers</title>
-    <link>https://huggingface.co/inference/models</link>
-    <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
   </item>
   <item>
     <title>Perplexity and Intelligence</title>
@@ -642,11 +629,26 @@ Points: 303
     <source>Product Hunt</source>
   </item>
   <item>
-    <title>FinOps MCP server</title>
-    <link>https://www.cloudquell.com/finops-mcp-server/</link>
-    <guid isPermaLink="true">https://www.cloudquell.com/finops-mcp-server/</guid>
-    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
+    <title>OpenAI vs Anthropic API pricing</title>
+    <link>https://www.cloudquell.com/blog/openai-vs-anthropic-api-pricing/</link>
+    <guid isPermaLink="true">https://www.cloudquell.com/blog/openai-vs-anthropic-api-pricing/</guid>
+    <pubDate>Tue, 24 Nov 2026 07:00:06 +0000</pubDate>
     <source>CloudQuell 发布日志</source>
+  </item>
+  <item>
+    <title>Inference Endpoints</title>
+    <link>https://huggingface.co/inference-endpoints</link>
+    <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源</title>
+    <link>https://www.qbitai.com/2026/11/512330.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512330.html</guid>
+    <pubDate>Tue, 24 Nov 2026 03:30:46 +0000</pubDate>
+    <source>量子位</source>
+    <description>中国AI数据平台加速崛起</description>
   </item>
   <item>
     <title>Multimodal Knowledge Agent (MKA) benchmark: testing knowledge work capabilities with complex visual filesNovember 10, 2026</title>
@@ -656,10 +658,10 @@ Points: 303
     <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
-    <title>2026年扫地机器人升级需求洞察：耗材与噪音痛点凸显，基础体验亟待优化</title>
-    <link>https://www.iimedia.cn/c1061/120432.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120432.html</guid>
-    <pubDate>Mon, 23 Nov 2026 03:52:04 +0000</pubDate>
+    <title>2026年中国消费者认为AI教育产品与传统教育方式的关系分析：多数消费者认为AI产品可作为传统教育的补充</title>
+    <link>https://www.iimedia.cn/c1061/120486.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120486.html</guid>
+    <pubDate>Fri, 20 Nov 2026 11:38:06 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
@@ -677,14 +679,6 @@ Points: 303
     <source>DeepSeek 更新日志</source>
   </item>
   <item>
-    <title>具身行业，终于等来了自己的通用智能时刻</title>
-    <link>https://www.qbitai.com/2026/11/512264.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512264.html</guid>
-    <pubDate>Tue, 24 Nov 2026 01:51:56 +0000</pubDate>
-    <source>量子位</source>
-    <description>行业苦等多年的预训练通用智能，终于有了答案</description>
-  </item>
-  <item>
     <title>Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux</title>
     <link>https://openai.com/index/introducing-shirudo/</link>
     <guid isPermaLink="true">https://openai.com/index/introducing-shirudo/</guid>
@@ -696,12 +690,12 @@ Points: 56
 # Comments: 15</description>
   </item>
   <item>
-    <title>科研成果 | 智能计算实验室方承煜同学成果被NeurIPS2026接收｜NeurIPS 2026</title>
-    <link>https://www.leiphone.com/category/private/wwE4LOG5RjKsajCu.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/private/wwE4LOG5RjKsajCu.html</guid>
-    <pubDate>Mon, 23 Nov 2026 14:58:00 +0000</pubDate>
+    <title>英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接；DeepSeek最新估值或达6078亿元；蚂蚁开源医疗AI模型家族丨雷峰早报</title>
+    <link>https://www.leiphone.com/category/zaobao/Ao31dQuXPBTU7qpK.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/Ao31dQuXPBTU7qpK.html</guid>
+    <pubDate>Tue, 24 Nov 2026 01:42:00 +0000</pubDate>
     <source>雷峰网</source>
-    <description>来源：THUSIGSICLAB文章链接：https://mp.weixin.qq.com/s/AadX6xpxE2gywQDMF4dyQQ论文题目：PRISM: Rethinking Atmospheric Scattering Reconstruction as a Unified Understanding and Restoration Model for Real-world Dehazing论文链接：https://arxiv.org/pdf/2604.07048论文简介01研究概述真实世界图像去雾面临非均匀雾分布、空间变化的颜色偏移，以及真实配对数据稀缺等挑战。本文提出 PRISM</description>
+    <description>要闻提示1.英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接2.DeepSeek最新估值或达6078亿元3.送100台iPhone Duo被质疑内定！影视飓风Tim：很难自证，但这点信誉还是有的4.智谱发布新一代大模型GLM-5.45.从多模态理解到疾病风险预测，蚂蚁开源医疗AI模型家族6.雷军：小米澎程系列车主提车后，纯电行驶里程占比大约9成7.马斯克被曝在菲律宾悄悄开发岛屿！菲驻美大使称听说有一两座8.Meta Muse数据研究负责人王子健已加入OpenAI今日头条英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接11月24日消息，英伟达周一宣布，公司创始</description>
   </item>
   <item>
     <title>2026-11-20 AI 日报 · Anthropic创纪录挂牌纳斯达克，谷歌与Perplexity掀起决策模型架构竞赛</title>
@@ -735,13 +729,6 @@ Points: 56
     <source>Meta AI 博客</source>
   </item>
   <item>
-    <title>Inference Endpoints</title>
-    <link>https://huggingface.co/inference-endpoints</link>
-    <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
     <title>Combatting adversarial distillation</title>
     <link>https://openai.com/index/combatting-adversarial-distillation</link>
     <guid isPermaLink="true">https://openai.com/index/combatting-adversarial-distillation</guid>
@@ -771,6 +758,13 @@ Points: 56
     <pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
     <source>Google AI 博客</source>
     <description>Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.</description>
+  </item>
+  <item>
+    <title>CodespacesCloud development environments</title>
+    <link>https://github.com/features/codespaces</link>
+    <guid isPermaLink="true">https://github.com/features/codespaces</guid>
+    <pubDate>Mon, 23 Nov 2026 09:02:59 +0000</pubDate>
+    <source>GitHub Trending</source>
   </item>
 </channel>
 </rss>
