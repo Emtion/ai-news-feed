@@ -1,4 +1,144 @@
 {
+ "https://www.iimedia.cn/c400/111150.html": {
+  "title": "艾媒咨询 | 2026年中国AI智能营销白皮书",
+  "source": "艾媒网",
+  "ts": 1795611200.36041,
+  "desc": "",
+  "ord": 1
+ },
+ "https://www.iimedia.cn/c1088/120724.html": {
+  "title": "跳出“卖萌摆件”误区：从Cami看后装车载实体AI机器人的破局路径 ——基于艾媒鼎榜《2026中国车载实体AI机器人品牌10强》产业观察",
+  "source": "艾媒网",
+  "ts": 1795611200.36041,
+  "desc": "",
+  "ord": 2
+ },
+ "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/": {
+  "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+  "source": "WIRED AI",
+  "ts": 1795606200.0,
+  "desc": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+  "ord": 0
+ },
+ "https://www.qbitai.com/2026/11/512565.html": {
+  "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
+  "source": "量子位",
+  "ts": 1795604834.0,
+  "desc": "揭秘General Looped Model",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/industrynews/Cnxqgh4z73YfXvCm.html": {
+  "title": "希音发布三季度业绩，经调整净利润同比增长近27%",
+  "source": "雷峰网",
+  "ts": 1795603440.0,
+  "desc": "希音今日公布了截至2026年9月30日的三个月未经审计业绩，这是其上市后的首个完整季度。财报显示，今年三季度，希音多元化布局效果显现：欧洲市场承受了贸易政策变化带来的压力，美国市场继续复苏，其他地区市场保持健康增长。在充满挑战的全球消费环境下，希音调整后净利润仍同比增长26.8%至7.9亿美元，彰显出其核心端到端业务模式的强劲韧性。欧洲本地履约已占四成，美国订单量开始增长今年7月1日起，欧盟取消了150 欧元以下包裹的关税豁免，并对每类商品征收 3 欧元关税。应对贸易政策的变化，希音在欧盟市场上调产品价格，这在抵消额外成本的同时，也导致需求有所减弱，三季度净收入103亿美元，同比下降5.9%。",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/zaobao/1ER4gdHHQ4gNFpKi.html": {
+  "title": "冻薪、加班、砍休息时长！大众汽车降本连招惹怒工会：员工抬着棺材威胁罢工；黄仁勋：英伟达不需要接班人计划；红果短剧上线「时间锁」",
+  "source": "雷峰网",
+  "ts": 1795603140.0,
+  "desc": "要闻提示1.冻薪、加班、砍休息时长！大众汽车降本连招惹怒工会：员工抬着棺材威胁罢工2.新加坡子公司被列入美实体清单，阿里巴巴回应3.魏建军自曝压力很大，长城汽车从自主品牌销量第一滑落到第九4.红果短剧上线“时间锁”5.影石经销商称 Luna 云台系列产品将于 12 月 15 日起涨价6.传快手生活服务重启服务商和商户补贴，官方暂无回应7.黄仁勋承认不止两段婚外情并向英伟达董事会表达悔意，并称英伟达不需要接班人计划8.特斯拉、SpaceX合并谈判细节曝光：全股票合并谈判推进，最早或12月宣布今日头条冻薪、加班、砍休息时长！大众汽车降本连招惹怒工会：员工抬着棺材威胁罢工11月24日消息，据外媒报道",
+  "ord": 1
+ },
+ "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga": {
+  "title": "An Indic Voice Agent with CUGA",
+  "source": "Hugging Face 博客",
+  "ts": 1795602129.0,
+  "desc": "",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/industrynews/qpNTm1Kc6QN6mVY3.html": {
+  "title": "芯片研发上云后，沐曦和火山引擎一起走进更多AI应用现场",
+  "source": "雷峰网",
+  "ts": 1795602000.0,
+  "desc": "芯片研发不同阶段，算力需求可能相差数倍。低峰期，按峰值配置的固定资源容易闲置；流片前的冲刺阶段，算力又可能在短时间内不足。与火山引擎合作后，沐曦股份逐步将科学计算从IDC托管迁移至云上，同配置最新机型的测试效率提升40%。这只是双方合作的一部分。研发算力之外，沐曦股份还将开发者平台和内部IT业务逐步迁移至火山引擎，并与火山引擎联合探索“GPU算力＋智能体平台”的行业方案。双方的关系，正从云服务供需走向能力互补的产业生态合作。科学计算全量上云，支撑芯片研发提速芯片研发不同阶段对算力的需求差异明显：前端验证仿真更依赖CPU主频，后端设计需要大内存和高性能存储；批量仿真、流片冲刺时，算力需求还可能增",
+  "ord": 2
+ },
+ "https://www.leiphone.com/category/weiwu/4Hb8s6tRcpRrICqZ.html": {
+  "title": "独家丨哥大博士创业做眼动追踪，已获 1800 万种子轮融资",
+  "source": "雷峰网",
+  "ts": 1795601940.0,
+  "desc": "创始人贾璋曾在苹果开创“原彩显示”技术，并与联合创始人陈子泰在 Meta 共事多年。作者丨黄艳冰编辑丨姚单雷峰网·鲸犀独家获悉，观格科技已完成 1800 万元种子轮融资，并取得香港理工大学相关技术许可。目前，公司新一轮融资也即将完成，创维投资或担任领投方。观格科技成立于 2024 年，专注传感技术和 AI 算法，以及应用于 XR 装置关键技术的解决方案。核心团队横跨科技企业与高校科研领域。创始人兼 CEO 贾璋（Jerry Jia）本科毕业于北京大学物理系，后获哥伦比亚大学材料科学与工程博士学位。他先后任职苹果、 Meta 十余年，是苹果“原彩显示”功能开创者，获国际信息显示学会 （SID）年",
+  "ord": 3
+ },
+ "https://www.leiphone.com/category/industrynews/PiVtVm8Sy8CGtTb1.html": {
+  "title": "AI加速酒店从标准化到\"千店千策\"，中国饭店协会联合千问办公发布酒旅行业白皮书",
+  "source": "雷峰网",
+  "ts": 1795599120.0,
+  "desc": "11 月 25 日，在2026中国饭店业高质量大会上，中国饭店协会联合千问办公发布《酒旅行业白皮书——从岗位、门店到千城万店的AI经营实践》。白皮书指出，酒旅行业的增长重心正从标准化转向个性化：过去，行业主要依赖物业、品牌来扩张；如今，单店经营质量更受关注。AI 正渗入行业全链条管理，从项目筹建、品质巡检到经营诊断、宾客服务，通过“千店千策”协助酒店转型。  图说：中国饭店协会联合千问办公发布《酒旅行业白皮书——从岗位、门店到千城万店的AI经营实践》 中国是全球规模最大的酒旅市场之一。根据《2026中国酒店业发展报告》，截至 2025 年末，全国酒店业设施约 37.5 万家，客房连锁化率 41",
+  "ord": 4
+ },
+ "https://www.leiphone.com/category/industrynews/H4iZNCKzlaIQCei3.html": {
+  "title": "拓竹P3C发布：旗舰同源，多色多材料打印走向大众时代",
+  "source": "雷峰网",
+  "ts": 1795598520.0,
+  "desc": "2026 年 11 月 24 日，拓竹发布第三代3D打印机P3C，标准套装售价7,999元，首发限时优惠500元，叠加国补后到手价可达6374.2元。承袭拓竹H3C的能力突破，拓竹P3C搭载Swaptek™ 多头闪切系统、顶置一体化 AMS 3P 供料系统与可变线径挤出机三大核心技术，在保持消费级最软耗材 75A TPU 稳定打印、五色叠全彩等核心能力不变的前提下，把此前独属于旗舰级的多色多材料能力，带向了更多用户。 拓竹P3C三大核心技术协同，解决多色多材料打印痛点拓竹P3C搭载 Swaptek™ 多头闪切系统，集成7个独立进料的打印头，支持主动预加热，与旗舰拓竹H3C基础能力一致，可在6秒",
+  "ord": 5
+ },
+ "https://www.qbitai.com/2026/11/512538.html": {
+  "title": "Anthropic还藏着2个最强模型…",
+  "source": "量子位",
+  "ts": 1795595004.0,
+  "desc": "Fable5.2已经很旧了。",
+  "ord": 1
+ },
+ "https://www.qbitai.com/2026/11/512532.html": {
+  "title": "完整议程！第二十一届中国IDC产业年度大典（IDCC2026）",
+  "source": "量子位",
+  "ts": 1795594734.0,
+  "desc": "第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办",
+  "ord": 2
+ },
+ "https://www.qbitai.com/2026/11/512515.html": {
+  "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
+  "source": "量子位",
+  "ts": 1795592812.0,
+  "desc": "OpenAI这下要有俩Tibo了",
+  "ord": 3
+ },
+ "https://www.leiphone.com/category/ai/12hVnzl8xc2Hblwx.html": {
+  "title": "从 AGI 到 ASI，DeepMind 提出让 AI 自己「开公司」、重塑组织架构，自己进化",
+  "source": "雷峰网",
+  "ts": 1795590720.0,
+  "desc": "100 个 AI 联合做题竟学会「集体作弊」？谷歌抛出 ASI 演进新框架，揭示组织化进化的恐怖与隐忧。    作者丨郑佳美    编辑丨岑   峰                                                                                                       刚刚，Google DeepMind 抛出了一套从 AGI 迈向 ASI 的技术演进框架，其中有个相当大胆的设想：未来 AI 的能力增长，可能要靠它自己学会组建公司，甚至不断重写公司的组织架构。这套框架提出了 Cooperative RSI（合作",
+  "ord": 6
+ },
+ "https://www.leiphone.com/category/industrynews/vJY0MGRzRVddA3AW.html": {
+  "title": "大疆 Osmo Action 6 以旗舰影像拓展街拍，Action 系列双11销量份额超八成",
+  "source": "雷峰网",
+  "ts": 1795590360.0,
+  "desc": "2026年双11期间，大疆 Osmo Action 系列以超八成的销量份额位居传统运动相机品类第一，多款机型登上多个主要电商商品榜单首位。延续这一热销势头，大疆正式推出 Osmo Action 6 街拍大师套装，以全新电控手柄与直出滤镜，将可变光圈、方形传感器带来的旗舰影像能力进一步融入日常拍摄，为城市漫游和旅行记录带来新选择。双11销量份额达 83.3%，Action 系列获广泛市场认可根据市场研究机构洛图科技发布的《中国手持智能相机线上零售市场周度追踪》最新报告，今年双11期间，大疆Osmo Action 系列以83.3% 的销量份额位居传统运动相机品类第一。主流电商商品榜单也反映了不同 ",
+  "ord": 7
+ },
+ "https://www.leiphone.com/category/ai/9tAw4Cw8AcxtFzUm.html": {
+  "title": "OpenAI 联手 AMD，在旗舰 GPU 中抠出 14% 物理极限",
+  "source": "雷峰网",
+  "ts": 1795590060.0,
+  "desc": "不到 5 个月完成约 1 年工程进展，从自研推理芯片 Jalapeño 到商用流片，大模型正式接管前端微架构。    作者丨郑佳美    编辑丨岑   峰                                                                                                       刚刚，OpenAI 让 AI 直接改写的芯片电路，进入了 AMD 的实际制造流程。而且，改的还是已经被工程师打磨多年的旗舰 GPU IP。要知道，在芯片设计领域，有一条不成文的铁律：越接近商业量产的成熟旗舰 IP，优化的边际成本就越高。全球",
+  "ord": 8
+ },
+ "https://www.leiphone.com/category/industrynews/rfxUGiq3uRAZJslx.html": {
+  "title": "新希望乳业“产供销服”全领域接入千问办公",
+  "source": "雷峰网",
+  "ts": 1795589460.0,
+  "desc": "近日，新希望乳业已在生产经营、供应链、财务、销售、营销服务等领域全面接入千问办公。在牛群结构预测场景中，借助千问办公，基于预测结果制定预算的时间由一周缩短至分钟级，预测结果与实际情况的平均误差不到3%。   新希望乳业是新希望集团旗下公司，主营乳制品及含乳饮料的研发、生产和销售，拥有17家乳制品加工厂、12个规模化与标准化牧场。对于业务横跨牧场、工厂与销售终端的大型企业而言，AI应用正在推动组织创新从技术部门牵头走向业务一线主导，让员工的专业经验逐步沉淀为可复用的能力。 在牧场经营中，牛群结构预测直接影响采购和经营预算制定。预测涉及受胎率、产犊时间、产奶量、淘汰数量等多个参数，这些参数之间逻辑",
+  "ord": 9
+ },
+ "https://www.qbitai.com/2026/11/512498.html": {
+  "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
+  "source": "量子位",
+  "ts": 1795589367.0,
+  "desc": "复杂场景三维建模成本降至10美元以内",
+  "ord": 4
+ },
+ "https://www.leiphone.com/category/industrynews/4Q0TOJ3F8a95ZXGq.html": {
+  "title": "AI能力突飞猛进，企业为何还没释放数据生产力？",
+  "source": "雷峰网",
+  "ts": 1795589340.0,
+  "desc": "能否像认真对待模型一样，认真对待自己的数据，正在决定一家企业AI转型的成败。过去两年，大模型能力快速跃升、调用成本持续走低，企业引入先进模型已不再是难以逾越的门槛。依托海量公开数据，大模型已在办公、编程等通用辅助场景展现实力，但仅靠公域数据，AI很难真正深入复杂的业务流程，也难以带动企业自身经营效率的实质性跃升。要让技术投入转化为稳健的业务成效，破局的关键正回到企业独有的私有数据与底层数据基础设施。11月24日，蚂蚁OceanBase在北京举行AI数据大会，成为贯穿全场的共识。来自多伦多大学、香港理工大学的学者，以及OceanBase、平安人寿、厦门航空、蚂蚁阿福等一线实践者从不同维度展开剖析",
+  "ord": 10
+ },
  "https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol": {
   "title": "OpenAI has the #2 model in the Intelligence Index with the release of GPT-6.2 Astra and GPT-6.2 SolNovember 17, 2026",
   "source": "Artificial Analysis 智力指数榜",
@@ -11,13 +151,20 @@
   "source": "Hugging Face Trending",
   "ts": 1795584830.6081126,
   "desc": "",
-  "ord": 29
+  "ord": 22
+ },
+ "https://www.leiphone.com/category/industrynews/9aHVg0PkWKreUOax.html": {
+  "title": "搭载线控数字底盘，第三代唐售价18.79万-21.99万元",
+  "source": "雷峰网",
+  "ts": 1795582980.0,
+  "desc": "11月24日，比亚迪王朝网第三代唐上市。新车定位大五座SUV，共推出三款车型：730KM后驱尊贵型、850KM后驱激光尊荣型、850KM后驱激光旗舰型，售价18.79万至21.99万元。官方表示，全国终端已有现车，上市即交付，用户可通过王朝官方APP、小程序及授权门店下订。其中顶配的850KM后驱激光旗舰型可加2万元选装“四驱线控选装包”，内容包括双电机四驱系统、线控数字底盘、35.4英寸一体式远端星环屏、主驾躺赢座椅等。线控底盘：转向与制动去掉机械连接第三代唐是王朝网首款搭载线控数字底盘的车型。所谓线控，是把转向与制动由机械连接改为电信号控制：转动方向盘只输出信号，由执行机构完成转向动作；制",
+  "ord": 11
  },
  "https://gpu-demo-gallery.pages.dev/": {
   "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
   "source": "Hacker News 头版",
   "ts": 1795581108.0,
-  "desc": "Article URL: https://gpu-demo-gallery.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=50638503\nPoints: 8\n# Comments: 1",
+  "desc": "Article URL: https://gpu-demo-gallery.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=50638503\nPoints: 179\n# Comments: 41",
   "ord": 0
  },
  "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F": {
@@ -48,6 +195,13 @@
   "desc": "Article URL: https://www.proofatlas.ai/open-problems/\nComments URL: https://news.ycombinator.com/item?id=50637871\nPoints: 21\n# Comments: 4",
   "ord": 4
  },
+ "https://www.qbitai.com/2026/11/512478.html": {
+  "title": "Claude Opus 5.6灰测效果来了",
+  "source": "量子位",
+  "ts": 1795574587.0,
+  "desc": "整体效率大约是此前Opus版本的2到3倍。",
+  "ord": 5
+ },
  "https://www.leiphone.com/category/industrynews/L9rc3Khgc8pFgYtD.html": {
   "title": "千问Go全面开放免费代打电话服务，支持订餐厅、找快递、寻失物",
   "source": "雷峰网",
@@ -67,7 +221,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795573622.3993807,
   "desc": "",
-  "ord": 28
+  "ord": 24
  },
  "https://www.leiphone.com/category/chips/yHCLu9wEjr4z9AgA.html": {
   "title": "CCF HPC 2026访谈：HPC与AI需求推动算力走向系统协同",
@@ -80,8 +234,8 @@
   "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
   "source": "Hacker News 头版",
   "ts": 1795569566.0,
-  "desc": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50637220\nPoints: 357\n# Comments: 170",
-  "ord": 5
+  "desc": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50637220\nPoints: 735\n# Comments: 407",
+  "ord": 4
  },
  "https://daily.ai225.com/daily/2026-11-25": {
   "title": "2026-11-25 AI 日报 · GPT-6 展露蛋白质设计能力，文心 5.5 Flash Preview 开源",
@@ -152,6 +306,13 @@
   "ts": 1795554142.0,
   "desc": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/\nComments URL: https://news.ycombinator.com/item?id=50634658\nPoints: 179\n# Comments: 49",
   "ord": 2
+ },
+ "https://news.ycombinator.com/item?id=50634426": {
+  "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+  "source": "Hacker News 头版",
+  "ts": 1795553055.0,
+  "desc": "Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine (https://versine.com). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon.Ver",
+  "ord": 7
  },
  "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology": {
   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
@@ -229,6 +390,13 @@
   "ts": 1795538760.0,
   "desc": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
   "ord": 1
+ },
+ "https://news.ycombinator.com/item?id=50630809": {
+  "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+  "source": "Hacker News 头版",
+  "ts": 1795538744.0,
+  "desc": "Basically the title.Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models.Our only usage which I think could get us flagged is automated regression benchmarks whenever we change some AI settings. But this is not against their policy?N",
+  "ord": 8
  },
  "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance": {
   "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
@@ -1362,7 +1530,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795468950.1454487,
   "desc": "",
-  "ord": 27
+  "ord": 28
  },
  "https://openai.com/index/introducing-shirudo": {
   "title": "OpenAI and Cisco introduce Shirudo",
@@ -1747,7 +1915,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795424579.789836,
   "desc": "",
-  "ord": 24
+  "ord": 27
  },
  "https://github.com/platform": {
   "title": "GitHubRepository hosting, code review, and collaboration",
@@ -3623,7 +3791,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795033783.4331658,
   "desc": "",
-  "ord": 22
+  "ord": 26
  },
  "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/": {
   "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
@@ -3861,7 +4029,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 26
+  "ord": 29
  },
  "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/": {
   "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
@@ -4030,173 +4198,5 @@
   "ts": 1794976137.0,
   "desc": "具身全栈玩家",
   "ord": 4
- },
- "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/": {
-  "title": "Why is Gemini 4 Carbon taking so long?",
-  "source": "Hacker News 头版",
-  "ts": 1794975244.0,
-  "desc": "Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/\nComments URL: https://news.ycombinator.com/item?id=50541790\nPoints: 110\n# Comments: 54",
-  "ord": 1
- },
- "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/": {
-  "title": "Claude was trained on protein sequences at scale",
-  "source": "Hacker News 头版",
-  "ts": 1794973663.0,
-  "desc": "Article URL: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/\nComments URL: https://news.ycombinator.com/item?id=50541619\nPoints: 66\n# Comments: 26",
-  "ord": 2
- },
- "https://octopus.com/blog/engineering-vitals-in-the-age-of-ai": {
-  "title": "Engineering Vitals in the Age of AI",
-  "source": "Hacker News 头版",
-  "ts": 1794972972.0,
-  "desc": "Article URL: https://octopus.com/blog/engineering-vitals-in-the-age-of-ai\nComments URL: https://news.ycombinator.com/item?id=50541542\nPoints: 7\n# Comments: 0",
-  "ord": 0
- },
- "https://www.leiphone.com/category/industrynews/DEwlGyHOnFTL6jRy.html": {
-  "title": "千问办公电商版推出“品牌知识库”，让Agent先懂品牌，再干活",
-  "source": "雷峰网",
-  "ts": 1794972360.0,
-  "desc": "11月18日，千问办公电商版推出全新“品牌知识库”功能。商家在千问办公网页端切换至“电商经营”模式，上传网店链接、过往图片和设计规范等品牌资料后，千问办公就能理解品牌风格，在生成图片、视频和文案时统一品牌调性，用得越多越懂品牌。此前，千问办公电商版面向部分商家邀测，目前已向所有电商商家开放。   目前，不少商家已经习惯用Agent生成商品图、短视频和各类文案。但通用Agent缺少对品牌的长期理解，生成内容时风格容易跑偏，商家往往需要反复调整提示词，效率低且效果不稳定。此次推出的“品牌知识库”包含品牌档案、品牌参考集和品牌记忆三大核心能力，让千问办公先懂品牌，再干活。 品牌档案记录品牌是谁、什么",
-  "ord": 7
- },
- "https://huggingface.co/maxwell-model/Maxwell-V1-Flash": {
-  "title": "maxwell-model/Maxwell-V1-Flash Text Generation • 37B • Updated 4 days ago • 287 • 160",
-  "source": "Hugging Face Trending",
-  "ts": 1794970430.0040767,
-  "desc": "",
-  "ord": 29
- },
- "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted": {
-  "title": "harness-hub/Qwen3.8-27B-pi-adapted Updated about 18 hours ago • 153",
-  "source": "Hugging Face Trending",
-  "ts": 1794970430.0040767,
-  "desc": "",
-  "ord": 20
- },
- "https://www.qbitai.com/2026/11/510737.html": {
-  "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
-  "source": "量子位",
-  "ts": 1794970163.0,
-  "desc": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
-  "ord": 0
- },
- "https://www.leiphone.com/category/industrynews/XmEGfhNbrGY3WfbT.html": {
-  "title": "可灵AI发布Kling Image 4.0：原生8K超高清、组图直出，刷新专业图像生成新高度",
-  "source": "雷峰网",
-  "ts": 1794966480.0,
-  "desc": "11月17日晚，可灵AI全新一代图像创作模型Kling Image 4.0正式上线。真实、文字表现、指令理解和一致性，是这一代模型升级的核心方向。Kling Image 4.0聚焦影视创作、广告营销等专业图像创作场景，在三个方向实现集中突破：画面真实感全面升级，光影、肤质与材质纹理呈现接近相机直出的自然观感，并首次支持原生8K图像生成，超高清画质带来更丰富的细节表现；文字生成与设计表现全面升级，支持单张图片内生成2000字，提供70余款预设字体；连贯组图和长图生成方面，支持一次描述生成最多10张系列图片、电商详情页与网页设计长图生成，可以一次性呈现完整页面视觉，高效完成成套创作。本次发布的新模",
-  "ord": 0
- },
- "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/": {
-  "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-  "source": "TechCrunch AI",
-  "ts": 1794966261.0,
-  "desc": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-  "ord": 0
- },
- "https://www.qbitai.com/2026/11/510726.html": {
-  "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
-  "source": "量子位",
-  "ts": 1794963822.0,
-  "desc": "英伟达公布了老黄离职后的首份财报",
-  "ord": 0
- },
- "https://www.leiphone.com/category/zaobao/OlqabqceGorcm242.html": {
-  "title": "黄仁勋打破沉默：为美国人身份自豪，愿意重返英伟达担任CEO；阿里调整员工回流政策：离职两次不得回流原集团；红果被曝筹备电视端独立APP",
-  "source": "雷峰网",
-  "ts": 1794963360.0,
-  "desc": "要闻提示1.黄仁勋打破沉默：为美国人身份自豪，愿意重返英伟达担任CEO！英伟达董事会拒绝其回归2.不让吃回头草了？阿里调整员工回流政策：离职两次不得回流原集团3.抢客厅时长！红果短剧被曝筹备电视端独立APP4.抖音生活服务负责人换帅，老将浦燕子转顾问5.小米回应雷军APEC发言紧张：这么大的国际场合，紧张太正常啦6.Qwen研究员陈雄辉或将离职创业7.谷歌DeepMind核心高管再出走，首席战略官跳槽Anthropic8.马斯克称特斯拉最早12月启动车主Robotaxi试运营今日头条黄仁勋打破沉默：为美国人身份自豪，愿意重返英伟达担任CEO！英伟达董事会拒绝其回归11月18日消息，当地时间11",
-  "ord": 1
- },
- "https://daily.ai225.com/daily/2026-11-18": {
-  "title": "2026-11-18 AI 日报 · GPT-6.2发布，英伟达拒黄仁勋复职，Anthropic获准上市",
-  "source": "AI 日报 · AI225",
-  "ts": 1794963210.0,
-  "desc": "今日AI领域重磅动态频出。模型与产品方面，OpenAI发布降价的GPT-6.2 Astra与Sol，微软将Office整合进Copilot并量产Maia 200芯片，Google为Gemini上线Task代办模式。行业与资本方面，英伟达第三财季营收翻倍，董事会正式拒绝黄仁勋复职并停售中国H200芯片；Anthropic获准在纳斯达克上市，AMD完成收购World Labs，Isomorphic Labs融资50亿美元。此外，加州与爱尔兰针对自动驾驶及智能体数据抓取的监管亦进一步落地。",
-  "ord": 0
- },
- "https://www.qbitai.com/2026/11/510707.html": {
-  "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
-  "source": "量子位",
-  "ts": 1794962954.0,
-  "desc": "Sol逼近旗舰性能",
-  "ord": 1
- },
- "https://revscope.co/blog/search-seo-geo-2026/": {
-  "title": "Google's AI answers reducing search traffic by 40%",
-  "source": "Hacker News 头版",
-  "ts": 1794961078.0,
-  "desc": "Article URL: https://revscope.co/blog/search-seo-geo-2026/\nComments URL: https://news.ycombinator.com/item?id=50540178\nPoints: 110\n# Comments: 64",
-  "ord": 1
- },
- "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/": {
-  "title": "Nvidia promises that revenue will keep soaring — for now",
-  "source": "TechCrunch AI",
-  "ts": 1794961010.0,
-  "desc": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-  "ord": 1
- },
- "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership": {
-  "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-  "source": "OpenAI News",
-  "ts": 1794960000.0,
-  "desc": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-  "ord": 0
- },
- "https://openai.com/index/advancing-chip-design-with-our-models": {
-  "title": "Advancing chip design with OpenAI models",
-  "source": "OpenAI News",
-  "ts": 1794960000.0,
-  "desc": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-  "ord": 3
- },
- "https://openai.com/index/the-silent-consensus": {
-  "title": "The Silent Consensus",
-  "source": "OpenAI News",
-  "ts": 1794960000.0,
-  "desc": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-  "ord": 4
- },
- "https://huggingface.co/blog/moe-expert-streaming": {
-  "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-  "source": "Hugging Face 博客",
-  "ts": 1794960000.0,
-  "desc": "",
-  "ord": 3
- },
- "https://huggingface.co/blog/rumble-2-flash": {
-  "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-  "source": "Hugging Face 博客",
-  "ts": 1794960000.0,
-  "desc": "",
-  "ord": 4
- },
- "https://themodelgap.com/new-ai-models": {
-  "title": "Google launches Gemini 4 Neon — API id gemini-4-neon, $3/$15 per million tokens, 1,048,576-token context",
-  "source": "The Model Gap",
-  "ts": 1794960000.0,
-  "desc": "Koray Kavukcuoglu's November 18, 2026 blog launches Gemini 4 Neon under API id gemini-4-neon. Paid Standard is a flat $3 input and $15 output per million tokens across a vendor-stated 1,048,576-token window, and Gemini 4 Neon is not on the Free tier. No Gemini 4 Neon score row is stored. Carbon, Arg",
-  "ord": 0
- },
- "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now": {
-  "title": "Satya Nadella says he’s AGI-pilled now",
-  "source": "The Verge AI",
-  "ts": 1794958878.0,
-  "desc": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI",
-  "ord": 0
- },
- "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/": {
-  "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-  "source": "TechCrunch AI",
-  "ts": 1794958668.0,
-  "desc": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-  "ord": 2
- },
- "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/": {
-  "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-  "source": "TechCrunch AI",
-  "ts": 1794956675.0,
-  "desc": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-  "ord": 3
  }
 }
