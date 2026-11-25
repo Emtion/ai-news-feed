@@ -5,13 +5,13 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Wed, 25 Nov 2026 02:27:35 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 05:34:34 +0000</lastBuildDate>
   <item>
-    <title>艾媒一周热评381期 | 当Token走进大众消费：买算力像充话费一样简单；商业秘密｜当399元羽绒</title>
-    <link>https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42</guid>
+    <title>Artificial Analysis</title>
+    <link>https://artificialanalysis.ai/</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/</guid>
     <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
-    <source>艾媒网</source>
+    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Team &amp; Enterprise</title>
@@ -21,15 +21,30 @@
     <source>Hugging Face Trending</source>
   </item>
   <item>
-    <title>Matrix Multiplication is O(n^2.25) [pdf]</title>
-    <link>https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf</link>
-    <guid isPermaLink="true">https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf</guid>
-    <pubDate>Wed, 25 Nov 2026 01:19:26 +0000</pubDate>
+    <title>Show HN: Old Nvidia and ATI tech demos, running again in the browser</title>
+    <link>https://gpu-demo-gallery.pages.dev/</link>
+    <guid isPermaLink="true">https://gpu-demo-gallery.pages.dev/</guid>
+    <pubDate>Wed, 25 Nov 2026 04:31:48 +0000</pubDate>
     <source>Hacker News 头版</source>
-    <description>Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf
-Comments URL: https://news.ycombinator.com/item?id=50637220
-Points: 88
-# Comments: 19</description>
+    <description>Article URL: https://gpu-demo-gallery.pages.dev/
+Comments URL: https://news.ycombinator.com/item?id=50638503
+Points: 8
+# Comments: 1</description>
+  </item>
+  <item>
+    <title>千问Go全面开放免费代打电话服务，支持订餐厅、找快递、寻失物</title>
+    <link>https://www.leiphone.com/category/industrynews/L9rc3Khgc8pFgYtD.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/L9rc3Khgc8pFgYtD.html</guid>
+    <pubDate>Wed, 25 Nov 2026 02:28:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>11月25日，千问Go全面开放代打电话服务，人人都能免费拥有一个帮自己打电话的专属AI助手。告知千问拨打对象和通话需求，用户授权后，千问即可代为联系餐厅预订包间、向酒店查询遗失物品、联系快递员确认配送进度等，并反馈沟通结果。此外，千问还支持定时代打电话。 据了解，千问代打电话需经用户授权，通话中会主动表明AI助手身份，并设有外呼安全防护机制，对存在风险的请求进行筛查和拦截。 </description>
+  </item>
+  <item>
+    <title>艾媒一周热评381期 | 当Token走进大众消费：买算力像充话费一样简单；商业秘密｜当399元羽绒</title>
+    <link>https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
+    <source>艾媒网</source>
   </item>
   <item>
     <title>2026-11-25 AI 日报 · GPT-6 展露蛋白质设计能力，文心 5.5 Flash Preview 开源</title>
@@ -95,14 +110,6 @@ Points: 88
     <description>The Cairn AI framework is proving to be a boon for defenders and attackers.</description>
   </item>
   <item>
-    <title>传统大厂的智驾，困在了组织里</title>
-    <link>https://www.leiphone.com/category/transportation/Q7xf6JUVu3HScTsH.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/transportation/Q7xf6JUVu3HScTsH.html</guid>
-    <pubDate>Tue, 24 Nov 2026 11:12:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>一位传统车厂高管曾向雷峰网回忆，疫情期间，他所任职的车厂负责人去了一趟苏州博世。那时车企都在忙着保供。按照他的记忆，这位CEO级的负责人为了一项主动安全系统的供应，在那里守了几天，最后既没见到负责人，也没能保供成功。走出博世时，他长叹一口气：“到底谁是甲方，谁是乙方。”他记住了这件事，这件事也让这家传统车厂下定决心：最关键的东西，一定要自己做。传统车厂做智驾，故事往往就从这样的决心开始。但往后走，有的公司等来了量产，有的公司只等来了一轮又一轮组织调整。钱花了，人也招了，为什么还是做不出来？几位智驾负责人和长期服务车企的专家，把问题指向了两个地方：钱能不能持续投，真正懂技术的人能不能做主。01投</description>
-  </item>
-  <item>
     <title>高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界</title>
     <link>https://www.qbitai.com/2026/11/512454.html</link>
     <guid isPermaLink="true">https://www.qbitai.com/2026/11/512454.html</guid>
@@ -116,13 +123,6 @@ Points: 88
     <guid isPermaLink="true">https://www.cloudquell.com/blog/new-ai-models-october-2026/</guid>
     <pubDate>Tue, 24 Nov 2026 07:00:06 +0000</pubDate>
     <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Artificial Analysis</title>
-    <link>https://artificialanalysis.ai/</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/</guid>
-    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Introducing Claude Fable 5.2 and Claude Mythos 5.2Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</title>
@@ -176,11 +176,11 @@ Points: 88
     <description>Koray Kavukcuoglu's November 18, 2026 blog launches Gemini 4 Neon under API id gemini-4-neon. Paid Standard is a flat $3 input and $15 output per million tokens across a vendor-stated 1,048,576-token window, and Gemini 4 Neon is not on the Free tier. No Gemini 4 Neon score row is stored. Carbon, Arg</description>
   </item>
   <item>
-    <title>2026年中国消费者认为AI大模型的发展趋势：认为“很好”的占比51.4%</title>
-    <link>https://www.iimedia.cn/c1061/111224.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1061/111224.html</guid>
-    <pubDate>Fri, 20 Nov 2026 02:19:05 +0000</pubDate>
-    <source>艾媒网</source>
+    <title>Thinking Machines has released Inkling 2 Mini, an open weights looped transformerNovember 20, 2026</title>
+    <link>https://artificialanalysis.ai/articles/inkling-2-mini</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/inkling-2-mini</guid>
+    <pubDate>Sat, 21 Nov 2026 01:34:34 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Hugging Face PRO</title>
@@ -190,15 +190,30 @@ Points: 88
     <source>Hugging Face Trending</source>
   </item>
   <item>
-    <title>PenGPT: A Generative Transformer for Handwriting and Sketches</title>
-    <link>https://greydanus.github.io/2026/11/12/pengpt/</link>
-    <guid isPermaLink="true">https://greydanus.github.io/2026/11/12/pengpt/</guid>
-    <pubDate>Wed, 25 Nov 2026 00:54:49 +0000</pubDate>
+    <title>Gemini refused to give me the lyrics to Twinkle Twinkle Little Star</title>
+    <link>https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F</link>
+    <guid isPermaLink="true">https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F</guid>
+    <pubDate>Wed, 25 Nov 2026 04:03:33 +0000</pubDate>
     <source>Hacker News 头版</source>
-    <description>Article URL: https://greydanus.github.io/2026/11/12/pengpt/
-Comments URL: https://news.ycombinator.com/item?id=50637056
-Points: 44
-# Comments: 4</description>
+    <description>Article URL: https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F
+Comments URL: https://news.ycombinator.com/item?id=50638320
+Points: 45
+# Comments: 32</description>
+  </item>
+  <item>
+    <title>CCF HPC 2026访谈：HPC与AI需求推动算力走向系统协同</title>
+    <link>https://www.leiphone.com/category/chips/yHCLu9wEjr4z9AgA.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/chips/yHCLu9wEjr4z9AgA.html</guid>
+    <pubDate>Wed, 25 Nov 2026 01:51:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>过去两年，从 ChatGPT 到国内外各路大模型百舸争流，AI 从只会聊天的机器人，一路长成了能看图、能听声、能剪视频的多面手。短剧、内容创作、智能客服、企业办公……应用场景越铺越开，模型规模越做越大，训练和推理的胃口也随之水涨船高。可当所有人都意识到"算力就是新的水电"时，一个更棘手的问题浮出水面：算力从哪里来？又能不能以可负担的成本拿到手？10 月的 CCF 全国高性能计算学术大会（CCF HPC 2026）上，算力成为交流的重点话题。在接受雷峰网采访时，AMD 大中华区高级解决方案架构师余伟飞以算力、芯片和能源三个关键词，概括了计算产业面临的需求、技术基础与资源约束。从获得算力到评估业务</description>
+  </item>
+  <item>
+    <title>2026年中国消费者认为AI大模型的发展趋势：认为“很好”的占比51.4%</title>
+    <link>https://www.iimedia.cn/c1061/111224.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/111224.html</guid>
+    <pubDate>Fri, 20 Nov 2026 02:19:05 +0000</pubDate>
+    <source>艾媒网</source>
   </item>
   <item>
     <title>2026-11-24 AI 日报 · 黄仁勋复职英伟达CEO董事会全票通过，亚马逊75亿美元收购Decart优化技术</title>
@@ -264,14 +279,6 @@ Points: 44
     <description>Test using prompts with unique, trackable secrets proves that data doesn't stay private.</description>
   </item>
   <item>
-    <title>从「卖向全球」到「扎根全球」，奇瑞怎么把增长做久？</title>
-    <link>https://www.leiphone.com/category/transportation/DQjM3IyKu5bVltcG.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/transportation/DQjM3IyKu5bVltcG.html</guid>
-    <pubDate>Tue, 24 Nov 2026 11:11:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>“如果把这个剔除之外，应该达到170多亿元。”近期，在一场小范围沟通会上，奇瑞汽车管理层透露汇率波动对利润造成了影响。前三季度，奇瑞有31.71亿元汇兑净损失。去年同期，这一项还是29.74亿元净收益，一来一回差了61.45亿元。这导致，奇瑞前三季度的归母净利润为139.63亿元，同比下降2.8%。雷峰网注意到，归母净利润降了些，但把奇瑞放到同行里看，它的利润表现依然靠前。前三季度，奇瑞净利润率为6.05%，是同期中国汽车制造业营业收入利润率（3.3%）的1.83倍。在已经披露三季报的十几家中国上市车企中，奇瑞的净利润率和归母净利润率（5.79%）都排在第一。再往利润表前面翻，奇瑞前三季度营收</description>
-  </item>
-  <item>
     <title>蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险</title>
     <link>https://www.qbitai.com/2026/11/512451.html</link>
     <guid isPermaLink="true">https://www.qbitai.com/2026/11/512451.html</guid>
@@ -285,13 +292,6 @@ Points: 44
     <guid isPermaLink="true">https://www.cloudquell.com/blog/new-ai-models-september-2026/</guid>
     <pubDate>Tue, 24 Nov 2026 07:00:06 +0000</pubDate>
     <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Thinking Machines has released Inkling 2 Mini, an open weights looped transformerNovember 20, 2026</title>
-    <link>https://artificialanalysis.ai/articles/inkling-2-mini</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/inkling-2-mini</guid>
-    <pubDate>Sat, 21 Nov 2026 01:34:34 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</title>
@@ -336,11 +336,11 @@ Points: 44
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>艾媒鼎榜 | 2026年中国车载实体AI机器人品牌10强</title>
-    <link>https://www.iimedia.cn/c1106/120376.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1106/120376.html</guid>
-    <pubDate>Wed, 18 Nov 2026 11:40:24 +0000</pubDate>
-    <source>艾媒网</source>
+    <title>Google continues to accelerate its release cadence with Gemini 4 NeonNovember 18, 2026</title>
+    <link>https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain</guid>
+    <pubDate>Thu, 19 Nov 2026 02:33:52 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Enterprise Support</title>
@@ -350,15 +350,30 @@ Points: 44
     <source>Hugging Face Trending</source>
   </item>
   <item>
-    <title>GPT-6 models demonstrate intrinsic protein-design capabilities</title>
-    <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/</link>
-    <guid isPermaLink="true">https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/</guid>
-    <pubDate>Tue, 24 Nov 2026 21:02:22 +0000</pubDate>
+    <title>Marginalia Search, Money, C++, Rust, AI, Stuff</title>
+    <link>https://www.marginalia.nu/log/a_141_marginalia_update/</link>
+    <guid isPermaLink="true">https://www.marginalia.nu/log/a_141_marginalia_update/</guid>
+    <pubDate>Wed, 25 Nov 2026 03:47:42 +0000</pubDate>
     <source>Hacker News 头版</source>
-    <description>Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/
-Comments URL: https://news.ycombinator.com/item?id=50634658
-Points: 179
-# Comments: 49</description>
+    <description>Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/
+Comments URL: https://news.ycombinator.com/item?id=50638220
+Points: 35
+# Comments: 6</description>
+  </item>
+  <item>
+    <title>传统大厂的智驾，困在了组织里</title>
+    <link>https://www.leiphone.com/category/transportation/Q7xf6JUVu3HScTsH.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/transportation/Q7xf6JUVu3HScTsH.html</guid>
+    <pubDate>Tue, 24 Nov 2026 11:12:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>一位传统车厂高管曾向雷峰网回忆，疫情期间，他所任职的车厂负责人去了一趟苏州博世。那时车企都在忙着保供。按照他的记忆，这位CEO级的负责人为了一项主动安全系统的供应，在那里守了几天，最后既没见到负责人，也没能保供成功。走出博世时，他长叹一口气：“到底谁是甲方，谁是乙方。”他记住了这件事，这件事也让这家传统车厂下定决心：最关键的东西，一定要自己做。传统车厂做智驾，故事往往就从这样的决心开始。但往后走，有的公司等来了量产，有的公司只等来了一轮又一轮组织调整。钱花了，人也招了，为什么还是做不出来？几位智驾负责人和长期服务车企的专家，把问题指向了两个地方：钱能不能持续投，真正懂技术的人能不能做主。01投</description>
+  </item>
+  <item>
+    <title>艾媒鼎榜 | 2026年中国车载实体AI机器人品牌10强</title>
+    <link>https://www.iimedia.cn/c1106/120376.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1106/120376.html</guid>
+    <pubDate>Wed, 18 Nov 2026 11:40:24 +0000</pubDate>
+    <source>艾媒网</source>
   </item>
   <item>
     <title>2026-11-23 AI 日报 · Lean确认Claude协作黎曼猜想证明，可灵增资后估值近180亿美元</title>
@@ -416,14 +431,6 @@ Points: 179
     <description>Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.</description>
   </item>
   <item>
-    <title>中国汽车的下一场硬仗：让世界为中国式豪华买单</title>
-    <link>https://www.leiphone.com/category/transportation/mQcJOTY4udaVnxHp.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/transportation/mQcJOTY4udaVnxHp.html</guid>
-    <pubDate>Tue, 24 Nov 2026 11:08:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>11月7日，阿布扎比文华东方酋长皇宫酒店，两位中国女性高管的着装格外惹眼。雷峰网注意到，被人群簇拥着走上舞台的，是比亚迪执行副总裁李柯。她身着一袭融合东方山水意境的礼服，丝绒上衣汲取中国旗袍的韵味，裙身以中国画的泼墨、泼彩为底，手绘山河，再辅以刺绣、青金石与羽毛绣，将中国传统绘画中的山水意境穿在了身上。站在她身旁的是仰望汽车总经理胡晓庆。她身穿中式立领丝绒上衣，搭配非遗云锦妆花长裙，传统缠枝纹样呈现出中国织造工艺的细腻与厚重。两位女性高管身着充满东方韵味的礼服，向台下来自不同国家的嘉宾介绍一辆中国汽车。这是一辆超豪华行政旗舰轿车，名叫鼎曜。它车长5.6米，轴距3.5米，采用礼宾级对开门。前脸的</description>
-  </item>
-  <item>
     <title>智谱刚刚发了GLM-5.4，全新架构的那种！网友直呼：超过预期</title>
     <link>https://www.qbitai.com/2026/11/512423.html</link>
     <guid isPermaLink="true">https://www.qbitai.com/2026/11/512423.html</guid>
@@ -437,13 +444,6 @@ Points: 179
     <guid isPermaLink="true">https://www.cloudquell.com/blog/llm-api-pricing-comparison/</guid>
     <pubDate>Tue, 24 Nov 2026 07:00:06 +0000</pubDate>
     <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Google continues to accelerate its release cadence with Gemini 4 NeonNovember 18, 2026</title>
-    <link>https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain</guid>
-    <pubDate>Thu, 19 Nov 2026 02:33:52 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Anthropic files S-1 with the SEC for proposed initial public offeringToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.</title>
@@ -488,11 +488,11 @@ Points: 179
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>艾媒咨询 | 2026年全球AI漫剧行业投融资数据分析简报</title>
-    <link>https://www.iimedia.cn/c400/110974.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c400/110974.html</guid>
-    <pubDate>Wed, 25 Nov 2026 02:27:02 +0000</pubDate>
-    <source>艾媒网</source>
+    <title>OpenAI has the #2 model in the Intelligence Index with the release of GPT-6.2 Astra and GPT-6.2 SolNovember 17, 2026</title>
+    <link>https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol</guid>
+    <pubDate>Wed, 25 Nov 2026 05:33:50 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Inference Providers</title>
@@ -502,12 +502,30 @@ Points: 179
     <source>Hugging Face Trending</source>
   </item>
   <item>
-    <title>Launch HN: Versine (YC F26) – MCP to send and receive money</title>
-    <link>https://news.ycombinator.com/item?id=50634426</link>
-    <guid isPermaLink="true">https://news.ycombinator.com/item?id=50634426</guid>
-    <pubDate>Tue, 24 Nov 2026 20:44:15 +0000</pubDate>
+    <title>Serving Qwen via AWS Lambdas for fun and 80x negative profit</title>
+    <link>https://noahbuilt.it/writing/qwen-on-5600-lambdas</link>
+    <guid isPermaLink="true">https://noahbuilt.it/writing/qwen-on-5600-lambdas</guid>
+    <pubDate>Wed, 25 Nov 2026 03:28:06 +0000</pubDate>
     <source>Hacker News 头版</source>
-    <description>Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine (https://versine.com). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon.Ver</description>
+    <description>Article URL: https://noahbuilt.it/writing/qwen-on-5600-lambdas
+Comments URL: https://news.ycombinator.com/item?id=50638070
+Points: 27
+# Comments: 7</description>
+  </item>
+  <item>
+    <title>从「卖向全球」到「扎根全球」，奇瑞怎么把增长做久？</title>
+    <link>https://www.leiphone.com/category/transportation/DQjM3IyKu5bVltcG.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/transportation/DQjM3IyKu5bVltcG.html</guid>
+    <pubDate>Tue, 24 Nov 2026 11:11:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>“如果把这个剔除之外，应该达到170多亿元。”近期，在一场小范围沟通会上，奇瑞汽车管理层透露汇率波动对利润造成了影响。前三季度，奇瑞有31.71亿元汇兑净损失。去年同期，这一项还是29.74亿元净收益，一来一回差了61.45亿元。这导致，奇瑞前三季度的归母净利润为139.63亿元，同比下降2.8%。雷峰网注意到，归母净利润降了些，但把奇瑞放到同行里看，它的利润表现依然靠前。前三季度，奇瑞净利润率为6.05%，是同期中国汽车制造业营业收入利润率（3.3%）的1.83倍。在已经披露三季报的十几家中国上市车企中，奇瑞的净利润率和归母净利润率（5.79%）都排在第一。再往利润表前面翻，奇瑞前三季度营收</description>
+  </item>
+  <item>
+    <title>艾媒咨询 | 2026年全球AI漫剧行业投融资数据分析简报</title>
+    <link>https://www.iimedia.cn/c400/110974.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/110974.html</guid>
+    <pubDate>Wed, 25 Nov 2026 02:27:02 +0000</pubDate>
+    <source>艾媒网</source>
   </item>
   <item>
     <title>2026-11-22 AI 日报 · 字节与高校开源 Axion 1.0，苹果发布 Depth Pro 2，群联展 NPU 硬盘</title>
@@ -564,14 +582,6 @@ Points: 179
     <source>OpenAI News</source>
   </item>
   <item>
-    <title>蚂蚁OceanBase交出六年政企成绩单：服务22个省级数字政府、三分之一央企核心系统</title>
-    <link>https://www.leiphone.com/category/industrynews/b7Pw487MPHsDMSyR.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/b7Pw487MPHsDMSyR.html</guid>
-    <pubDate>Tue, 24 Nov 2026 08:36:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>随着人工智能加速进入政务与央国企核心业务，数据底座不仅要稳定承载关键系统，也开始支撑生产级AI应用。11月24日，蚂蚁OceanBase在北京举办AI数据大会，正式发布湖库一体的OceanLake AI数据平台，并披露2026年经营进展。2026年，OceanBase专有云金融和政企客户总数增长50%，其中政企客户数首次与金融客户数持平，成为专有云业务的重要增长力量。目前，OceanBase已服务22个省级数字政府和数百家央国企，进入约三分之一央企的核心业务系统，覆盖通信、能源、交通等关键行业，并为服务10亿人的医保“一码通”提供数据底座。从政务和央企的核心系统，到覆盖广泛人群的民生服务，Oc</description>
-  </item>
-  <item>
     <title>最新议程与嘉宾阵容公布！2027中国AIoT产业年会，11月27日深圳见</title>
     <link>https://www.qbitai.com/2026/11/512411.html</link>
     <guid isPermaLink="true">https://www.qbitai.com/2026/11/512411.html</guid>
@@ -585,13 +595,6 @@ Points: 179
     <guid isPermaLink="true">https://www.cloudquell.com/blog/cheapest-llm-api/</guid>
     <pubDate>Tue, 24 Nov 2026 07:00:06 +0000</pubDate>
     <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Multimodal Knowledge Agent (MKA) benchmark: testing knowledge work capabilities with complex visual filesNovember 10, 2026</title>
-    <link>https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</guid>
-    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Early progress on accelerating drug development with ClaudeWe're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.</title>
@@ -629,11 +632,11 @@ Points: 179
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>2026年扫地机器人升级需求洞察：耗材与噪音痛点凸显，基础体验亟待优化</title>
-    <link>https://www.iimedia.cn/c1061/120432.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120432.html</guid>
-    <pubDate>Mon, 23 Nov 2026 03:52:04 +0000</pubDate>
-    <source>艾媒网</source>
+    <title>Multimodal Knowledge Agent (MKA) benchmark: testing knowledge work capabilities with complex visual filesNovember 10, 2026</title>
+    <link>https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Inference Endpoints</title>
@@ -643,15 +646,30 @@ Points: 179
     <source>Hugging Face Trending</source>
   </item>
   <item>
-    <title>Weave (YC W25) is hiring ML, AI, product, &amp; design engineers</title>
-    <link>https://jobs.ashbyhq.com/weave-os</link>
-    <guid isPermaLink="true">https://jobs.ashbyhq.com/weave-os</guid>
-    <pubDate>Tue, 24 Nov 2026 17:00:55 +0000</pubDate>
+    <title>Top open problems in mathematics ranked by LLM-assessed importance</title>
+    <link>https://www.proofatlas.ai/open-problems/</link>
+    <guid isPermaLink="true">https://www.proofatlas.ai/open-problems/</guid>
+    <pubDate>Wed, 25 Nov 2026 03:01:36 +0000</pubDate>
     <source>Hacker News 头版</source>
-    <description>Article URL: https://jobs.ashbyhq.com/weave-os
-Comments URL: https://news.ycombinator.com/item?id=50631041
-Points: 0
-# Comments: 0</description>
+    <description>Article URL: https://www.proofatlas.ai/open-problems/
+Comments URL: https://news.ycombinator.com/item?id=50637871
+Points: 21
+# Comments: 4</description>
+  </item>
+  <item>
+    <title>中国汽车的下一场硬仗：让世界为中国式豪华买单</title>
+    <link>https://www.leiphone.com/category/transportation/mQcJOTY4udaVnxHp.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/transportation/mQcJOTY4udaVnxHp.html</guid>
+    <pubDate>Tue, 24 Nov 2026 11:08:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>11月7日，阿布扎比文华东方酋长皇宫酒店，两位中国女性高管的着装格外惹眼。雷峰网注意到，被人群簇拥着走上舞台的，是比亚迪执行副总裁李柯。她身着一袭融合东方山水意境的礼服，丝绒上衣汲取中国旗袍的韵味，裙身以中国画的泼墨、泼彩为底，手绘山河，再辅以刺绣、青金石与羽毛绣，将中国传统绘画中的山水意境穿在了身上。站在她身旁的是仰望汽车总经理胡晓庆。她身穿中式立领丝绒上衣，搭配非遗云锦妆花长裙，传统缠枝纹样呈现出中国织造工艺的细腻与厚重。两位女性高管身着充满东方韵味的礼服，向台下来自不同国家的嘉宾介绍一辆中国汽车。这是一辆超豪华行政旗舰轿车，名叫鼎曜。它车长5.6米，轴距3.5米，采用礼宾级对开门。前脸的</description>
+  </item>
+  <item>
+    <title>2026年扫地机器人升级需求洞察：耗材与噪音痛点凸显，基础体验亟待优化</title>
+    <link>https://www.iimedia.cn/c1061/120432.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120432.html</guid>
+    <pubDate>Mon, 23 Nov 2026 03:52:04 +0000</pubDate>
+    <source>艾媒网</source>
   </item>
   <item>
     <title>2026-11-21 AI 日报 · 英伟达暴跌拖累 AI 板块；Anthropic 数学家宣称携手 Claude 证出黎曼猜想</title>
@@ -709,14 +727,6 @@ Points: 0
     <description>ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.</description>
   </item>
   <item>
-    <title>百度智能云等发起香港前沿科技产业发展联盟，助力具身智能企业拓展全球市场</title>
-    <link>https://www.leiphone.com/category/industrynews/uFuwhvMHGUY0Qeu0.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/uFuwhvMHGUY0Qeu0.html</guid>
-    <pubDate>Tue, 24 Nov 2026 08:33:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>11月23日，第十六届香港国际金融论坛暨第七届领航“9+2”粤港澳大湾区发展论坛举办。作为论坛重要活动，香港国际具身智能领袖峰会同期举行，并正式发布香港前沿科技产业发展联盟。该联盟由百度智能云、香港特区政府商务及经济发展局、香港特区政府创新科技署、投资家网，以及智平方、零次方、众擎、地瓜机器人、帕西尼、贝塔无限、零次方、破壳、亮源新创、松应、智动未来等企业共同发起，将依托大湾区产业基础和香港国际化优势，聚焦人工智能、智能装备、数字经济等领域，搭建技术、场景、资本与国际资源的对接平台，推动具身智能等企业开展技术验证、场景落地和海外合作。  香港前沿科技产业发展联盟正式成立 百度智能云副总裁、百度</description>
-  </item>
-  <item>
     <title>叙事时代丨第20届中国投资年会·有限合伙人峰会在沪成功举办</title>
     <link>https://www.qbitai.com/2026/11/512387.html</link>
     <guid isPermaLink="true">https://www.qbitai.com/2026/11/512387.html</guid>
@@ -730,13 +740,6 @@ Points: 0
     <guid isPermaLink="true">https://www.cloudquell.com/blog/openai-vs-anthropic-api-pricing/</guid>
     <pubDate>Tue, 24 Nov 2026 07:00:06 +0000</pubDate>
     <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Endpoint Accuracy Index v1.1: Tighter long context intervals and expanded model coverageNovember 9, 2026</title>
-    <link>https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/endpoint-accuracy-index-v1-1</guid>
-    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
     <title>Introducing Claude Haiku 5.5Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.</title>

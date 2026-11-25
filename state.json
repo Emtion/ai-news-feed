@@ -1,4 +1,60 @@
 {
+ "https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol": {
+  "title": "OpenAI has the #2 model in the Intelligence Index with the release of GPT-6.2 Astra and GPT-6.2 SolNovember 17, 2026",
+  "source": "Artificial Analysis 智力指数榜",
+  "ts": 1795584830.6081126,
+  "desc": "",
+  "ord": 3
+ },
+ "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF": {
+  "title": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF Text Generation • 27B • Updated about 8 hours ago • 145",
+  "source": "Hugging Face Trending",
+  "ts": 1795584830.6081126,
+  "desc": "",
+  "ord": 29
+ },
+ "https://gpu-demo-gallery.pages.dev/": {
+  "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+  "source": "Hacker News 头版",
+  "ts": 1795581108.0,
+  "desc": "Article URL: https://gpu-demo-gallery.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=50638503\nPoints: 8\n# Comments: 1",
+  "ord": 0
+ },
+ "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F": {
+  "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+  "source": "Hacker News 头版",
+  "ts": 1795579413.0,
+  "desc": "Article URL: https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F\nComments URL: https://news.ycombinator.com/item?id=50638320\nPoints: 45\n# Comments: 32",
+  "ord": 1
+ },
+ "https://www.marginalia.nu/log/a_141_marginalia_update/": {
+  "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+  "source": "Hacker News 头版",
+  "ts": 1795578462.0,
+  "desc": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/\nComments URL: https://news.ycombinator.com/item?id=50638220\nPoints: 35\n# Comments: 6",
+  "ord": 2
+ },
+ "https://noahbuilt.it/writing/qwen-on-5600-lambdas": {
+  "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+  "source": "Hacker News 头版",
+  "ts": 1795577286.0,
+  "desc": "Article URL: https://noahbuilt.it/writing/qwen-on-5600-lambdas\nComments URL: https://news.ycombinator.com/item?id=50638070\nPoints: 27\n# Comments: 7",
+  "ord": 3
+ },
+ "https://www.proofatlas.ai/open-problems/": {
+  "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+  "source": "Hacker News 头版",
+  "ts": 1795575696.0,
+  "desc": "Article URL: https://www.proofatlas.ai/open-problems/\nComments URL: https://news.ycombinator.com/item?id=50637871\nPoints: 21\n# Comments: 4",
+  "ord": 4
+ },
+ "https://www.leiphone.com/category/industrynews/L9rc3Khgc8pFgYtD.html": {
+  "title": "千问Go全面开放免费代打电话服务，支持订餐厅、找快递、寻失物",
+  "source": "雷峰网",
+  "ts": 1795573680.0,
+  "desc": "11月25日，千问Go全面开放代打电话服务，人人都能免费拥有一个帮自己打电话的专属AI助手。告知千问拨打对象和通话需求，用户授权后，千问即可代为联系餐厅预订包间、向酒店查询遗失物品、联系快递员确认配送进度等，并反馈沟通结果。此外，千问还支持定时代打电话。 据了解，千问代打电话需经用户授权，通话中会主动表明AI助手身份，并设有外呼安全防护机制，对存在风险的请求进行筛查和拦截。 ",
+  "ord": 0
+ },
  "https://www.iimedia.cn/c400/110974.html": {
   "title": "艾媒咨询 | 2026年全球AI漫剧行业投融资数据分析简报",
   "source": "艾媒网",
@@ -13,12 +69,19 @@
   "desc": "",
   "ord": 28
  },
+ "https://www.leiphone.com/category/chips/yHCLu9wEjr4z9AgA.html": {
+  "title": "CCF HPC 2026访谈：HPC与AI需求推动算力走向系统协同",
+  "source": "雷峰网",
+  "ts": 1795571460.0,
+  "desc": "过去两年，从 ChatGPT 到国内外各路大模型百舸争流，AI 从只会聊天的机器人，一路长成了能看图、能听声、能剪视频的多面手。短剧、内容创作、智能客服、企业办公……应用场景越铺越开，模型规模越做越大，训练和推理的胃口也随之水涨船高。可当所有人都意识到\"算力就是新的水电\"时，一个更棘手的问题浮出水面：算力从哪里来？又能不能以可负担的成本拿到手？10 月的 CCF 全国高性能计算学术大会（CCF HPC 2026）上，算力成为交流的重点话题。在接受雷峰网采访时，AMD 大中华区高级解决方案架构师余伟飞以算力、芯片和能源三个关键词，概括了计算产业面临的需求、技术基础与资源约束。从获得算力到评估业务",
+  "ord": 1
+ },
  "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf": {
-  "title": "Matrix Multiplication is O(n^2.25) [pdf]",
+  "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
   "source": "Hacker News 头版",
   "ts": 1795569566.0,
-  "desc": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50637220\nPoints: 88\n# Comments: 19",
-  "ord": 0
+  "desc": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50637220\nPoints: 357\n# Comments: 170",
+  "ord": 5
  },
  "https://daily.ai225.com/daily/2026-11-25": {
   "title": "2026-11-25 AI 日报 · GPT-6 展露蛋白质设计能力，文心 5.5 Flash Preview 开源",
@@ -89,13 +152,6 @@
   "ts": 1795554142.0,
   "desc": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/\nComments URL: https://news.ycombinator.com/item?id=50634658\nPoints: 179\n# Comments: 49",
   "ord": 2
- },
- "https://news.ycombinator.com/item?id=50634426": {
-  "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
-  "source": "Hacker News 头版",
-  "ts": 1795553055.0,
-  "desc": "Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine (https://versine.com). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon.Ver",
-  "ord": 3
  },
  "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology": {
   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
@@ -473,7 +529,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795503606.1137688,
   "desc": "",
-  "ord": 26
+  "ord": 25
  },
  "https://www.qbitai.com/2026/11/512370.html": {
   "title": "Google Cloud 出海峰会报名开启",
@@ -1684,14 +1740,14 @@
   "source": "Hugging Face Trending",
   "ts": 1795424579.789836,
   "desc": "",
-  "ord": 22
+  "ord": 21
  },
  "https://huggingface.co/Lightricks/LTX-2.5": {
   "title": "Lightricks/LTX-2.5 Image-to-Video • Updated Oct 11 • 2.99M • 13.1k",
   "source": "Hugging Face Trending",
   "ts": 1795424579.789836,
   "desc": "",
-  "ord": 25
+  "ord": 24
  },
  "https://github.com/platform": {
   "title": "GitHubRepository hosting, code review, and collaboration",
@@ -2125,7 +2181,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795376280.5030785,
   "desc": "",
-  "ord": 20
+  "ord": 19
  },
  "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/": {
   "title": "Why data centers are at the center of the Big Tech backlash",
@@ -3567,7 +3623,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795033783.4331658,
   "desc": "",
-  "ord": 21
+  "ord": 22
  },
  "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/": {
   "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
@@ -3805,7 +3861,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 24
+  "ord": 26
  },
  "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/": {
   "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
@@ -4015,7 +4071,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794970430.0040767,
   "desc": "",
-  "ord": 19
+  "ord": 20
  },
  "https://www.qbitai.com/2026/11/510737.html": {
   "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
@@ -4142,61 +4198,5 @@
   "ts": 1794956675.0,
   "desc": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
   "ord": 3
- },
- "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/": {
-  "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-  "source": "TechCrunch AI",
-  "ts": 1794955347.0,
-  "desc": "The former CEO offered to return to his top role at the company after his resignation last week.",
-  "ord": 4
- },
- "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/": {
-  "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-  "source": "TechCrunch AI",
-  "ts": 1794954545.0,
-  "desc": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-  "ord": 5
- },
- "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/": {
-  "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
-  "source": "WIRED AI",
-  "ts": 1794953959.0,
-  "desc": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
-  "ord": 0
- },
- "https://www.producthunt.com/products/incredible": {
-  "title": "Incredible Agents",
-  "source": "Product Hunt",
-  "ts": 1794952944.0,
-  "desc": "",
-  "ord": 1
- },
- "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/": {
-  "title": "SEC reportedly investigating Nvidia amid Huang exit",
-  "source": "TechCrunch AI",
-  "ts": 1794952087.0,
-  "desc": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-  "ord": 6
- },
- "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang": {
-  "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-  "source": "The Verge AI",
-  "ts": 1794951659.0,
-  "desc": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying ",
-  "ord": 1
- },
- "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/": {
-  "title": "Google joins the tech outage trend by announcing it’s not having one",
-  "source": "TechCrunch AI",
-  "ts": 1794951290.0,
-  "desc": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
-  "ord": 7
- },
- "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/": {
-  "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-  "source": "Hacker News 头版",
-  "ts": 1794950172.0,
-  "desc": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/\nComments URL: https://news.ycombinator.com/item?id=50538303\nPoints: 60\n# Comments: 94",
-  "ord": 2
  }
 }
