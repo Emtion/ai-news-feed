@@ -1,10 +1,143 @@
 {
+ "https://www.iimedia.cn/c400/110974.html": {
+  "title": "艾媒咨询 | 2026年全球AI漫剧行业投融资数据分析简报",
+  "source": "艾媒网",
+  "ts": 1795573622.3993807,
+  "desc": "",
+  "ord": 1
+ },
+ "https://huggingface.co/llamaindex/OCRia-nano-1": {
+  "title": "llamaindex/OCRia-nano-1 Image-to-Text • Updated about 8 hours ago • 160",
+  "source": "Hugging Face Trending",
+  "ts": 1795573622.3993807,
+  "desc": "",
+  "ord": 28
+ },
+ "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf": {
+  "title": "Matrix Multiplication is O(n^2.25) [pdf]",
+  "source": "Hacker News 头版",
+  "ts": 1795569566.0,
+  "desc": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50637220\nPoints: 88\n# Comments: 19",
+  "ord": 0
+ },
+ "https://daily.ai225.com/daily/2026-11-25": {
+  "title": "2026-11-25 AI 日报 · GPT-6 展露蛋白质设计能力，文心 5.5 Flash Preview 开源",
+  "source": "AI 日报 · AI225",
+  "ts": 1795568223.0,
+  "desc": "今日 AI 在模型、智能体与安全治理上同时推进：OpenAI 称 GPT-6 系列可仅凭推理设计蛋白质并在五个靶点现结合证据；百度以 Apache 2.0 开源文心 5.5 Flash Preview，vLLM 首日支持。Anthropic 公测 MCP 技能与桌面应用安装，股价却跌破 83 美元发行价；黄仁勋复职后首次全员会致歉。国内华为云开放 AgentArts 智能体平台。安全方面，Amazon 披露 AI 智能体自主利用零日漏洞。",
+  "ord": 0
+ },
+ "https://greydanus.github.io/2026/11/12/pengpt/": {
+  "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+  "source": "Hacker News 头版",
+  "ts": 1795568089.0,
+  "desc": "Article URL: https://greydanus.github.io/2026/11/12/pengpt/\nComments URL: https://news.ycombinator.com/item?id=50637056\nPoints: 44\n# Comments: 4",
+  "ord": 1
+ },
+ "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/": {
+  "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+  "source": "TechCrunch AI",
+  "ts": 1795565522.0,
+  "desc": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the",
+  "ord": 0
+ },
+ "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/": {
+  "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+  "source": "WIRED AI",
+  "ts": 1795563544.0,
+  "desc": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/": {
+  "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+  "source": "TechCrunch AI",
+  "ts": 1795559272.0,
+  "desc": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+  "ord": 1
+ },
+ "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/": {
+  "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+  "source": "TechCrunch AI",
+  "ts": 1795556907.0,
+  "desc": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+  "ord": 2
+ },
+ "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/": {
+  "title": "Even the best AI agents struggle with everyday life",
+  "source": "TechCrunch AI",
+  "ts": 1795556009.0,
+  "desc": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+  "ord": 3
+ },
+ "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/": {
+  "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+  "source": "TechCrunch AI",
+  "ts": 1795555958.0,
+  "desc": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+  "ord": 4
+ },
+ "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/": {
+  "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+  "source": "TechCrunch AI",
+  "ts": 1795555192.0,
+  "desc": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+  "ord": 5
+ },
+ "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/": {
+  "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "source": "Hacker News 头版",
+  "ts": 1795554142.0,
+  "desc": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/\nComments URL: https://news.ycombinator.com/item?id=50634658\nPoints: 179\n# Comments: 49",
+  "ord": 2
+ },
+ "https://news.ycombinator.com/item?id=50634426": {
+  "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+  "source": "Hacker News 头版",
+  "ts": 1795553055.0,
+  "desc": "Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine (https://versine.com). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon.Ver",
+  "ord": 3
+ },
+ "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology": {
+  "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+  "source": "The Verge AI",
+  "ts": 1795550523.0,
+  "desc": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbaske",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/": {
+  "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+  "source": "TechCrunch AI",
+  "ts": 1795545042.0,
+  "desc": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+  "ord": 6
+ },
+ "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive": {
+  "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+  "source": "The Verge AI",
+  "ts": 1795544100.0,
+  "desc": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-ful",
+  "ord": 1
+ },
+ "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/": {
+  "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+  "source": "TechCrunch AI",
+  "ts": 1795543379.0,
+  "desc": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+  "ord": 7
+ },
+ "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/": {
+  "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+  "source": "WIRED AI",
+  "ts": 1795542293.0,
+  "desc": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
+  "ord": 1
+ },
  "https://www.iimedia.cn/c1091/120724.html": {
   "title": "跳出“卖萌摆件”误区：从Cami看后装车载实体AI机器人的破局路径 ——基于艾媒鼎榜《2026中国车载实体AI机器人品牌10强》产业观察",
   "source": "艾媒网",
   "ts": 1795542185.6705205,
   "desc": "",
-  "ord": 1
+  "ord": 3
  },
  "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview": {
   "title": "baidu/ERNIE-5.5-Flash-Preview Text Generation • 300B • Updated about 10 hours ago • 75 • 213",
@@ -104,6 +237,13 @@
   "desc": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
   "ord": 4
  },
+ "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": {
+  "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+  "source": "OpenAI News",
+  "ts": 1795525200.0,
+  "desc": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+  "ord": 0
+ },
  "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/": {
   "title": "LLM agents work for their parent companies, not for you",
   "source": "Hacker News 头版",
@@ -138,6 +278,13 @@
   "ts": 1795518480.0,
   "desc": "11月7日，阿布扎比文华东方酋长皇宫酒店，两位中国女性高管的着装格外惹眼。雷峰网注意到，被人群簇拥着走上舞台的，是比亚迪执行副总裁李柯。她身着一袭融合东方山水意境的礼服，丝绒上衣汲取中国旗袍的韵味，裙身以中国画的泼墨、泼彩为底，手绘山河，再辅以刺绣、青金石与羽毛绣，将中国传统绘画中的山水意境穿在了身上。站在她身旁的是仰望汽车总经理胡晓庆。她身穿中式立领丝绒上衣，搭配非遗云锦妆花长裙，传统缠枝纹样呈现出中国织造工艺的细腻与厚重。两位女性高管身着充满东方韵味的礼服，向台下来自不同国家的嘉宾介绍一辆中国汽车。这是一辆超豪华行政旗舰轿车，名叫鼎曜。它车长5.6米，轴距3.5米，采用礼宾级对开门。前脸的",
   "ord": 2
+ },
+ "https://openai.com/index/searching-for-distant-planets-with-astra": {
+  "title": "Searching for distant planets with Astra",
+  "source": "OpenAI News",
+  "ts": 1795518000.0,
+  "desc": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+  "ord": 1
  },
  "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/": {
   "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
@@ -326,7 +473,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795503606.1137688,
   "desc": "",
-  "ord": 28
+  "ord": 26
  },
  "https://www.qbitai.com/2026/11/512370.html": {
   "title": "Google Cloud 出海峰会报名开启",
@@ -578,7 +725,7 @@
   "source": "艾媒网",
   "ts": 1795500042.4920855,
   "desc": "",
-  "ord": 2
+  "ord": 4
  },
  "https://www.anthropic.com/claude-fable-and-mythos-5-2": {
   "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
@@ -888,6 +1035,27 @@
   "desc": "今日AI领域迎来重大人事与商业转折：英伟达董事会全票恢复黄仁勋的CEO与董事职务，历时不到两周的高层风波告一段落，股价盘前涨超30%；亚马逊斥资约75亿美元收购AI初创公司Decart的技术与团队，强化自研芯片竞争力。产品层面，Anthropic推出测试版Claude Ship代码代理，智谱发布GLM-5.4技术公告，OpenAI联手思科开源运行时防护工具Shirudo。同时，xAI被曝向竞争对手出租算力，SpaceX因Grok深伪内容遭两州起诉，公安部公布10起AI造谣案件。",
   "ord": 0
  },
+ "https://openai.com/business/customer-stories/intentful-dots": {
+  "title": "How Intentful uses dots to make more time for growth",
+  "source": "OpenAI News",
+  "ts": 1795478400.0,
+  "desc": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+  "ord": 2
+ },
+ "https://openai.com/business/customer-stories/ifood": {
+  "title": "How iFood scales coding agents across 15,000 repositories",
+  "source": "OpenAI News",
+  "ts": 1795478400.0,
+  "desc": "",
+  "ord": 3
+ },
+ "https://openai.com/business/customer-stories/clay-plugins-openai": {
+  "title": "Clay helps sales teams win with Codex and ChatGPT",
+  "source": "OpenAI News",
+  "ts": 1795478400.0,
+  "desc": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+  "ord": 4
+ },
  "https://arxiv.org/abs/2602.20031": {
   "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
   "source": "Hacker News 头版",
@@ -1138,7 +1306,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795468950.1454487,
   "desc": "",
-  "ord": 26
+  "ord": 27
  },
  "https://openai.com/index/introducing-shirudo": {
   "title": "OpenAI and Cisco introduce Shirudo",
@@ -1516,14 +1684,14 @@
   "source": "Hugging Face Trending",
   "ts": 1795424579.789836,
   "desc": "",
-  "ord": 21
+  "ord": 22
  },
  "https://huggingface.co/Lightricks/LTX-2.5": {
   "title": "Lightricks/LTX-2.5 Image-to-Video • Updated Oct 11 • 2.99M • 13.1k",
   "source": "Hugging Face Trending",
   "ts": 1795424579.789836,
   "desc": "",
-  "ord": 27
+  "ord": 25
  },
  "https://github.com/platform": {
   "title": "GitHubRepository hosting, code review, and collaboration",
@@ -1957,7 +2125,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795376280.5030785,
   "desc": "",
-  "ord": 22
+  "ord": 20
  },
  "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/": {
   "title": "Why data centers are at the center of the Big Tech backlash",
@@ -2076,7 +2244,7 @@
   "source": "艾媒网",
   "ts": 1795317202.84134,
   "desc": "",
-  "ord": 3
+  "ord": 2
  },
  "https://www.noemamag.com/the-mythology-of-conscious-ai/": {
   "title": "The Mythology of Conscious AI",
@@ -2104,7 +2272,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795302873.1682804,
   "desc": "",
-  "ord": 19
+  "ord": 18
  },
  "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/": {
   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -2251,7 +2419,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795234035.606287,
   "desc": "",
-  "ord": 24
+  "ord": 23
  },
  "https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html": {
   "title": "享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款",
@@ -3399,7 +3567,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795033783.4331658,
   "desc": "",
-  "ord": 18
+  "ord": 21
  },
  "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/": {
   "title": "Sam Altman says his life is so weird that he’s unphased by Andrew Garfield portraying him in upcoming movie",
@@ -3637,7 +3805,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795002024.9080315,
   "desc": "",
-  "ord": 23
+  "ord": 24
  },
  "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/": {
   "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
@@ -3847,7 +4015,7 @@
   "source": "Hugging Face Trending",
   "ts": 1794970430.0040767,
   "desc": "",
-  "ord": 20
+  "ord": 19
  },
  "https://www.qbitai.com/2026/11/510737.html": {
   "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
@@ -4029,174 +4197,6 @@
   "source": "Hacker News 头版",
   "ts": 1794950172.0,
   "desc": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/\nComments URL: https://news.ycombinator.com/item?id=50538303\nPoints: 60\n# Comments: 94",
-  "ord": 2
- },
- "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake": {
-  "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-  "source": "The Verge AI",
-  "ts": 1794949255.0,
-  "desc": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO",
-  "ord": 2
- },
- "https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol": {
-  "title": "OpenAI has the #2 model in the Intelligence Index with the release of GPT-6.2 Astra and GPT-6.2 SolNovember 17, 2026",
-  "source": "Artificial Analysis 智力指数榜",
-  "ts": 1794948839.781622,
-  "desc": "",
-  "ord": 3
- },
- "https://www.iimedia.cn/c400/111060.html": {
-  "title": "艾媒咨询 | 2025年中国机器人租赁产业市场状况及标杆企业经营数据分析报告",
-  "source": "艾媒网",
-  "ts": 1794948839.781622,
-  "desc": "",
-  "ord": 1
- },
- "https://huggingface.co/sensenova/SenseNova-Loop-9B": {
-  "title": "sensenova/SenseNova-Loop-9B Image-Text-to-Text • 9B • Updated about 9 hours ago • 152",
-  "source": "Hugging Face Trending",
-  "ts": 1794948839.781622,
-  "desc": "",
-  "ord": 25
- },
- "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6": {
-  "title": "meituan-longcat/LongCat-Video-Avatar-1.6 Updated 4 days ago • 489 • 194",
-  "source": "Hugging Face Trending",
-  "ts": 1794948839.781622,
-  "desc": "",
-  "ord": 29
- },
- "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/": {
-  "title": "Model ML raises $250M to automate investment banking grunt work",
-  "source": "TechCrunch AI",
-  "ts": 1794943931.0,
-  "desc": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-  "ord": 0
- },
- "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/": {
-  "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-  "source": "TechCrunch AI",
-  "ts": 1794942140.0,
-  "desc": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-  "ord": 1
- },
- "https://starsling.dev": {
-  "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-  "source": "Hacker News 头版",
-  "ts": 1794942103.0,
-  "desc": "We’re Yonas and Daniel and we’re building StarSling (https://starsling.dev), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows.Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency so",
-  "ord": 0
- },
- "https://news.ycombinator.com/item?id=50536468": {
-  "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-  "source": "Hacker News 头版",
-  "ts": 1794942103.0,
-  "desc": "We’re Yonas and Daniel and we’re building StarSling (https://starsling.dev), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows.Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency so",
-  "ord": 6
- },
- "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free": {
-  "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-  "source": "The Verge AI",
-  "ts": 1794941881.0,
-  "desc": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the ",
-  "ord": 0
- },
- "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/": {
-  "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-  "source": "TechCrunch AI",
-  "ts": 1794941303.0,
-  "desc": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
-  "ord": 2
- },
- "https://openai.com/index/advancing-computer-use-for-healthcare-teams/": {
-  "title": "Advancing computer-use agents for healthcare teams",
-  "source": "Hacker News 头版",
-  "ts": 1794939965.0,
-  "desc": "Article URL: https://openai.com/index/advancing-computer-use-for-healthcare-teams/\nComments URL: https://news.ycombinator.com/item?id=50535898\nPoints: 16\n# Comments: 12",
-  "ord": 1
- },
- "https://newsletter.posthog.com/p/decision-models": {
-  "title": "Not Everything Needs an LLM",
-  "source": "Hacker News 头版",
-  "ts": 1794939378.0,
-  "desc": "Article URL: https://newsletter.posthog.com/p/decision-models\nComments URL: https://news.ycombinator.com/item?id=50535740\nPoints: 104\n# Comments: 42",
-  "ord": 6
- },
- "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/": {
-  "title": "As decision model use skyrockets, is customization the next frontier?",
-  "source": "TechCrunch AI",
-  "ts": 1794939000.0,
-  "desc": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
-  "ord": 3
- },
- "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/": {
-  "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-  "source": "TechCrunch AI",
-  "ts": 1794938656.0,
-  "desc": "The company uses agentic AI to make supply chains faster and more reliable.",
-  "ord": 4
- },
- "https://openai.com/index/introducing-gpt-6-2-astra-sol/": {
-  "title": "GPT‑6.2 Astra and Sol",
-  "source": "Hacker News 头版",
-  "ts": 1794937603.0,
-  "desc": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/\nComments URL: https://news.ycombinator.com/item?id=50535230\nPoints: 754\n# Comments: 462",
-  "ord": 3
- },
- "https://openai.com/index/introducing-gpt-6-2-astra-sol": {
-  "title": "Introducing GPT-6.2 Astra and Sol",
-  "source": "OpenAI News",
-  "ts": 1794937500.0,
-  "desc": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-  "ord": 0
- },
- "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/": {
-  "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-  "source": "TechCrunch AI",
-  "ts": 1794936745.0,
-  "desc": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-  "ord": 5
- },
- "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/": {
-  "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-  "source": "TechCrunch AI",
-  "ts": 1794936041.0,
-  "desc": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-  "ord": 6
- },
- "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/": {
-  "title": "Put Gemini to work for you",
-  "source": "Google AI 博客",
-  "ts": 1794934800.0,
-  "desc": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
-  "ord": 0
- },
- "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/": {
-  "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
-  "source": "TechCrunch AI",
-  "ts": 1794933855.0,
-  "desc": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
-  "ord": 7
- },
- "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/": {
-  "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-  "source": "TechCrunch AI",
-  "ts": 1794933175.0,
-  "desc": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
-  "ord": 8
- },
- "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update": {
-  "title": "The DOJ says it’s investigating Megaspeed",
-  "source": "The Verge AI",
-  "ts": 1794932343.0,
-  "desc": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing inv",
-  "ord": 1
- },
- "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement": {
-  "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-  "source": "The Verge AI",
-  "ts": 1794931797.0,
-  "desc": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business par",
   "ord": 2
  }
 }
