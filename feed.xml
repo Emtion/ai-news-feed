@@ -5,7 +5,71 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Wed, 25 Nov 2026 12:54:11 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 22:32:23 +0000</lastBuildDate>
+  <item>
+    <title>Artificial Analysis</title>
+    <link>https://artificialanalysis.ai/</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>Team &amp; Enterprise</title>
+    <link>https://huggingface.co/enterprise</link>
+    <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future</title>
+    <link>https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent</link>
+    <guid isPermaLink="true">https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent</guid>
+    <pubDate>Wed, 25 Nov 2026 21:51:26 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an</description>
+  </item>
+  <item>
+    <title>Much shorter version of GRH Lean verification from Anthropic</title>
+    <link>https://github.com/lsernau/grh-lean</link>
+    <guid isPermaLink="true">https://github.com/lsernau/grh-lean</guid>
+    <pubDate>Wed, 25 Nov 2026 21:48:10 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://github.com/lsernau/grh-lean
+Comments URL: https://news.ycombinator.com/item?id=50648050
+Points: 35
+# Comments: 9</description>
+  </item>
+  <item>
+    <title>OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work</title>
+    <link>https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/</guid>
+    <pubDate>Wed, 25 Nov 2026 20:03:27 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.</description>
+  </item>
+  <item>
+    <title>Where scientists draw the line on AI agents</title>
+    <link>https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</link>
+    <guid isPermaLink="true">https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</guid>
+    <pubDate>Wed, 25 Nov 2026 18:52:55 +0000</pubDate>
+    <source>Hugging Face 博客</source>
+  </item>
+  <item>
+    <title>我以为这是摄影作品，你告诉我这是最新的国产AI？！</title>
+    <link>https://www.qbitai.com/2026/11/512748.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512748.html</guid>
+    <pubDate>Wed, 25 Nov 2026 16:34:09 +0000</pubDate>
+    <source>量子位</source>
+    <description>商汤SenseNova U1.6</description>
+  </item>
+  <item>
+    <title>阿维塔06T Max先锋版上新，限时权益后19.99万元</title>
+    <link>https://www.leiphone.com/category/industrynews/u4v3A1QiYM6qUcP1.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/u4v3A1QiYM6qUcP1.html</guid>
+    <pubDate>Wed, 25 Nov 2026 14:29:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>2026年11月25日（上海），阿维塔科技宣布，阿维塔06T Max先锋版正式上新，官方售价21.99万元，限时权益后19.99万元。新车定位智美全场景运动轿车，标配华为乾崑896线双光路图像级激光雷达与全新一代分布式电驱后轴双电机，是为年轻人专属打造的锋芒座驾。即日起，用户可通过阿维塔App、阿维塔官网、阿维塔小程序及全国各大城市的门店等官方渠道订购。  针对阿维塔06T Max先锋版上新，阿维塔还推出了多重限时购车礼遇。2026年12月31日（含）前下定，可享价值至高超过80000元9大限时权益，包括：10000元现金优惠、10000元购置税补贴、价值23920元5年0息限时金融政策、10</description>
+  </item>
   <item>
     <title>艾媒一周热评381期 | 当Token走进大众消费：买算力像充话费一样简单；商业秘密｜当399元羽绒</title>
     <link>https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42</link>
@@ -22,54 +86,6 @@
     <description>The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.</description>
   </item>
   <item>
-    <title>9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了</title>
-    <link>https://www.qbitai.com/2026/11/512565.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512565.html</guid>
-    <pubDate>Wed, 25 Nov 2026 11:07:14 +0000</pubDate>
-    <source>量子位</source>
-    <description>揭秘General Looped Model</description>
-  </item>
-  <item>
-    <title>希音发布三季度业绩，经调整净利润同比增长近27%</title>
-    <link>https://www.leiphone.com/category/industrynews/Cnxqgh4z73YfXvCm.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Cnxqgh4z73YfXvCm.html</guid>
-    <pubDate>Wed, 25 Nov 2026 10:44:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>希音今日公布了截至2026年9月30日的三个月未经审计业绩，这是其上市后的首个完整季度。财报显示，今年三季度，希音多元化布局效果显现：欧洲市场承受了贸易政策变化带来的压力，美国市场继续复苏，其他地区市场保持健康增长。在充满挑战的全球消费环境下，希音调整后净利润仍同比增长26.8%至7.9亿美元，彰显出其核心端到端业务模式的强劲韧性。欧洲本地履约已占四成，美国订单量开始增长今年7月1日起，欧盟取消了150 欧元以下包裹的关税豁免，并对每类商品征收 3 欧元关税。应对贸易政策的变化，希音在欧盟市场上调产品价格，这在抵消额外成本的同时，也导致需求有所减弱，三季度净收入103亿美元，同比下降5.9%。</description>
-  </item>
-  <item>
-    <title>An Indic Voice Agent with CUGA</title>
-    <link>https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</link>
-    <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</guid>
-    <pubDate>Wed, 25 Nov 2026 10:22:09 +0000</pubDate>
-    <source>Hugging Face 博客</source>
-  </item>
-  <item>
-    <title>Artificial Analysis</title>
-    <link>https://artificialanalysis.ai/</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/</guid>
-    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
-    <title>Team &amp; Enterprise</title>
-    <link>https://huggingface.co/enterprise</link>
-    <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>Show HN: Old Nvidia and ATI tech demos, running again in the browser</title>
-    <link>https://gpu-demo-gallery.pages.dev/</link>
-    <guid isPermaLink="true">https://gpu-demo-gallery.pages.dev/</guid>
-    <pubDate>Wed, 25 Nov 2026 04:31:48 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://gpu-demo-gallery.pages.dev/
-Comments URL: https://news.ycombinator.com/item?id=50638503
-Points: 179
-# Comments: 41</description>
-  </item>
-  <item>
     <title>2026-11-25 AI 日报 · GPT-6 展露蛋白质设计能力，文心 5.5 Flash Preview 开源</title>
     <link>https://daily.ai225.com/daily/2026-11-25</link>
     <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-25</guid>
@@ -78,28 +94,20 @@ Points: 179
     <description>今日 AI 在模型、智能体与安全治理上同时推进：OpenAI 称 GPT-6 系列可仅凭推理设计蛋白质并在五个靶点现结合证据；百度以 Apache 2.0 开源文心 5.5 Flash Preview，vLLM 首日支持。Anthropic 公测 MCP 技能与桌面应用安装，股价却跌破 83 美元发行价；黄仁勋复职后首次全员会致歉。国内华为云开放 AgentArts 智能体平台。安全方面，Amazon 披露 AI 智能体自主利用零日漏洞。</description>
   </item>
   <item>
-    <title>Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion</title>
-    <link>https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/</guid>
-    <pubDate>Wed, 25 Nov 2026 00:12:02 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to "historic" personal liability from a growing pile of lawsuits and raising the question of whether the</description>
-  </item>
-  <item>
-    <title>Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired</title>
-    <link>https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology</link>
-    <guid isPermaLink="true">https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology</guid>
-    <pubDate>Tue, 24 Nov 2026 20:02:03 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbaske</description>
-  </item>
-  <item>
     <title>How Gemini is changing the game for Golden State's organization and fans.</title>
     <link>https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/</link>
     <guid isPermaLink="true">https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/</guid>
     <pubDate>Tue, 24 Nov 2026 16:00:00 +0000</pubDate>
     <source>Google AI 博客</source>
     <description>Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.</description>
+  </item>
+  <item>
+    <title>From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity</title>
+    <link>https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/</link>
+    <guid isPermaLink="true">https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/</guid>
+    <pubDate>Tue, 24 Nov 2026 13:07:53 +0000</pubDate>
+    <source>Google DeepMind</source>
+    <description>Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.</description>
   </item>
   <item>
     <title>GPT-6 models demonstrate intrinsic protein-design capabilities</title>
@@ -139,6 +147,14 @@ Points: 179
     <source>DeepSeek 更新日志</source>
   </item>
   <item>
+    <title>Tencent releases Hy-MT3 — third-generation open-source translation models at 1.8B, 7B, and 30B-A3B</title>
+    <link>https://themodelgap.com/new-ai-models</link>
+    <guid isPermaLink="true">https://themodelgap.com/new-ai-models</guid>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    <source>The Model Gap</source>
+    <description>Tencent Hunyuan posted at 2026-11-24T10:12:14Z: "Hy MT3 is here — third-generation open-source translation models." The post says the models are "more accurate, more complete, and better at following user instructions", that "language coverage expanded from 38 to 102", and that they are "optimized f</description>
+  </item>
+  <item>
     <title>Introducing Muse Spark 1.1</title>
     <link>https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/</link>
     <guid isPermaLink="true">https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/</guid>
@@ -153,19 +169,74 @@ Points: 179
     <source>Product Hunt</source>
   </item>
   <item>
-    <title>Finding faster quantum algorithms with agents and formal verification</title>
-    <link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</link>
-    <guid isPermaLink="true">https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</guid>
-    <pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
-    <source>Google DeepMind</source>
-    <description>Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.</description>
-  </item>
-  <item>
     <title>GitHubRepository hosting, code review, and collaboration</title>
     <link>https://github.com/platform</link>
     <guid isPermaLink="true">https://github.com/platform</guid>
     <pubDate>Mon, 23 Nov 2026 09:02:59 +0000</pubDate>
     <source>GitHub Trending</source>
+  </item>
+  <item>
+    <title>Can language models drive a humanoid robot? Introducing AA-Robotics-Sim v0.1November 25, 2026</title>
+    <link>https://artificialanalysis.ai/articles/aa-robotics-sim</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/aa-robotics-sim</guid>
+    <pubDate>Wed, 25 Nov 2026 22:31:38 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>Hugging Face PRO</title>
+    <link>https://huggingface.co/pro</link>
+    <guid isPermaLink="true">https://huggingface.co/pro</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space</title>
+    <link>https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers</link>
+    <guid isPermaLink="true">https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers</guid>
+    <pubDate>Wed, 25 Nov 2026 17:44:51 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's "Starmind" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, t</description>
+  </item>
+  <item>
+    <title>The New York Times tells photographers not to use the latest Photoshop</title>
+    <link>https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/</link>
+    <guid isPermaLink="true">https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/</guid>
+    <pubDate>Wed, 25 Nov 2026 21:18:02 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/
+Comments URL: https://news.ycombinator.com/item?id=50647673
+Points: 20
+# Comments: 9</description>
+  </item>
+  <item>
+    <title>Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it</title>
+    <link>https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/</guid>
+    <pubDate>Wed, 25 Nov 2026 19:54:57 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.</description>
+  </item>
+  <item>
+    <title>An Indic Voice Agent with CUGA</title>
+    <link>https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</link>
+    <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</guid>
+    <pubDate>Wed, 25 Nov 2026 10:22:09 +0000</pubDate>
+    <source>Hugging Face 博客</source>
+  </item>
+  <item>
+    <title>丢个故事就行！直出15分钟AI短片，家里二舅也能上手</title>
+    <link>https://www.qbitai.com/2026/11/512727.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512727.html</guid>
+    <pubDate>Wed, 25 Nov 2026 14:51:06 +0000</pubDate>
+    <source>量子位</source>
+  </item>
+  <item>
+    <title>算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划</title>
+    <link>https://www.leiphone.com/category/chips/Qz3QPf26nVIVA0ga.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/chips/Qz3QPf26nVIVA0ga.html</guid>
+    <pubDate>Wed, 25 Nov 2026 14:15:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。会议由九章云极DataCanvas主办，深圳市龙华区工业和信息化局支持，清华大学互联网产业研究院为学术指导单位。来自标准机构、高校与科研院所、投资机构，以及机器人本体、世界模型、仿真软件、智算云等领域的上百位嘉宾代表出席。中国电子技术标准化研究院副院长范科峰，深圳市龙华区委常委、常务副区长张智，九章云极DataCanvas董事长方磊分别致辞。会议聚焦的核心命题是：当机器人、世界模型与仿真软件相继通过技术验证，物理AI如何跨越从实验室到产线的产业化鸿沟。答案集中在两个方向：以工程化能力将算力组织</description>
   </item>
   <item>
     <title>2026年中国消费者认为AI大模型的发展趋势：认为“很好”的占比51.4%</title>
@@ -183,54 +254,6 @@ Points: 179
     <description>Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.</description>
   </item>
   <item>
-    <title>Anthropic还藏着2个最强模型…</title>
-    <link>https://www.qbitai.com/2026/11/512538.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512538.html</guid>
-    <pubDate>Wed, 25 Nov 2026 08:23:24 +0000</pubDate>
-    <source>量子位</source>
-    <description>Fable5.2已经很旧了。</description>
-  </item>
-  <item>
-    <title>冻薪、加班、砍休息时长！大众汽车降本连招惹怒工会：员工抬着棺材威胁罢工；黄仁勋：英伟达不需要接班人计划；红果短剧上线「时间锁」</title>
-    <link>https://www.leiphone.com/category/zaobao/1ER4gdHHQ4gNFpKi.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/1ER4gdHHQ4gNFpKi.html</guid>
-    <pubDate>Wed, 25 Nov 2026 10:39:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>要闻提示1.冻薪、加班、砍休息时长！大众汽车降本连招惹怒工会：员工抬着棺材威胁罢工2.新加坡子公司被列入美实体清单，阿里巴巴回应3.魏建军自曝压力很大，长城汽车从自主品牌销量第一滑落到第九4.红果短剧上线“时间锁”5.影石经销商称 Luna 云台系列产品将于 12 月 15 日起涨价6.传快手生活服务重启服务商和商户补贴，官方暂无回应7.黄仁勋承认不止两段婚外情并向英伟达董事会表达悔意，并称英伟达不需要接班人计划8.特斯拉、SpaceX合并谈判细节曝光：全股票合并谈判推进，最早或12月宣布今日头条冻薪、加班、砍休息时长！大众汽车降本连招惹怒工会：员工抬着棺材威胁罢工11月24日消息，据外媒报道</description>
-  </item>
-  <item>
-    <title>Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
-    <link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
-    <guid isPermaLink="true">https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</guid>
-    <pubDate>Tue, 24 Nov 2026 16:34:13 +0000</pubDate>
-    <source>Hugging Face 博客</source>
-  </item>
-  <item>
-    <title>Thinking Machines has released Inkling 2 Mini, an open weights looped transformerNovember 20, 2026</title>
-    <link>https://artificialanalysis.ai/articles/inkling-2-mini</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/inkling-2-mini</guid>
-    <pubDate>Sat, 21 Nov 2026 01:34:34 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
-    <title>Hugging Face PRO</title>
-    <link>https://huggingface.co/pro</link>
-    <guid isPermaLink="true">https://huggingface.co/pro</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>Gemini refused to give me the lyrics to Twinkle Twinkle Little Star</title>
-    <link>https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F</link>
-    <guid isPermaLink="true">https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F</guid>
-    <pubDate>Wed, 25 Nov 2026 04:03:33 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F
-Comments URL: https://news.ycombinator.com/item?id=50638320
-Points: 45
-# Comments: 32</description>
-  </item>
-  <item>
     <title>2026-11-24 AI 日报 · 黄仁勋复职英伟达CEO董事会全票通过，亚马逊75亿美元收购Decart优化技术</title>
     <link>https://daily.ai225.com/daily/2026-11-24</link>
     <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-24</guid>
@@ -239,28 +262,20 @@ Points: 45
     <description>今日AI领域迎来重大人事与商业转折：英伟达董事会全票恢复黄仁勋的CEO与董事职务，历时不到两周的高层风波告一段落，股价盘前涨超30%；亚马逊斥资约75亿美元收购AI初创公司Decart的技术与团队，强化自研芯片竞争力。产品层面，Anthropic推出测试版Claude Ship代码代理，智谱发布GLM-5.4技术公告，OpenAI联手思科开源运行时防护工具Shirudo。同时，xAI被曝向竞争对手出租算力，SpaceX因Grok深伪内容遭两州起诉，公安部公布10起AI造谣案件。</description>
   </item>
   <item>
-    <title>Jensen Huang still thinks a succession plan creates unnecessary hierarchy</title>
-    <link>https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/</guid>
-    <pubDate>Tue, 24 Nov 2026 22:27:52 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.</description>
-  </item>
-  <item>
-    <title>David Fincher is being dragged for suspected use of AI in his latest film</title>
-    <link>https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive</link>
-    <guid isPermaLink="true">https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive</guid>
-    <pubDate>Tue, 24 Nov 2026 18:15:00 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-ful</description>
-  </item>
-  <item>
     <title>A more tailored Google Search that’s uniquely yours</title>
     <link>https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/</link>
     <guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/</guid>
     <pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
     <source>Google AI 博客</source>
     <description>Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.</description>
+  </item>
+  <item>
+    <title>Finding faster quantum algorithms with agents and formal verification</title>
+    <link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</link>
+    <guid isPermaLink="true">https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</guid>
+    <pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
+    <source>Google DeepMind</source>
+    <description>Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.</description>
   </item>
   <item>
     <title>Searching for distant planets with Astra</title>
@@ -314,13 +329,6 @@ Points: 45
     <source>Product Hunt</source>
   </item>
   <item>
-    <title>Introducing Gemini 4 Neon</title>
-    <link>https://deepmind.google/blog/introducing-gemini-4-neon/</link>
-    <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-neon/</guid>
-    <pubDate>Wed, 18 Nov 2026 21:35:43 +0000</pubDate>
-    <source>Google DeepMind</source>
-  </item>
-  <item>
     <title>CopilotAI coding agent for tasks, projects, and automated work</title>
     <link>https://github.com/features/copilot</link>
     <guid isPermaLink="true">https://github.com/features/copilot</guid>
@@ -328,10 +336,74 @@ Points: 45
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>艾媒鼎榜 | 2026年中国车载实体AI机器人品牌10强</title>
-    <link>https://www.iimedia.cn/c1106/120376.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1106/120376.html</guid>
-    <pubDate>Wed, 18 Nov 2026 11:40:24 +0000</pubDate>
+    <title>Thinking Machines has released Inkling 2 Mini, an open weights looped transformerNovember 20, 2026</title>
+    <link>https://artificialanalysis.ai/articles/inkling-2-mini</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/inkling-2-mini</guid>
+    <pubDate>Sat, 21 Nov 2026 01:34:34 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>Enterprise Support</title>
+    <link>https://huggingface.co/support</link>
+    <guid isPermaLink="true">https://huggingface.co/support</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>Nothing offers a full look at its AI earbuds and charging case</title>
+    <link>https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal</link>
+    <guid isPermaLink="true">https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal</guid>
+    <pubDate>Wed, 25 Nov 2026 16:00:59 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes </description>
+  </item>
+  <item>
+    <title>The polynomial Hirsch conjecture is false [pdf]</title>
+    <link>https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf</link>
+    <guid isPermaLink="true">https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf</guid>
+    <pubDate>Wed, 25 Nov 2026 17:34:34 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf
+Comments URL: https://news.ycombinator.com/item?id=50644980
+Points: 91
+# Comments: 17</description>
+  </item>
+  <item>
+    <title>Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’</title>
+    <link>https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/</guid>
+    <pubDate>Wed, 25 Nov 2026 19:44:24 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.</description>
+  </item>
+  <item>
+    <title>Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000</title>
+    <link>https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</link>
+    <guid isPermaLink="true">https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</guid>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    <source>Hugging Face 博客</source>
+  </item>
+  <item>
+    <title>零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体</title>
+    <link>https://www.qbitai.com/2026/11/512715.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512715.html</guid>
+    <pubDate>Wed, 25 Nov 2026 14:32:57 +0000</pubDate>
+    <source>量子位</source>
+    <description>智元推出行业首个开放且完整的具身智能生态技术体系AIMA</description>
+  </item>
+  <item>
+    <title>中国算力采购信心指数启动 九章云极核心共建算力市场先行指标</title>
+    <link>https://www.leiphone.com/category/chips/G3lWNUyVJphxOTU2.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/chips/G3lWNUyVJphxOTU2.html</guid>
+    <pubDate>Wed, 25 Nov 2026 14:01:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>11月25日，在2026物理AI行业峰会暨九章云极智算生态大会上，中国经济信息社新华指数研究院副院长周宇涵宣布“中国算力采购信心指数”正式启动。北京九章云极科技股份有限公司（下称“九章云极”）作为核心共建单位，参与指数体系搭建。当前，中国算力产业正处于高速增长与结构性调整并行的阶段。我国智能算力规模高速增长，但训练与推理、东西部布局、层级供需三重错配依然存在，算力租赁价格波动加剧。对于算力需求方，采购决策往往依赖于分散的市场信息，难以形成对行业整体景气程度的系统认知；对于算力供给方，产能规划与定价策略同样缺少来自真实交易一线的反馈信号。市场需要一个能够回答“下个季度需求是扩张还是收缩”的先行指</description>
+  </item>
+  <item>
+    <title>艾媒咨询 | 2026年中国AI智能营销白皮书</title>
+    <link>https://www.iimedia.cn/c400/111150.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/111150.html</guid>
+    <pubDate>Wed, 25 Nov 2026 12:53:20 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
@@ -343,54 +415,6 @@ Points: 45
     <description>The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.</description>
   </item>
   <item>
-    <title>完整议程！第二十一届中国IDC产业年度大典（IDCC2026）</title>
-    <link>https://www.qbitai.com/2026/11/512532.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512532.html</guid>
-    <pubDate>Wed, 25 Nov 2026 08:18:54 +0000</pubDate>
-    <source>量子位</source>
-    <description>第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办</description>
-  </item>
-  <item>
-    <title>芯片研发上云后，沐曦和火山引擎一起走进更多AI应用现场</title>
-    <link>https://www.leiphone.com/category/industrynews/qpNTm1Kc6QN6mVY3.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/qpNTm1Kc6QN6mVY3.html</guid>
-    <pubDate>Wed, 25 Nov 2026 10:20:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>芯片研发不同阶段，算力需求可能相差数倍。低峰期，按峰值配置的固定资源容易闲置；流片前的冲刺阶段，算力又可能在短时间内不足。与火山引擎合作后，沐曦股份逐步将科学计算从IDC托管迁移至云上，同配置最新机型的测试效率提升40%。这只是双方合作的一部分。研发算力之外，沐曦股份还将开发者平台和内部IT业务逐步迁移至火山引擎，并与火山引擎联合探索“GPU算力＋智能体平台”的行业方案。双方的关系，正从云服务供需走向能力互补的产业生态合作。科学计算全量上云，支撑芯片研发提速芯片研发不同阶段对算力的需求差异明显：前端验证仿真更依赖CPU主频，后端设计需要大内存和高性能存储；批量仿真、流片冲刺时，算力需求还可能增</description>
-  </item>
-  <item>
-    <title>RoboTrack: Point tracking for real-world robotic manipulation</title>
-    <link>https://huggingface.co/blog/allenai/robotrack</link>
-    <guid isPermaLink="true">https://huggingface.co/blog/allenai/robotrack</guid>
-    <pubDate>Mon, 23 Nov 2026 17:20:37 +0000</pubDate>
-    <source>Hugging Face 博客</source>
-  </item>
-  <item>
-    <title>Google continues to accelerate its release cadence with Gemini 4 NeonNovember 18, 2026</title>
-    <link>https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain</guid>
-    <pubDate>Thu, 19 Nov 2026 02:33:52 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
-    <title>Enterprise Support</title>
-    <link>https://huggingface.co/support</link>
-    <guid isPermaLink="true">https://huggingface.co/support</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>Marginalia Search, Money, C++, Rust, AI, Stuff</title>
-    <link>https://www.marginalia.nu/log/a_141_marginalia_update/</link>
-    <guid isPermaLink="true">https://www.marginalia.nu/log/a_141_marginalia_update/</guid>
-    <pubDate>Wed, 25 Nov 2026 03:47:42 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/
-Comments URL: https://news.ycombinator.com/item?id=50638220
-Points: 35
-# Comments: 6</description>
-  </item>
-  <item>
     <title>2026-11-23 AI 日报 · Lean确认Claude协作黎曼猜想证明，可灵增资后估值近180亿美元</title>
     <link>https://daily.ai225.com/daily/2026-11-23</link>
     <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-23</guid>
@@ -399,28 +423,19 @@ Points: 35
     <description>本期聚焦 AI 数学推理与产业动态。Lean FRO 与 Mathlib 社区确认 Claude 协作完成的黎曼猜想形式化证明正确，同一数学家另联合纽约大学学者发布 Navier-Stokes 爆破证明。可灵 AI 完成约 198 亿元增资，转为快手仍控股的独立经营主体，投后估值近 180 亿美元；OpenAI 与 Anthropic 高管讨论限制 AI 节奏，微软支持并披露 MAI-2 数据；METR 警告模型进步已快于安全评估能力。算力上，曙光 8000 支撑科研团队获 ACM 戈登·贝尔奖，AWS 推出 TorchNeuron。</description>
   </item>
   <item>
-    <title>In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy</title>
-    <link>https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/</guid>
-    <pubDate>Tue, 24 Nov 2026 21:48:27 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.</description>
-  </item>
-  <item>
-    <title>Tidal will start banning AI-generated music next month</title>
-    <link>https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban</link>
-    <guid isPermaLink="true">https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban</guid>
-    <pubDate>Tue, 24 Nov 2026 17:17:09 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labe</description>
-  </item>
-  <item>
     <title>Introducing Tool Retrieval in the Gemini API</title>
     <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
     <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</guid>
     <pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
     <source>Google AI 博客</source>
     <description>Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.</description>
+  </item>
+  <item>
+    <title>Introducing Gemini 4 Neon</title>
+    <link>https://deepmind.google/blog/introducing-gemini-4-neon/</link>
+    <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-neon/</guid>
+    <pubDate>Wed, 18 Nov 2026 21:35:43 +0000</pubDate>
+    <source>Google DeepMind</source>
   </item>
   <item>
     <title>How Intentful uses dots to make more time for growth</title>
@@ -466,13 +481,6 @@ Points: 35
     <source>Product Hunt</source>
   </item>
   <item>
-    <title>Genie 4 is now available</title>
-    <link>https://deepmind.google/blog/genie-4-is-now-available/</link>
-    <guid isPermaLink="true">https://deepmind.google/blog/genie-4-is-now-available/</guid>
-    <pubDate>Wed, 18 Nov 2026 18:13:42 +0000</pubDate>
-    <source>Google DeepMind</source>
-  </item>
-  <item>
     <title>ActionsCI/CD and automation</title>
     <link>https://github.com/features/actions</link>
     <guid isPermaLink="true">https://github.com/features/actions</guid>
@@ -480,10 +488,74 @@ Points: 35
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>艾媒咨询 | 2026年中国AI智能营销白皮书</title>
-    <link>https://www.iimedia.cn/c400/111150.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c400/111150.html</guid>
-    <pubDate>Wed, 25 Nov 2026 12:53:20 +0000</pubDate>
+    <title>Google continues to accelerate its release cadence with Gemini 4 NeonNovember 18, 2026</title>
+    <link>https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain</guid>
+    <pubDate>Thu, 19 Nov 2026 02:33:52 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>Inference Providers</title>
+    <link>https://huggingface.co/inference/models</link>
+    <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>Amazon is reportedly in talks to end Muse AI shopping block</title>
+    <link>https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions</link>
+    <guid isPermaLink="true">https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions</guid>
+    <pubDate>Wed, 25 Nov 2026 14:12:33 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's a</description>
+  </item>
+  <item>
+    <title>Rumors swirling that labs might have cracked Factoring in P</title>
+    <link>https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/</link>
+    <guid isPermaLink="true">https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/</guid>
+    <pubDate>Wed, 25 Nov 2026 15:08:44 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/
+Comments URL: https://news.ycombinator.com/item?id=50643065
+Points: 432
+# Comments: 302</description>
+  </item>
+  <item>
+    <title>Want to buy your kid an AI toy this Christmas? Not in New York</title>
+    <link>https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/</guid>
+    <pubDate>Wed, 25 Nov 2026 18:11:46 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.</description>
+  </item>
+  <item>
+    <title>Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
+    <link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
+    <guid isPermaLink="true">https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</guid>
+    <pubDate>Tue, 24 Nov 2026 16:34:13 +0000</pubDate>
+    <source>Hugging Face 博客</source>
+  </item>
+  <item>
+    <title>算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划</title>
+    <link>https://www.qbitai.com/2026/11/512582.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512582.html</guid>
+    <pubDate>Wed, 25 Nov 2026 14:21:20 +0000</pubDate>
+    <source>量子位</source>
+    <description>11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。</description>
+  </item>
+  <item>
+    <title>九章云极携手多方战略合作，物理AI工厂生态协作走进真实场景</title>
+    <link>https://www.leiphone.com/category/chips/JWelmQaWCBCTOJi3.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/chips/JWelmQaWCBCTOJi3.html</guid>
+    <pubDate>Wed, 25 Nov 2026 13:59:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>11月25日，在2026物理AI行业峰会暨九章云极智算生态大会上，北京九章云极科技股份有限公司（九章云极DataCanvas，下称“九章云极”）与深圳市龙华区工业和信息化局、北京清程智汇有限公司、深圳市怡亚通供应链股份有限公司签署物理AI工厂项目战略合作协议；另外两场签约中，九章云极分别与佳都科技集团股份有限公司、北京数字政通科技股份有限公司签署AI算力产业协同战略合作协议。物理AI正处在一个关键节点：机器人、世界模型与仿真软件相继通过技术验证，但跨过从实验室到产线的鸿沟，需要的不仅是算法突破，更是工程化的系统能力。模型在仿真环境里跑得再好，到了真实产线上也可能因为环境噪声、传感器误差和动力学</description>
+  </item>
+  <item>
+    <title>艾媒咨询 | 2026年全球AI漫剧行业投融资数据分析简报</title>
+    <link>https://www.iimedia.cn/c400/110974.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/110974.html</guid>
+    <pubDate>Wed, 25 Nov 2026 02:27:02 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
@@ -495,54 +567,6 @@ Points: 35
     <description>A new test assumes AI agents can go rogue—and asks whether they can resist temptation.</description>
   </item>
   <item>
-    <title>A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆</title>
-    <link>https://www.qbitai.com/2026/11/512515.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512515.html</guid>
-    <pubDate>Wed, 25 Nov 2026 07:46:52 +0000</pubDate>
-    <source>量子位</source>
-    <description>OpenAI这下要有俩Tibo了</description>
-  </item>
-  <item>
-    <title>独家丨哥大博士创业做眼动追踪，已获 1800 万种子轮融资</title>
-    <link>https://www.leiphone.com/category/weiwu/4Hb8s6tRcpRrICqZ.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/4Hb8s6tRcpRrICqZ.html</guid>
-    <pubDate>Wed, 25 Nov 2026 10:19:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>创始人贾璋曾在苹果开创“原彩显示”技术，并与联合创始人陈子泰在 Meta 共事多年。作者丨黄艳冰编辑丨姚单雷峰网·鲸犀独家获悉，观格科技已完成 1800 万元种子轮融资，并取得香港理工大学相关技术许可。目前，公司新一轮融资也即将完成，创维投资或担任领投方。观格科技成立于 2024 年，专注传感技术和 AI 算法，以及应用于 XR 装置关键技术的解决方案。核心团队横跨科技企业与高校科研领域。创始人兼 CEO 贾璋（Jerry Jia）本科毕业于北京大学物理系，后获哥伦比亚大学材料科学与工程博士学位。他先后任职苹果、 Meta 十余年，是苹果“原彩显示”功能开创者，获国际信息显示学会 （SID）年</description>
-  </item>
-  <item>
-    <title>How to build and maintain an agentic evaluation</title>
-    <link>https://huggingface.co/blog/agentic-evals</link>
-    <guid isPermaLink="true">https://huggingface.co/blog/agentic-evals</guid>
-    <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-    <source>Hugging Face 博客</source>
-  </item>
-  <item>
-    <title>OpenAI has the #2 model in the Intelligence Index with the release of GPT-6.2 Astra and GPT-6.2 SolNovember 17, 2026</title>
-    <link>https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol</guid>
-    <pubDate>Wed, 25 Nov 2026 05:33:50 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
-    <title>Inference Providers</title>
-    <link>https://huggingface.co/inference/models</link>
-    <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>Serving Qwen via AWS Lambdas for fun and 80x negative profit</title>
-    <link>https://noahbuilt.it/writing/qwen-on-5600-lambdas</link>
-    <guid isPermaLink="true">https://noahbuilt.it/writing/qwen-on-5600-lambdas</guid>
-    <pubDate>Wed, 25 Nov 2026 03:28:06 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://noahbuilt.it/writing/qwen-on-5600-lambdas
-Comments URL: https://news.ycombinator.com/item?id=50638070
-Points: 27
-# Comments: 7</description>
-  </item>
-  <item>
     <title>2026-11-22 AI 日报 · 字节与高校开源 Axion 1.0，苹果发布 Depth Pro 2，群联展 NPU 硬盘</title>
     <link>https://daily.ai225.com/daily/2026-11-22</link>
     <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-22</guid>
@@ -551,28 +575,19 @@ Points: 27
     <description>今日 AI 领域在开源模型、智能体工程与基础设施方面迎来多项进展。字节跳动联合美国高校开源智能体 Axion 1.0；苹果发布单目深度估计模型 Depth Pro 2 并开放代码与权重；OpenAI 发布 GPT-6.2 Astra 与 Sol 新提示词模板并调整 API 行为；AWS 推出 HyperPod 全局推理网关，Hugging Face 与蚂蚁 OceanBase 团队分别围绕智能体适配与跨对话记忆推出方案。此外，群联展示内置 NPU 固态硬盘，联合国未能就自主武器监管达成协议。</description>
   </item>
   <item>
-    <title>Even the best AI agents struggle with everyday life</title>
-    <link>https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/</guid>
-    <pubDate>Tue, 24 Nov 2026 21:33:29 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.</description>
-  </item>
-  <item>
-    <title>Jensen Huang deepfakes are the hot new AI slop</title>
-    <link>https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes</link>
-    <guid isPermaLink="true">https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes</guid>
-    <pubDate>Tue, 24 Nov 2026 16:30:00 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive an</description>
-  </item>
-  <item>
     <title>Walter Isaacson on curiosity and creativity in the AI age.</title>
     <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</link>
     <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</guid>
     <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
     <source>Google AI 博客</source>
     <description>Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.</description>
+  </item>
+  <item>
+    <title>Genie 4 is now available</title>
+    <link>https://deepmind.google/blog/genie-4-is-now-available/</link>
+    <guid isPermaLink="true">https://deepmind.google/blog/genie-4-is-now-available/</guid>
+    <pubDate>Wed, 18 Nov 2026 18:13:42 +0000</pubDate>
+    <source>Google DeepMind</source>
   </item>
   <item>
     <title>How iFood scales coding agents across 15,000 repositories</title>
@@ -624,10 +639,74 @@ Points: 27
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>艾媒咨询 | 2026年全球AI漫剧行业投融资数据分析简报</title>
-    <link>https://www.iimedia.cn/c400/110974.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c400/110974.html</guid>
-    <pubDate>Wed, 25 Nov 2026 02:27:02 +0000</pubDate>
+    <title>OpenAI has the #2 model in the Intelligence Index with the release of GPT-6.2 Astra and GPT-6.2 SolNovember 17, 2026</title>
+    <link>https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol</guid>
+    <pubDate>Wed, 25 Nov 2026 05:33:50 +0000</pubDate>
+    <source>Artificial Analysis 智力指数榜</source>
+  </item>
+  <item>
+    <title>Inference Endpoints</title>
+    <link>https://huggingface.co/inference-endpoints</link>
+    <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>Has vibe coding made open source the new normal for synths?</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware</link>
+    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware</guid>
+    <pubDate>Wed, 25 Nov 2026 13:00:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last se</description>
+  </item>
+  <item>
+    <title>Gemini refused to give me the lyrics to Twinkle Twinkle Little Star</title>
+    <link>https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F</link>
+    <guid isPermaLink="true">https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F</guid>
+    <pubDate>Wed, 25 Nov 2026 04:03:33 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F
+Comments URL: https://news.ycombinator.com/item?id=50638320
+Points: 45
+# Comments: 32</description>
+  </item>
+  <item>
+    <title>Character.AI’s plan to auction off users’ private chats challenged by state AGs</title>
+    <link>https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/</guid>
+    <pubDate>Wed, 25 Nov 2026 17:35:58 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.</description>
+  </item>
+  <item>
+    <title>RoboTrack: Point tracking for real-world robotic manipulation</title>
+    <link>https://huggingface.co/blog/allenai/robotrack</link>
+    <guid isPermaLink="true">https://huggingface.co/blog/allenai/robotrack</guid>
+    <pubDate>Mon, 23 Nov 2026 17:20:37 +0000</pubDate>
+    <source>Hugging Face 博客</source>
+  </item>
+  <item>
+    <title>逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试</title>
+    <link>https://www.qbitai.com/2026/11/512683.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512683.html</guid>
+    <pubDate>Wed, 25 Nov 2026 14:20:24 +0000</pubDate>
+    <source>量子位</source>
+    <description>贯通具⾝智能研发流程</description>
+  </item>
+  <item>
+    <title>九章云极开放两大接口，携手伙伴共建物理AI产业生态</title>
+    <link>https://www.leiphone.com/category/chips/omZ0PFr6zVtmUnap.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/chips/omZ0PFr6zVtmUnap.html</guid>
+    <pubDate>Wed, 25 Nov 2026 13:56:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>11月25日，在2026物理AI行业峰会暨九章云极智算生态大会上，九章云极DataCanvas宣布面向物理AI开放Physical AI Infra API和Physical AI Dev API两大接口，并联合二十余家产业伙伴成立极光物理AI产业生态联盟，推动技术连接与产业协作。两大接口分别面向物理AI的智算基础设施和专业开发工具。Physical AI Infra API面向基础设施层，提供异构算力资源的标准化接入、管理与调度能力；Physical AI Dev API则连接仿真、数据生成、模型训练与验证等专业工具和底层算力，降低研发环节的适配与协同成本。与接口开放同步推进的，是产业协作网</description>
+  </item>
+  <item>
+    <title>2026年扫地机器人升级需求洞察：耗材与噪音痛点凸显，基础体验亟待优化</title>
+    <link>https://www.iimedia.cn/c1061/120432.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/120432.html</guid>
+    <pubDate>Mon, 23 Nov 2026 03:52:04 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
@@ -639,76 +718,12 @@ Points: 27
     <description>Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.</description>
   </item>
   <item>
-    <title>华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI</title>
-    <link>https://www.qbitai.com/2026/11/512498.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512498.html</guid>
-    <pubDate>Wed, 25 Nov 2026 06:49:27 +0000</pubDate>
-    <source>量子位</source>
-    <description>复杂场景三维建模成本降至10美元以内</description>
-  </item>
-  <item>
-    <title>AI加速酒店从标准化到"千店千策"，中国饭店协会联合千问办公发布酒旅行业白皮书</title>
-    <link>https://www.leiphone.com/category/industrynews/PiVtVm8Sy8CGtTb1.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/PiVtVm8Sy8CGtTb1.html</guid>
-    <pubDate>Wed, 25 Nov 2026 09:32:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>11 月 25 日，在2026中国饭店业高质量大会上，中国饭店协会联合千问办公发布《酒旅行业白皮书——从岗位、门店到千城万店的AI经营实践》。白皮书指出，酒旅行业的增长重心正从标准化转向个性化：过去，行业主要依赖物业、品牌来扩张；如今，单店经营质量更受关注。AI 正渗入行业全链条管理，从项目筹建、品质巡检到经营诊断、宾客服务，通过“千店千策”协助酒店转型。  图说：中国饭店协会联合千问办公发布《酒旅行业白皮书——从岗位、门店到千城万店的AI经营实践》 中国是全球规模最大的酒旅市场之一。根据《2026中国酒店业发展报告》，截至 2025 年末，全国酒店业设施约 37.5 万家，客房连锁化率 41</description>
-  </item>
-  <item>
-    <title>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
-    <link>https://huggingface.co/blog/inkling2mini</link>
-    <guid isPermaLink="true">https://huggingface.co/blog/inkling2mini</guid>
-    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-    <source>Hugging Face 博客</source>
-  </item>
-  <item>
-    <title>Multimodal Knowledge Agent (MKA) benchmark: testing knowledge work capabilities with complex visual filesNovember 10, 2026</title>
-    <link>https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</guid>
-    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
-    <source>Artificial Analysis 智力指数榜</source>
-  </item>
-  <item>
-    <title>Inference Endpoints</title>
-    <link>https://huggingface.co/inference-endpoints</link>
-    <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>Top open problems in mathematics ranked by LLM-assessed importance</title>
-    <link>https://www.proofatlas.ai/open-problems/</link>
-    <guid isPermaLink="true">https://www.proofatlas.ai/open-problems/</guid>
-    <pubDate>Wed, 25 Nov 2026 03:01:36 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://www.proofatlas.ai/open-problems/
-Comments URL: https://news.ycombinator.com/item?id=50637871
-Points: 21
-# Comments: 4</description>
-  </item>
-  <item>
     <title>2026-11-21 AI 日报 · 英伟达暴跌拖累 AI 板块；Anthropic 数学家宣称携手 Claude 证出黎曼猜想</title>
     <link>https://daily.ai225.com/daily/2026-11-21</link>
     <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-21</guid>
     <pubDate>Sat, 21 Nov 2026 00:54:02 +0000</pubDate>
     <source>AI 日报 · AI225</source>
     <description>今日 AI 行业冷热交织：资本市场承压，受换帅风波与估值担忧影响，英伟达单日大跌 14%、市值较峰值蒸发 2.73 万亿美元，拖累纳指创 2020 年来最差单周表现；技术与产业层面则持续推进，Anthropic 数学家宣称与 Claude 合作找到黎曼猜想证明并公开 Lean 代码，学界正展开验证。此外，贝佐斯出任 410 亿美元估值公司 Prometheus 联席 CEO 押注物理工程 AI，Thinking Machines Lab 发布循环 MoE 模型 Inkling 2 Mini，AI 路由数据泄露与后训练机制研究亦引发关注。</description>
-  </item>
-  <item>
-    <title>Walmart teams up with Meta to bring Black Friday deals to AI agent Muse</title>
-    <link>https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/</guid>
-    <pubDate>Tue, 24 Nov 2026 21:32:38 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.</description>
-  </item>
-  <item>
-    <title>The New York Times warns photographers not to update Photoshop over AI features</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features</link>
-    <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features</guid>
-    <pubDate>Tue, 24 Nov 2026 16:09:23 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI "in ways that may not be apparent to users." In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and</description>
   </item>
   <item>
     <title>The Gemini app is now available on lower-memory Android devices.</title>
@@ -753,20 +768,6 @@ Points: 21
     <guid isPermaLink="true">https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/</guid>
     <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
     <source>Meta AI 博客</source>
-  </item>
-  <item>
-    <title>Gauth Personal Study Agent</title>
-    <link>https://www.producthunt.com/products/gauth-ai-course</link>
-    <guid isPermaLink="true">https://www.producthunt.com/products/gauth-ai-course</guid>
-    <pubDate>Fri, 20 Nov 2026 17:12:34 +0000</pubDate>
-    <source>Product Hunt</source>
-  </item>
-  <item>
-    <title>CodespacesCloud development environments</title>
-    <link>https://github.com/features/codespaces</link>
-    <guid isPermaLink="true">https://github.com/features/codespaces</guid>
-    <pubDate>Mon, 23 Nov 2026 09:02:59 +0000</pubDate>
-    <source>GitHub Trending</source>
   </item>
 </channel>
 </rss>
