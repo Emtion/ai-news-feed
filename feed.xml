@@ -5,7 +5,33 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Thu, 26 Nov 2026 15:15:12 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 23:52:52 +0000</lastBuildDate>
+  <item>
+    <title>Team &amp; Enterprise</title>
+    <link>https://huggingface.co/enterprise</link>
+    <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>AI made self-hosting fun again</title>
+    <link>https://janlukas.blog/posts/ai-self-hosting</link>
+    <guid isPermaLink="true">https://janlukas.blog/posts/ai-self-hosting</guid>
+    <pubDate>Thu, 26 Nov 2026 21:47:45 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://janlukas.blog/posts/ai-self-hosting
+Comments URL: https://news.ycombinator.com/item?id=50660180
+Points: 163
+# Comments: 94</description>
+  </item>
+  <item>
+    <title>Nvidia hits pause on chip shipments to Southeast Asia</title>
+    <link>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</guid>
+    <pubDate>Thu, 26 Nov 2026 20:03:54 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.</description>
+  </item>
   <item>
     <title>381个AI直播冲刺证明P=NP！把GitHub干崩了</title>
     <link>https://www.qbitai.com/2026/11/513021.html</link>
@@ -15,12 +41,12 @@
     <description>已跑了超过一万次会话，在Lean4里验证通过了2400多条引理</description>
   </item>
   <item>
-    <title>直播 25 天训出一个模型，五项登顶，一群 00 后的 Physical AI 实验</title>
-    <link>https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html</guid>
-    <pubDate>Thu, 26 Nov 2026 12:50:00 +0000</pubDate>
+    <title>深耕核心零部件，钛虎机器人轻量化关节模组Lite-1系列助力整机降本增效</title>
+    <link>https://www.leiphone.com/category/industrynews/hYv4Caentt6byJhj.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/hYv4Caentt6byJhj.html</guid>
+    <pubDate>Thu, 26 Nov 2026 13:45:00 +0000</pubDate>
     <source>雷峰网</source>
-    <description> 聊聊榜单之外的 Motubrain 2.0，和它背后那支不太一样的团队。    作者丨齐铖湧    编辑丨岑   峰                                                                                                       近日，行业独角兽企业生数科技正式发布 Motubrain 2.0，并宣布将于近期开源。这次发布包括一个 20B 参数的世界动作模型（WAM），以及一套名为 Motubrain-Harness 的智能体系统。过去一个月里，生数科技把 Motubrain 2.0 的预训练搬上了公</description>
+    <description>近日，钛虎机器人科技（上海）有限公司（以下简称“钛虎机器人”）正式发布面向机器人批量落地场景的轻量化关节模组Lite-1系列。该产品通过结构精简，驱控板与编码器一体化设计，在压缩体积、提升集成度的同时保持控制精度与运行稳定性，为人形机器人整机设计与规模化生产提供了新的核心零部件选择。当前，人形机器人产业正从“能走能动”的样机验证阶段，加速迈向“可批量、可交付、可落地”的产业化阶段。关节模组是机器人的核心运动部件，其体积、集成度、走线方式与装配一致性，直接影响整机结构、成本与量产节奏。头部、手臂、腰部等部位空间有限，对关节的轴向尺寸提出了更高要求；多关节带来的复杂线束，也增加了走线与装配难度。关</description>
   </item>
   <item>
     <title>Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
@@ -53,29 +79,11 @@
     <source>Product Hunt</source>
   </item>
   <item>
-    <title>Moat: Your OpenRouter Replacement</title>
-    <link>https://commandcode.ai/moat</link>
-    <guid isPermaLink="true">https://commandcode.ai/moat</guid>
-    <pubDate>Thu, 26 Nov 2026 06:32:48 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://commandcode.ai/moat
-Comments URL: https://news.ycombinator.com/item?id=50652184
-Points: 139
-# Comments: 93</description>
-  </item>
-  <item>
-    <title>11月26日AI新产品讯息：OpenAI推出“雅典娜”数据工具、千问Go全面开放免费代打电话服务、小鹏发布图灵世界模型WorldGPT</title>
-    <link>https://www.iimedia.cn/c1088/120834.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1088/120834.html</guid>
-    <pubDate>Thu, 26 Nov 2026 05:02:16 +0000</pubDate>
+    <title>跳出“卖萌摆件”误区：从Cami看后装车载实体AI机器人的破局路径 ——基于艾媒鼎榜《2026中国车载实体AI机器人品牌10强》产业观察</title>
+    <link>https://www.iimedia.cn/c1091/120724.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1091/120724.html</guid>
+    <pubDate>Tue, 24 Nov 2026 17:43:05 +0000</pubDate>
     <source>艾媒网</source>
-  </item>
-  <item>
-    <title>Team &amp; Enterprise</title>
-    <link>https://huggingface.co/enterprise</link>
-    <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
   </item>
   <item>
     <title>2026-11-26 AI 日报 · 标普示警英伟达治理风险，FCC授权SpaceX部署百万颗AI卫星</title>
@@ -84,14 +92,6 @@ Points: 139
     <pubDate>Thu, 26 Nov 2026 00:53:26 +0000</pubDate>
     <source>AI 日报 · AI225</source>
     <description>今日AI行业在治理合规、算力基建与模型应用多点推进。标普将英伟达信用评级列入负面观察，称其存在公司治理与“关键人物”风险；FCC授权SpaceX部署至多100万颗AI数据中心卫星。产品与模型侧，OpenAI面向企业试点“Private Inference”隐私推理，Sand.ai发布视频模型MAGI-2并计划未来开源，国内三部委印发支持AI应用的新一代通信网方案。政策方面，42州总检察长介入以期阻止Character.AI拍卖用户聊天记录，arXiv研究则在代理蒸馏与量化推理上给出实验新进展。</description>
-  </item>
-  <item>
-    <title>S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks</title>
-    <link>https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/</guid>
-    <pubDate>Wed, 25 Nov 2026 22:44:32 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.</description>
   </item>
   <item>
     <title>Artificial Analysis</title>
@@ -176,6 +176,32 @@ Points: 139
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Hugging Face PRO</title>
+    <link>https://huggingface.co/pro</link>
+    <guid isPermaLink="true">https://huggingface.co/pro</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>Top-cited AI scientists at four US companies compared</title>
+    <link>https://topcitedscientists.com/figures/ai-at-four-us-companies/</link>
+    <guid isPermaLink="true">https://topcitedscientists.com/figures/ai-at-four-us-companies/</guid>
+    <pubDate>Thu, 26 Nov 2026 19:44:31 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/
+Comments URL: https://news.ycombinator.com/item?id=50658910
+Points: 23
+# Comments: 11</description>
+  </item>
+  <item>
+    <title>Grand Theft Auto VI proves why efficiency isn’t a virtue</title>
+    <link>https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/</guid>
+    <pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.</description>
+  </item>
+  <item>
     <title>AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用</title>
     <link>https://www.qbitai.com/2026/11/512981.html</link>
     <guid isPermaLink="true">https://www.qbitai.com/2026/11/512981.html</guid>
@@ -184,12 +210,12 @@ Points: 139
     <description>还得是科班尖子生</description>
   </item>
   <item>
-    <title>美团闪购联合行业头部品牌成立水果即时零售品质联盟，发起好商品计划“即鲜时刻”</title>
-    <link>https://www.leiphone.com/category/industrynews/sbqPRelP6WnxXGKx.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/sbqPRelP6WnxXGKx.html</guid>
-    <pubDate>Thu, 26 Nov 2026 11:24:00 +0000</pubDate>
+    <title>直播 25 天训出一个模型，五项登顶，一群 00 后的 Physical AI 实验</title>
+    <link>https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html</guid>
+    <pubDate>Thu, 26 Nov 2026 12:50:00 +0000</pubDate>
     <source>雷峰网</source>
-    <description>11月25日，美团闪购在上海举办即时零售鲜果行业沙龙。沙龙上，美团闪购联合行业头部水果品牌与供应链伙伴，正式成立水果即时零售品质联盟（以下简称“品质联盟”），并发起好商品计划“即鲜时刻”。品质联盟首批成员包括核心产区品牌商与头部供应链伙伴鑫荣懋、本来果坊、光明白茅岭农场、齐峰果业，以及百果园、切果NOW、鲜果派对等十余家优质零售商家。美团闪购将在商品开发、交付标准提升、经营方法优化三方面向联盟成员开放全套助力举措，推动行业商品品质与食安标准升级，助力鲜果行业共同把握即时零售新渠道、新商品力带来的增长新机遇。水果行业正处在向新渠道和商品力要增长动力的转型期。在沙龙的圆桌讨论环节，中国食品土畜进出</description>
+    <description> 聊聊榜单之外的 Motubrain 2.0，和它背后那支不太一样的团队。    作者丨齐铖湧    编辑丨岑   峰                                                                                                       近日，行业独角兽企业生数科技正式发布 Motubrain 2.0，并宣布将于近期开源。这次发布包括一个 20B 参数的世界动作模型（WAM），以及一套名为 Motubrain-Harness 的智能体系统。过去一个月里，生数科技把 Motubrain 2.0 的预训练搬上了公</description>
   </item>
   <item>
     <title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
@@ -222,29 +248,11 @@ Points: 139
     <source>Product Hunt</source>
   </item>
   <item>
-    <title>OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster</title>
-    <link>https://twitter.com/thsottiaux/status/2125784147889393806</link>
-    <guid isPermaLink="true">https://twitter.com/thsottiaux/status/2125784147889393806</guid>
-    <pubDate>Thu, 26 Nov 2026 03:36:58 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://twitter.com/thsottiaux/status/2125784147889393806
-Comments URL: https://news.ycombinator.com/item?id=50651117
-Points: 39
-# Comments: 14</description>
-  </item>
-  <item>
-    <title>跳出“卖萌摆件”误区：从Cami看后装车载实体AI机器人的破局路径 ——基于艾媒鼎榜《2026中国车载实体AI机器人品牌10强》产业观察</title>
-    <link>https://www.iimedia.cn/c1091/120724.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1091/120724.html</guid>
-    <pubDate>Tue, 24 Nov 2026 17:43:05 +0000</pubDate>
+    <title>艾媒一周热评381期 | 当Token走进大众消费：买算力像充话费一样简单；商业秘密｜当399元羽绒</title>
+    <link>https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
     <source>艾媒网</source>
-  </item>
-  <item>
-    <title>Hugging Face PRO</title>
-    <link>https://huggingface.co/pro</link>
-    <guid isPermaLink="true">https://huggingface.co/pro</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
   </item>
   <item>
     <title>2026-11-25 AI 日报 · GPT-6 展露蛋白质设计能力，文心 5.5 Flash Preview 开源</title>
@@ -253,14 +261,6 @@ Points: 39
     <pubDate>Wed, 25 Nov 2026 00:57:03 +0000</pubDate>
     <source>AI 日报 · AI225</source>
     <description>今日 AI 在模型、智能体与安全治理上同时推进：OpenAI 称 GPT-6 系列可仅凭推理设计蛋白质并在五个靶点现结合证据；百度以 Apache 2.0 开源文心 5.5 Flash Preview，vLLM 首日支持。Anthropic 公测 MCP 技能与桌面应用安装，股价却跌破 83 美元发行价；黄仁勋复职后首次全员会致歉。国内华为云开放 AgentArts 智能体平台。安全方面，Amazon 披露 AI 智能体自主利用零日漏洞。</description>
-  </item>
-  <item>
-    <title>OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work</title>
-    <link>https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/</guid>
-    <pubDate>Wed, 25 Nov 2026 20:03:27 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.</description>
   </item>
   <item>
     <title>Can language models drive a humanoid robot? Introducing AA-Robotics-Sim v0.1November 25, 2026</title>
@@ -337,6 +337,32 @@ Points: 39
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Enterprise Support</title>
+    <link>https://huggingface.co/support</link>
+    <guid isPermaLink="true">https://huggingface.co/support</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email</title>
+    <link>https://techstackups.com/articles/google-workspace-ai-agents-mcp/</link>
+    <guid isPermaLink="true">https://techstackups.com/articles/google-workspace-ai-agents-mcp/</guid>
+    <pubDate>Thu, 26 Nov 2026 09:44:23 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/
+Comments URL: https://news.ycombinator.com/item?id=50653477
+Points: 205
+# Comments: 185</description>
+  </item>
+  <item>
+    <title>S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks</title>
+    <link>https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/</guid>
+    <pubDate>Wed, 25 Nov 2026 22:44:32 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.</description>
+  </item>
+  <item>
     <title>90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守</title>
     <link>https://www.qbitai.com/2026/11/512972.html</link>
     <guid isPermaLink="true">https://www.qbitai.com/2026/11/512972.html</guid>
@@ -345,12 +371,12 @@ Points: 39
     <description>全栈方案破解工业机器人连续作业难题</description>
   </item>
   <item>
-    <title>蔚来到底应该值多少钱？</title>
-    <link>https://www.leiphone.com/category/transportation/BqLLEaO4CLvE4tnG.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/transportation/BqLLEaO4CLvE4tnG.html</guid>
-    <pubDate>Thu, 26 Nov 2026 11:23:00 +0000</pubDate>
+    <title>美团闪购联合行业头部品牌成立水果即时零售品质联盟，发起好商品计划“即鲜时刻”</title>
+    <link>https://www.leiphone.com/category/industrynews/sbqPRelP6WnxXGKx.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/sbqPRelP6WnxXGKx.html</guid>
+    <pubDate>Thu, 26 Nov 2026 11:24:00 +0000</pubDate>
     <source>雷峰网</source>
-    <description>蔚来到底应该值多少钱？要回答这个问题，不妨先看蔚来内部一个看似反直觉的决定。2025年的某一天，蔚来内部正在进行一场头脑风暴，聊到了一件放在过去很难发生的事：放弃高通旗舰芯片的首发。当时，研发已经投入，各项准备也已就绪。但团队最后算了一笔账，决定先不上了。“万事俱备，只等首发，但我们算了一下，当时CBU已经深入人心了，算那笔账算不过来，所以我们真的不搞了。”Ted（蔚来产品体验高级副总裁李天舒）回忆道。这件事放在以前，蔚来势必要争取到首发。蔚来是一家以技术创新为底色的公司，早在2023年就已有覆盖12个领域的全栈技术布局。对这样的公司来说，首发很有吸引力。何况研发的钱已经花了，临门一脚停下来，</description>
+    <description>11月25日，美团闪购在上海举办即时零售鲜果行业沙龙。沙龙上，美团闪购联合行业头部水果品牌与供应链伙伴，正式成立水果即时零售品质联盟（以下简称“品质联盟”），并发起好商品计划“即鲜时刻”。品质联盟首批成员包括核心产区品牌商与头部供应链伙伴鑫荣懋、本来果坊、光明白茅岭农场、齐峰果业，以及百果园、切果NOW、鲜果派对等十余家优质零售商家。美团闪购将在商品开发、交付标准提升、经营方法优化三方面向联盟成员开放全套助力举措，推动行业商品品质与食安标准升级，助力鲜果行业共同把握即时零售新渠道、新商品力带来的增长新机遇。水果行业正处在向新渠道和商品力要增长动力的转型期。在沙龙的圆桌讨论环节，中国食品土畜进出</description>
   </item>
   <item>
     <title>Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems</title>
@@ -383,29 +409,11 @@ Points: 39
     <source>Product Hunt</source>
   </item>
   <item>
-    <title>Jev is probably Qwen3.5-35B-A3B</title>
-    <link>https://modaic.dev/blog/latency-doesnt-lie</link>
-    <guid isPermaLink="true">https://modaic.dev/blog/latency-doesnt-lie</guid>
-    <pubDate>Wed, 25 Nov 2026 22:57:04 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://modaic.dev/blog/latency-doesnt-lie
-Comments URL: https://news.ycombinator.com/item?id=50648823
-Points: 271
-# Comments: 75</description>
-  </item>
-  <item>
-    <title>艾媒一周热评381期 | 当Token走进大众消费：买算力像充话费一样简单；商业秘密｜当399元羽绒</title>
-    <link>https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42</guid>
-    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
+    <title>2026年中国消费者认为AI大模型的发展趋势：认为“很好”的占比51.4%</title>
+    <link>https://www.iimedia.cn/c1061/111224.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1061/111224.html</guid>
+    <pubDate>Fri, 20 Nov 2026 02:19:05 +0000</pubDate>
     <source>艾媒网</source>
-  </item>
-  <item>
-    <title>Enterprise Support</title>
-    <link>https://huggingface.co/support</link>
-    <guid isPermaLink="true">https://huggingface.co/support</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
   </item>
   <item>
     <title>2026-11-24 AI 日报 · 黄仁勋复职英伟达CEO董事会全票通过，亚马逊75亿美元收购Decart优化技术</title>
@@ -414,14 +422,6 @@ Points: 271
     <pubDate>Tue, 24 Nov 2026 00:53:30 +0000</pubDate>
     <source>AI 日报 · AI225</source>
     <description>今日AI领域迎来重大人事与商业转折：英伟达董事会全票恢复黄仁勋的CEO与董事职务，历时不到两周的高层风波告一段落，股价盘前涨超30%；亚马逊斥资约75亿美元收购AI初创公司Decart的技术与团队，强化自研芯片竞争力。产品层面，Anthropic推出测试版Claude Ship代码代理，智谱发布GLM-5.4技术公告，OpenAI联手思科开源运行时防护工具Shirudo。同时，xAI被曝向竞争对手出租算力，SpaceX因Grok深伪内容遭两州起诉，公安部公布10起AI造谣案件。</description>
-  </item>
-  <item>
-    <title>Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it</title>
-    <link>https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/</guid>
-    <pubDate>Wed, 25 Nov 2026 19:54:57 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.</description>
   </item>
   <item>
     <title>Thinking Machines has released Inkling 2 Mini, an open weights looped transformerNovember 20, 2026</title>
@@ -482,6 +482,32 @@ Points: 271
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Inference Providers</title>
+    <link>https://huggingface.co/inference/models</link>
+    <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>OpenAI may be in cost control mode</title>
+    <link>https://micjm.com/blog/openai-is-in-cost-control-mode/</link>
+    <guid isPermaLink="true">https://micjm.com/blog/openai-is-in-cost-control-mode/</guid>
+    <pubDate>Thu, 26 Nov 2026 07:33:12 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://micjm.com/blog/openai-is-in-cost-control-mode/
+Comments URL: https://news.ycombinator.com/item?id=50652527
+Points: 234
+# Comments: 216</description>
+  </item>
+  <item>
+    <title>OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work</title>
+    <link>https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/</guid>
+    <pubDate>Wed, 25 Nov 2026 20:03:27 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.</description>
+  </item>
+  <item>
     <title>极客公园创新大会 2027 全议程公布！</title>
     <link>https://www.qbitai.com/2026/11/512952.html</link>
     <guid isPermaLink="true">https://www.qbitai.com/2026/11/512952.html</guid>
@@ -490,12 +516,12 @@ Points: 271
     <description>今天，IF 2027 全议程揭晓。</description>
   </item>
   <item>
-    <title>美团：预计到今年年底，妙手酒店版·既白将覆盖近40万商家</title>
-    <link>https://www.leiphone.com/category/industrynews/V8W9L3t0BkCtFZPu.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/V8W9L3t0BkCtFZPu.html</guid>
-    <pubDate>Thu, 26 Nov 2026 11:20:00 +0000</pubDate>
+    <title>蔚来到底应该值多少钱？</title>
+    <link>https://www.leiphone.com/category/transportation/BqLLEaO4CLvE4tnG.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/transportation/BqLLEaO4CLvE4tnG.html</guid>
+    <pubDate>Thu, 26 Nov 2026 11:23:00 +0000</pubDate>
     <source>雷峰网</source>
-    <description>11月25日，在中国饭店业高质量大会上，美团披露酒店AI经营工具的最新进展。美团预计，到2026年底，妙手酒店版·既白将覆盖近40万家酒店商家。商家可通过美团经营后台进入既白AI查看周边市场变化、分析门店经营情况，也可以使用日常语言提问，获取价格建议和经营参考，降低商家使用门槛。据美团酒店数据，11月以来，既白AI活跃商家的线上交易额较未使用商家高7%；深度使用既白商家的订单量同比增长22%。随着AI工具融入酒店商家的日常经营，商家使用既白的场景正从数据查询延伸至经营决策。 商家用既白AI做经营诊断周环比增40%进入淡季，商家进行酒店价格调整的频率有所下降，但经营者用既白AI问询价格建议和经营</description>
+    <description>蔚来到底应该值多少钱？要回答这个问题，不妨先看蔚来内部一个看似反直觉的决定。2025年的某一天，蔚来内部正在进行一场头脑风暴，聊到了一件放在过去很难发生的事：放弃高通旗舰芯片的首发。当时，研发已经投入，各项准备也已就绪。但团队最后算了一笔账，决定先不上了。“万事俱备，只等首发，但我们算了一下，当时CBU已经深入人心了，算那笔账算不过来，所以我们真的不搞了。”Ted（蔚来产品体验高级副总裁李天舒）回忆道。这件事放在以前，蔚来势必要争取到首发。蔚来是一家以技术创新为底色的公司，早在2023年就已有覆盖12个领域的全栈技术布局。对这样的公司来说，首发很有吸引力。何况研发的钱已经花了，临门一脚停下来，</description>
   </item>
   <item>
     <title>Where scientists draw the line on AI agents</title>
@@ -528,29 +554,11 @@ Points: 271
     <source>Product Hunt</source>
   </item>
   <item>
-    <title>Bare Metal Qwen</title>
-    <link>https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os</link>
-    <guid isPermaLink="true">https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os</guid>
-    <pubDate>Wed, 25 Nov 2026 22:15:34 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os
-Comments URL: https://news.ycombinator.com/item?id=50648365
-Points: 91
-# Comments: 19</description>
-  </item>
-  <item>
-    <title>2026年中国消费者认为AI大模型的发展趋势：认为“很好”的占比51.4%</title>
-    <link>https://www.iimedia.cn/c1061/111224.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1061/111224.html</guid>
-    <pubDate>Fri, 20 Nov 2026 02:19:05 +0000</pubDate>
+    <title>11月26日AI新产品讯息：OpenAI推出“雅典娜”数据工具、千问Go全面开放免费代打电话服务、小鹏发布图灵世界模型WorldGPT</title>
+    <link>https://www.iimedia.cn/c1088/120834.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1088/120834.html</guid>
+    <pubDate>Thu, 26 Nov 2026 05:02:16 +0000</pubDate>
     <source>艾媒网</source>
-  </item>
-  <item>
-    <title>Inference Providers</title>
-    <link>https://huggingface.co/inference/models</link>
-    <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
   </item>
   <item>
     <title>2026-11-23 AI 日报 · Lean确认Claude协作黎曼猜想证明，可灵增资后估值近180亿美元</title>
@@ -559,14 +567,6 @@ Points: 91
     <pubDate>Mon, 23 Nov 2026 00:53:38 +0000</pubDate>
     <source>AI 日报 · AI225</source>
     <description>本期聚焦 AI 数学推理与产业动态。Lean FRO 与 Mathlib 社区确认 Claude 协作完成的黎曼猜想形式化证明正确，同一数学家另联合纽约大学学者发布 Navier-Stokes 爆破证明。可灵 AI 完成约 198 亿元增资，转为快手仍控股的独立经营主体，投后估值近 180 亿美元；OpenAI 与 Anthropic 高管讨论限制 AI 节奏，微软支持并披露 MAI-2 数据；METR 警告模型进步已快于安全评估能力。算力上，曙光 8000 支撑科研团队获 ACM 戈登·贝尔奖，AWS 推出 TorchNeuron。</description>
-  </item>
-  <item>
-    <title>Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’</title>
-    <link>https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/</guid>
-    <pubDate>Wed, 25 Nov 2026 19:44:24 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.</description>
   </item>
   <item>
     <title>Google continues to accelerate its release cadence with Gemini 4 NeonNovember 18, 2026</title>
@@ -626,6 +626,32 @@ Points: 91
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Inference Endpoints</title>
+    <link>https://huggingface.co/inference-endpoints</link>
+    <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>Moat: OpenRouter replacement</title>
+    <link>https://commandcode.ai/moat</link>
+    <guid isPermaLink="true">https://commandcode.ai/moat</guid>
+    <pubDate>Thu, 26 Nov 2026 06:32:48 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://commandcode.ai/moat
+Comments URL: https://news.ycombinator.com/item?id=50652184
+Points: 242
+# Comments: 135</description>
+  </item>
+  <item>
+    <title>Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it</title>
+    <link>https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/</link>
+    <guid isPermaLink="true">https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/</guid>
+    <pubDate>Wed, 25 Nov 2026 19:54:57 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.</description>
+  </item>
+  <item>
     <title>报名最后2天｜AI浪潮之中，来认识创造未来的人</title>
     <link>https://www.qbitai.com/2026/11/512942.html</link>
     <guid isPermaLink="true">https://www.qbitai.com/2026/11/512942.html</guid>
@@ -634,12 +660,12 @@ Points: 91
     <description>12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。</description>
   </item>
   <item>
-    <title>纯电大型SUV最高评级，乐道L90中保研五项指数全优</title>
-    <link>https://www.leiphone.com/category/industrynews/E8w1PtM3ODZyeSyF.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/E8w1PtM3ODZyeSyF.html</guid>
-    <pubDate>Thu, 26 Nov 2026 10:43:00 +0000</pubDate>
+    <title>美团：预计到今年年底，妙手酒店版·既白将覆盖近40万商家</title>
+    <link>https://www.leiphone.com/category/industrynews/V8W9L3t0BkCtFZPu.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/V8W9L3t0BkCtFZPu.html</guid>
+    <pubDate>Thu, 26 Nov 2026 11:20:00 +0000</pubDate>
     <source>雷峰网</source>
-    <description>2026年11月26日，中国保险汽车安全指数（C-IASI）公布最新一批碰撞测试结果。作为被抽检车型，乐道L90实现五大指数全优，获中保研纯电大型SUV最高评级。作为国内汽车安全领域最具公信力的权威评价体系之一，中保研由保险行业主导发起，标准严苛且与消费者利益深度绑定。本次测试中，乐道L90在车内乘员安全、车外行人安全、车辆辅助安全三项指数中均斩获G+最高评级；在新能源汽车专项、耐撞性与维修经济性两项指数中均获G级优秀评价，成为30万级大型SUV中唯一全优车型。依托蔚来十二年纯电技术的积累，乐道L90整车开发同步满足中欧双五星标准，通过了62项超越行业标准的碰撞验证工况。此前，乐道L90已斩获</description>
+    <description>11月25日，在中国饭店业高质量大会上，美团披露酒店AI经营工具的最新进展。美团预计，到2026年底，妙手酒店版·既白将覆盖近40万家酒店商家。商家可通过美团经营后台进入既白AI查看周边市场变化、分析门店经营情况，也可以使用日常语言提问，获取价格建议和经营参考，降低商家使用门槛。据美团酒店数据，11月以来，既白AI活跃商家的线上交易额较未使用商家高7%；深度使用既白商家的订单量同比增长22%。随着AI工具融入酒店商家的日常经营，商家使用既白的场景正从数据查询延伸至经营决策。 商家用既白AI做经营诊断周环比增40%进入淡季，商家进行酒店价格调整的频率有所下降，但经营者用既白AI问询价格建议和经营</description>
   </item>
   <item>
     <title>An Indic Voice Agent with CUGA</title>
@@ -672,29 +698,11 @@ Points: 91
     <source>Product Hunt</source>
   </item>
   <item>
-    <title>Much shorter version of GRH Lean verification from Anthropic</title>
-    <link>https://github.com/lsernau/grh-lean</link>
-    <guid isPermaLink="true">https://github.com/lsernau/grh-lean</guid>
-    <pubDate>Wed, 25 Nov 2026 21:48:10 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://github.com/lsernau/grh-lean
-Comments URL: https://news.ycombinator.com/item?id=50648050
-Points: 35
-# Comments: 9</description>
-  </item>
-  <item>
-    <title>11月25日AI新产品讯息：腾讯混元发布第三代翻译模型、华为云发布智能体伙伴开放计划、文心5.5 Flash Preview正式开源</title>
-    <link>https://www.iimedia.cn/c1088/120774.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1088/120774.html</guid>
-    <pubDate>Thu, 26 Nov 2026 05:02:16 +0000</pubDate>
+    <title>艾媒咨询 | 2026年中国AI智能营销白皮书</title>
+    <link>https://www.iimedia.cn/c400/111150.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/111150.html</guid>
+    <pubDate>Wed, 25 Nov 2026 12:53:20 +0000</pubDate>
     <source>艾媒网</source>
-  </item>
-  <item>
-    <title>Inference Endpoints</title>
-    <link>https://huggingface.co/inference-endpoints</link>
-    <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
   </item>
   <item>
     <title>2026-11-22 AI 日报 · 字节与高校开源 Axion 1.0，苹果发布 Depth Pro 2，群联展 NPU 硬盘</title>
@@ -703,14 +711,6 @@ Points: 35
     <pubDate>Sun, 22 Nov 2026 00:53:02 +0000</pubDate>
     <source>AI 日报 · AI225</source>
     <description>今日 AI 领域在开源模型、智能体工程与基础设施方面迎来多项进展。字节跳动联合美国高校开源智能体 Axion 1.0；苹果发布单目深度估计模型 Depth Pro 2 并开放代码与权重；OpenAI 发布 GPT-6.2 Astra 与 Sol 新提示词模板并调整 API 行为；AWS 推出 HyperPod 全局推理网关，Hugging Face 与蚂蚁 OceanBase 团队分别围绕智能体适配与跨对话记忆推出方案。此外，群联展示内置 NPU 固态硬盘，联合国未能就自主武器监管达成协议。</description>
-  </item>
-  <item>
-    <title>Want to buy your kid an AI toy this Christmas? Not in New York</title>
-    <link>https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/</link>
-    <guid isPermaLink="true">https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/</guid>
-    <pubDate>Wed, 25 Nov 2026 18:11:46 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.</description>
   </item>
   <item>
     <title>OpenAI has the #2 model in the Intelligence Index with the release of GPT-6.2 Astra and GPT-6.2 SolNovember 17, 2026</title>
@@ -763,12 +763,11 @@ Points: 35
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一</title>
-    <link>https://www.qbitai.com/2026/11/512916.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512916.html</guid>
-    <pubDate>Thu, 26 Nov 2026 06:41:23 +0000</pubDate>
-    <source>量子位</source>
-    <description>30秒一镜到底，可自动编排镜头</description>
+    <title>Storage Buckets</title>
+    <link>https://huggingface.co/storage</link>
+    <guid isPermaLink="true">https://huggingface.co/storage</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
   </item>
 </channel>
 </rss>

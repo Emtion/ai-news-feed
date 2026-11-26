@@ -1,9 +1,51 @@
 {
+ "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata": {
+  "title": "strata-engine/Inkling-2-Mini-Strata Image-Text-to-Text • Updated about 4 hours ago • 2.97k • 230",
+  "source": "Hugging Face Trending",
+  "ts": 1795737139.889278,
+  "desc": "",
+  "ord": 26
+ },
+ "https://janlukas.blog/posts/ai-self-hosting": {
+  "title": "AI made self-hosting fun again",
+  "source": "Hacker News 头版",
+  "ts": 1795729665.0,
+  "desc": "Article URL: https://janlukas.blog/posts/ai-self-hosting\nComments URL: https://news.ycombinator.com/item?id=50660180\nPoints: 163\n# Comments: 94",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/": {
+  "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+  "source": "TechCrunch AI",
+  "ts": 1795723434.0,
+  "desc": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+  "ord": 0
+ },
+ "https://topcitedscientists.com/figures/ai-at-four-us-companies/": {
+  "title": "Top-cited AI scientists at four US companies compared",
+  "source": "Hacker News 头版",
+  "ts": 1795722271.0,
+  "desc": "Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/\nComments URL: https://news.ycombinator.com/item?id=50658910\nPoints: 23\n# Comments: 11",
+  "ord": 1
+ },
+ "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/": {
+  "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+  "source": "TechCrunch AI",
+  "ts": 1795708800.0,
+  "desc": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+  "ord": 1
+ },
  "https://www.qbitai.com/2026/11/513021.html": {
   "title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
   "source": "量子位",
   "ts": 1795701361.0,
   "desc": "已跑了超过一万次会话，在Lean4里验证通过了2400多条引理",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/industrynews/hYv4Caentt6byJhj.html": {
+  "title": "深耕核心零部件，钛虎机器人轻量化关节模组Lite-1系列助力整机降本增效",
+  "source": "雷峰网",
+  "ts": 1795700700.0,
+  "desc": "近日，钛虎机器人科技（上海）有限公司（以下简称“钛虎机器人”）正式发布面向机器人批量落地场景的轻量化关节模组Lite-1系列。该产品通过结构精简，驱控板与编码器一体化设计，在压缩体积、提升集成度的同时保持控制精度与运行稳定性，为人形机器人整机设计与规模化生产提供了新的核心零部件选择。当前，人形机器人产业正从“能走能动”的样机验证阶段，加速迈向“可批量、可交付、可落地”的产业化阶段。关节模组是机器人的核心运动部件，其体积、集成度、走线方式与装配一致性，直接影响整机结构、成本与量产节奏。头部、手臂、腰部等部位空间有限，对关节的轴向尺寸提出了更高要求；多关节带来的复杂线束，也增加了走线与装配难度。关",
   "ord": 0
  },
  "https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html": {
@@ -76,6 +118,13 @@
   "desc": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more ",
   "ord": 0
  },
+ "https://techstackups.com/articles/google-workspace-ai-agents-mcp/": {
+  "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+  "source": "Hacker News 头版",
+  "ts": 1795686263.0,
+  "desc": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/\nComments URL: https://news.ycombinator.com/item?id=50653477\nPoints: 205\n# Comments: 185",
+  "ord": 2
+ },
  "https://www.leiphone.com/category/chips/1tx0UpMMROQn9vCW.html": {
   "title": "手表和眼镜，如何成为AI智能体的「随身感官」？",
   "source": "雷峰网",
@@ -111,6 +160,13 @@
   "desc": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
   "ord": 4
  },
+ "https://micjm.com/blog/openai-is-in-cost-control-mode/": {
+  "title": "OpenAI may be in cost control mode",
+  "source": "Hacker News 头版",
+  "ts": 1795678392.0,
+  "desc": "Article URL: https://micjm.com/blog/openai-is-in-cost-control-mode/\nComments URL: https://news.ycombinator.com/item?id=50652527\nPoints: 234\n# Comments: 216",
+  "ord": 3
+ },
  "https://www.qbitai.com/2026/11/512916.html": {
   "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
   "source": "量子位",
@@ -119,11 +175,11 @@
   "ord": 5
  },
  "https://commandcode.ai/moat": {
-  "title": "Moat: Your OpenRouter Replacement",
+  "title": "Moat: OpenRouter replacement",
   "source": "Hacker News 头版",
   "ts": 1795674768.0,
-  "desc": "Article URL: https://commandcode.ai/moat\nComments URL: https://news.ycombinator.com/item?id=50652184\nPoints: 139\n# Comments: 93",
-  "ord": 0
+  "desc": "Article URL: https://commandcode.ai/moat\nComments URL: https://news.ycombinator.com/item?id=50652184\nPoints: 242\n# Comments: 135",
+  "ord": 4
  },
  "https://www.leiphone.com/category/industrynews/7P7TJEooLlAQxqGH.html": {
   "title": "月活破百万、同比暴涨93.9%：淘宝成为韩国增速最快的电商平台",
@@ -151,21 +207,21 @@
   "source": "艾媒网",
   "ts": 1795669336.482212,
   "desc": "",
-  "ord": 0
+  "ord": 1
  },
  "https://www.iimedia.cn/c1088/120774.html": {
   "title": "11月25日AI新产品讯息：腾讯混元发布第三代翻译模型、华为云发布智能体伙伴开放计划、文心5.5 Flash Preview正式开源",
   "source": "艾媒网",
   "ts": 1795669336.482212,
   "desc": "",
-  "ord": 1
+  "ord": 2
  },
  "https://www.iimedia.cn/c1040/120824.html": {
   "title": "千问Go全面开放免费代打电话服务，专属AI助手加速融入生活场景",
   "source": "艾媒网",
   "ts": 1795669336.482212,
   "desc": "",
-  "ord": 2
+  "ord": 3
  },
  "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B": {
   "title": "nvidia/Nemotron-Labs-Image-30B-A3B Text-to-Image • 33B • Updated about 10 hours ago • 218 • 181",
@@ -291,7 +347,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795645898.6122303,
   "desc": "",
-  "ord": 26
+  "ord": 29
  },
  "https://huggingface.co/inclusionAI/LingSante-3.1-flash": {
   "title": "inclusionAI/LingSante-3.1-flash Text Generation • 572B • Updated 3 days ago • 1.49k • 192",
@@ -718,7 +774,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795573622.3993807,
   "desc": "",
-  "ord": 23
+  "ord": 22
  },
  "https://www.leiphone.com/category/chips/yHCLu9wEjr4z9AgA.html": {
   "title": "CCF HPC 2026访谈：HPC与AI需求推动算力走向系统协同",
@@ -3000,7 +3056,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795302873.1682804,
   "desc": "",
-  "ord": 18
+  "ord": 17
  },
  "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/": {
   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -3147,7 +3203,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795234035.606287,
   "desc": "",
-  "ord": 22
+  "ord": 23
  },
  "https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html": {
   "title": "享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款",
@@ -3231,7 +3287,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795205785.1048276,
   "desc": "",
-  "ord": 29
+  "ord": 28
  },
  "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/": {
   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -3896,7 +3952,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 17
+  "ord": 18
  },
  "https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html": {
   "title": "阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍",
@@ -4142,61 +4198,5 @@
   "ts": 1795048000.0,
   "desc": "国产AI工具实现「一个人就是一个剧组」",
   "ord": 0
- },
- "https://claudia.gallery/fable/": {
-  "title": "Fable: Written, painted and directed by Claude Fable 5.2",
-  "source": "Hacker News 头版",
-  "ts": 1795047498.0,
-  "desc": "Article URL: https://claudia.gallery/fable/\nComments URL: https://news.ycombinator.com/item?id=50554269\nPoints: 43\n# Comments: 35",
-  "ord": 4
- },
- "https://openai.com/business/learn/deploying-daybreak-red": {
-  "title": "Deploying Daybreak Red",
-  "source": "OpenAI News",
-  "ts": 1795046400.0,
-  "desc": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-  "ord": 1
- },
- "https://openai.com/business/learn/pr-scans-demo": {
-  "title": "See PR scans in action",
-  "source": "OpenAI News",
-  "ts": 1795046400.0,
-  "desc": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-  "ord": 2
- },
- "https://openai.com/business/learn/codex-security-plugin-demo": {
-  "title": "Explore the Codex Security Plugin",
-  "source": "OpenAI News",
-  "ts": 1795046400.0,
-  "desc": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-  "ord": 3
- },
- "https://openai.com/business/learn/daybreak-blue-onboarding-demo": {
-  "title": "Get started with Daybreak Blue",
-  "source": "OpenAI News",
-  "ts": 1795046400.0,
-  "desc": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-  "ord": 4
- },
- "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/": {
-  "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-  "source": "TechCrunch AI",
-  "ts": 1795045500.0,
-  "desc": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-  "ord": 1
- },
- "https://www.anthropic.com/news/anthropic-prices-initial-public-offering": {
-  "title": "Anthropic prices initial public offering",
-  "source": "Hacker News 头版",
-  "ts": 1795044609.0,
-  "desc": "Article URL: https://www.anthropic.com/news/anthropic-prices-initial-public-offering\nComments URL: https://news.ycombinator.com/item?id=50553843\nPoints: 75\n# Comments: 34",
-  "ord": 12
- },
- "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/": {
-  "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-  "source": "TechCrunch AI",
-  "ts": 1795044317.0,
-  "desc": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-  "ord": 2
  }
 }
