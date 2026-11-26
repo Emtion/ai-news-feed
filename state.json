@@ -1,4 +1,11 @@
 {
+ "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": {
+  "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+  "source": "Hugging Face 博客",
+  "ts": 1795669536.0,
+  "desc": "",
+  "ord": 0
+ },
  "https://www.iimedia.cn/c1088/120834.html": {
   "title": "11月26日AI新产品讯息：OpenAI推出“雅典娜”数据工具、千问Go全面开放免费代打电话服务、小鹏发布图灵世界模型WorldGPT",
   "source": "艾媒网",
@@ -54,6 +61,41 @@
   "ts": 1795661594.0,
   "desc": "叠满海淀最强AI Buff。",
   "ord": 2
+ },
+ "https://www.leiphone.com/category/industrynews/3zKYASqpb5PEKGwC.html": {
+  "title": "从婴儿睡袋到时尚孕产服饰，Nest Designs在  Shopee 找到了新机会",
+  "source": "雷峰网",
+  "ts": 1795660800.0,
+  "desc": "柔软的面料、利落的剪裁，带着几分运动休闲服的时尚感。如果不看产品介绍，你或许很难第一眼认出，这是一件专为孕期和产后女性设计的服装。对于越来越多的年轻妈妈而言，怀孕并不意味着要放弃原本的穿衣风格。她们既想要舒适自在，也希望在特殊的人生阶段，依然能够穿得好看、有个性。这份看似细微的消费需求，却让母婴品牌 Nest Designs 在东南亚收获了意外惊喜。过去，婴幼儿睡袋、睡衣一直是品牌的核心产品。出乎品牌预期的是 ，推出仅两年左右的孕产服饰，已成为东南亚市场的重要品类之一 ：在品牌全球其他主要市场，孕产服饰的销售额占比通常只有 8%至 10%，而在东南亚，这一比例最高可达 25%至 30%。更让品",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/yanxishe/T2xmmiMAC6WbuuCM.html": {
+  "title": "国产模型扎进 AI4S 深水区，几毫秒破译尘封18年密码学悬案",
+  "source": "雷峰网",
+  "ts": 1795659780.0,
+  "desc": "     作者丨高允毅    编辑丨岑   峰                                                                                                       11月20日， AI for Science 迎来了一个载入史册的日子：Anthropic 数学家联合 Claude 拿下黎曼猜想的关键突破，同一天，以复杂的数学计算著称的密码学领域，也被AI撼动。据 MiniMax 官方展示，其最新内部模型 MIM， 接连攻破了多个NIST 密码候选方案和顶会最新发表的前沿成果。在TII McEliece 中直",
+  "ord": 1
+ },
+ "https://www.leiphone.com/category/academic/S12DTjaFWmIPkwCk.html": {
+  "title": "独家 | 华人 CV 先驱权龙二次创业，成立空间与物理 AI 公司「Envision AI」",
+  "source": "雷峰网",
+  "ts": 1795658940.0,
+  "desc": "融合语言、逻辑、几何、物理规律，要做统一和通用的空间物理原生基模。    作者丨幸丽娟    编辑丨岑   峰                                                                                                       AI科技评论独家获悉，香港科技大学计算机科学与工程系教授、前苹果空间智能首席科学家权龙二次创业，成立公司“Envision AI”（格秩科技），进军空间与物理 AI 赛道。公司的目标，是打造一个通用的空间物理原生基模：基于大语言模型，从视觉出发，把文本、图像、空间与物理信息统一进同一",
+  "ord": 2
+ },
+ "https://www.leiphone.com/category/chips/HQvbSEUnkDy0Tos9.html": {
+  "title": "机器人量产背后，物理AI开始算新账：研发底座何必各自建？",
+  "source": "雷峰网",
+  "ts": 1795656900.0,
+  "desc": "2026年，人形机器人加速走出实验室。但是让机器人在真实世界产生价值，依然复杂而成本高昂。从数据采集、物理仿真到模型训练、真机验证，机器人每掌握一项新技能，背后都可能是一整套研发流程的反复运转。更复杂的是，这些能力分散在不同的专业厂商手中。产业分工越来越细，如何将分散的技术能力组织起来，反而成了一道新的难题。当机器人开始规模化交付，产业需要解决的不只是如何造出更多机器人，还有如何让更多企业以更低的成本训练机器人。这也让物理AI产业出现了一个新的机会：谁有能力将分散的研发资源组织成可复用的基础设施，谁就有机会成为产业链上的重要组织者。九章云极正尝试从算力供应商向物理AI开发平台延伸，通过物理AI",
+  "ord": 3
+ },
+ "https://www.leiphone.com/category/zaobao/TaYBp58OxQSPMi10.html": {
+  "title": "一月只开工两三天！奥迪中国回应长春工厂产能利用率跌破10%；Anthropic创始人兄妹上市次日套现37亿；小鹏智驾拟开启全球付费订阅",
+  "source": "雷峰网",
+  "ts": 1795656600.0,
+  "desc": "要闻提示1.Anthropic创始人兄妹上市次日套现37亿元2.一月只开工两三天，被称“幽灵工厂”！奥迪中国回应长春工厂产能利用率跌破10%3.打脸自己？小鹏图灵AI智驾将于明年二季度开启全球收费订阅4.希音披露美国FTC调查最新进展：将向美国财政部支付1亿美元5.B站陈睿回应短剧冲击：我们没受影响6.华为将展示自研HBM、逻辑堆叠等技术7.特朗普称美国政府入股英伟达犹未为晚，自称早就想过但一直没说8.韩国SK集团董事长崔泰源前妻拒绝“9440亿韩元和解建议”今日头条Anthropic创始人兄妹上市次日套现37亿元11 月 25 日消息，据报道，根据监管文件，人工智能巨头Anthropic的首",
+  "ord": 4
  },
  "https://daily.ai225.com/daily/2026-11-26": {
   "title": "2026-11-26 AI 日报 · 标普示警英伟达治理风险，FCC授权SpaceX部署百万颗AI卫星",
@@ -178,8 +220,8 @@
   "title": "The polynomial Hirsch conjecture is false [pdf]",
   "source": "Hacker News 头版",
   "ts": 1795628074.0,
-  "desc": "Article URL: https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50644980\nPoints: 137\n# Comments: 37",
-  "ord": 5
+  "desc": "Article URL: https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50644980\nPoints: 141\n# Comments: 37",
+  "ord": 4
  },
  "https://www.qbitai.com/2026/11/512748.html": {
   "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
@@ -4155,48 +4197,6 @@
   "source": "The Verge AI",
   "ts": 1795028849.0,
   "desc": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of a Senate Judiciary subcommittee hosted a hearing calling for",
-  "ord": 2
- },
- "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time": {
-  "title": "Why your fine-tuning job takes longer than the FLOPs say",
-  "source": "Hugging Face 博客",
-  "ts": 1795028023.0,
-  "desc": "",
-  "ord": 1
- },
- "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition": {
-  "title": "What is Nvidia without AI’s sugar daddy in charge?",
-  "source": "The Verge AI",
-  "ts": 1795026855.0,
-  "desc": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Musk is telling the truth, then Jensen Huang",
-  "ord": 3
- },
- "https://deepmind.google/blog/genie-4-is-now-available/": {
-  "title": "Genie 4 is now available",
-  "source": "Google DeepMind",
-  "ts": 1795025622.0,
-  "desc": "",
-  "ord": 0
- },
- "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/": {
-  "title": "Google’s AI feature in Search gets its own incognito mode",
-  "source": "TechCrunch AI",
-  "ts": 1795025045.0,
-  "desc": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
-  "ord": 2
- },
- "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai": {
-  "title": "Disney’s new Star Wars animatronics interact with guests using AI",
-  "source": "The Verge AI",
-  "ts": 1795024257.0,
-  "desc": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous. That could soon change as Walt Disney Imagineering R&D has r",
-  "ord": 4
- },
- "https://openai.com/index/advancing-chip-design-with-our-models/": {
-  "title": "Advancing chip design with OpenAI models",
-  "source": "Hacker News 头版",
-  "ts": 1795023947.0,
-  "desc": "Article URL: https://openai.com/index/advancing-chip-design-with-our-models/\nComments URL: https://news.ycombinator.com/item?id=50549493\nPoints: 69\n# Comments: 25",
   "ord": 2
  }
 }

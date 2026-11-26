@@ -8,6 +8,40 @@
   <itunes:author>Emtion</itunes:author>
   <itunes:category text="Technology"/>
   <item>
+    <title>11月26日速递：Building on Nemotron 3.5 Parse: Open Dat</title>
+    <description>今日要点：Building on Nemotron 3.5 Parse；OpenAI cuts GPT-6.2 usage: Ast；任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用；从婴儿睡袋到时尚孕产服饰，Nest Designs在  Sh；2026-11-26 AI 日报 · 标普示警英伟达治理风险
+
+【本期文字稿】
+男：欢迎收听 AI 行业速递，今天是 2026 年 11 月 26 日，我们挑几条真正值得聊的新闻。
+女：先说最炸的，标普把英伟达的信用评级列入负面观察，这可是AI龙头第一次被这么敲打。
+男：对，理由不是芯片卖不动，而是公司治理和关键人物风险，说白了就是太依赖黄仁勋一个人。
+女：标普可能把评级降到 AA 减，还是第四高，但信号意义很大，资本市场开始给AI狂热降温了。
+男：更微妙的是，黄仁勋本人被指违反公司行为准则，员工心里那本账可不好翻篇。
+女：接着看 OpenAI，他们把 Chat 和 Work 合并成一个用量表，重度用户会更早撞上限。
+男：具体说，Astra 模型的额度消耗快了百分之四十，Sol 快了百分之二十五，用得多就得多掏钱。
+女：这其实是在给免费和低价用户踩刹车，算力不够分，只能先保企业客户。
+男：说到企业，OpenAI 还试点了一个隐私推理服务，让公司在不泄露数据的前提下用模型。
+女：这条和限流放一起看就明白了，OpenAI 在把算力当稀缺资源重新分配，优先给付得起钱的人。
+男：国内这边，蔚来的任少卿发布了世界模型三点零，智驾训练效率提升五倍，座舱也用上强化学习。
+女：李斌那句话挺狠的，说不做AI变革可能活不下去，车企现在是把命押在智驾上了。
+男：同一天小鹏发了图灵世界模型 WorldGPT，两家新势力在世界模型上正面撞车。
+女：这说明世界模型已经从论文概念变成车企的军备竞赛，谁先跑通谁就有差异化。
+男：天上也没闲着，FCC 授权 SpaceX 部署最多一百万颗带AI芯片的数据中心卫星。
+女：一百万颗，这个数字听着就离谱，但方向很清楚，算力要往太空搬，用太阳能和真空散热。
+男：地面数据中心卡在电力和散热上，太空方案虽然远，但已经拿到监管通行证了。
+女：再看科学侧，有国产模型几毫秒破译了一个尘封十八年的密码学悬案，AI for Science 真在出成果。
+男：同一天 Anthropic 的数学家联合 Claude 拿下黎曼猜想的关键突破，这可不是营销话术。
+女：科研范式在变，模型不再只是写代码的工具，而是能参与数学证明的合作者。
+男：还有几条一句话带过，谷歌申请了个性化AI视频流的专利，听着像娱乐业的灰暗未来。
+女：沈向洋说灵巧手是人类最后的尊严，权龙二次创业做空间物理AI，Nothing 展示了AI耳机。
+男：好，今天就到这儿，信息很密，但主线其实只有一条。
+女：算力在重新分配，监管在重新划线，AI 从拼参数转向拼落地，我们下期见。</description>
+    <link>https://emtion.github.io/ai-news-feed/</link>
+    <guid isPermaLink="false">ep-20261126</guid>
+    <pubDate>Thu, 26 Nov 2026 13:17:07 +0800</pubDate>
+    <enclosure url="https://emtion.github.io/ai-news-feed/episodes/ep-20261126.mp3" length="1247544" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>11月25日速递：Artificial Analysis</title>
     <description>今日要点：Artificial Analysis；Show HN: Old Nvidia and ATI te；千问Go全面开放免费代打电话服务，支持订餐厅、找快递、寻失物；当Token走进大众消费：买算力像充话费一样简单；商业秘密｜；2026-11-25 AI 日报 · GPT-6 展露蛋白质
 

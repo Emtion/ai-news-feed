@@ -5,7 +5,14 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Thu, 26 Nov 2026 05:03:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 05:16:32 +0000</lastBuildDate>
+  <item>
+    <title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
+    <link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
+    <guid isPermaLink="true">https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</guid>
+    <pubDate>Thu, 26 Nov 2026 05:05:36 +0000</pubDate>
+    <source>Hugging Face 博客</source>
+  </item>
   <item>
     <title>跳出“卖萌摆件”误区：从Cami看后装车载实体AI机器人的破局路径 ——基于艾媒鼎榜《2026中国车载实体AI机器人品牌10强》产业观察</title>
     <link>https://www.iimedia.cn/c1091/120724.html</link>
@@ -40,6 +47,14 @@ Points: 39
     <description>李斌坦言：不做AI变革可能活不下去</description>
   </item>
   <item>
+    <title>从婴儿睡袋到时尚孕产服饰，Nest Designs在  Shopee 找到了新机会</title>
+    <link>https://www.leiphone.com/category/industrynews/3zKYASqpb5PEKGwC.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/3zKYASqpb5PEKGwC.html</guid>
+    <pubDate>Thu, 26 Nov 2026 02:40:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>柔软的面料、利落的剪裁，带着几分运动休闲服的时尚感。如果不看产品介绍，你或许很难第一眼认出，这是一件专为孕期和产后女性设计的服装。对于越来越多的年轻妈妈而言，怀孕并不意味着要放弃原本的穿衣风格。她们既想要舒适自在，也希望在特殊的人生阶段，依然能够穿得好看、有个性。这份看似细微的消费需求，却让母婴品牌 Nest Designs 在东南亚收获了意外惊喜。过去，婴幼儿睡袋、睡衣一直是品牌的核心产品。出乎品牌预期的是 ，推出仅两年左右的孕产服饰，已成为东南亚市场的重要品类之一 ：在品牌全球其他主要市场，孕产服饰的销售额占比通常只有 8%至 10%，而在东南亚，这一比例最高可达 25%至 30%。更让品</description>
+  </item>
+  <item>
     <title>2026-11-26 AI 日报 · 标普示警英伟达治理风险，FCC授权SpaceX部署百万颗AI卫星</title>
     <link>https://daily.ai225.com/daily/2026-11-26</link>
     <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-26</guid>
@@ -69,21 +84,6 @@ Points: 39
     <pubDate>Wed, 25 Nov 2026 21:51:26 +0000</pubDate>
     <source>The Verge AI</source>
     <description>Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an</description>
-  </item>
-  <item>
-    <title>Where scientists draw the line on AI agents</title>
-    <link>https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</link>
-    <guid isPermaLink="true">https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</guid>
-    <pubDate>Wed, 25 Nov 2026 18:52:55 +0000</pubDate>
-    <source>Hugging Face 博客</source>
-  </item>
-  <item>
-    <title>阿维塔06T Max先锋版上新，限时权益后19.99万元</title>
-    <link>https://www.leiphone.com/category/industrynews/u4v3A1QiYM6qUcP1.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/u4v3A1QiYM6qUcP1.html</guid>
-    <pubDate>Wed, 25 Nov 2026 14:29:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>2026年11月25日（上海），阿维塔科技宣布，阿维塔06T Max先锋版正式上新，官方售价21.99万元，限时权益后19.99万元。新车定位智美全场景运动轿车，标配华为乾崑896线双光路图像级激光雷达与全新一代分布式电驱后轴双电机，是为年轻人专属打造的锋芒座驾。即日起，用户可通过阿维塔App、阿维塔官网、阿维塔小程序及全国各大城市的门店等官方渠道订购。  针对阿维塔06T Max先锋版上新，阿维塔还推出了多重限时购车礼遇。2026年12月31日（含）前下定，可享价值至高超过80000元9大限时权益，包括：10000元现金优惠、10000元购置税补贴、价值23920元5年0息限时金融政策、10</description>
   </item>
   <item>
     <title>Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long</title>
@@ -176,6 +176,13 @@ Points: 39
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Where scientists draw the line on AI agents</title>
+    <link>https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</link>
+    <guid isPermaLink="true">https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</guid>
+    <pubDate>Wed, 25 Nov 2026 18:52:55 +0000</pubDate>
+    <source>Hugging Face 博客</source>
+  </item>
+  <item>
     <title>艾媒一周热评381期 | 当Token走进大众消费：买算力像充话费一样简单；商业秘密｜当399元羽绒</title>
     <link>https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42</link>
     <guid isPermaLink="true">https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42</guid>
@@ -209,6 +216,14 @@ Points: 271
     <description>“灵巧手是人类最后的尊严”</description>
   </item>
   <item>
+    <title>国产模型扎进 AI4S 深水区，几毫秒破译尘封18年密码学悬案</title>
+    <link>https://www.leiphone.com/category/yanxishe/T2xmmiMAC6WbuuCM.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/T2xmmiMAC6WbuuCM.html</guid>
+    <pubDate>Thu, 26 Nov 2026 02:23:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>     作者丨高允毅    编辑丨岑   峰                                                                                                       11月20日， AI for Science 迎来了一个载入史册的日子：Anthropic 数学家联合 Claude 拿下黎曼猜想的关键突破，同一天，以复杂的数学计算著称的密码学领域，也被AI撼动。据 MiniMax 官方展示，其最新内部模型 MIM， 接连攻破了多个NIST 密码候选方案和顶会最新发表的前沿成果。在TII McEliece 中直</description>
+  </item>
+  <item>
     <title>2026-11-25 AI 日报 · GPT-6 展露蛋白质设计能力，文心 5.5 Flash Preview 开源</title>
     <link>https://daily.ai225.com/daily/2026-11-25</link>
     <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-25</guid>
@@ -238,21 +253,6 @@ Points: 271
     <pubDate>Wed, 25 Nov 2026 17:44:51 +0000</pubDate>
     <source>The Verge AI</source>
     <description>In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's "Starmind" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, t</description>
-  </item>
-  <item>
-    <title>An Indic Voice Agent with CUGA</title>
-    <link>https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</link>
-    <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</guid>
-    <pubDate>Wed, 25 Nov 2026 10:22:09 +0000</pubDate>
-    <source>Hugging Face 博客</source>
-  </item>
-  <item>
-    <title>算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划</title>
-    <link>https://www.leiphone.com/category/chips/Qz3QPf26nVIVA0ga.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/chips/Qz3QPf26nVIVA0ga.html</guid>
-    <pubDate>Wed, 25 Nov 2026 14:15:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。会议由九章云极DataCanvas主办，深圳市龙华区工业和信息化局支持，清华大学互联网产业研究院为学术指导单位。来自标准机构、高校与科研院所、投资机构，以及机器人本体、世界模型、仿真软件、智算云等领域的上百位嘉宾代表出席。中国电子技术标准化研究院副院长范科峰，深圳市龙华区委常委、常务副区长张智，九章云极DataCanvas董事长方磊分别致辞。会议聚焦的核心命题是：当机器人、世界模型与仿真软件相继通过技术验证，物理AI如何跨越从实验室到产线的产业化鸿沟。答案集中在两个方向：以工程化能力将算力组织</description>
   </item>
   <item>
     <title>Jensen Huang’s Return Shows Nvidia Is Too Big to Police</title>
@@ -337,6 +337,13 @@ Points: 271
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>An Indic Voice Agent with CUGA</title>
+    <link>https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</link>
+    <guid isPermaLink="true">https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</guid>
+    <pubDate>Wed, 25 Nov 2026 10:22:09 +0000</pubDate>
+    <source>Hugging Face 博客</source>
+  </item>
+  <item>
     <title>2026年中国消费者认为AI大模型的发展趋势：认为“很好”的占比51.4%</title>
     <link>https://www.iimedia.cn/c1061/111224.html</link>
     <guid isPermaLink="true">https://www.iimedia.cn/c1061/111224.html</guid>
@@ -370,6 +377,14 @@ Points: 91
     <description>叠满海淀最强AI Buff。</description>
   </item>
   <item>
+    <title>独家 | 华人 CV 先驱权龙二次创业，成立空间与物理 AI 公司「Envision AI」</title>
+    <link>https://www.leiphone.com/category/academic/S12DTjaFWmIPkwCk.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/academic/S12DTjaFWmIPkwCk.html</guid>
+    <pubDate>Thu, 26 Nov 2026 02:09:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>融合语言、逻辑、几何、物理规律，要做统一和通用的空间物理原生基模。    作者丨幸丽娟    编辑丨岑   峰                                                                                                       AI科技评论独家获悉，香港科技大学计算机科学与工程系教授、前苹果空间智能首席科学家权龙二次创业，成立公司“Envision AI”（格秩科技），进军空间与物理 AI 赛道。公司的目标，是打造一个通用的空间物理原生基模：基于大语言模型，从视觉出发，把文本、图像、空间与物理信息统一进同一</description>
+  </item>
+  <item>
     <title>2026-11-24 AI 日报 · 黄仁勋复职英伟达CEO董事会全票通过，亚马逊75亿美元收购Decart优化技术</title>
     <link>https://daily.ai225.com/daily/2026-11-24</link>
     <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-24</guid>
@@ -399,21 +414,6 @@ Points: 91
     <pubDate>Wed, 25 Nov 2026 16:00:59 +0000</pubDate>
     <source>The Verge AI</source>
     <description>Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes </description>
-  </item>
-  <item>
-    <title>Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000</title>
-    <link>https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</link>
-    <guid isPermaLink="true">https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</guid>
-    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-    <source>Hugging Face 博客</source>
-  </item>
-  <item>
-    <title>中国算力采购信心指数启动 九章云极核心共建算力市场先行指标</title>
-    <link>https://www.leiphone.com/category/chips/G3lWNUyVJphxOTU2.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/chips/G3lWNUyVJphxOTU2.html</guid>
-    <pubDate>Wed, 25 Nov 2026 14:01:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>11月25日，在2026物理AI行业峰会暨九章云极智算生态大会上，中国经济信息社新华指数研究院副院长周宇涵宣布“中国算力采购信心指数”正式启动。北京九章云极科技股份有限公司（下称“九章云极”）作为核心共建单位，参与指数体系搭建。当前，中国算力产业正处于高速增长与结构性调整并行的阶段。我国智能算力规模高速增长，但训练与推理、东西部布局、层级供需三重错配依然存在，算力租赁价格波动加剧。对于算力需求方，采购决策往往依赖于分散的市场信息，难以形成对行业整体景气程度的系统认知；对于算力供给方，产能规划与定价策略同样缺少来自真实交易一线的反馈信号。市场需要一个能够回答“下个季度需求是扩张还是收缩”的先行指</description>
   </item>
   <item>
     <title>Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return</title>
@@ -489,6 +489,13 @@ Points: 91
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000</title>
+    <link>https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</link>
+    <guid isPermaLink="true">https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</guid>
+    <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    <source>Hugging Face 博客</source>
+  </item>
+  <item>
     <title>11月26日AI新产品讯息：OpenAI推出“雅典娜”数据工具、千问Go全面开放免费代打电话服务、小鹏发布图灵世界模型WorldGPT</title>
     <link>https://www.iimedia.cn/c1088/120834.html</link>
     <guid isPermaLink="true">https://www.iimedia.cn/c1088/120834.html</guid>
@@ -522,6 +529,14 @@ Points: 35
     <description>合着全让A➗揽了</description>
   </item>
   <item>
+    <title>机器人量产背后，物理AI开始算新账：研发底座何必各自建？</title>
+    <link>https://www.leiphone.com/category/chips/HQvbSEUnkDy0Tos9.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/chips/HQvbSEUnkDy0Tos9.html</guid>
+    <pubDate>Thu, 26 Nov 2026 01:35:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>2026年，人形机器人加速走出实验室。但是让机器人在真实世界产生价值，依然复杂而成本高昂。从数据采集、物理仿真到模型训练、真机验证，机器人每掌握一项新技能，背后都可能是一整套研发流程的反复运转。更复杂的是，这些能力分散在不同的专业厂商手中。产业分工越来越细，如何将分散的技术能力组织起来，反而成了一道新的难题。当机器人开始规模化交付，产业需要解决的不只是如何造出更多机器人，还有如何让更多企业以更低的成本训练机器人。这也让物理AI产业出现了一个新的机会：谁有能力将分散的研发资源组织成可复用的基础设施，谁就有机会成为产业链上的重要组织者。九章云极正尝试从算力供应商向物理AI开发平台延伸，通过物理AI</description>
+  </item>
+  <item>
     <title>2026-11-23 AI 日报 · Lean确认Claude协作黎曼猜想证明，可灵增资后估值近180亿美元</title>
     <link>https://daily.ai225.com/daily/2026-11-23</link>
     <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-23</guid>
@@ -553,21 +568,6 @@ Points: 35
     <description>Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's a</description>
   </item>
   <item>
-    <title>Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
-    <link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
-    <guid isPermaLink="true">https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</guid>
-    <pubDate>Tue, 24 Nov 2026 16:34:13 +0000</pubDate>
-    <source>Hugging Face 博客</source>
-  </item>
-  <item>
-    <title>九章云极携手多方战略合作，物理AI工厂生态协作走进真实场景</title>
-    <link>https://www.leiphone.com/category/chips/JWelmQaWCBCTOJi3.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/chips/JWelmQaWCBCTOJi3.html</guid>
-    <pubDate>Wed, 25 Nov 2026 13:59:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>11月25日，在2026物理AI行业峰会暨九章云极智算生态大会上，北京九章云极科技股份有限公司（九章云极DataCanvas，下称“九章云极”）与深圳市龙华区工业和信息化局、北京清程智汇有限公司、深圳市怡亚通供应链股份有限公司签署物理AI工厂项目战略合作协议；另外两场签约中，九章云极分别与佳都科技集团股份有限公司、北京数字政通科技股份有限公司签署AI算力产业协同战略合作协议。物理AI正处在一个关键节点：机器人、世界模型与仿真软件相继通过技术验证，但跨过从实验室到产线的鸿沟，需要的不仅是算法突破，更是工程化的系统能力。模型在仿真环境里跑得再好，到了真实产线上也可能因为环境噪声、传感器误差和动力学</description>
-  </item>
-  <item>
     <title>Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving</title>
     <link>https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/</link>
     <guid isPermaLink="true">https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/</guid>
@@ -582,13 +582,6 @@ Points: 35
     <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
     <source>Google AI 博客</source>
     <description>Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.</description>
-  </item>
-  <item>
-    <title>Genie 4 is now available</title>
-    <link>https://deepmind.google/blog/genie-4-is-now-available/</link>
-    <guid isPermaLink="true">https://deepmind.google/blog/genie-4-is-now-available/</guid>
-    <pubDate>Wed, 18 Nov 2026 18:13:42 +0000</pubDate>
-    <source>Google DeepMind</source>
   </item>
   <item>
     <title>How iFood scales coding agents across 15,000 repositories</title>
@@ -640,6 +633,13 @@ Points: 35
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
+    <link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
+    <guid isPermaLink="true">https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</guid>
+    <pubDate>Tue, 24 Nov 2026 16:34:13 +0000</pubDate>
+    <source>Hugging Face 博客</source>
+  </item>
+  <item>
     <title>艾媒咨询 | 2026年中国AI智能营销白皮书</title>
     <link>https://www.iimedia.cn/c400/111150.html</link>
     <guid isPermaLink="true">https://www.iimedia.cn/c400/111150.html</guid>
@@ -661,7 +661,7 @@ Points: 35
     <source>Hacker News 头版</source>
     <description>Article URL: https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf
 Comments URL: https://news.ycombinator.com/item?id=50644980
-Points: 137
+Points: 141
 # Comments: 37</description>
   </item>
   <item>
@@ -671,6 +671,14 @@ Points: 137
     <pubDate>Wed, 25 Nov 2026 16:34:09 +0000</pubDate>
     <source>量子位</source>
     <description>商汤SenseNova U1.6</description>
+  </item>
+  <item>
+    <title>一月只开工两三天！奥迪中国回应长春工厂产能利用率跌破10%；Anthropic创始人兄妹上市次日套现37亿；小鹏智驾拟开启全球付费订阅</title>
+    <link>https://www.leiphone.com/category/zaobao/TaYBp58OxQSPMi10.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/TaYBp58OxQSPMi10.html</guid>
+    <pubDate>Thu, 26 Nov 2026 01:30:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>要闻提示1.Anthropic创始人兄妹上市次日套现37亿元2.一月只开工两三天，被称“幽灵工厂”！奥迪中国回应长春工厂产能利用率跌破10%3.打脸自己？小鹏图灵AI智驾将于明年二季度开启全球收费订阅4.希音披露美国FTC调查最新进展：将向美国财政部支付1亿美元5.B站陈睿回应短剧冲击：我们没受影响6.华为将展示自研HBM、逻辑堆叠等技术7.特朗普称美国政府入股英伟达犹未为晚，自称早就想过但一直没说8.韩国SK集团董事长崔泰源前妻拒绝“9440亿韩元和解建议”今日头条Anthropic创始人兄妹上市次日套现37亿元11 月 25 日消息，据报道，根据监管文件，人工智能巨头Anthropic的首</description>
   </item>
   <item>
     <title>2026-11-22 AI 日报 · 字节与高校开源 Axion 1.0，苹果发布 Depth Pro 2，群联展 NPU 硬盘</title>
@@ -702,21 +710,6 @@ Points: 137
     <pubDate>Wed, 25 Nov 2026 13:00:00 +0000</pubDate>
     <source>The Verge AI</source>
     <description>The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last se</description>
-  </item>
-  <item>
-    <title>RoboTrack: Point tracking for real-world robotic manipulation</title>
-    <link>https://huggingface.co/blog/allenai/robotrack</link>
-    <guid isPermaLink="true">https://huggingface.co/blog/allenai/robotrack</guid>
-    <pubDate>Mon, 23 Nov 2026 17:20:37 +0000</pubDate>
-    <source>Hugging Face 博客</source>
-  </item>
-  <item>
-    <title>九章云极开放两大接口，携手伙伴共建物理AI产业生态</title>
-    <link>https://www.leiphone.com/category/chips/omZ0PFr6zVtmUnap.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/chips/omZ0PFr6zVtmUnap.html</guid>
-    <pubDate>Wed, 25 Nov 2026 13:56:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>11月25日，在2026物理AI行业峰会暨九章云极智算生态大会上，九章云极DataCanvas宣布面向物理AI开放Physical AI Infra API和Physical AI Dev API两大接口，并联合二十余家产业伙伴成立极光物理AI产业生态联盟，推动技术连接与产业协作。两大接口分别面向物理AI的智算基础设施和专业开发工具。Physical AI Infra API面向基础设施层，提供异构算力资源的标准化接入、管理与调度能力；Physical AI Dev API则连接仿真、数据生成、模型训练与验证等专业工具和底层算力，降低研发环节的适配与协同成本。与接口开放同步推进的，是产业协作网</description>
   </item>
   <item>
     <title>Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving</title>
@@ -768,6 +761,13 @@ Points: 137
     <guid isPermaLink="true">https://www.producthunt.com/products/gauth-ai-course</guid>
     <pubDate>Fri, 20 Nov 2026 17:12:34 +0000</pubDate>
     <source>Product Hunt</source>
+  </item>
+  <item>
+    <title>CodespacesCloud development environments</title>
+    <link>https://github.com/features/codespaces</link>
+    <guid isPermaLink="true">https://github.com/features/codespaces</guid>
+    <pubDate>Mon, 23 Nov 2026 09:02:59 +0000</pubDate>
+    <source>GitHub Trending</source>
   </item>
 </channel>
 </rss>
