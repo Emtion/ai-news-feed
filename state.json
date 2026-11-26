@@ -1,4 +1,88 @@
 {
+ "https://www.iimedia.cn/c1088/120834.html": {
+  "title": "11月26日AI新产品讯息：OpenAI推出“雅典娜”数据工具、千问Go全面开放免费代打电话服务、小鹏发布图灵世界模型WorldGPT",
+  "source": "艾媒网",
+  "ts": 1795669336.482212,
+  "desc": "",
+  "ord": 1
+ },
+ "https://www.iimedia.cn/c1088/120774.html": {
+  "title": "11月25日AI新产品讯息：腾讯混元发布第三代翻译模型、华为云发布智能体伙伴开放计划、文心5.5 Flash Preview正式开源",
+  "source": "艾媒网",
+  "ts": 1795669336.482212,
+  "desc": "",
+  "ord": 2
+ },
+ "https://www.iimedia.cn/c1040/120824.html": {
+  "title": "千问Go全面开放免费代打电话服务，专属AI助手加速融入生活场景",
+  "source": "艾媒网",
+  "ts": 1795669336.482212,
+  "desc": "",
+  "ord": 3
+ },
+ "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B": {
+  "title": "nvidia/Nemotron-Labs-Image-30B-A3B Text-to-Image • 33B • Updated about 10 hours ago • 218 • 181",
+  "source": "Hugging Face Trending",
+  "ts": 1795669336.482212,
+  "desc": "",
+  "ord": 27
+ },
+ "https://twitter.com/thsottiaux/status/2125784147889393806": {
+  "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+  "source": "Hacker News 头版",
+  "ts": 1795664218.0,
+  "desc": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806\nComments URL: https://news.ycombinator.com/item?id=50651117\nPoints: 39\n# Comments: 14",
+  "ord": 0
+ },
+ "https://www.qbitai.com/2026/11/512897.html": {
+  "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+  "source": "量子位",
+  "ts": 1795663415.0,
+  "desc": "李斌坦言：不做AI变革可能活不下去",
+  "ord": 0
+ },
+ "https://www.qbitai.com/2026/11/512840.html": {
+  "title": "沈向洋刚讲了好多AI非共识啊",
+  "source": "量子位",
+  "ts": 1795662796.0,
+  "desc": "“灵巧手是人类最后的尊严”",
+  "ord": 1
+ },
+ "https://www.qbitai.com/2026/11/512828.html": {
+  "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
+  "source": "量子位",
+  "ts": 1795661594.0,
+  "desc": "叠满海淀最强AI Buff。",
+  "ord": 2
+ },
+ "https://daily.ai225.com/daily/2026-11-26": {
+  "title": "2026-11-26 AI 日报 · 标普示警英伟达治理风险，FCC授权SpaceX部署百万颗AI卫星",
+  "source": "AI 日报 · AI225",
+  "ts": 1795654406.0,
+  "desc": "今日AI行业在治理合规、算力基建与模型应用多点推进。标普将英伟达信用评级列入负面观察，称其存在公司治理与“关键人物”风险；FCC授权SpaceX部署至多100万颗AI数据中心卫星。产品与模型侧，OpenAI面向企业试点“Private Inference”隐私推理，Sand.ai发布视频模型MAGI-2并计划未来开源，国内三部委印发支持AI应用的新一代通信网方案。政策方面，42州总检察长介入以期阻止Character.AI拍卖用户聊天记录，arXiv研究则在代理蒸馏与量化推理上给出实验新进展。",
+  "ord": 0
+ },
+ "https://www.qbitai.com/2026/11/512819.html": {
+  "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
+  "source": "量子位",
+  "ts": 1795653637.0,
+  "desc": "合着全让A➗揽了",
+  "ord": 3
+ },
+ "https://modaic.dev/blog/latency-doesnt-lie": {
+  "title": "Jev is probably Qwen3.5-35B-A3B",
+  "source": "Hacker News 头版",
+  "ts": 1795647424.0,
+  "desc": "Article URL: https://modaic.dev/blog/latency-doesnt-lie\nComments URL: https://news.ycombinator.com/item?id=50648823\nPoints: 271\n# Comments: 75",
+  "ord": 1
+ },
+ "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/": {
+  "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+  "source": "TechCrunch AI",
+  "ts": 1795646672.0,
+  "desc": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+  "ord": 0
+ },
  "https://artificialanalysis.ai/articles/aa-robotics-sim": {
   "title": "Can language models drive a humanoid robot? Introducing AA-Robotics-Sim v0.1November 25, 2026",
   "source": "Artificial Analysis 智力指数榜",
@@ -11,14 +95,21 @@
   "source": "Hugging Face Trending",
   "ts": 1795645898.6122303,
   "desc": "",
-  "ord": 22
+  "ord": 24
  },
  "https://huggingface.co/inclusionAI/LingSante-3.1-flash": {
   "title": "inclusionAI/LingSante-3.1-flash Text Generation • 572B • Updated 3 days ago • 1.49k • 192",
   "source": "Hugging Face Trending",
   "ts": 1795645898.6122303,
   "desc": "",
-  "ord": 28
+  "ord": 29
+ },
+ "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os": {
+  "title": "Bare Metal Qwen",
+  "source": "Hacker News 头版",
+  "ts": 1795644934.0,
+  "desc": "Article URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os\nComments URL: https://news.ycombinator.com/item?id=50648365\nPoints: 91\n# Comments: 19",
+  "ord": 2
  },
  "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent": {
   "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
@@ -33,13 +124,6 @@
   "ts": 1795643290.0,
   "desc": "Article URL: https://github.com/lsernau/grh-lean\nComments URL: https://news.ycombinator.com/item?id=50648050\nPoints: 35\n# Comments: 9",
   "ord": 0
- },
- "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/": {
-  "title": "The New York Times tells photographers not to use the latest Photoshop",
-  "source": "Hacker News 头版",
-  "ts": 1795641482.0,
-  "desc": "Article URL: https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/\nComments URL: https://news.ycombinator.com/item?id=50647673\nPoints: 20\n# Comments: 9",
-  "ord": 1
  },
  "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/": {
   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
@@ -94,8 +178,8 @@
   "title": "The polynomial Hirsch conjecture is false [pdf]",
   "source": "Hacker News 头版",
   "ts": 1795628074.0,
-  "desc": "Article URL: https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50644980\nPoints: 91\n# Comments: 17",
-  "ord": 2
+  "desc": "Article URL: https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50644980\nPoints: 137\n# Comments: 37",
+  "ord": 5
  },
  "https://www.qbitai.com/2026/11/512748.html": {
   "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
@@ -117,13 +201,6 @@
   "ts": 1795621303.0,
   "desc": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck.  ⁠Anita Verma-Lal",
   "ord": 5
- },
- "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/": {
-  "title": "Rumors swirling that labs might have cracked Factoring in P",
-  "source": "Hacker News 头版",
-  "ts": 1795619324.0,
-  "desc": "Article URL: https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/\nComments URL: https://news.ycombinator.com/item?id=50643065\nPoints: 432\n# Comments: 302",
-  "ord": 3
  },
  "https://www.qbitai.com/2026/11/512727.html": {
   "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
@@ -445,7 +522,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795573622.3993807,
   "desc": "",
-  "ord": 23
+  "ord": 22
  },
  "https://www.leiphone.com/category/chips/yHCLu9wEjr4z9AgA.html": {
   "title": "CCF HPC 2026访谈：HPC与AI需求推动算力走向系统协同",
@@ -571,7 +648,7 @@
   "source": "艾媒网",
   "ts": 1795542185.6705205,
   "desc": "",
-  "ord": 3
+  "ord": 0
  },
  "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview": {
   "title": "baidu/ERNIE-5.5-Flash-Preview Text Generation • 300B • Updated about 10 hours ago • 75 • 213",
@@ -921,7 +998,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795503606.1137688,
   "desc": "",
-  "ord": 25
+  "ord": 23
  },
  "https://www.qbitai.com/2026/11/512370.html": {
   "title": "Google Cloud 出海峰会报名开启",
@@ -1761,7 +1838,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795468950.1454487,
   "desc": "",
-  "ord": 27
+  "ord": 28
  },
  "https://openai.com/index/introducing-shirudo": {
   "title": "OpenAI and Cisco introduce Shirudo",
@@ -2139,14 +2216,14 @@
   "source": "Hugging Face Trending",
   "ts": 1795424579.789836,
   "desc": "",
-  "ord": 24
+  "ord": 26
  },
  "https://huggingface.co/Lightricks/LTX-2.5": {
   "title": "Lightricks/LTX-2.5 Image-to-Video • Updated Oct 11 • 2.99M • 13.1k",
   "source": "Hugging Face Trending",
   "ts": 1795424579.789836,
   "desc": "",
-  "ord": 26
+  "ord": 25
  },
  "https://github.com/platform": {
   "title": "GitHubRepository hosting, code review, and collaboration",
@@ -4120,83 +4197,6 @@
   "source": "Hacker News 头版",
   "ts": 1795023947.0,
   "desc": "Article URL: https://openai.com/index/advancing-chip-design-with-our-models/\nComments URL: https://news.ycombinator.com/item?id=50549493\nPoints: 69\n# Comments: 25",
-  "ord": 2
- },
- "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/": {
-  "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
-  "source": "WIRED AI",
-  "ts": 1795023187.0,
-  "desc": "Interim CEO Collette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
-  "ord": 0
- },
- "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/": {
-  "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-  "source": "TechCrunch AI",
-  "ts": 1795023130.0,
-  "desc": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
-  "ord": 3
- },
- "https://news.ycombinator.com/item?id=50549188": {
-  "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
-  "source": "Hacker News 头版",
-  "ts": 1795022788.0,
-  "desc": "Hi HN, we're Ary and Maria, co-founders of Maritime (https://maritime.sh). We're building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agents.Demo: https://www.youtube.com/watch?v=lCWMdBQ96rYThere’s been an explosion of sandbox companies comin",
-  "ord": 4
- },
- "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/": {
-  "title": "The Gemini app is now available on lower-memory Android devices.",
-  "source": "Google AI 博客",
-  "ts": 1795021200.0,
-  "desc": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-  "ord": 0
- },
- "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/": {
-  "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-  "source": "TechCrunch AI",
-  "ts": 1795021140.0,
-  "desc": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
-  "ord": 4
- },
- "https://www.wired.com/story/artex-ai-hacking-tools/": {
-  "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
-  "source": "WIRED AI",
-  "ts": 1795019724.0,
-  "desc": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
-  "ord": 1
- },
- "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/": {
-  "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
-  "source": "TechCrunch AI",
-  "ts": 1795018449.0,
-  "desc": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
-  "ord": 5
- },
- "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/": {
-  "title": "AI agents ask better questions than KPMG accountants in audit trial",
-  "source": "Hacker News 头版",
-  "ts": 1795016974.0,
-  "desc": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/\nComments URL: https://news.ycombinator.com/item?id=50547777\nPoints: 172\n# Comments: 89",
-  "ord": 7
- },
- "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models": {
-  "title": "Remember the frontier AI pause? Chip companies don’t either",
-  "source": "The Verge AI",
-  "ts": 1795016642.0,
-  "desc": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the ",
-  "ord": 5
- },
- "https://www.producthunt.com/products/room-ai-2": {
-  "title": "Room AI",
-  "source": "Product Hunt",
-  "ts": 1795016251.0,
-  "desc": "",
-  "ord": 0
- },
- "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/": {
-  "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
-  "source": "WIRED AI",
-  "ts": 1795014160.0,
-  "desc": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
   "ord": 2
  }
 }
