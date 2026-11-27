@@ -1,4 +1,109 @@
 {
+ "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF": {
+  "title": "ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF Text Generation • 26B • Updated about 21 hours ago • 24.9k • 223",
+  "source": "Hugging Face Trending",
+  "ts": 1795805864.3298163,
+  "desc": "",
+  "ord": 26
+ },
+ "https://huggingface.co/sand-ai/MAGI-2-preview": {
+  "title": "sand-ai/MAGI-2-preview Image-Text-to-Video • Updated Aug 5 • 334",
+  "source": "Hugging Face Trending",
+  "ts": 1795805864.3298163,
+  "desc": "",
+  "ord": 29
+ },
+ "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html": {
+  "title": "The NFL Player Who Left Football for Math",
+  "source": "Hacker News 头版",
+  "ts": 1795803440.0,
+  "desc": "Article URL: https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html\nComments URL: https://news.ycombinator.com/item?id=50669963\nPoints: 7\n# Comments: 3",
+  "ord": 0
+ },
+ "https://thesoapbox.email/archive/3": {
+  "title": "I'm Scared of AI",
+  "source": "Hacker News 头版",
+  "ts": 1795801531.0,
+  "desc": "Article URL: https://thesoapbox.email/archive/3\nComments URL: https://news.ycombinator.com/item?id=50669561\nPoints: 116\n# Comments: 114",
+  "ord": 1
+ },
+ "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical": {
+  "title": "GPT 6.2 Astra Solves a Historical Mystery",
+  "source": "Hacker News 头版",
+  "ts": 1795791797.0,
+  "desc": "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical\nComments URL: https://news.ycombinator.com/item?id=50667744\nPoints: 130\n# Comments: 53",
+  "ord": 2
+ },
+ "https://www.qbitai.com/2026/11/513352.html": {
+  "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+  "source": "量子位",
+  "ts": 1795788453.0,
+  "desc": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+  "ord": 0
+ },
+ "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini": {
+  "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+  "source": "The Verge AI",
+  "ts": 1795788000.0,
+  "desc": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/industrynews/bNneZTVQVkQBiKrH.html": {
+  "title": "美团财报电话会：Keeta沙特实现全季度盈利",
+  "source": "雷峰网",
+  "ts": 1795782240.0,
+  "desc": "“Keeta延续了强劲的增长势头，且效率持续提升。”11月27日晚，美团三季度财报电话会上，CFO陈少晖分享了美团国际化进展。“香港稳定盈利，中东效率继续改善，特别是沙特在Q3全季度已经盈利。”今年7月，Keeta在沙特市场首次实现单月盈利，用时22个月，比香港市场更快。“Keeta在香港、中东市场效率的快速改善，印证了我们运营路径的有效性。”陈少晖表示，“巴西是我们重视的市场，我们依旧看好其市场潜力。事实上，在过去几个季度，Keeta在巴西的效率持续提升，我们看到了更明确的UE改善路径。”陈少晖认为，即时零售出海对美团是一个重要的增长机会。“目前在全球很多地区，外卖仍然只是少数消费者寻求偶然",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/industrynews/vNOSrpDD4d2w5DYL.html": {
+  "title": "美团电话会：预期四季度餐饮外卖UE较二季度明显提升",
+  "source": "雷峰网",
+  "ts": 1795782180.0,
+  "desc": "11月27日，美团发布2026年第三季度业绩报告，实现收入1156亿元。随着外卖行业趋于理性，叠加三季度暑期旺季效应，美团各项业务保持稳健增长。在财报电话会上，美团管理层表示，三季度，美团继续强化在餐饮外卖订单量和GTV上的领先地位，增长质量显著提升。二季度气温适宜、配送成本平稳，通常是外卖UE最好的季度。而三季度包含暑期旺季，为保障订单高峰期及特殊天气条件下的稳定履约，三季度会投入更多骑手补贴，单均配送成本高于二季度。美团管理层披露，三季度餐饮外卖UE较二季度有所回落，但9月UE修复明显，优于二季度平均水平，而10月UE环比9月继续提升。展望四季度，尽管配送成本仍受寒冬和年底季节性因素影响，",
+  "ord": 1
+ },
+ "https://www.kimi.ai/news/kimi-for-science-program": {
+  "title": "Kimi for Science: More scientific ideas, made possible",
+  "source": "Hacker News 头版",
+  "ts": 1795780991.0,
+  "desc": "Article URL: https://www.kimi.ai/news/kimi-for-science-program\nComments URL: https://news.ycombinator.com/item?id=50665920\nPoints: 159\n# Comments: 133",
+  "ord": 3
+ },
+ "https://www.qbitai.com/2026/11/513346.html": {
+  "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+  "source": "量子位",
+  "ts": 1795778304.0,
+  "desc": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
+  "ord": 1
+ },
+ "https://www.leiphone.com/category/industrynews/iJ0tw7k1kHDs5zjT.html": {
+  "title": "美团2026年三季报：营收1156亿元，AI经营工作台“妙手”已服务200万商家",
+  "source": "雷峰网",
+  "ts": 1795775280.0,
+  "desc": "11月27日，美团（股票代码：3690.HK）发布2026年第三季度业绩报告。三季度，美团实现收入1156亿元，同比增长21.6%，净利润同比由负转正。随着外卖行业趋于理性，叠加三季度暑期旺季效应，公司各项业务经营质量进一步提升，核心本地商业和新业务均保持稳健增长。本季度，美团积极推动骑手职业伤害保障、养老保险补贴落地全国，进一步完善骑手大病关怀计划。此外，公司持续深化食品安全治理，让严守食品安全规范的商家被更多用户看见，为商家营造更健康的经营生态。三季度，美团继续加强AI能力建设，公司季度研发投入77亿元，同比增长11.3%，AI经营工作台“妙手”（CatPaw）已服务超过200万商家。美团",
+  "ord": 2
+ },
+ "https://www.leiphone.com/category/industrynews/szJUnXEhChJQgJHZ.html": {
+  "title": "支付宝车载助手3.0发布，助力智能座舱打造下一代可靠可信生活服务",
+  "source": "雷峰网",
+  "ts": 1795773360.0,
+  "desc": "11月27日，广州车展期间，支付宝正式发布AI原生车载智能体（Agent）“支付宝车载助手3.0”，助力座舱服务从“对话智能”迈向“行动智能”。依托车主意图体系、智能服务互联、APASS可信授权等核心能力，该产品打通了实时感知、主动服务到跨域协同、可信执行的全新链路，并将停车缴费、加油充电、高速通行、智能外卖及点单等高频服务真正接入座舱场景——实现“车内发起、车外交付，开口即办、开口即付”，全程无需掏手机，将座舱从功能入口变成智能生活服务入口。支付宝总裁吴敏芝在发布会上表示，过去22年，支付宝持续打造以用户为中心，以信任为基础的可靠可信的生活服务平台，随着智能座舱的发展革新，支付宝将联合更多车",
+  "ord": 3
+ },
+ "https://www.leiphone.com/category/robot/UTZbbw7CrHpZvIS7.html": {
+  "title": "具微科技高交会双新品首秀，全栈方案破解工业机器人连续作业难题",
+  "source": "雷峰网",
+  "ts": 1795772220.0,
+  "desc": "11月26日，中国国际高新技术成果交易会（简称“高交会”）在深圳国际会展中心开幕。具微科技集中展示了具身智能在高危特种工业场景的全栈创新成果，并线下首展新一代工业特种作业移动底座 MOVENEW P3S ，首发模块化换装补能基站 MICBOT PANDORA，重构工业无人化作业的技术底座与落地路径，重塑高危特种工业领域的生产范式。  轮足复合移动底座，直面高危重载作业场景 开幕首日，具微科技展台迎来众多专业观众。现场四足机器人依次完成 360° 连续旋转、复杂地形跃障与定点跨障跳跃等动态演示，呈现整机运动性能；展台同期展出面向特种具身场景的新一代产品 MOVENEW P3S。 与多数以运动演示",
+  "ord": 4
+ },
+ "https://www.leiphone.com/category/ai/iWUKWuRp4AmJ6dZE.html": {
+  "title": "Anthropic 放出 Claude Ship：内部 PR 合并量 3 个月翻倍，回滚比例下降超 40%",
+  "source": "雷峰网",
+  "ts": 1795768860.0,
+  "desc": "Claude 已写下约 90% 代码，单日代码变更从 2500 增至 3 万，审查覆盖率升至 54%。    作者丨郑佳美    编辑丨岑   峰                                                                                                       刚刚，Anthropic 发布了 Claude Ship，将 AI Agent 的工作范围进一步延伸到 GitHub PR 的完整交付流程。从代码审查、自动修复 CI 失败，到处理合并冲突和审批 PR，Claude 开始参与一项代码从提交到合并的完",
+  "ord": 5
+ },
  "https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain": {
   "title": "Google continues to accelerate its release cadence with Gemini 4 NeonNovember 18, 2026",
   "source": "Artificial Analysis 智力指数榜",
@@ -12,6 +117,27 @@
   "ts": 1795768165.3858616,
   "desc": "",
   "ord": 2
+ },
+ "https://twitter.com/RealAstropulse/status/2126119408997466389": {
+  "title": "Claude sabotaging ML research tasks?",
+  "source": "Hacker News 头版",
+  "ts": 1795768088.0,
+  "desc": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389\nComments URL: https://news.ycombinator.com/item?id=50664325\nPoints: 377\n# Comments: 190",
+  "ord": 4
+ },
+ "https://www.leiphone.com/category/ai/IMi92BFX4KU0R8uh.html": {
+  "title": "OpenAI、Anthropic 内部出现分歧：AI 能力增长太快，模型隐藏行为，监测开始系统失灵？",
+  "source": "雷峰网",
+  "ts": 1795767480.0,
+  "desc": "强化学习让模型学会钻评分规则的空子，甚至能反过来操纵评估结果。    作者丨郑佳美    编辑丨岑   峰                                                                                                       刚刚，Axios 报道称 Anthropic 和 OpenAI 内部已经有人提出，将尚未公开的前沿模型留在公司内部，甚至暂停继续训练。同一周，Anthropic 的未发布模型被数学家用来推进黎曼猜想的证明，OpenAI 的未发布模型也在批量生成数学证明。这犹如硬币的两面：部分模型能力增长",
+  "ord": 6
+ },
+ "https://www.leiphone.com/category/industrynews/10xzmIYoNuG6p12b.html": {
+  "title": "多地启动2027年度城乡居民医保集中缴费，上支付宝可一站式办理",
+  "source": "雷峰网",
+  "ts": 1795765380.0,
+  "desc": "近日，多地陆续启动2027年度城乡居民基本医疗保险集中缴费。参保居民可打开支付宝，在首页搜索“社保缴费”或“医保缴费”，进入参保地缴费页面，按提示完成缴费。城乡居民基本医疗保险主要面向未参加职工基本医疗保险的城乡居民，采取个人缴费与财政补助相结合的筹资方式，其中财政补助承担主要部分，是减轻居民医疗费用负担的重要制度保障。参保的居民在当地集中缴费期内按规定缴费，可自2027年1月1日起享受新年度居民医保待遇。除新生儿等特殊群体外，未在集中参保期内参保或未连续参保的人员，待遇等待期按参保地规定执行。近年来，随着数字化服务不断深入民生领域，城乡居民医保缴费的线上办理渠道也在持续完善。支付宝已对接各地",
+  "ord": 7
  },
  "https://www.qbitai.com/2026/11/513320.html": {
   "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
@@ -27,6 +153,13 @@
   "desc": "网页App双端亮出聊天账单",
   "ord": 1
  },
+ "https://www.leiphone.com/category/zaobao/VrpGC0c4wtt3NcEi.html": {
+  "title": "魏建军称车企竞争激烈，董明珠：有些产业害虫该灭就灭；英伟达暂停向东南亚四国出货服务器；腾讯、小红书都在招人加码个人智能体",
+  "source": "雷峰网",
+  "ts": 1795763400.0,
+  "desc": "要闻提示1.突发断供！英伟达暂停向东南亚四国出货服务器，戴尔、超微电脑已通知买家2.魏建军称车企竞争激烈，董明珠：有些产业害虫该灭就灭3.腾讯、小红书都在招人加码个人智能体4.阿里加码北美招聘，Qwen团队今年已吸纳数百名AI人才5.平头哥冲刺IPO之际，马云闪现办公区与员工亲切合影6.腾讯被曝全公司推混元 HY4 模型，12 月起非技术岗外部模型额度降至 10%7.离职秒变百万富翁！宝马拟推新一轮自愿离职补偿方案，此前补偿金超65万欧元今日头条突发断供！英伟达暂停向东南亚四国出货服务器，戴尔、超微电脑已通知买家11月26日消息，英伟达通知合作伙伴暂停向马来西亚、新加坡、泰国和印度尼西亚发运搭",
+  "ord": 8
+ },
  "https://www.qbitai.com/2026/11/513227.html": {
   "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
   "source": "量子位",
@@ -40,6 +173,13 @@
   "ts": 1795762800.0,
   "desc": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
   "ord": 0
+ },
+ "https://www.leiphone.com/category/industrynews/BMsSJPgf18A1GxuH.html": {
+  "title": "广州车展最美概念车 纵横R700开启新派越野新时代",
+  "source": "雷峰网",
+  "ts": 1795761960.0,
+  "desc": "2026广州车展首日，广州车展最美旗舰奢旅SUV纵横R700迎来全球首秀。作为纵横品牌立足全球用户长途奢旅、世界探索新需求打造的新派越野新时代，纵横R700在电气化、智能化浪潮下，以“旗舰奢旅SUV”的产品定位、广州车展最美概念车的美誉，汇聚纵横美学、华为乾崑智驾ADS、鸿蒙座舱、纵横GAIA全领域智控系统和宁德时代全球领先的动力电池，让户外探索更游刃有余、都市通勤更从容体面、全家远途更可靠舒适。作为纵横“R序列”首款车型，纵横R700的“R”取自Refined（精致的）、Radiant（璀璨的）、Rare（珍稀的），三层内核共同诠释了R系列的产品基调与价值主张，与开拓探索边界的G系列、拓展户",
+  "ord": 9
  },
  "https://construct22.com/": {
   "title": "The group chat where your AI talks behind your back",
@@ -146,6 +286,13 @@
   "desc": "",
   "ord": 3
  },
+ "https://www.producthunt.com/products/depost-ai": {
+  "title": "Depost AI",
+  "source": "Product Hunt",
+  "ts": 1795749475.0,
+  "desc": "",
+  "ord": 2
+ },
  "https://www.leiphone.com/category/private/O7QLSVU8zvpfzY6B.html": {
   "title": "江行智能基模 CTO 陈龙：当「物理 AI 大脑」进厂，如何实现可靠落地？| ACM MM 2026",
   "source": "雷峰网",
@@ -195,12 +342,19 @@
   "desc": "今日AI算力管制影响持续外溢：英伟达暂停向东南亚四国发运服务器，当地数据中心的贷款与大型合作协议面临风险。产品端，OpenAI修复GPT-6.2计费漏洞致额度消耗加快并测试Chat与Work合并，苹果发布Siri AI开发者预览版，VS Code 1.148强化智能体容器与唤醒管理，DeepSeek灰测成本展示。行业方面，ElevenLabs拟按330亿美元估值融资，微软披露AI攻击框架ARTEX，研究界发布智能体科研基准与预训练投毒警示。",
   "ord": 0
  },
+ "https://huggingface.co/blog/video-trainium3": {
+  "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+  "source": "Hugging Face 博客",
+  "ts": 1795737600.0,
+  "desc": "",
+  "ord": 0
+ },
  "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata": {
   "title": "strata-engine/Inkling-2-Mini-Strata Image-Text-to-Text • Updated about 4 hours ago • 2.97k • 230",
   "source": "Hugging Face Trending",
   "ts": 1795737139.889278,
   "desc": "",
-  "ord": 26
+  "ord": 24
  },
  "https://janlukas.blog/posts/ai-self-hosting": {
   "title": "AI made self-hosting fun again",
@@ -417,7 +571,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795669336.482212,
   "desc": "",
-  "ord": 22
+  "ord": 23
  },
  "https://twitter.com/thsottiaux/status/2125784147889393806": {
   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
@@ -970,7 +1124,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795573622.3993807,
   "desc": "",
-  "ord": 23
+  "ord": 22
  },
  "https://www.leiphone.com/category/chips/yHCLu9wEjr4z9AgA.html": {
   "title": "CCF HPC 2026访谈：HPC与AI需求推动算力走向系统协同",
@@ -2482,7 +2636,7 @@
   "source": "Hacker News 头版",
   "ts": 1795441358.0,
   "desc": "We built NariQ: 3-bit-or-lower quantizations of Qwen3.8-27B that retain near-BF16 quality across agentic tasks, math, multilingual reasoning, and image understanding.To our knowledge, this is the first 3-bit-or-lower quantization that retains BF16 lvl performance on long-horizon agentic tasks.Benchm",
-  "ord": 27
+  "ord": 28
  },
  "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/": {
   "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
@@ -3399,7 +3553,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795234035.606287,
   "desc": "",
-  "ord": 24
+  "ord": 27
  },
  "https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html": {
   "title": "享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款",
@@ -4044,159 +4198,5 @@
   "ts": 1795107563.0,
   "desc": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
   "ord": 5
- },
- "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/": {
-  "title": "Chrome AI features wasting much bandwidth",
-  "source": "Hacker News 头版",
-  "ts": 1795107265.0,
-  "desc": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/\nComments URL: https://news.ycombinator.com/item?id=50562636\nPoints: 91\n# Comments: 31",
-  "ord": 3
- },
- "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq": {
-  "title": "Anthropic starts trading on Wall Street",
-  "source": "The Verge AI",
-  "ts": 1795107121.0,
-  "desc": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its ",
-  "ord": 3
- },
- "https://ounapuu.ee/posts/2026/11/19/unsafeguards/": {
-  "title": "Fuck Your AI Safeguards",
-  "source": "Hacker News 头版",
-  "ts": 1795105818.0,
-  "desc": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/\nComments URL: https://news.ycombinator.com/item?id=50562262\nPoints: 272\n# Comments: 94",
-  "ord": 5
- },
- "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/": {
-  "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-  "source": "TechCrunch AI",
-  "ts": 1795105181.0,
-  "desc": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
-  "ord": 6
- },
- "https://thedataexchange.media/pete-warden-moonshine/": {
-  "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-  "source": "Hacker News 头版",
-  "ts": 1795102692.0,
-  "desc": "Article URL: https://thedataexchange.media/pete-warden-moonshine/\nComments URL: https://news.ycombinator.com/item?id=50561508\nPoints: 168\n# Comments: 155",
-  "ord": 6
- },
- "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation": {
-  "title": "ChatGPT can transcribe as you speak now with Live Dictation",
-  "source": "The Verge AI",
-  "ts": 1795101405.0,
-  "desc": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation i",
-  "ord": 4
- },
- "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/": {
-  "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-  "source": "TechCrunch AI",
-  "ts": 1795100079.0,
-  "desc": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-  "ord": 7
- },
- "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure": {
-  "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-  "source": "The Verge AI",
-  "ts": 1795098337.0,
-  "desc": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea th",
-  "ord": 5
- },
- "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/": {
-  "title": "Superhuman pushes its Go assistant everywhere",
-  "source": "TechCrunch AI",
-  "ts": 1795096800.0,
-  "desc": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
-  "ord": 8
- },
- "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on": {
-  "title": "I let Apple’s always-listening AI summarize my life for two weeks",
-  "source": "The Verge AI",
-  "ts": 1795093200.0,
-  "desc": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can […]",
-  "ord": 6
- },
- "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button": {
-  "title": "Canva adds an AI ‘off’ button",
-  "source": "The Verge AI",
-  "ts": 1795091400.0,
-  "desc": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't turn",
-  "ord": 7
- },
- "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/": {
-  "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-  "source": "WIRED AI",
-  "ts": 1795089600.0,
-  "desc": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
-  "ord": 1
- },
- "https://www.leiphone.com/category/industrynews/cdP5NzdCcD8j0BB5.html": {
-  "title": "拼多多发布Q3财报，“新十年高质量发展”一周年，供需两侧实现提质增效",
-  "source": "雷峰网",
-  "ts": 1795088280.0,
-  "desc": "11月19日，拼多多发布截至9月30日的2026年第三季度财报。受益于“新十年高质量发展”战略的效用释放，以及平台治理体系的持续升级，拼多多三季度营收达到1083亿元，净利润295亿元，业绩表现保持稳健。今年三季度，拼多多“新十年高质量发展”在纵深推进中走过了完整的一年，阶段性成效正在加速释放。一方面，拼多多“千亿扶持”惠商战略持续深化对商家和产业的扶持，将扶持效应传导至更深的产业腹地，供需两侧质效升级更加明显。另一方面，“三年再造拼多多”战略也在稳步推进，自营品牌业务初步与产业带商家展开了规模化的合作，加速推动供应链迈向价值高端。“过去这个季度，我们的‘千亿扶持’战略持续投入生态建设，全面升",
-  "ord": 0
- },
- "https://www.iimedia.cn/c1087/120244.html": {
-  "title": "数说 | 打工人的AI搭子图鉴：豆包领跑，国产大模型包揽前五",
-  "source": "艾媒网",
-  "ts": 1795088250.9221625,
-  "desc": "",
-  "ord": 4
- },
- "https://huggingface.co/inworld/voice-isolator": {
-  "title": "inworld/voice-isolator Audio-to-Audio • Updated 5 days ago • 155",
-  "source": "Hugging Face Trending",
-  "ts": 1795088250.9221625,
-  "desc": "",
-  "ord": 20
- },
- "https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html": {
-  "title": "阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍",
-  "source": "雷峰网",
-  "ts": 1795086300.0,
-  "desc": "11月19日，阿里巴巴发布2027财年第二季度财报。阿里全球B2B业务呈现跨境出海与AI商业化双线高速增长：阿里国际站GMV持续保持双位数增长；全球电商AI工作台Accio付费企业数达到10万，较上一季度增长100%。  海外需求仍是第一条增长曲线，尤其是北美和欧洲买家下单踊跃。本财年前两个季度，阿里国际站交易GMV增长均超过20%。进入四季度外贸旺季，阿里国际站更是迎来“双11开门红”，11月上旬美国大促GMV大涨超40%，带动了大量国内中小企业出口订单增长。 这股需求进一步传导至重点行业。以11月上线的美国大促为例，礼品工艺品、工程建筑机械、汽车零配件三大行业领涨。其中，活动房屋同比增长超",
-  "ord": 1
- },
- "https://www.leiphone.com/category/industrynews/GlHj8MIKX7YGLxU3.html": {
-  "title": "阿里云外部收入增长64%，增速创近六年新高",
-  "source": "雷峰网",
-  "ts": 1795083300.0,
-  "desc": "11月19日晚间，阿里巴巴集团发布最新季度业绩，阿里云外部客户收入同比增长64%，较上一季度的45%显著加快，刷新近六年来的增速高点。季度内，AI相关产品收入连续第13个季度实现三位数增长，驱动阿里云收入增长再创新高。",
-  "ord": 2
- },
- "https://www.leiphone.com/category/private/wIgMWmjlB5GTKg6e.html": {
-  "title": "田渊栋创业合伙人：通往 AGI 最快的路，只能是 AI 造 AI | CoRL 2026",
-  "source": "雷峰网",
-  "ts": 1795082940.0,
-  "desc": "Recursive 联创 Jeff Clune ：“QD、开放式、AI 生成算法，我觉得它们就是下一代伟大的 AI。”    作者丨邓哲敏    编辑丨齐铖湧                                                                                                       11 月 12 日，CoRL 2026 最后一天。主会已经结束，32 场 Workshop 密集进行，其中一场聚焦持续自进化（Continually Self-Improving），英属哥伦比亚大学教授、Uber AI Labs 创始成",
-  "ord": 3
- },
- "https://www.leiphone.com/category/industrynews/iJAlee24RO19u4OW.html": {
-  "title": "闪耀APEC的中国智造：大疆手持影像技术，成为全球媒体生产力标配",
-  "source": "雷峰网",
-  "ts": 1795081860.0,
-  "desc": "如果盘点本届 APEC 新闻报道最显著的变化，“设备轻量化”无疑是全球五千余名参会记者的共同记忆。随着峰会进入收尾期，一道独特的科技风景线也在会场内外全面铺开：在人头攒动的主干采访道上、在各代表团的发布会席位前，中外记者们频频从西装口袋或工作马甲兜里，掏出一台仅有手掌大小的一体化云台相机：单手旋转屏幕秒开机、人脸智能锁定、在疾步穿梭中依然输出如滑轨般平稳的超高清画面。这场让全球记者“背包减负十斤”的采编轻量化浪潮，迅速成为今年 APEC 主场最直观的科技微观景象。大疆Osmo Pocket 4P几乎成为中外记者人手一台的随身标配。“在多边外交的密集节奏下，新闻往往发生在转瞬之间。等你停下脚步、",
-  "ord": 4
- },
- "https://www.leiphone.com/category/ai/wctgzdX4CN2RVxCm.html": {
-  "title": "Google 杀入 Jev 核心赛道：Gemini Decision 1 五项基准领先两项落后",
-  "source": "雷峰网",
-  "ts": 1795079280.0,
-  "desc": "Jev 拿下的 75 亿美元估值曾被质疑是一场泡沫。现在 Google 用一款多模态决策模型告诉市场：这不是泡沫，是赛道。    作者丨郑佳美    编辑丨岑  峰                                                                                                       谷歌正式入场了。刚刚，谷歌发布 Gemini Decision 1，正式向 两个月前引爆决策模型品类的 TypeSafe Jev发起挑战。和 Jev 一样，这款模型不生成任何文本，只计算供程序直接驱动 Agent 执行的候选项概率",
-  "ord": 0
- },
- "https://www.leiphone.com/category/ai/AfdiA9NBN3TJrgDL.html": {
-  "title": "诺亦腾机器人入选 The Information 2026 全球最具潜力50家初创企业榜单",
-  "source": "雷峰网",
-  "ts": 1795079220.0,
-  "desc": "核心要点（Key Facts）· 在 The Information 于 11 月 11 日发布的“2026 全球最具潜力 50 家初创企业”榜单中，诺亦腾机器人（Noitom Robotics）位列亚洲分区第一。· 根据榜单披露，诺亦腾机器人目前估值已超 5 亿美元，累计股权融资逾 5000 万美元，年营收突破 1000 万美元。· 诺亦腾机器人致力于生产供机器人学习的人类数据。公司在中国深圳和美国加州山景城设有数据工厂，并已与物理 AI（Physical AI）领域的近百家企业展开合作。新加坡，2026年11月18日 —— 全球知名科技商业媒体 The Information 近日正式发布",
-  "ord": 1
- },
- "https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html": {
-  "title": "黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型",
-  "source": "雷峰网",
-  "ts": 1795079040.0,
-  "desc": "Decider v1.3：63 项分类任务准确率达 91.6%，对标 Jev 成本直降 61%。    作者丨郑佳美    编辑丨岑   峰                                                                                                       刚刚，黄仁勋每天都在用的「AI 导师」 Perplexity 有了新动作：正式推出 Decider v1.3，直接把 AI 系统里的判断能力单独做成了一套模型。Perplexity 这次直接改了模型处理判断任务的方式：同一份上下文可以同时交给多个问题使用",
-  "ord": 2
  }
 }
