@@ -8,6 +8,44 @@
   <itunes:author>Emtion</itunes:author>
   <itunes:category text="Technology"/>
   <item>
+    <title>11月27日速递：20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳</title>
+    <description>今日要点：20个AI Agents组队，4天狂跑350次实验，超越Cl；ACM MM 2026；2026-11-27 AI 日报 · 英伟达暂停向东南亚发运；AI made self-hosting fun again；Nvidia hits pause on chip ship
+
+【本期文字稿】
+男：欢迎收听 AI 行业速递，今天是 2026 年 11 月 27 日，我们挑几条真正值得聊的新闻讲讲。
+女：先说你最想讲的那条吧，今天哪件事最有故事感？
+男：量子位报道，20 个 AI Agent 组队，4 天跑了 350 次实验，直接超过 ClickBench 最佳公开成绩。
+女：这个数字听着挺猛，它们到底在优化什么？
+男：优化数据库查询，Quickwit 总耗时降了 31%，最高一条降了 87%，等于让机器自己反复试错找最优解。
+女：所以这不是单个模型变聪明，而是一群 Agent 像实验小组一样互相配合。
+男：对，而且四天三百多次实验，人类团队光排期都不止这个时间，这才是最值得注意的变化。
+女：第二条我猜跟算力管制有关，英伟达那边是不是又收紧了？
+男：没错，英伟达暂停向马来西亚、新加坡、泰国、印尼发运服务器，美国在堵 AI 芯片绕道进中国的口子。
+女：这对当地数据中心影响大吗？
+男：很大，贷款和大型合作协议都承压，算力管制的外溢效应已经从芯片本身蔓延到金融和基建。
+女：那 OpenAI 那边呢，今天好像也有成本控制的信号。
+男：对，OpenAI 修复了 GPT-6.2 计费漏洞，但额度消耗反而更快了，Astra 限制快 40%，Sol 快 25%。
+女：听着像是用户没占到便宜，平台自己在收紧钱包。
+男：结合 HN 上那篇 OpenAI 进入成本控制模式的分析，这家公司正在从烧钱扩张转向精打细算。
+女：说到监管，Meta 和英国金融行为监管局那件事挺有意思。
+男：Meta 拒绝在 UK 推个人 Agent 前跟 FCA 做联合测试，FCA 直接警告说别再来一个失控的攻击面。
+女：这就是 Agent 落地最尴尬的地方，能力越强，监管越不敢放手。
+男：同一逻辑也出现在 Character.AI 身上，42 个州的总检察长联手阻止它破产期间卖用户聊天数据。
+女：用户数据成了破产资产，这事听着就让人后背发凉。
+男：再看工业现场，江行智能的陈龙讲得很实在，工厂不需要最聪明的模型，够用、可靠、可验证才是硬道理。
+女：这跟消费端追榜单一冷一热，工业 AI 的评判标准完全不一样。
+男：对，模型识别出异常只是第一步，还得把每次传感器观测对应到正确设备和位置，这才是落地难点。
+女：剩下几条我们快速带过吧。
+男：腾讯混元 Hy3D 3.6 让 3D 生成从能看转向能用，xAI 三杰做了个互联网时光机，90 天搭出万亿级历史索引。
+女：还有 Google 要求 AI Agent 走它的 MCP 服务器，但 Gmail 那个连邮件都发不了。
+男：以及 ElevenLabs 拟按 330 亿美元估值融资，微软披露 AI 攻击框架 ARTEX，苹果发了 Siri AI 开发者预览版。
+女：总结一句，今天的主线是 Agent 越来越能干，但算力、成本和监管三只手同时按住了它，下期见。</description>
+    <link>https://emtion.github.io/ai-news-feed/</link>
+    <guid isPermaLink="false">ep-20261127</guid>
+    <pubDate>Fri, 27 Nov 2026 13:14:53 +0800</pubDate>
+    <enclosure url="https://emtion.github.io/ai-news-feed/episodes/ep-20261127.mp3" length="1354044" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>11月26日速递：Building on Nemotron 3.5 Parse: Open Dat</title>
     <description>今日要点：Building on Nemotron 3.5 Parse；OpenAI cuts GPT-6.2 usage: Ast；任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用；从婴儿睡袋到时尚孕产服饰，Nest Designs在  Sh；2026-11-26 AI 日报 · 标普示警英伟达治理风险
 

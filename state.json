@@ -1,4 +1,95 @@
 {
+ "https://www.anthropic.com/news/anthropic-prices-initial-public-offering": {
+  "title": "Anthropic prices initial public offering",
+  "source": "Anthropic Newsroom",
+  "ts": 1795756407.6175044,
+  "desc": "",
+  "ord": 12
+ },
+ "https://huggingface.co/orcarouter/Inkling-2-Mini-abliterated-GGUF": {
+  "title": "orcarouter/Inkling-2-Mini-abliterated-GGUF Text Generation • 26B • Updated 4 days ago • 12.2k • 299",
+  "source": "Hugging Face Trending",
+  "ts": 1795756407.6175044,
+  "desc": "",
+  "ord": 29
+ },
+ "https://www.qbitai.com/2026/11/513163.html": {
+  "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+  "source": "量子位",
+  "ts": 1795751629.0,
+  "desc": "Quickwit查询总耗时降31%，最高降87%",
+  "ord": 0
+ },
+ "https://www.qbitai.com/2026/11/513155.html": {
+  "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+  "source": "量子位",
+  "ts": 1795751119.0,
+  "desc": "3D生成的竞争重点正在从“能看”转向“能用”",
+  "ord": 1
+ },
+ "https://www.qbitai.com/2026/11/513125.html": {
+  "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+  "source": "量子位",
+  "ts": 1795750391.0,
+  "desc": "",
+  "ord": 2
+ },
+ "https://www.qbitai.com/2026/11/513101.html": {
+  "title": "百亿具身独角兽破壁，玩家集体涌向它的牌桌",
+  "source": "量子位",
+  "ts": 1795749805.0,
+  "desc": "",
+  "ord": 3
+ },
+ "https://www.leiphone.com/category/private/O7QLSVU8zvpfzY6B.html": {
+  "title": "江行智能基模 CTO 陈龙：当「物理 AI 大脑」进厂，如何实现可靠落地？| ACM MM 2026",
+  "source": "雷峰网",
+  "ts": 1795748820.0,
+  "desc": "工业现场不需要“最聪明”的模型，够用、可靠、可验证才是硬道理。    作者丨董雨頔    编辑丨徐晓飞                                                                                                       在工业现场，模型识别出异常，只是第一步。它还要把每一次传感器或相机观测对应到正确的设备、位置和任务状态，规划下一步行动，控制机器人完成操作，并验证动作是否真正满足了客户要求、规程和监管规则。这正是工业物理AI与单纯感知系统之间的一道分界线：它不仅要感知环境、识别目标，还需要控制现实设备，并根",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/yanxishe/e60A2os7y71EKeLI.html": {
+  "title": "xAI 三杰造了台「互联网时光机」：AI 能预测未来，才是真正的智能？",
+  "source": "雷峰网",
+  "ts": 1795748280.0,
+  "desc": "90 天搭出万亿级历史索引，他们先做出 AI 预测“训练场”    作者丨高允毅    编辑丨岑   峰                                                                                                       达里奥又被人骂“虚伪”了。先是前 Meta 首席 AI 科学家杨立昆指责 Anthropic CEO 达里奥炒作 AI 危险论，并直言他当年离开 OpenAI，不过是因为无法掌握控制权。昨天，达里奥在 X 发万字长文回应，称“向 AI 交出人类自由意志”的指控纯属荒谬，并再次表明态度：写代",
+  "ord": 1
+ },
+ "https://www.qbitai.com/2026/11/513091.html": {
+  "title": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+  "source": "量子位",
+  "ts": 1795748163.0,
+  "desc": "倒计时两周，报名从速！",
+  "ord": 4
+ },
+ "https://www.leiphone.com/category/ai/yVUjZ1Pgo80vJ5T0.html": {
+  "title": "RoboScience 机器科学发布 GenSight：如何在一个模型，搞定生成和感知？",
+  "source": "雷峰网",
+  "ts": 1795747680.0,
+  "desc": "热潮褪去之后，世界模型的研究该转向何处？    作者丨邓哲敏    编辑丨齐铖湧                                                                                                       今年上半年，世界模型是具身智能领域最风光的叙事。资本蜂拥而入，仿佛只要模型能把未来视频生成得足够逼真，机器人就自然能学会理解世界、规划行动。热潮来得快，走得也快。问题首先出在概念本身，李飞飞团队今年 6 月专门撰文，说世界模型已经成为 AI 领域最重要、也最被滥用的术语之一。更根本的质疑来自实际效果，智源研究院院",
+  "ord": 2
+ },
+ "https://www.qbitai.com/2026/11/513087.html": {
+  "title": "乾崑共创者计划发布：加入乾崑生态，共创出行未来！",
+  "source": "量子位",
+  "ts": 1795745952.0,
+  "desc": "11月26日，“乾崑生态 共赴热爱”华为乾崑生态大会在广州南沙体育馆举行。",
+  "ord": 5
+ },
+ "https://www.qbitai.com/2026/11/513075.html": {
+  "title": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
+  "source": "量子位",
+  "ts": 1795744990.0,
+  "desc": "担心课题被AI抢先，该怎么办？",
+  "ord": 6
+ },
+ "https://daily.ai225.com/daily/2026-11-27": {
+  "title": "2026-11-27 AI 日报 · 英伟达暂停向东南亚发运服务器，当地数据中心贷款与合作协议承压",
+  "source": "AI 日报 · AI225",
+  "ts": 1795741171.0,
+  "desc": "今日AI算力管制影响持续外溢：英伟达暂停向东南亚四国发运服务器，当地数据中心的贷款与大型合作协议面临风险。产品端，OpenAI修复GPT-6.2计费漏洞致额度消耗加快并测试Chat与Work合并，苹果发布Siri AI开发者预览版，VS Code 1.148强化智能体容器与唤醒管理，DeepSeek灰测成本展示。行业方面，ElevenLabs拟按330亿美元估值融资，微软披露AI攻击框架ARTEX，研究界发布智能体科研基准与预训练投毒警示。",
+  "ord": 0
+ },
  "https://huggingface.co/strata-engine/Inkling-2-Mini-Strata": {
   "title": "strata-engine/Inkling-2-Mini-Strata Image-Text-to-Text • Updated about 4 hours ago • 2.97k • 230",
   "source": "Hugging Face Trending",
@@ -174,13 +265,6 @@
   "desc": "30秒一镜到底，可自动编排镜头",
   "ord": 5
  },
- "https://commandcode.ai/moat": {
-  "title": "Moat: OpenRouter replacement",
-  "source": "Hacker News 头版",
-  "ts": 1795674768.0,
-  "desc": "Article URL: https://commandcode.ai/moat\nComments URL: https://news.ycombinator.com/item?id=50652184\nPoints: 242\n# Comments: 135",
-  "ord": 4
- },
  "https://www.leiphone.com/category/industrynews/7P7TJEooLlAQxqGH.html": {
   "title": "月活破百万、同比暴涨93.9%：淘宝成为韩国增速最快的电商平台",
   "source": "雷峰网",
@@ -207,28 +291,28 @@
   "source": "艾媒网",
   "ts": 1795669336.482212,
   "desc": "",
-  "ord": 1
+  "ord": 2
  },
  "https://www.iimedia.cn/c1088/120774.html": {
   "title": "11月25日AI新产品讯息：腾讯混元发布第三代翻译模型、华为云发布智能体伙伴开放计划、文心5.5 Flash Preview正式开源",
   "source": "艾媒网",
   "ts": 1795669336.482212,
   "desc": "",
-  "ord": 2
+  "ord": 3
  },
  "https://www.iimedia.cn/c1040/120824.html": {
   "title": "千问Go全面开放免费代打电话服务，专属AI助手加速融入生活场景",
   "source": "艾媒网",
   "ts": 1795669336.482212,
   "desc": "",
-  "ord": 3
+  "ord": 4
  },
  "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B": {
   "title": "nvidia/Nemotron-Labs-Image-30B-A3B Text-to-Image • 33B • Updated about 10 hours ago • 218 • 181",
   "source": "Hugging Face Trending",
   "ts": 1795669336.482212,
   "desc": "",
-  "ord": 24
+  "ord": 23
  },
  "https://twitter.com/thsottiaux/status/2125784147889393806": {
   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
@@ -900,7 +984,7 @@
   "source": "艾媒网",
   "ts": 1795542185.6705205,
   "desc": "",
-  "ord": 0
+  "ord": 1
  },
  "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview": {
   "title": "baidu/ERNIE-5.5-Flash-Preview Text Generation • 300B • Updated about 10 hours ago • 75 • 213",
@@ -2909,7 +2993,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795376280.5030785,
   "desc": "",
-  "ord": 19
+  "ord": 18
  },
  "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/": {
   "title": "Why data centers are at the center of the Big Tech backlash",
@@ -3028,7 +3112,7 @@
   "source": "艾媒网",
   "ts": 1795317202.84134,
   "desc": "",
-  "ord": 2
+  "ord": 0
  },
  "https://www.noemamag.com/the-mythology-of-conscious-ai/": {
   "title": "The Mythology of Conscious AI",
@@ -3203,7 +3287,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795234035.606287,
   "desc": "",
-  "ord": 23
+  "ord": 24
  },
  "https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html": {
   "title": "享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款",
@@ -3952,7 +4036,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795088250.9221625,
   "desc": "",
-  "ord": 18
+  "ord": 19
  },
  "https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html": {
   "title": "阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍",
@@ -4113,90 +4197,6 @@
   "source": "量子位",
   "ts": 1795057305.0,
   "desc": "语言模型单张3090卡即可运行",
-  "ord": 0
- },
- "https://www.leiphone.com/category/industrynews/L9tleA0kDSyrruLn.html": {
-  "title": "阿里樊路远离场，虎鲸文娱去向何方？",
-  "source": "雷峰网",
-  "ts": 1795056780.0,
-  "desc": "“其实从三个月前就传来老樊要走，只是一直在交接流程。”“去年四月老樊的任期就多延长了一年。”多位大厂人士对雷峰网表示，阿里虎鲸文娱CEO樊路远离职的消息内部早就有所传闻。11月16日，大麦娱乐发布公告，樊路远辞任执行董事、董事会主席及CEO，理由是“专注发展个人事业”。对于老樊接下来的创业方向，有知情人士表示会聚焦于AI领域，但做游戏的可能性不大。樊路远在阿里体系内工作近20年，有报道称，他也是大文娱自2016年组建以来任期最长的一号位。往近看，樊路远离开只是阿里虎鲸文娱的人事变化，但长远看，实则是大厂文娱业务在当下的集体课题：当所有资源都涌往AI方向，文娱这条线还怎么破？01樊路远交棒，盈利",
-  "ord": 10
- },
- "https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain": {
-  "title": "Google continues to accelerate its release cadence with Gemini 4 NeonNovember 18, 2026",
-  "source": "Artificial Analysis 智力指数榜",
-  "ts": 1795055632.1216788,
-  "desc": "",
-  "ord": 3
- },
- "https://www.iimedia.cn/c400/119474.html": {
-  "title": "艾媒咨询 | 2026年上半年中国人工智能行业投融资市场监测与分析报告",
-  "source": "艾媒网",
-  "ts": 1795055632.1216788,
-  "desc": "",
-  "ord": 2
- },
- "https://www.producthunt.com/products/gemini-6": {
-  "title": "Gemini 4 Neon",
-  "source": "Product Hunt",
-  "ts": 1795055558.0,
-  "desc": "",
-  "ord": 2
- },
- "https://colossus.com/article/ai-will-not-make-you-rich/": {
-  "title": "AI Will Not Make You Rich (2025)",
-  "source": "Hacker News 头版",
-  "ts": 1795053088.0,
-  "desc": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/\nComments URL: https://news.ycombinator.com/item?id=50555093\nPoints: 25\n# Comments: 9",
-  "ord": 0
- },
- "https://adeindex.com": {
-  "title": "Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools",
-  "source": "Hacker News 头版",
-  "ts": 1795052032.0,
-  "desc": "Article URL: https://adeindex.com\nComments URL: https://news.ycombinator.com/item?id=50554973\nPoints: 5\n# Comments: 2",
-  "ord": 1
- },
- "https://arxiv.org/abs/2607.29378": {
-  "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
-  "source": "Hacker News 头版",
-  "ts": 1795051622.0,
-  "desc": "Article URL: https://arxiv.org/abs/2607.29378\nComments URL: https://news.ycombinator.com/item?id=50554908\nPoints: 8\n# Comments: 3",
-  "ord": 2
- },
- "https://daily.ai225.com/daily/2026-11-19": {
-  "title": "2026-11-19 AI 日报 · Gemini 4 Neon 发布，Anthropic IPO 定价 83 美元",
-  "source": "AI 日报 · AI225",
-  "ts": 1795050185.0,
-  "desc": "今日大模型与资本市场迎来多项进展：Google DeepMind 发布前沿模型 Gemini 4 Neon 并同步开放多端使用，同时向 AI Ultra 订阅用户推出世界模型 Genie 4；微软发布 MAI 系列七款高性价比模型；Anthropic 正式将 IPO 定价定为每股 83 美元，预计 11 月 19 日以“ANT”代码登陆纳斯达克。国内方面，腾讯 Q3 财报披露资本开支同比大增 528%；字节跳动豆包工作 DAU 突破 800 万。英伟达在黄仁勋离职后的首次全员会上宣布 12 月提前加薪与增加股权激励，以稳定团队；开源与学术界则在 32GB 内存运行 180B MoE 模型与流式",
-  "ord": 0
- },
- "https://www.leiphone.com/category/zaobao/wMg9SCFKwT7JSsGq.html": {
-  "title": "英伟达临时CEO称将不再向中国出货H200芯片；一天之内173名管理人员被免，宗馥莉大规模「动刀」；英特尔被曝再度裁员，波及全球IT员工",
-  "source": "雷峰网",
-  "ts": 1795049940.0,
-  "desc": "要闻提示1.英特尔被曝再度裁员，波及全球IT员工2.英伟达临时CEO称将不再向中国出货H200芯片，外交部回应3.权志龙母公司将推机器人女团，与宇树合作的K-pop演唱会12月首演4.宗馥莉再掀人事风暴：173名管理人员被免职5.最高涨560元！大疆两款手持云台相机涨价6.腾讯第三季度营收2073亿元，WorkBuddy日活超千万7.张朝阳再度回应搜狐“躺平”：大模型投入太大，没资源来做这个事情8.英伟达员工大会宣布告别“黄仁勋时代”：12 月员工加薪，启动新 CEO 遴选今日头条英特尔被曝再度裁员，波及全球IT员工11月18日消息，据外媒报道，在过去两年多轮裁员之后，英特尔再度启动新一轮人员",
-  "ord": 0
- },
- "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/": {
-  "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-  "source": "TechCrunch AI",
-  "ts": 1795048976.0,
-  "desc": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
-  "ord": 0
- },
- "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/": {
-  "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-  "source": "Hacker News 头版",
-  "ts": 1795048185.0,
-  "desc": "Article URL: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/\nComments URL: https://news.ycombinator.com/item?id=50554374\nPoints: 85\n# Comments: 28",
-  "ord": 3
- },
- "https://www.qbitai.com/2026/11/510947.html": {
-  "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
-  "source": "量子位",
-  "ts": 1795048000.0,
-  "desc": "国产AI工具实现「一个人就是一个剧组」",
   "ord": 0
  }
 }

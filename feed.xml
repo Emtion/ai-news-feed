@@ -5,13 +5,44 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Thu, 26 Nov 2026 23:52:52 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 05:13:59 +0000</lastBuildDate>
+  <item>
+    <title>Introducing Claude Fable 5.2 and Claude Mythos 5.2Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</title>
+    <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
+    <guid isPermaLink="true">https://www.anthropic.com/claude-fable-and-mythos-5-2</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
   <item>
     <title>Team &amp; Enterprise</title>
     <link>https://huggingface.co/enterprise</link>
     <guid isPermaLink="true">https://huggingface.co/enterprise</guid>
     <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
     <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩</title>
+    <link>https://www.qbitai.com/2026/11/513163.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/513163.html</guid>
+    <pubDate>Fri, 27 Nov 2026 03:53:49 +0000</pubDate>
+    <source>量子位</source>
+    <description>Quickwit查询总耗时降31%，最高降87%</description>
+  </item>
+  <item>
+    <title>江行智能基模 CTO 陈龙：当「物理 AI 大脑」进厂，如何实现可靠落地？| ACM MM 2026</title>
+    <link>https://www.leiphone.com/category/private/O7QLSVU8zvpfzY6B.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/private/O7QLSVU8zvpfzY6B.html</guid>
+    <pubDate>Fri, 27 Nov 2026 03:07:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>工业现场不需要“最聪明”的模型，够用、可靠、可验证才是硬道理。    作者丨董雨頔    编辑丨徐晓飞                                                                                                       在工业现场，模型识别出异常，只是第一步。它还要把每一次传感器或相机观测对应到正确的设备、位置和任务状态，规划下一步行动，控制机器人完成操作，并验证动作是否真正满足了客户要求、规程和监管规则。这正是工业物理AI与单纯感知系统之间的一道分界线：它不仅要感知环境、识别目标，还需要控制现实设备，并根</description>
+  </item>
+  <item>
+    <title>2026-11-27 AI 日报 · 英伟达暂停向东南亚发运服务器，当地数据中心贷款与合作协议承压</title>
+    <link>https://daily.ai225.com/daily/2026-11-27</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-27</guid>
+    <pubDate>Fri, 27 Nov 2026 00:59:31 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>今日AI算力管制影响持续外溢：英伟达暂停向东南亚四国发运服务器，当地数据中心的贷款与大型合作协议面临风险。产品端，OpenAI修复GPT-6.2计费漏洞致额度消耗加快并测试Chat与Work合并，苹果发布Siri AI开发者预览版，VS Code 1.148强化智能体容器与唤醒管理，DeepSeek灰测成本展示。行业方面，ElevenLabs拟按330亿美元估值融资，微软披露AI攻击框架ARTEX，研究界发布智能体科研基准与预训练投毒警示。</description>
   </item>
   <item>
     <title>AI made self-hosting fun again</title>
@@ -31,22 +62,6 @@ Points: 163
     <pubDate>Thu, 26 Nov 2026 20:03:54 +0000</pubDate>
     <source>TechCrunch AI</source>
     <description>Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.</description>
-  </item>
-  <item>
-    <title>381个AI直播冲刺证明P=NP！把GitHub干崩了</title>
-    <link>https://www.qbitai.com/2026/11/513021.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/513021.html</guid>
-    <pubDate>Thu, 26 Nov 2026 13:56:01 +0000</pubDate>
-    <source>量子位</source>
-    <description>已跑了超过一万次会话，在Lean4里验证通过了2400多条引理</description>
-  </item>
-  <item>
-    <title>深耕核心零部件，钛虎机器人轻量化关节模组Lite-1系列助力整机降本增效</title>
-    <link>https://www.leiphone.com/category/industrynews/hYv4Caentt6byJhj.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/hYv4Caentt6byJhj.html</guid>
-    <pubDate>Thu, 26 Nov 2026 13:45:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>近日，钛虎机器人科技（上海）有限公司（以下简称“钛虎机器人”）正式发布面向机器人批量落地场景的轻量化关节模组Lite-1系列。该产品通过结构精简，驱控板与编码器一体化设计，在压缩体积、提升集成度的同时保持控制精度与运行稳定性，为人形机器人整机设计与规模化生产提供了新的核心零部件选择。当前，人形机器人产业正从“能走能动”的样机验证阶段，加速迈向“可批量、可交付、可落地”的产业化阶段。关节模组是机器人的核心运动部件，其体积、集成度、走线方式与装配一致性，直接影响整机结构、成本与量产节奏。头部、手臂、腰部等部位空间有限，对关节的轴向尺寸提出了更高要求；多关节带来的复杂线束，也增加了走线与装配难度。关</description>
   </item>
   <item>
     <title>Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
@@ -79,19 +94,11 @@ Points: 163
     <source>Product Hunt</source>
   </item>
   <item>
-    <title>跳出“卖萌摆件”误区：从Cami看后装车载实体AI机器人的破局路径 ——基于艾媒鼎榜《2026中国车载实体AI机器人品牌10强》产业观察</title>
-    <link>https://www.iimedia.cn/c1091/120724.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1091/120724.html</guid>
-    <pubDate>Tue, 24 Nov 2026 17:43:05 +0000</pubDate>
+    <title>艾媒一周热评381期 | 当Token走进大众消费：买算力像充话费一样简单；商业秘密｜当399元羽绒</title>
+    <link>https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
     <source>艾媒网</source>
-  </item>
-  <item>
-    <title>2026-11-26 AI 日报 · 标普示警英伟达治理风险，FCC授权SpaceX部署百万颗AI卫星</title>
-    <link>https://daily.ai225.com/daily/2026-11-26</link>
-    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-26</guid>
-    <pubDate>Thu, 26 Nov 2026 00:53:26 +0000</pubDate>
-    <source>AI 日报 · AI225</source>
-    <description>今日AI行业在治理合规、算力基建与模型应用多点推进。标普将英伟达信用评级列入负面观察，称其存在公司治理与“关键人物”风险；FCC授权SpaceX部署至多100万颗AI数据中心卫星。产品与模型侧，OpenAI面向企业试点“Private Inference”隐私推理，Sand.ai发布视频模型MAGI-2并计划未来开源，国内三部委印发支持AI应用的新一代通信网方案。政策方面，42州总检察长介入以期阻止Character.AI拍卖用户聊天记录，arXiv研究则在代理蒸馏与量化推理上给出实验新进展。</description>
   </item>
   <item>
     <title>Artificial Analysis</title>
@@ -140,13 +147,6 @@ Points: 163
     <source>CloudQuell 发布日志</source>
   </item>
   <item>
-    <title>Introducing Claude Fable 5.2 and Claude Mythos 5.2Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</title>
-    <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
-    <guid isPermaLink="true">https://www.anthropic.com/claude-fable-and-mythos-5-2</guid>
-    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
     <title>Click here to view the guide</title>
     <link>https://api-docs.deepseek.com/guides/build_a_chatbot/</link>
     <guid isPermaLink="true">https://api-docs.deepseek.com/guides/build_a_chatbot/</guid>
@@ -176,11 +176,42 @@ Points: 163
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</title>
+    <link>https://www.anthropic.com/news/public-benefit-fund</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
     <title>Hugging Face PRO</title>
     <link>https://huggingface.co/pro</link>
     <guid isPermaLink="true">https://huggingface.co/pro</guid>
     <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
     <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻</title>
+    <link>https://www.qbitai.com/2026/11/513155.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/513155.html</guid>
+    <pubDate>Fri, 27 Nov 2026 03:45:19 +0000</pubDate>
+    <source>量子位</source>
+    <description>3D生成的竞争重点正在从“能看”转向“能用”</description>
+  </item>
+  <item>
+    <title>xAI 三杰造了台「互联网时光机」：AI 能预测未来，才是真正的智能？</title>
+    <link>https://www.leiphone.com/category/yanxishe/e60A2os7y71EKeLI.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/e60A2os7y71EKeLI.html</guid>
+    <pubDate>Fri, 27 Nov 2026 02:58:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>90 天搭出万亿级历史索引，他们先做出 AI 预测“训练场”    作者丨高允毅    编辑丨岑   峰                                                                                                       达里奥又被人骂“虚伪”了。先是前 Meta 首席 AI 科学家杨立昆指责 Anthropic CEO 达里奥炒作 AI 危险论，并直言他当年离开 OpenAI，不过是因为无法掌握控制权。昨天，达里奥在 X 发万字长文回应，称“向 AI 交出人类自由意志”的指控纯属荒谬，并再次表明态度：写代</description>
+  </item>
+  <item>
+    <title>2026-11-26 AI 日报 · 标普示警英伟达治理风险，FCC授权SpaceX部署百万颗AI卫星</title>
+    <link>https://daily.ai225.com/daily/2026-11-26</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-26</guid>
+    <pubDate>Thu, 26 Nov 2026 00:53:26 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>今日AI行业在治理合规、算力基建与模型应用多点推进。标普将英伟达信用评级列入负面观察，称其存在公司治理与“关键人物”风险；FCC授权SpaceX部署至多100万颗AI数据中心卫星。产品与模型侧，OpenAI面向企业试点“Private Inference”隐私推理，Sand.ai发布视频模型MAGI-2并计划未来开源，国内三部委印发支持AI应用的新一代通信网方案。政策方面，42州总检察长介入以期阻止Character.AI拍卖用户聊天记录，arXiv研究则在代理蒸馏与量化推理上给出实验新进展。</description>
   </item>
   <item>
     <title>Top-cited AI scientists at four US companies compared</title>
@@ -200,22 +231,6 @@ Points: 23
     <pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
     <source>TechCrunch AI</source>
     <description>On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.</description>
-  </item>
-  <item>
-    <title>AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用</title>
-    <link>https://www.qbitai.com/2026/11/512981.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512981.html</guid>
-    <pubDate>Thu, 26 Nov 2026 12:39:08 +0000</pubDate>
-    <source>量子位</source>
-    <description>还得是科班尖子生</description>
-  </item>
-  <item>
-    <title>直播 25 天训出一个模型，五项登顶，一群 00 后的 Physical AI 实验</title>
-    <link>https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html</guid>
-    <pubDate>Thu, 26 Nov 2026 12:50:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description> 聊聊榜单之外的 Motubrain 2.0，和它背后那支不太一样的团队。    作者丨齐铖湧    编辑丨岑   峰                                                                                                       近日，行业独角兽企业生数科技正式发布 Motubrain 2.0，并宣布将于近期开源。这次发布包括一个 20B 参数的世界动作模型（WAM），以及一套名为 Motubrain-Harness 的智能体系统。过去一个月里，生数科技把 Motubrain 2.0 的预训练搬上了公</description>
   </item>
   <item>
     <title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
@@ -248,19 +263,11 @@ Points: 23
     <source>Product Hunt</source>
   </item>
   <item>
-    <title>艾媒一周热评381期 | 当Token走进大众消费：买算力像充话费一样简单；商业秘密｜当399元羽绒</title>
-    <link>https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1088/120606.html?previewKey=C0B7EA3F3712B488016AE77EB576DE42</guid>
-    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
+    <title>艾媒咨询 | 智能适配 风随人异——2026年AI空调行业消费者认知研究报告</title>
+    <link>https://www.iimedia.cn/c400/120512.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/120512.html</guid>
+    <pubDate>Sun, 22 Nov 2026 03:13:22 +0000</pubDate>
     <source>艾媒网</source>
-  </item>
-  <item>
-    <title>2026-11-25 AI 日报 · GPT-6 展露蛋白质设计能力，文心 5.5 Flash Preview 开源</title>
-    <link>https://daily.ai225.com/daily/2026-11-25</link>
-    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-25</guid>
-    <pubDate>Wed, 25 Nov 2026 00:57:03 +0000</pubDate>
-    <source>AI 日报 · AI225</source>
-    <description>今日 AI 在模型、智能体与安全治理上同时推进：OpenAI 称 GPT-6 系列可仅凭推理设计蛋白质并在五个靶点现结合证据；百度以 Apache 2.0 开源文心 5.5 Flash Preview，vLLM 首日支持。Anthropic 公测 MCP 技能与桌面应用安装，股价却跌破 83 美元发行价；黄仁勋复职后首次全员会致歉。国内华为云开放 AgentArts 智能体平台。安全方面，Amazon 披露 AI 智能体自主利用零日漏洞。</description>
   </item>
   <item>
     <title>Can language models drive a humanoid robot? Introducing AA-Robotics-Sim v0.1November 25, 2026</title>
@@ -309,13 +316,6 @@ Points: 23
     <source>CloudQuell 发布日志</source>
   </item>
   <item>
-    <title>Investing in the public benefitWe’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.</title>
-    <link>https://www.anthropic.com/news/public-benefit-fund</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/public-benefit-fund</guid>
-    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
     <title>DeepSeek API Docs</title>
     <link>https://api-docs.deepseek.com/</link>
     <guid isPermaLink="true">https://api-docs.deepseek.com/</guid>
@@ -337,11 +337,41 @@ Points: 23
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Anthropic files S-1 with the SEC for proposed initial public offeringToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.</title>
+    <link>https://www.anthropic.com/news/s1-sec</link>
+    <guid isPermaLink="true">https://www.anthropic.com/news/s1-sec</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
     <title>Enterprise Support</title>
     <link>https://huggingface.co/support</link>
     <guid isPermaLink="true">https://huggingface.co/support</guid>
     <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
     <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>具身公司抱团回应：通用大模型跨维打击？没那么简单</title>
+    <link>https://www.qbitai.com/2026/11/513125.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/513125.html</guid>
+    <pubDate>Fri, 27 Nov 2026 03:33:11 +0000</pubDate>
+    <source>量子位</source>
+  </item>
+  <item>
+    <title>RoboScience 机器科学发布 GenSight：如何在一个模型，搞定生成和感知？</title>
+    <link>https://www.leiphone.com/category/ai/yVUjZ1Pgo80vJ5T0.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/ai/yVUjZ1Pgo80vJ5T0.html</guid>
+    <pubDate>Fri, 27 Nov 2026 02:48:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>热潮褪去之后，世界模型的研究该转向何处？    作者丨邓哲敏    编辑丨齐铖湧                                                                                                       今年上半年，世界模型是具身智能领域最风光的叙事。资本蜂拥而入，仿佛只要模型能把未来视频生成得足够逼真，机器人就自然能学会理解世界、规划行动。热潮来得快，走得也快。问题首先出在概念本身，李飞飞团队今年 6 月专门撰文，说世界模型已经成为 AI 领域最重要、也最被滥用的术语之一。更根本的质疑来自实际效果，智源研究院院</description>
+  </item>
+  <item>
+    <title>2026-11-25 AI 日报 · GPT-6 展露蛋白质设计能力，文心 5.5 Flash Preview 开源</title>
+    <link>https://daily.ai225.com/daily/2026-11-25</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-25</guid>
+    <pubDate>Wed, 25 Nov 2026 00:57:03 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>今日 AI 在模型、智能体与安全治理上同时推进：OpenAI 称 GPT-6 系列可仅凭推理设计蛋白质并在五个靶点现结合证据；百度以 Apache 2.0 开源文心 5.5 Flash Preview，vLLM 首日支持。Anthropic 公测 MCP 技能与桌面应用安装，股价却跌破 83 美元发行价；黄仁勋复职后首次全员会致歉。国内华为云开放 AgentArts 智能体平台。安全方面，Amazon 披露 AI 智能体自主利用零日漏洞。</description>
   </item>
   <item>
     <title>Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email</title>
@@ -361,22 +391,6 @@ Points: 205
     <pubDate>Wed, 25 Nov 2026 22:44:32 +0000</pubDate>
     <source>TechCrunch AI</source>
     <description>The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.</description>
-  </item>
-  <item>
-    <title>90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守</title>
-    <link>https://www.qbitai.com/2026/11/512972.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512972.html</guid>
-    <pubDate>Thu, 26 Nov 2026 10:07:55 +0000</pubDate>
-    <source>量子位</source>
-    <description>全栈方案破解工业机器人连续作业难题</description>
-  </item>
-  <item>
-    <title>美团闪购联合行业头部品牌成立水果即时零售品质联盟，发起好商品计划“即鲜时刻”</title>
-    <link>https://www.leiphone.com/category/industrynews/sbqPRelP6WnxXGKx.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/sbqPRelP6WnxXGKx.html</guid>
-    <pubDate>Thu, 26 Nov 2026 11:24:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>11月25日，美团闪购在上海举办即时零售鲜果行业沙龙。沙龙上，美团闪购联合行业头部水果品牌与供应链伙伴，正式成立水果即时零售品质联盟（以下简称“品质联盟”），并发起好商品计划“即鲜时刻”。品质联盟首批成员包括核心产区品牌商与头部供应链伙伴鑫荣懋、本来果坊、光明白茅岭农场、齐峰果业，以及百果园、切果NOW、鲜果派对等十余家优质零售商家。美团闪购将在商品开发、交付标准提升、经营方法优化三方面向联盟成员开放全套助力举措，推动行业商品品质与食安标准升级，助力鲜果行业共同把握即时零售新渠道、新商品力带来的增长新机遇。水果行业正处在向新渠道和商品力要增长动力的转型期。在沙龙的圆桌讨论环节，中国食品土畜进出</description>
   </item>
   <item>
     <title>Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems</title>
@@ -416,14 +430,6 @@ Points: 205
     <source>艾媒网</source>
   </item>
   <item>
-    <title>2026-11-24 AI 日报 · 黄仁勋复职英伟达CEO董事会全票通过，亚马逊75亿美元收购Decart优化技术</title>
-    <link>https://daily.ai225.com/daily/2026-11-24</link>
-    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-24</guid>
-    <pubDate>Tue, 24 Nov 2026 00:53:30 +0000</pubDate>
-    <source>AI 日报 · AI225</source>
-    <description>今日AI领域迎来重大人事与商业转折：英伟达董事会全票恢复黄仁勋的CEO与董事职务，历时不到两周的高层风波告一段落，股价盘前涨超30%；亚马逊斥资约75亿美元收购AI初创公司Decart的技术与团队，强化自研芯片竞争力。产品层面，Anthropic推出测试版Claude Ship代码代理，智谱发布GLM-5.4技术公告，OpenAI联手思科开源运行时防护工具Shirudo。同时，xAI被曝向竞争对手出租算力，SpaceX因Grok深伪内容遭两州起诉，公安部公布10起AI造谣案件。</description>
-  </item>
-  <item>
     <title>Thinking Machines has released Inkling 2 Mini, an open weights looped transformerNovember 20, 2026</title>
     <link>https://artificialanalysis.ai/articles/inkling-2-mini</link>
     <guid isPermaLink="true">https://artificialanalysis.ai/articles/inkling-2-mini</guid>
@@ -454,13 +460,6 @@ Points: 205
     <source>CloudQuell 发布日志</source>
   </item>
   <item>
-    <title>Anthropic files S-1 with the SEC for proposed initial public offeringToday, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.</title>
-    <link>https://www.anthropic.com/news/s1-sec</link>
-    <guid isPermaLink="true">https://www.anthropic.com/news/s1-sec</guid>
-    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
     <title>Models &amp; Pricing</title>
     <link>https://api-docs.deepseek.com/quick_start/pricing/</link>
     <guid isPermaLink="true">https://api-docs.deepseek.com/quick_start/pricing/</guid>
@@ -482,11 +481,41 @@ Points: 205
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Early progress on accelerating drug development with ClaudeWe're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.</title>
+    <link>https://www.anthropic.com/research/early-progress-drug-development</link>
+    <guid isPermaLink="true">https://www.anthropic.com/research/early-progress-drug-development</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
     <title>Inference Providers</title>
     <link>https://huggingface.co/inference/models</link>
     <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
     <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
     <source>Hugging Face Trending</source>
+  </item>
+  <item>
+    <title>百亿具身独角兽破壁，玩家集体涌向它的牌桌</title>
+    <link>https://www.qbitai.com/2026/11/513101.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/513101.html</guid>
+    <pubDate>Fri, 27 Nov 2026 03:23:25 +0000</pubDate>
+    <source>量子位</source>
+  </item>
+  <item>
+    <title>深耕核心零部件，钛虎机器人轻量化关节模组Lite-1系列助力整机降本增效</title>
+    <link>https://www.leiphone.com/category/industrynews/hYv4Caentt6byJhj.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/hYv4Caentt6byJhj.html</guid>
+    <pubDate>Thu, 26 Nov 2026 13:45:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>近日，钛虎机器人科技（上海）有限公司（以下简称“钛虎机器人”）正式发布面向机器人批量落地场景的轻量化关节模组Lite-1系列。该产品通过结构精简，驱控板与编码器一体化设计，在压缩体积、提升集成度的同时保持控制精度与运行稳定性，为人形机器人整机设计与规模化生产提供了新的核心零部件选择。当前，人形机器人产业正从“能走能动”的样机验证阶段，加速迈向“可批量、可交付、可落地”的产业化阶段。关节模组是机器人的核心运动部件，其体积、集成度、走线方式与装配一致性，直接影响整机结构、成本与量产节奏。头部、手臂、腰部等部位空间有限，对关节的轴向尺寸提出了更高要求；多关节带来的复杂线束，也增加了走线与装配难度。关</description>
+  </item>
+  <item>
+    <title>2026-11-24 AI 日报 · 黄仁勋复职英伟达CEO董事会全票通过，亚马逊75亿美元收购Decart优化技术</title>
+    <link>https://daily.ai225.com/daily/2026-11-24</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-24</guid>
+    <pubDate>Tue, 24 Nov 2026 00:53:30 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>今日AI领域迎来重大人事与商业转折：英伟达董事会全票恢复黄仁勋的CEO与董事职务，历时不到两周的高层风波告一段落，股价盘前涨超30%；亚马逊斥资约75亿美元收购AI初创公司Decart的技术与团队，强化自研芯片竞争力。产品层面，Anthropic推出测试版Claude Ship代码代理，智谱发布GLM-5.4技术公告，OpenAI联手思科开源运行时防护工具Shirudo。同时，xAI被曝向竞争对手出租算力，SpaceX因Grok深伪内容遭两州起诉，公安部公布10起AI造谣案件。</description>
   </item>
   <item>
     <title>OpenAI may be in cost control mode</title>
@@ -506,22 +535,6 @@ Points: 234
     <pubDate>Wed, 25 Nov 2026 20:03:27 +0000</pubDate>
     <source>TechCrunch AI</source>
     <description>OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.</description>
-  </item>
-  <item>
-    <title>极客公园创新大会 2027 全议程公布！</title>
-    <link>https://www.qbitai.com/2026/11/512952.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512952.html</guid>
-    <pubDate>Thu, 26 Nov 2026 08:19:20 +0000</pubDate>
-    <source>量子位</source>
-    <description>今天，IF 2027 全议程揭晓。</description>
-  </item>
-  <item>
-    <title>蔚来到底应该值多少钱？</title>
-    <link>https://www.leiphone.com/category/transportation/BqLLEaO4CLvE4tnG.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/transportation/BqLLEaO4CLvE4tnG.html</guid>
-    <pubDate>Thu, 26 Nov 2026 11:23:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>蔚来到底应该值多少钱？要回答这个问题，不妨先看蔚来内部一个看似反直觉的决定。2025年的某一天，蔚来内部正在进行一场头脑风暴，聊到了一件放在过去很难发生的事：放弃高通旗舰芯片的首发。当时，研发已经投入，各项准备也已就绪。但团队最后算了一笔账，决定先不上了。“万事俱备，只等首发，但我们算了一下，当时CBU已经深入人心了，算那笔账算不过来，所以我们真的不搞了。”Ted（蔚来产品体验高级副总裁李天舒）回忆道。这件事放在以前，蔚来势必要争取到首发。蔚来是一家以技术创新为底色的公司，早在2023年就已有覆盖12个领域的全栈技术布局。对这样的公司来说，首发很有吸引力。何况研发的钱已经花了，临门一脚停下来，</description>
   </item>
   <item>
     <title>Where scientists draw the line on AI agents</title>
@@ -554,25 +567,17 @@ Points: 234
     <source>Product Hunt</source>
   </item>
   <item>
-    <title>11月26日AI新产品讯息：OpenAI推出“雅典娜”数据工具、千问Go全面开放免费代打电话服务、小鹏发布图灵世界模型WorldGPT</title>
-    <link>https://www.iimedia.cn/c1088/120834.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c1088/120834.html</guid>
-    <pubDate>Thu, 26 Nov 2026 05:02:16 +0000</pubDate>
+    <title>艾媒咨询 | 2026年中国AI智能营销白皮书</title>
+    <link>https://www.iimedia.cn/c400/111150.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/111150.html</guid>
+    <pubDate>Wed, 25 Nov 2026 12:53:20 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
-    <title>2026-11-23 AI 日报 · Lean确认Claude协作黎曼猜想证明，可灵增资后估值近180亿美元</title>
-    <link>https://daily.ai225.com/daily/2026-11-23</link>
-    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-23</guid>
-    <pubDate>Mon, 23 Nov 2026 00:53:38 +0000</pubDate>
-    <source>AI 日报 · AI225</source>
-    <description>本期聚焦 AI 数学推理与产业动态。Lean FRO 与 Mathlib 社区确认 Claude 协作完成的黎曼猜想形式化证明正确，同一数学家另联合纽约大学学者发布 Navier-Stokes 爆破证明。可灵 AI 完成约 198 亿元增资，转为快手仍控股的独立经营主体，投后估值近 180 亿美元；OpenAI 与 Anthropic 高管讨论限制 AI 节奏，微软支持并披露 MAI-2 数据；METR 警告模型进步已快于安全评估能力。算力上，曙光 8000 支撑科研团队获 ACM 戈登·贝尔奖，AWS 推出 TorchNeuron。</description>
-  </item>
-  <item>
-    <title>Google continues to accelerate its release cadence with Gemini 4 NeonNovember 18, 2026</title>
-    <link>https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain</guid>
-    <pubDate>Thu, 19 Nov 2026 02:33:52 +0000</pubDate>
+    <title>OpenAI has the #2 model in the Intelligence Index with the release of GPT-6.2 Astra and GPT-6.2 SolNovember 17, 2026</title>
+    <link>https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol</guid>
+    <pubDate>Wed, 25 Nov 2026 05:33:50 +0000</pubDate>
     <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
@@ -598,13 +603,6 @@ Points: 234
     <source>CloudQuell 发布日志</source>
   </item>
   <item>
-    <title>Early progress on accelerating drug development with ClaudeWe're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines.</title>
-    <link>https://www.anthropic.com/research/early-progress-drug-development</link>
-    <guid isPermaLink="true">https://www.anthropic.com/research/early-progress-drug-development</guid>
-    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
-  </item>
-  <item>
     <title>this documentation</title>
     <link>https://api-docs.deepseek.com/news/news260910/</link>
     <guid isPermaLink="true">https://api-docs.deepseek.com/news/news260910/</guid>
@@ -626,6 +624,13 @@ Points: 234
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Introducing Claude Haiku 5.5Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.</title>
+    <link>https://www.anthropic.com/claude-haiku-5-5</link>
+    <guid isPermaLink="true">https://www.anthropic.com/claude-haiku-5-5</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
+  </item>
+  <item>
     <title>Inference Endpoints</title>
     <link>https://huggingface.co/inference-endpoints</link>
     <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
@@ -633,15 +638,39 @@ Points: 234
     <source>Hugging Face Trending</source>
   </item>
   <item>
-    <title>Moat: OpenRouter replacement</title>
-    <link>https://commandcode.ai/moat</link>
-    <guid isPermaLink="true">https://commandcode.ai/moat</guid>
-    <pubDate>Thu, 26 Nov 2026 06:32:48 +0000</pubDate>
+    <title>第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！</title>
+    <link>https://www.qbitai.com/2026/11/513091.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/513091.html</guid>
+    <pubDate>Fri, 27 Nov 2026 02:56:03 +0000</pubDate>
+    <source>量子位</source>
+    <description>倒计时两周，报名从速！</description>
+  </item>
+  <item>
+    <title>直播 25 天训出一个模型，五项登顶，一群 00 后的 Physical AI 实验</title>
+    <link>https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html</guid>
+    <pubDate>Thu, 26 Nov 2026 12:50:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description> 聊聊榜单之外的 Motubrain 2.0，和它背后那支不太一样的团队。    作者丨齐铖湧    编辑丨岑   峰                                                                                                       近日，行业独角兽企业生数科技正式发布 Motubrain 2.0，并宣布将于近期开源。这次发布包括一个 20B 参数的世界动作模型（WAM），以及一套名为 Motubrain-Harness 的智能体系统。过去一个月里，生数科技把 Motubrain 2.0 的预训练搬上了公</description>
+  </item>
+  <item>
+    <title>2026-11-23 AI 日报 · Lean确认Claude协作黎曼猜想证明，可灵增资后估值近180亿美元</title>
+    <link>https://daily.ai225.com/daily/2026-11-23</link>
+    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-23</guid>
+    <pubDate>Mon, 23 Nov 2026 00:53:38 +0000</pubDate>
+    <source>AI 日报 · AI225</source>
+    <description>本期聚焦 AI 数学推理与产业动态。Lean FRO 与 Mathlib 社区确认 Claude 协作完成的黎曼猜想形式化证明正确，同一数学家另联合纽约大学学者发布 Navier-Stokes 爆破证明。可灵 AI 完成约 198 亿元增资，转为快手仍控股的独立经营主体，投后估值近 180 亿美元；OpenAI 与 Anthropic 高管讨论限制 AI 节奏，微软支持并披露 MAI-2 数据；METR 警告模型进步已快于安全评估能力。算力上，曙光 8000 支撑科研团队获 ACM 戈登·贝尔奖，AWS 推出 TorchNeuron。</description>
+  </item>
+  <item>
+    <title>OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster</title>
+    <link>https://twitter.com/thsottiaux/status/2125784147889393806</link>
+    <guid isPermaLink="true">https://twitter.com/thsottiaux/status/2125784147889393806</guid>
+    <pubDate>Thu, 26 Nov 2026 03:36:58 +0000</pubDate>
     <source>Hacker News 头版</source>
-    <description>Article URL: https://commandcode.ai/moat
-Comments URL: https://news.ycombinator.com/item?id=50652184
-Points: 242
-# Comments: 135</description>
+    <description>Article URL: https://twitter.com/thsottiaux/status/2125784147889393806
+Comments URL: https://news.ycombinator.com/item?id=50651117
+Points: 39
+# Comments: 14</description>
   </item>
   <item>
     <title>Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it</title>
@@ -650,22 +679,6 @@ Points: 242
     <pubDate>Wed, 25 Nov 2026 19:54:57 +0000</pubDate>
     <source>TechCrunch AI</source>
     <description>Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.</description>
-  </item>
-  <item>
-    <title>报名最后2天｜AI浪潮之中，来认识创造未来的人</title>
-    <link>https://www.qbitai.com/2026/11/512942.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/512942.html</guid>
-    <pubDate>Thu, 26 Nov 2026 07:36:04 +0000</pubDate>
-    <source>量子位</source>
-    <description>12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。</description>
-  </item>
-  <item>
-    <title>美团：预计到今年年底，妙手酒店版·既白将覆盖近40万商家</title>
-    <link>https://www.leiphone.com/category/industrynews/V8W9L3t0BkCtFZPu.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/V8W9L3t0BkCtFZPu.html</guid>
-    <pubDate>Thu, 26 Nov 2026 11:20:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>11月25日，在中国饭店业高质量大会上，美团披露酒店AI经营工具的最新进展。美团预计，到2026年底，妙手酒店版·既白将覆盖近40万家酒店商家。商家可通过美团经营后台进入既白AI查看周边市场变化、分析门店经营情况，也可以使用日常语言提问，获取价格建议和经营参考，降低商家使用门槛。据美团酒店数据，11月以来，既白AI活跃商家的线上交易额较未使用商家高7%；深度使用既白商家的订单量同比增长22%。随着AI工具融入酒店商家的日常经营，商家使用既白的场景正从数据查询延伸至经营决策。 商家用既白AI做经营诊断周环比增40%进入淡季，商家进行酒店价格调整的频率有所下降，但经营者用既白AI问询价格建议和经营</description>
   </item>
   <item>
     <title>An Indic Voice Agent with CUGA</title>
@@ -698,25 +711,17 @@ Points: 242
     <source>Product Hunt</source>
   </item>
   <item>
-    <title>艾媒咨询 | 2026年中国AI智能营销白皮书</title>
-    <link>https://www.iimedia.cn/c400/111150.html</link>
-    <guid isPermaLink="true">https://www.iimedia.cn/c400/111150.html</guid>
-    <pubDate>Wed, 25 Nov 2026 12:53:20 +0000</pubDate>
+    <title>艾媒咨询 | 2026年全球AI漫剧行业投融资数据分析简报</title>
+    <link>https://www.iimedia.cn/c400/110974.html</link>
+    <guid isPermaLink="true">https://www.iimedia.cn/c400/110974.html</guid>
+    <pubDate>Wed, 25 Nov 2026 02:27:02 +0000</pubDate>
     <source>艾媒网</source>
   </item>
   <item>
-    <title>2026-11-22 AI 日报 · 字节与高校开源 Axion 1.0，苹果发布 Depth Pro 2，群联展 NPU 硬盘</title>
-    <link>https://daily.ai225.com/daily/2026-11-22</link>
-    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-22</guid>
-    <pubDate>Sun, 22 Nov 2026 00:53:02 +0000</pubDate>
-    <source>AI 日报 · AI225</source>
-    <description>今日 AI 领域在开源模型、智能体工程与基础设施方面迎来多项进展。字节跳动联合美国高校开源智能体 Axion 1.0；苹果发布单目深度估计模型 Depth Pro 2 并开放代码与权重；OpenAI 发布 GPT-6.2 Astra 与 Sol 新提示词模板并调整 API 行为；AWS 推出 HyperPod 全局推理网关，Hugging Face 与蚂蚁 OceanBase 团队分别围绕智能体适配与跨对话记忆推出方案。此外，群联展示内置 NPU 固态硬盘，联合国未能就自主武器监管达成协议。</description>
-  </item>
-  <item>
-    <title>OpenAI has the #2 model in the Intelligence Index with the release of GPT-6.2 Astra and GPT-6.2 SolNovember 17, 2026</title>
-    <link>https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol</link>
-    <guid isPermaLink="true">https://artificialanalysis.ai/articles/openai-has-the-2-model-in-the-intelligence-index-with-the-release-of-gpt-6-2-astra-and-gpt-6-2-sol</guid>
-    <pubDate>Wed, 25 Nov 2026 05:33:50 +0000</pubDate>
+    <title>Multimodal Knowledge Agent (MKA) benchmark: testing knowledge work capabilities with complex visual filesNovember 10, 2026</title>
+    <link>https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</link>
+    <guid isPermaLink="true">https://artificialanalysis.ai/articles/google-deepmind-multimodal-knowledge-agent</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
     <source>Artificial Analysis 智力指数榜</source>
   </item>
   <item>
@@ -733,13 +738,6 @@ Points: 242
     <guid isPermaLink="true">https://www.cloudquell.com/blog/openai-vs-anthropic-api-pricing/</guid>
     <pubDate>Tue, 24 Nov 2026 07:00:06 +0000</pubDate>
     <source>CloudQuell 发布日志</source>
-  </item>
-  <item>
-    <title>Introducing Claude Haiku 5.5Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.</title>
-    <link>https://www.anthropic.com/claude-haiku-5-5</link>
-    <guid isPermaLink="true">https://www.anthropic.com/claude-haiku-5-5</guid>
-    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
-    <source>Anthropic Newsroom</source>
   </item>
   <item>
     <title>official documentation</title>
@@ -763,11 +761,11 @@ Points: 242
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>Storage Buckets</title>
-    <link>https://huggingface.co/storage</link>
-    <guid isPermaLink="true">https://huggingface.co/storage</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
+    <title>Introducing Claude Opus 5.5Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</title>
+    <link>https://www.anthropic.com/claude-opus-5-5</link>
+    <guid isPermaLink="true">https://www.anthropic.com/claude-opus-5-5</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:42 +0000</pubDate>
+    <source>Anthropic Newsroom</source>
   </item>
 </channel>
 </rss>
