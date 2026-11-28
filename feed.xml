@@ -5,7 +5,26 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sat, 28 Nov 2026 01:59:36 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 04:49:47 +0000</lastBuildDate>
+  <item>
+    <title>Claude silently added rules to ignore users skintone preferences in our app</title>
+    <link>https://twitter.com/jakozloski/status/2126281598517576049</link>
+    <guid isPermaLink="true">https://twitter.com/jakozloski/status/2126281598517576049</guid>
+    <pubDate>Sat, 28 Nov 2026 03:55:15 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://twitter.com/jakozloski/status/2126281598517576049
+Comments URL: https://news.ycombinator.com/item?id=50674489
+Points: 20
+# Comments: 0</description>
+  </item>
+  <item>
+    <title>双城联动首发｜共绩算力云平台，一站式跑通 AI 训推全流程</title>
+    <link>https://www.leiphone.com/category/industrynews/mFpSlgs8pnwUk320.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/mFpSlgs8pnwUk320.html</guid>
+    <pubDate>Sat, 28 Nov 2026 02:40:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>一个AI应用从想法到落地，往往要跨过不少门槛：从开发环境搭建、数据预处理，到模型训练微调、推理部署上线，每一步都离不开算力的支撑，也需要计算资源、运行环境、数据存储和任务调度的协同配合。但对很多企业和开发者来说，这些环节往往分散在不同的平台和系统中：开发环境需要反复配置，数据需要在集群之间迁移，训练任务需要协调资源，模型上线后还要重新部署和管理。研发与运维的时间，常常消耗在环境对齐、资源协调和系统切换上。能不能让AI开发的每一步，都在同一个平台完成？能！共绩科技持续升级平台产品能力，将底层算力调度与上层 AI 训推服务深度结合。11月27日，在深圳第28届中国国际高新技术成果交易会和北京202</description>
+  </item>
   <item>
     <title>Team &amp; Enterprise</title>
     <link>https://huggingface.co/enterprise</link>
@@ -14,31 +33,12 @@
     <source>Hugging Face Trending</source>
   </item>
   <item>
-    <title>Woman evicted after landlord's AI assistant told her she could delay rent</title>
-    <link>https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</link>
-    <guid isPermaLink="true">https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</guid>
-    <pubDate>Sat, 28 Nov 2026 01:32:56 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai
-Comments URL: https://news.ycombinator.com/item?id=50673521
-Points: 10
-# Comments: 0</description>
-  </item>
-  <item>
     <title>2026-11-28 AI 日报 · OpenAI反诉苹果窃密，谷歌开源TPU Sync并推新TPU</title>
     <link>https://daily.ai225.com/daily/2026-11-28</link>
     <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-28</guid>
     <pubDate>Sat, 28 Nov 2026 00:54:10 +0000</pubDate>
     <source>AI 日报 · AI225</source>
     <description>今日 AI 聚焦巨头博弈与算力基建。OpenAI 在加州反诉苹果窃取商业机密；谷歌云发布 TPU 8tx 与 8i Max 并开源 TPU Sync。行业侧，SAP 计划裁员至少 1 万人推进 AI 转型，OpenAI 正构建 Athena 平台，微软 Copilot 可擅自修改企业云端文件。国内方面，DeepSeek 领跑 OpenRouter 用量榜，美团预计明年 AI 资本支出低于今年，蚂蚁灵波与微信发布具身导航及电商开源模型。</description>
-  </item>
-  <item>
-    <title>独家丨瞄准 AI 算力天花板，「闪科光联」完成数千万融资</title>
-    <link>https://www.leiphone.com/category/ai/ilqJyKclWkhaWIps.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/ai/ilqJyKclWkhaWIps.html</guid>
-    <pubDate>Fri, 27 Nov 2026 19:14:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>“AI算力的成本中心正在从‘计算’转向‘连接’。”雷峰网·鲸犀独家获悉，MicroLED 高速光互连芯片与光引擎研发商「闪科光联」近日完成数千万元人民币天使轮融资。种子轮由励石创投独家投资，天使轮由商汤国香、长石资本、厚雪资本联合领投，险峰长青（K2）、磐霖资本、小苗朗程、柯熙创投等多家产业基金共同跟投。鲸犀进一步获悉，闪科光联成立于 2026 年 9 月，创始人周秋桂博士毕业于美国弗吉尼亚大学，师从“全球 APD 之父” Joe C. Campbell 院士，回国后任职于华工科技，并从零组建了硅光团队。此后，周秋桂共同参与创立了熹联光芯，主导光电融合这一新架构的落地与量产。从经历来看，周秋桂</description>
   </item>
   <item>
     <title>人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了</title>
@@ -176,22 +176,30 @@ Points: 10
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>Woman evicted after landlord's AI assistant told her she could delay rent</title>
+    <link>https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</link>
+    <guid isPermaLink="true">https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</guid>
+    <pubDate>Sat, 28 Nov 2026 01:32:56 +0000</pubDate>
+    <source>Hacker News 头版</source>
+    <description>Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai
+Comments URL: https://news.ycombinator.com/item?id=50673521
+Points: 10
+# Comments: 0</description>
+  </item>
+  <item>
+    <title>独家丨瞄准 AI 算力天花板，「闪科光联」完成数千万融资</title>
+    <link>https://www.leiphone.com/category/ai/ilqJyKclWkhaWIps.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/ai/ilqJyKclWkhaWIps.html</guid>
+    <pubDate>Fri, 27 Nov 2026 19:14:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>“AI算力的成本中心正在从‘计算’转向‘连接’。”雷峰网·鲸犀独家获悉，MicroLED 高速光互连芯片与光引擎研发商「闪科光联」近日完成数千万元人民币天使轮融资。种子轮由励石创投独家投资，天使轮由商汤国香、长石资本、厚雪资本联合领投，险峰长青（K2）、磐霖资本、小苗朗程、柯熙创投等多家产业基金共同跟投。鲸犀进一步获悉，闪科光联成立于 2026 年 9 月，创始人周秋桂博士毕业于美国弗吉尼亚大学，师从“全球 APD 之父” Joe C. Campbell 院士，回国后任职于华工科技，并从零组建了硅光团队。此后，周秋桂共同参与创立了熹联光芯，主导光电融合这一新架构的落地与量产。从经历来看，周秋桂</description>
+  </item>
+  <item>
     <title>Hugging Face PRO</title>
     <link>https://huggingface.co/pro</link>
     <guid isPermaLink="true">https://huggingface.co/pro</guid>
     <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
     <source>Hugging Face Trending</source>
-  </item>
-  <item>
-    <title>Painting 1990s anime scenes in Python</title>
-    <link>https://www.fofr.ai/greenhouse-after-the-typhoon</link>
-    <guid isPermaLink="true">https://www.fofr.ai/greenhouse-after-the-typhoon</guid>
-    <pubDate>Fri, 27 Nov 2026 23:50:17 +0000</pubDate>
-    <source>Hacker News 头版</source>
-    <description>Article URL: https://www.fofr.ai/greenhouse-after-the-typhoon
-Comments URL: https://news.ycombinator.com/item?id=50672829
-Points: 11
-# Comments: 3</description>
   </item>
   <item>
     <title>2026-11-27 AI 日报 · 英伟达暂停向东南亚发运服务器，当地数据中心贷款与合作协议承压</title>
@@ -200,14 +208,6 @@ Points: 11
     <pubDate>Fri, 27 Nov 2026 00:59:31 +0000</pubDate>
     <source>AI 日报 · AI225</source>
     <description>今日AI算力管制影响持续外溢：英伟达暂停向东南亚四国发运服务器，当地数据中心的贷款与大型合作协议面临风险。产品端，OpenAI修复GPT-6.2计费漏洞致额度消耗加快并测试Chat与Work合并，苹果发布Siri AI开发者预览版，VS Code 1.148强化智能体容器与唤醒管理，DeepSeek灰测成本展示。行业方面，ElevenLabs拟按330亿美元估值融资，微软披露AI攻击框架ARTEX，研究界发布智能体科研基准与预训练投毒警示。</description>
-  </item>
-  <item>
-    <title>独家丨自研微水洗澡机，「润泽智造」拿下数百万元天使轮融资</title>
-    <link>https://www.leiphone.com/category/weiwu/TThdKrM8psZJIudr.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/TThdKrM8psZJIudr.html</guid>
-    <pubDate>Fri, 27 Nov 2026 19:06:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>雷峰网·鲸犀独家报道，微水清洁技术研发商「润泽智造」近期完成数百万元人民币天使轮融资，由一家市场化投资机构领投，金隼投资担任独家财务顾问。润泽智造成立于 2025 年，旗下品牌“羽鸣 eoomii”主打的产品是一款便携式微水洗澡机。据鲸犀了解，这款产品仅重约 4.9 千克，将清洗与烘干整合为一套“微水洗干一体”的自动化流程，聚焦于缺水环境下的个人清洁日用场景。也就是说，洗澡过程中的清洁、污水回收、晾干等步骤都可以用一台机器完成，取代了传统的固定浴室和大量水流冲洗。在团队上，创始人常若飞是一位连续创业者，有 15 年连续创业经验与 3 次成功创业经历，曾任深圳华科精密仪器研发负责人，首个创业项目</description>
   </item>
   <item>
     <title>全国首批首家！商汤大装置获Token工厂智算能力最高评级</title>
@@ -337,13 +337,6 @@ Points: 11
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>Enterprise Support</title>
-    <link>https://huggingface.co/support</link>
-    <guid isPermaLink="true">https://huggingface.co/support</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
     <title>SessionGraph: Visualize all your coding agent sessions in one interactive graph</title>
     <link>https://sessiongraph.ai/</link>
     <guid isPermaLink="true">https://sessiongraph.ai/</guid>
@@ -355,20 +348,27 @@ Points: 28
 # Comments: 10</description>
   </item>
   <item>
+    <title>独家丨自研微水洗澡机，「润泽智造」拿下数百万元天使轮融资</title>
+    <link>https://www.leiphone.com/category/weiwu/TThdKrM8psZJIudr.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/TThdKrM8psZJIudr.html</guid>
+    <pubDate>Fri, 27 Nov 2026 19:06:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>雷峰网·鲸犀独家报道，微水清洁技术研发商「润泽智造」近期完成数百万元人民币天使轮融资，由一家市场化投资机构领投，金隼投资担任独家财务顾问。润泽智造成立于 2025 年，旗下品牌“羽鸣 eoomii”主打的产品是一款便携式微水洗澡机。据鲸犀了解，这款产品仅重约 4.9 千克，将清洗与烘干整合为一套“微水洗干一体”的自动化流程，聚焦于缺水环境下的个人清洁日用场景。也就是说，洗澡过程中的清洁、污水回收、晾干等步骤都可以用一台机器完成，取代了传统的固定浴室和大量水流冲洗。在团队上，创始人常若飞是一位连续创业者，有 15 年连续创业经验与 3 次成功创业经历，曾任深圳华科精密仪器研发负责人，首个创业项目</description>
+  </item>
+  <item>
+    <title>Enterprise Support</title>
+    <link>https://huggingface.co/support</link>
+    <guid isPermaLink="true">https://huggingface.co/support</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
     <title>2026-11-26 AI 日报 · 标普示警英伟达治理风险，FCC授权SpaceX部署百万颗AI卫星</title>
     <link>https://daily.ai225.com/daily/2026-11-26</link>
     <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-26</guid>
     <pubDate>Thu, 26 Nov 2026 00:53:26 +0000</pubDate>
     <source>AI 日报 · AI225</source>
     <description>今日AI行业在治理合规、算力基建与模型应用多点推进。标普将英伟达信用评级列入负面观察，称其存在公司治理与“关键人物”风险；FCC授权SpaceX部署至多100万颗AI数据中心卫星。产品与模型侧，OpenAI面向企业试点“Private Inference”隐私推理，Sand.ai发布视频模型MAGI-2并计划未来开源，国内三部委印发支持AI应用的新一代通信网方案。政策方面，42州总检察长介入以期阻止Character.AI拍卖用户聊天记录，arXiv研究则在代理蒸馏与量化推理上给出实验新进展。</description>
-  </item>
-  <item>
-    <title>美团财报电话会：Keeta沙特实现全季度盈利</title>
-    <link>https://www.leiphone.com/category/industrynews/bNneZTVQVkQBiKrH.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/bNneZTVQVkQBiKrH.html</guid>
-    <pubDate>Fri, 27 Nov 2026 12:24:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>“Keeta延续了强劲的增长势头，且效率持续提升。”11月27日晚，美团三季度财报电话会上，CFO陈少晖分享了美团国际化进展。“香港稳定盈利，中东效率继续改善，特别是沙特在Q3全季度已经盈利。”今年7月，Keeta在沙特市场首次实现单月盈利，用时22个月，比香港市场更快。“Keeta在香港、中东市场效率的快速改善，印证了我们运营路径的有效性。”陈少晖表示，“巴西是我们重视的市场，我们依旧看好其市场潜力。事实上，在过去几个季度，Keeta在巴西的效率持续提升，我们看到了更明确的UE改善路径。”陈少晖认为，即时零售出海对美团是一个重要的增长机会。“目前在全球很多地区，外卖仍然只是少数消费者寻求偶然</description>
   </item>
   <item>
     <title>韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名</title>
@@ -474,13 +474,6 @@ Points: 28
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>Inference Providers</title>
-    <link>https://huggingface.co/inference/models</link>
-    <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
     <title>Prospero: Bloat-free, native AI coding harness with ImGui</title>
     <link>https://github.com/skeeto/prospero</link>
     <guid isPermaLink="true">https://github.com/skeeto/prospero</guid>
@@ -492,20 +485,27 @@ Points: 34
 # Comments: 7</description>
   </item>
   <item>
+    <title>美团财报电话会：Keeta沙特实现全季度盈利</title>
+    <link>https://www.leiphone.com/category/industrynews/bNneZTVQVkQBiKrH.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/bNneZTVQVkQBiKrH.html</guid>
+    <pubDate>Fri, 27 Nov 2026 12:24:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>“Keeta延续了强劲的增长势头，且效率持续提升。”11月27日晚，美团三季度财报电话会上，CFO陈少晖分享了美团国际化进展。“香港稳定盈利，中东效率继续改善，特别是沙特在Q3全季度已经盈利。”今年7月，Keeta在沙特市场首次实现单月盈利，用时22个月，比香港市场更快。“Keeta在香港、中东市场效率的快速改善，印证了我们运营路径的有效性。”陈少晖表示，“巴西是我们重视的市场，我们依旧看好其市场潜力。事实上，在过去几个季度，Keeta在巴西的效率持续提升，我们看到了更明确的UE改善路径。”陈少晖认为，即时零售出海对美团是一个重要的增长机会。“目前在全球很多地区，外卖仍然只是少数消费者寻求偶然</description>
+  </item>
+  <item>
+    <title>Inference Providers</title>
+    <link>https://huggingface.co/inference/models</link>
+    <guid isPermaLink="true">https://huggingface.co/inference/models</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
     <title>2026-11-25 AI 日报 · GPT-6 展露蛋白质设计能力，文心 5.5 Flash Preview 开源</title>
     <link>https://daily.ai225.com/daily/2026-11-25</link>
     <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-25</guid>
     <pubDate>Wed, 25 Nov 2026 00:57:03 +0000</pubDate>
     <source>AI 日报 · AI225</source>
     <description>今日 AI 在模型、智能体与安全治理上同时推进：OpenAI 称 GPT-6 系列可仅凭推理设计蛋白质并在五个靶点现结合证据；百度以 Apache 2.0 开源文心 5.5 Flash Preview，vLLM 首日支持。Anthropic 公测 MCP 技能与桌面应用安装，股价却跌破 83 美元发行价；黄仁勋复职后首次全员会致歉。国内华为云开放 AgentArts 智能体平台。安全方面，Amazon 披露 AI 智能体自主利用零日漏洞。</description>
-  </item>
-  <item>
-    <title>美团电话会：预期四季度餐饮外卖UE较二季度明显提升</title>
-    <link>https://www.leiphone.com/category/industrynews/vNOSrpDD4d2w5DYL.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/vNOSrpDD4d2w5DYL.html</guid>
-    <pubDate>Fri, 27 Nov 2026 12:23:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>11月27日，美团发布2026年第三季度业绩报告，实现收入1156亿元。随着外卖行业趋于理性，叠加三季度暑期旺季效应，美团各项业务保持稳健增长。在财报电话会上，美团管理层表示，三季度，美团继续强化在餐饮外卖订单量和GTV上的领先地位，增长质量显著提升。二季度气温适宜、配送成本平稳，通常是外卖UE最好的季度。而三季度包含暑期旺季，为保障订单高峰期及特殊天气条件下的稳定履约，三季度会投入更多骑手补贴，单均配送成本高于二季度。美团管理层披露，三季度餐饮外卖UE较二季度有所回落，但9月UE修复明显，优于二季度平均水平，而10月UE环比9月继续提升。展望四季度，尽管配送成本仍受寒冬和年底季节性因素影响，</description>
   </item>
   <item>
     <title>DeepSeek APP突然更新账单，网友：要收费了？</title>
@@ -610,13 +610,6 @@ Points: 34
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>Inference Endpoints</title>
-    <link>https://huggingface.co/inference-endpoints</link>
-    <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
     <title>Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10</title>
     <link>https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/</link>
     <guid isPermaLink="true">https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/</guid>
@@ -628,20 +621,27 @@ Points: 41
 # Comments: 10</description>
   </item>
   <item>
+    <title>美团电话会：预期四季度餐饮外卖UE较二季度明显提升</title>
+    <link>https://www.leiphone.com/category/industrynews/vNOSrpDD4d2w5DYL.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/vNOSrpDD4d2w5DYL.html</guid>
+    <pubDate>Fri, 27 Nov 2026 12:23:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>11月27日，美团发布2026年第三季度业绩报告，实现收入1156亿元。随着外卖行业趋于理性，叠加三季度暑期旺季效应，美团各项业务保持稳健增长。在财报电话会上，美团管理层表示，三季度，美团继续强化在餐饮外卖订单量和GTV上的领先地位，增长质量显著提升。二季度气温适宜、配送成本平稳，通常是外卖UE最好的季度。而三季度包含暑期旺季，为保障订单高峰期及特殊天气条件下的稳定履约，三季度会投入更多骑手补贴，单均配送成本高于二季度。美团管理层披露，三季度餐饮外卖UE较二季度有所回落，但9月UE修复明显，优于二季度平均水平，而10月UE环比9月继续提升。展望四季度，尽管配送成本仍受寒冬和年底季节性因素影响，</description>
+  </item>
+  <item>
+    <title>Inference Endpoints</title>
+    <link>https://huggingface.co/inference-endpoints</link>
+    <guid isPermaLink="true">https://huggingface.co/inference-endpoints</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
+  </item>
+  <item>
     <title>2026-11-24 AI 日报 · 黄仁勋复职英伟达CEO董事会全票通过，亚马逊75亿美元收购Decart优化技术</title>
     <link>https://daily.ai225.com/daily/2026-11-24</link>
     <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-24</guid>
     <pubDate>Tue, 24 Nov 2026 00:53:30 +0000</pubDate>
     <source>AI 日报 · AI225</source>
     <description>今日AI领域迎来重大人事与商业转折：英伟达董事会全票恢复黄仁勋的CEO与董事职务，历时不到两周的高层风波告一段落，股价盘前涨超30%；亚马逊斥资约75亿美元收购AI初创公司Decart的技术与团队，强化自研芯片竞争力。产品层面，Anthropic推出测试版Claude Ship代码代理，智谱发布GLM-5.4技术公告，OpenAI联手思科开源运行时防护工具Shirudo。同时，xAI被曝向竞争对手出租算力，SpaceX因Grok深伪内容遭两州起诉，公安部公布10起AI造谣案件。</description>
-  </item>
-  <item>
-    <title>美团2026年三季报：营收1156亿元，AI经营工作台“妙手”已服务200万商家</title>
-    <link>https://www.leiphone.com/category/industrynews/iJ0tw7k1kHDs5zjT.html</link>
-    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/iJ0tw7k1kHDs5zjT.html</guid>
-    <pubDate>Fri, 27 Nov 2026 10:28:00 +0000</pubDate>
-    <source>雷峰网</source>
-    <description>11月27日，美团（股票代码：3690.HK）发布2026年第三季度业绩报告。三季度，美团实现收入1156亿元，同比增长21.6%，净利润同比由负转正。随着外卖行业趋于理性，叠加三季度暑期旺季效应，公司各项业务经营质量进一步提升，核心本地商业和新业务均保持稳健增长。本季度，美团积极推动骑手职业伤害保障、养老保险补贴落地全国，进一步完善骑手大病关怀计划。此外，公司持续深化食品安全治理，让严守食品安全规范的商家被更多用户看见，为商家营造更健康的经营生态。三季度，美团继续加强AI能力建设，公司季度研发投入77亿元，同比增长11.3%，AI经营工作台“妙手”（CatPaw）已服务超过200万商家。美团</description>
   </item>
   <item>
     <title>刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑</title>
@@ -747,13 +747,6 @@ Points: 41
     <source>GitHub Trending</source>
   </item>
   <item>
-    <title>Storage Buckets</title>
-    <link>https://huggingface.co/storage</link>
-    <guid isPermaLink="true">https://huggingface.co/storage</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
-  </item>
-  <item>
     <title>I'm Scared of AI</title>
     <link>https://thesoapbox.email/archive/3</link>
     <guid isPermaLink="true">https://thesoapbox.email/archive/3</guid>
@@ -765,12 +758,19 @@ Points: 116
 # Comments: 114</description>
   </item>
   <item>
-    <title>2026-11-23 AI 日报 · Lean确认Claude协作黎曼猜想证明，可灵增资后估值近180亿美元</title>
-    <link>https://daily.ai225.com/daily/2026-11-23</link>
-    <guid isPermaLink="true">https://daily.ai225.com/daily/2026-11-23</guid>
-    <pubDate>Mon, 23 Nov 2026 00:53:38 +0000</pubDate>
-    <source>AI 日报 · AI225</source>
-    <description>本期聚焦 AI 数学推理与产业动态。Lean FRO 与 Mathlib 社区确认 Claude 协作完成的黎曼猜想形式化证明正确，同一数学家另联合纽约大学学者发布 Navier-Stokes 爆破证明。可灵 AI 完成约 198 亿元增资，转为快手仍控股的独立经营主体，投后估值近 180 亿美元；OpenAI 与 Anthropic 高管讨论限制 AI 节奏，微软支持并披露 MAI-2 数据；METR 警告模型进步已快于安全评估能力。算力上，曙光 8000 支撑科研团队获 ACM 戈登·贝尔奖，AWS 推出 TorchNeuron。</description>
+    <title>美团2026年三季报：营收1156亿元，AI经营工作台“妙手”已服务200万商家</title>
+    <link>https://www.leiphone.com/category/industrynews/iJ0tw7k1kHDs5zjT.html</link>
+    <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/iJ0tw7k1kHDs5zjT.html</guid>
+    <pubDate>Fri, 27 Nov 2026 10:28:00 +0000</pubDate>
+    <source>雷峰网</source>
+    <description>11月27日，美团（股票代码：3690.HK）发布2026年第三季度业绩报告。三季度，美团实现收入1156亿元，同比增长21.6%，净利润同比由负转正。随着外卖行业趋于理性，叠加三季度暑期旺季效应，公司各项业务经营质量进一步提升，核心本地商业和新业务均保持稳健增长。本季度，美团积极推动骑手职业伤害保障、养老保险补贴落地全国，进一步完善骑手大病关怀计划。此外，公司持续深化食品安全治理，让严守食品安全规范的商家被更多用户看见，为商家营造更健康的经营生态。三季度，美团继续加强AI能力建设，公司季度研发投入77亿元，同比增长11.3%，AI经营工作台“妙手”（CatPaw）已服务超过200万商家。美团</description>
+  </item>
+  <item>
+    <title>Storage Buckets</title>
+    <link>https://huggingface.co/storage</link>
+    <guid isPermaLink="true">https://huggingface.co/storage</guid>
+    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
+    <source>Hugging Face Trending</source>
   </item>
 </channel>
 </rss>
