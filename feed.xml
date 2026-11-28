@@ -5,7 +5,15 @@
   <link>https://aiindaily.com/</link>
   <description>AI 行业新闻聚合：发布日志、日报聚合、官方一手源、工具与项目发现、中文媒体。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sat, 28 Nov 2026 04:49:47 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 10:26:55 +0000</lastBuildDate>
+  <item>
+    <title>亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛</title>
+    <link>https://www.qbitai.com/2026/11/513428.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/513428.html</guid>
+    <pubDate>Sat, 28 Nov 2026 05:54:46 +0000</pubDate>
+    <source>量子位</source>
+    <description>这种大模型现做的即时交互工具，能不能来一波知识付费？</description>
+  </item>
   <item>
     <title>Claude silently added rules to ignore users skintone preferences in our app</title>
     <link>https://twitter.com/jakozloski/status/2126281598517576049</link>
@@ -39,14 +47,6 @@ Points: 20
     <pubDate>Sat, 28 Nov 2026 00:54:10 +0000</pubDate>
     <source>AI 日报 · AI225</source>
     <description>今日 AI 聚焦巨头博弈与算力基建。OpenAI 在加州反诉苹果窃取商业机密；谷歌云发布 TPU 8tx 与 8i Max 并开源 TPU Sync。行业侧，SAP 计划裁员至少 1 万人推进 AI 转型，OpenAI 正构建 Athena 平台，微软 Copilot 可擅自修改企业云端文件。国内方面，DeepSeek 领跑 OpenRouter 用量榜，美团预计明年 AI 资本支出低于今年，蚂蚁灵波与微信发布具身导航及电商开源模型。</description>
-  </item>
-  <item>
-    <title>人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了</title>
-    <link>https://www.qbitai.com/2026/11/513352.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/513352.html</guid>
-    <pubDate>Fri, 27 Nov 2026 14:07:33 +0000</pubDate>
-    <source>量子位</source>
-    <description>一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。</description>
   </item>
   <item>
     <title>Android’s DIY widgets are a bit of vibe-coding fun</title>
@@ -176,6 +176,14 @@ Points: 20
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了</title>
+    <link>https://www.qbitai.com/2026/11/513352.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/513352.html</guid>
+    <pubDate>Fri, 27 Nov 2026 14:07:33 +0000</pubDate>
+    <source>量子位</source>
+    <description>一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。</description>
+  </item>
+  <item>
     <title>Woman evicted after landlord's AI assistant told her she could delay rent</title>
     <link>https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</link>
     <guid isPermaLink="true">https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</guid>
@@ -208,14 +216,6 @@ Points: 10
     <pubDate>Fri, 27 Nov 2026 00:59:31 +0000</pubDate>
     <source>AI 日报 · AI225</source>
     <description>今日AI算力管制影响持续外溢：英伟达暂停向东南亚四国发运服务器，当地数据中心的贷款与大型合作协议面临风险。产品端，OpenAI修复GPT-6.2计费漏洞致额度消耗加快并测试Chat与Work合并，苹果发布Siri AI开发者预览版，VS Code 1.148强化智能体容器与唤醒管理，DeepSeek灰测成本展示。行业方面，ElevenLabs拟按330亿美元估值融资，微软披露AI攻击框架ARTEX，研究界发布智能体科研基准与预训练投毒警示。</description>
-  </item>
-  <item>
-    <title>全国首批首家！商汤大装置获Token工厂智算能力最高评级</title>
-    <link>https://www.qbitai.com/2026/11/513346.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/513346.html</guid>
-    <pubDate>Fri, 27 Nov 2026 11:18:24 +0000</pubDate>
-    <source>量子位</source>
-    <description>商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证</description>
   </item>
   <item>
     <title>42 state AGs are trying to stop Character.AI from selling users’ chats</title>
@@ -337,6 +337,14 @@ Points: 10
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>全国首批首家！商汤大装置获Token工厂智算能力最高评级</title>
+    <link>https://www.qbitai.com/2026/11/513346.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/513346.html</guid>
+    <pubDate>Fri, 27 Nov 2026 11:18:24 +0000</pubDate>
+    <source>量子位</source>
+    <description>商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证</description>
+  </item>
+  <item>
     <title>SessionGraph: Visualize all your coding agent sessions in one interactive graph</title>
     <link>https://sessiongraph.ai/</link>
     <guid isPermaLink="true">https://sessiongraph.ai/</guid>
@@ -369,14 +377,6 @@ Points: 28
     <pubDate>Thu, 26 Nov 2026 00:53:26 +0000</pubDate>
     <source>AI 日报 · AI225</source>
     <description>今日AI行业在治理合规、算力基建与模型应用多点推进。标普将英伟达信用评级列入负面观察，称其存在公司治理与“关键人物”风险；FCC授权SpaceX部署至多100万颗AI数据中心卫星。产品与模型侧，OpenAI面向企业试点“Private Inference”隐私推理，Sand.ai发布视频模型MAGI-2并计划未来开源，国内三部委印发支持AI应用的新一代通信网方案。政策方面，42州总检察长介入以期阻止Character.AI拍卖用户聊天记录，arXiv研究则在代理蒸馏与量化推理上给出实验新进展。</description>
-  </item>
-  <item>
-    <title>韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名</title>
-    <link>https://www.qbitai.com/2026/11/513320.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/513320.html</guid>
-    <pubDate>Fri, 27 Nov 2026 07:39:18 +0000</pubDate>
-    <source>量子位</source>
-    <description>淡泊名利，实至名归🎉</description>
   </item>
   <item>
     <title>Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future</title>
@@ -474,6 +474,14 @@ Points: 28
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名</title>
+    <link>https://www.qbitai.com/2026/11/513320.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/513320.html</guid>
+    <pubDate>Fri, 27 Nov 2026 07:39:18 +0000</pubDate>
+    <source>量子位</source>
+    <description>淡泊名利，实至名归🎉</description>
+  </item>
+  <item>
     <title>Prospero: Bloat-free, native AI coding harness with ImGui</title>
     <link>https://github.com/skeeto/prospero</link>
     <guid isPermaLink="true">https://github.com/skeeto/prospero</guid>
@@ -506,14 +514,6 @@ Points: 34
     <pubDate>Wed, 25 Nov 2026 00:57:03 +0000</pubDate>
     <source>AI 日报 · AI225</source>
     <description>今日 AI 在模型、智能体与安全治理上同时推进：OpenAI 称 GPT-6 系列可仅凭推理设计蛋白质并在五个靶点现结合证据；百度以 Apache 2.0 开源文心 5.5 Flash Preview，vLLM 首日支持。Anthropic 公测 MCP 技能与桌面应用安装，股价却跌破 83 美元发行价；黄仁勋复职后首次全员会致歉。国内华为云开放 AgentArts 智能体平台。安全方面，Amazon 披露 AI 智能体自主利用零日漏洞。</description>
-  </item>
-  <item>
-    <title>DeepSeek APP突然更新账单，网友：要收费了？</title>
-    <link>https://www.qbitai.com/2026/11/513305.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/513305.html</guid>
-    <pubDate>Fri, 27 Nov 2026 07:29:10 +0000</pubDate>
-    <source>量子位</source>
-    <description>网页App双端亮出聊天账单</description>
   </item>
   <item>
     <title>FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space</title>
@@ -610,6 +610,14 @@ Points: 34
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>DeepSeek APP突然更新账单，网友：要收费了？</title>
+    <link>https://www.qbitai.com/2026/11/513305.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/513305.html</guid>
+    <pubDate>Fri, 27 Nov 2026 07:29:10 +0000</pubDate>
+    <source>量子位</source>
+    <description>网页App双端亮出聊天账单</description>
+  </item>
+  <item>
     <title>Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10</title>
     <link>https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/</link>
     <guid isPermaLink="true">https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/</guid>
@@ -642,14 +650,6 @@ Points: 41
     <pubDate>Tue, 24 Nov 2026 00:53:30 +0000</pubDate>
     <source>AI 日报 · AI225</source>
     <description>今日AI领域迎来重大人事与商业转折：英伟达董事会全票恢复黄仁勋的CEO与董事职务，历时不到两周的高层风波告一段落，股价盘前涨超30%；亚马逊斥资约75亿美元收购AI初创公司Decart的技术与团队，强化自研芯片竞争力。产品层面，Anthropic推出测试版Claude Ship代码代理，智谱发布GLM-5.4技术公告，OpenAI联手思科开源运行时防护工具Shirudo。同时，xAI被曝向竞争对手出租算力，SpaceX因Grok深伪内容遭两州起诉，公安部公布10起AI造谣案件。</description>
-  </item>
-  <item>
-    <title>刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑</title>
-    <link>https://www.qbitai.com/2026/11/513227.html</link>
-    <guid isPermaLink="true">https://www.qbitai.com/2026/11/513227.html</guid>
-    <pubDate>Fri, 27 Nov 2026 07:01:20 +0000</pubDate>
-    <source>量子位</source>
-    <description>地图能随时修，记忆能跨任务用</description>
   </item>
   <item>
     <title>Nothing offers a full look at its AI earbuds and charging case</title>
@@ -747,6 +747,14 @@ Points: 41
     <source>GitHub Trending</source>
   </item>
   <item>
+    <title>刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑</title>
+    <link>https://www.qbitai.com/2026/11/513227.html</link>
+    <guid isPermaLink="true">https://www.qbitai.com/2026/11/513227.html</guid>
+    <pubDate>Fri, 27 Nov 2026 07:01:20 +0000</pubDate>
+    <source>量子位</source>
+    <description>地图能随时修，记忆能跨任务用</description>
+  </item>
+  <item>
     <title>I'm Scared of AI</title>
     <link>https://thesoapbox.email/archive/3</link>
     <guid isPermaLink="true">https://thesoapbox.email/archive/3</guid>
@@ -764,13 +772,6 @@ Points: 116
     <pubDate>Fri, 27 Nov 2026 10:28:00 +0000</pubDate>
     <source>雷峰网</source>
     <description>11月27日，美团（股票代码：3690.HK）发布2026年第三季度业绩报告。三季度，美团实现收入1156亿元，同比增长21.6%，净利润同比由负转正。随着外卖行业趋于理性，叠加三季度暑期旺季效应，公司各项业务经营质量进一步提升，核心本地商业和新业务均保持稳健增长。本季度，美团积极推动骑手职业伤害保障、养老保险补贴落地全国，进一步完善骑手大病关怀计划。此外，公司持续深化食品安全治理，让严守食品安全规范的商家被更多用户看见，为商家营造更健康的经营生态。三季度，美团继续加强AI能力建设，公司季度研发投入77亿元，同比增长11.3%，AI经营工作台“妙手”（CatPaw）已服务超过200万商家。美团</description>
-  </item>
-  <item>
-    <title>Storage Buckets</title>
-    <link>https://huggingface.co/storage</link>
-    <guid isPermaLink="true">https://huggingface.co/storage</guid>
-    <pubDate>Mon, 23 Nov 2026 21:22:30 +0000</pubDate>
-    <source>Hugging Face Trending</source>
   </item>
 </channel>
 </rss>

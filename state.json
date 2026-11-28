@@ -1,4 +1,11 @@
 {
+ "https://www.qbitai.com/2026/11/513428.html": {
+  "title": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
+  "source": "量子位",
+  "ts": 1795845286.0,
+  "desc": "这种大模型现做的即时交互工具，能不能来一波知识付费？",
+  "ord": 0
+ },
  "https://twitter.com/jakozloski/status/2126281598517576049": {
   "title": "Claude silently added rules to ignore users skintone preferences in our app",
   "source": "Hacker News 头版",
@@ -88,7 +95,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795805864.3298163,
   "desc": "",
-  "ord": 27
+  "ord": 26
  },
  "https://thesoapbox.email/archive/3": {
   "title": "I'm Scared of AI",
@@ -3616,7 +3623,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795234035.606287,
   "desc": "",
-  "ord": 26
+  "ord": 27
  },
  "https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html": {
   "title": "享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款",
@@ -4191,12 +4198,5 @@
   "ts": 1795114036.0,
   "desc": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o\nComments URL: https://news.ycombinator.com/item?id=50564366\nPoints: 22\n# Comments: 23",
   "ord": 0
- },
- "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use": {
-  "title": "Gemini on Mac can now use your computer",
-  "source": "The Verge AI",
-  "ts": 1795112473.0,
-  "desc": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and",
-  "ord": 2
  }
 }
