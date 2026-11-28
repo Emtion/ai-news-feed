@@ -1,24 +1,87 @@
 {
+ "https://huggingface.co/inworld/voice-isolator": {
+  "title": "inworld/voice-isolator Audio-to-Audio • Updated 14 days ago • 20.5k • 1.02k",
+  "source": "Hugging Face Trending",
+  "ts": 1795831142.339553,
+  "desc": "",
+  "ord": 20
+ },
+ "https://huggingface.co/kandinskylab/Kandinsky-ImageSR-2.0": {
+  "title": "kandinskylab/Kandinsky-ImageSR-2.0 Image-to-Image • 5B • Updated 2 days ago • 582 • 195",
+  "source": "Hugging Face Trending",
+  "ts": 1795831142.339553,
+  "desc": "",
+  "ord": 28
+ },
+ "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai": {
+  "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+  "source": "Hacker News 头版",
+  "ts": 1795829576.0,
+  "desc": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai\nComments URL: https://news.ycombinator.com/item?id=50673521\nPoints: 10\n# Comments: 0",
+  "ord": 0
+ },
+ "https://daily.ai225.com/daily/2026-11-28": {
+  "title": "2026-11-28 AI 日报 · OpenAI反诉苹果窃密，谷歌开源TPU Sync并推新TPU",
+  "source": "AI 日报 · AI225",
+  "ts": 1795827250.0,
+  "desc": "今日 AI 聚焦巨头博弈与算力基建。OpenAI 在加州反诉苹果窃取商业机密；谷歌云发布 TPU 8tx 与 8i Max 并开源 TPU Sync。行业侧，SAP 计划裁员至少 1 万人推进 AI 转型，OpenAI 正构建 Athena 平台，微软 Copilot 可擅自修改企业云端文件。国内方面，DeepSeek 领跑 OpenRouter 用量榜，美团预计明年 AI 资本支出低于今年，蚂蚁灵波与微信发布具身导航及电商开源模型。",
+  "ord": 0
+ },
+ "https://www.fofr.ai/greenhouse-after-the-typhoon": {
+  "title": "Painting 1990s anime scenes in Python",
+  "source": "Hacker News 头版",
+  "ts": 1795823417.0,
+  "desc": "Article URL: https://www.fofr.ai/greenhouse-after-the-typhoon\nComments URL: https://news.ycombinator.com/item?id=50672829\nPoints: 11\n# Comments: 3",
+  "ord": 1
+ },
+ "https://sessiongraph.ai/": {
+  "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+  "source": "Hacker News 头版",
+  "ts": 1795813654.0,
+  "desc": "Article URL: https://sessiongraph.ai/\nComments URL: https://news.ycombinator.com/item?id=50671651\nPoints: 28\n# Comments: 10",
+  "ord": 2
+ },
+ "https://github.com/skeeto/prospero": {
+  "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+  "source": "Hacker News 头版",
+  "ts": 1795810994.0,
+  "desc": "Article URL: https://github.com/skeeto/prospero\nComments URL: https://news.ycombinator.com/item?id=50671275\nPoints: 34\n# Comments: 7",
+  "ord": 3
+ },
+ "https://www.leiphone.com/category/ai/ilqJyKclWkhaWIps.html": {
+  "title": "独家丨瞄准 AI 算力天花板，「闪科光联」完成数千万融资",
+  "source": "雷峰网",
+  "ts": 1795806840.0,
+  "desc": "“AI算力的成本中心正在从‘计算’转向‘连接’。”雷峰网·鲸犀独家获悉，MicroLED 高速光互连芯片与光引擎研发商「闪科光联」近日完成数千万元人民币天使轮融资。种子轮由励石创投独家投资，天使轮由商汤国香、长石资本、厚雪资本联合领投，险峰长青（K2）、磐霖资本、小苗朗程、柯熙创投等多家产业基金共同跟投。鲸犀进一步获悉，闪科光联成立于 2026 年 9 月，创始人周秋桂博士毕业于美国弗吉尼亚大学，师从“全球 APD 之父” Joe C. Campbell 院士，回国后任职于华工科技，并从零组建了硅光团队。此后，周秋桂共同参与创立了熹联光芯，主导光电融合这一新架构的落地与量产。从经历来看，周秋桂",
+  "ord": 0
+ },
+ "https://www.leiphone.com/category/weiwu/TThdKrM8psZJIudr.html": {
+  "title": "独家丨自研微水洗澡机，「润泽智造」拿下数百万元天使轮融资",
+  "source": "雷峰网",
+  "ts": 1795806360.0,
+  "desc": "雷峰网·鲸犀独家报道，微水清洁技术研发商「润泽智造」近期完成数百万元人民币天使轮融资，由一家市场化投资机构领投，金隼投资担任独家财务顾问。润泽智造成立于 2025 年，旗下品牌“羽鸣 eoomii”主打的产品是一款便携式微水洗澡机。据鲸犀了解，这款产品仅重约 4.9 千克，将清洗与烘干整合为一套“微水洗干一体”的自动化流程，聚焦于缺水环境下的个人清洁日用场景。也就是说，洗澡过程中的清洁、污水回收、晾干等步骤都可以用一台机器完成，取代了传统的固定浴室和大量水流冲洗。在团队上，创始人常若飞是一位连续创业者，有 15 年连续创业经验与 3 次成功创业经历，曾任深圳华科精密仪器研发负责人，首个创业项目",
+  "ord": 1
+ },
+ "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/": {
+  "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+  "source": "Hacker News 头版",
+  "ts": 1795805995.0,
+  "desc": "Article URL: https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/\nComments URL: https://news.ycombinator.com/item?id=50670443\nPoints: 41\n# Comments: 10",
+  "ord": 4
+ },
  "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF": {
   "title": "ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF Text Generation • 26B • Updated about 21 hours ago • 24.9k • 223",
   "source": "Hugging Face Trending",
   "ts": 1795805864.3298163,
   "desc": "",
-  "ord": 26
+  "ord": 24
  },
  "https://huggingface.co/sand-ai/MAGI-2-preview": {
   "title": "sand-ai/MAGI-2-preview Image-Text-to-Video • Updated Aug 5 • 334",
   "source": "Hugging Face Trending",
   "ts": 1795805864.3298163,
   "desc": "",
-  "ord": 29
- },
- "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html": {
-  "title": "The NFL Player Who Left Football for Math",
-  "source": "Hacker News 头版",
-  "ts": 1795803440.0,
-  "desc": "Article URL: https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html\nComments URL: https://news.ycombinator.com/item?id=50669963\nPoints: 7\n# Comments: 3",
-  "ord": 0
+  "ord": 27
  },
  "https://thesoapbox.email/archive/3": {
   "title": "I'm Scared of AI",
@@ -61,13 +124,6 @@
   "ts": 1795782180.0,
   "desc": "11月27日，美团发布2026年第三季度业绩报告，实现收入1156亿元。随着外卖行业趋于理性，叠加三季度暑期旺季效应，美团各项业务保持稳健增长。在财报电话会上，美团管理层表示，三季度，美团继续强化在餐饮外卖订单量和GTV上的领先地位，增长质量显著提升。二季度气温适宜、配送成本平稳，通常是外卖UE最好的季度。而三季度包含暑期旺季，为保障订单高峰期及特殊天气条件下的稳定履约，三季度会投入更多骑手补贴，单均配送成本高于二季度。美团管理层披露，三季度餐饮外卖UE较二季度有所回落，但9月UE修复明显，优于二季度平均水平，而10月UE环比9月继续提升。展望四季度，尽管配送成本仍受寒冬和年底季节性因素影响，",
   "ord": 1
- },
- "https://www.kimi.ai/news/kimi-for-science-program": {
-  "title": "Kimi for Science: More scientific ideas, made possible",
-  "source": "Hacker News 头版",
-  "ts": 1795780991.0,
-  "desc": "Article URL: https://www.kimi.ai/news/kimi-for-science-program\nComments URL: https://news.ycombinator.com/item?id=50665920\nPoints: 159\n# Comments: 133",
-  "ord": 3
  },
  "https://www.qbitai.com/2026/11/513346.html": {
   "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
@@ -354,7 +410,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795737139.889278,
   "desc": "",
-  "ord": 24
+  "ord": 25
  },
  "https://janlukas.blog/posts/ai-self-hosting": {
   "title": "AI made self-hosting fun again",
@@ -550,14 +606,14 @@
   "source": "艾媒网",
   "ts": 1795669336.482212,
   "desc": "",
-  "ord": 3
+  "ord": 2
  },
  "https://www.iimedia.cn/c1088/120774.html": {
   "title": "11月25日AI新产品讯息：腾讯混元发布第三代翻译模型、华为云发布智能体伙伴开放计划、文心5.5 Flash Preview正式开源",
   "source": "艾媒网",
   "ts": 1795669336.482212,
   "desc": "",
-  "ord": 4
+  "ord": 3
  },
  "https://www.iimedia.cn/c1040/120824.html": {
   "title": "千问Go全面开放免费代打电话服务，专属AI助手加速融入生活场景",
@@ -3553,7 +3609,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795234035.606287,
   "desc": "",
-  "ord": 27
+  "ord": 26
  },
  "https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html": {
   "title": "享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款",
@@ -3637,7 +3693,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795205785.1048276,
   "desc": "",
-  "ord": 28
+  "ord": 29
  },
  "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/": {
   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -4142,61 +4198,5 @@
   "ts": 1795111751.0,
   "desc": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
   "ord": 2
- },
- "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/": {
-  "title": "Introducing Tool Retrieval in the Gemini API",
-  "source": "Google AI 博客",
-  "ts": 1795111200.0,
-  "desc": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-  "ord": 0
- },
- "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/": {
-  "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-  "source": "TechCrunch AI",
-  "ts": 1795109920.0,
-  "desc": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
-  "ord": 3
- },
- "https://www.anthropic.com/research/claude-black-hole-physics": {
-  "title": "Claude solves two open problems in the physics of black holes",
-  "source": "Hacker News 头版",
-  "ts": 1795109444.0,
-  "desc": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics\nComments URL: https://news.ycombinator.com/item?id=50563148\nPoints: 226\n# Comments: 80",
-  "ord": 1
- },
- "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/": {
-  "title": "Anthropic hits $2T in Nasdaq debut",
-  "source": "Hacker News 头版",
-  "ts": 1795107760.0,
-  "desc": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/\nComments URL: https://news.ycombinator.com/item?id=50562754\nPoints: 519\n# Comments: 807",
-  "ord": 2
- },
- "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/": {
-  "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-  "source": "TechCrunch AI",
-  "ts": 1795107600.0,
-  "desc": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-  "ord": 4
- },
- "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/": {
-  "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-  "source": "WIRED AI",
-  "ts": 1795107600.0,
-  "desc": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
-  "ord": 0
- },
- "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/": {
-  "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-  "source": "Google AI 博客",
-  "ts": 1795107600.0,
-  "desc": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-  "ord": 1
- },
- "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/": {
-  "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-  "source": "TechCrunch AI",
-  "ts": 1795107563.0,
-  "desc": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-  "ord": 5
  }
 }
