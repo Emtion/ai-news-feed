@@ -1,4 +1,102 @@
 {
+ "https://www.theverge.com/tech/1045337/samsung-recompose-ai-camera": {
+  "title": "Samsung is testing a feature that changes the angle of photos you’ve already taken",
+  "source": "The Verge AI",
+  "ts": 1795892098.0,
+  "desc": "Android Authority found code in the beta for One UI 9.5 referring to a feature called Recompose that might let you change the angle of a photo after you've taken it. The code is part of Samsung's Photo Editor app and builds on the existing Move tool. Users would be able to toggle between Move […]",
+  "ord": 0
+ },
+ "https://cs.stanford.edu/~knuth/moratorium.html": {
+  "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
+  "source": "Hacker News 头版",
+  "ts": 1795888382.0,
+  "desc": "Article URL: https://cs.stanford.edu/~knuth/moratorium.html\nComments URL: https://news.ycombinator.com/item?id=50680168\nPoints: 143\n# Comments: 16",
+  "ord": 0
+ },
+ "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/": {
+  "title": "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
+  "source": "TechCrunch AI",
+  "ts": 1795888007.0,
+  "desc": "After Apple sued OpenAI this summer, OpenAI has fired back with a countersuit of its own.",
+  "ord": 0
+ },
+ "https://pages.ethanmdavidson.com/ai-physics-breakthrough": {
+  "title": "Physics Breakthrough Simulator",
+  "source": "Hacker News 头版",
+  "ts": 1795877565.0,
+  "desc": "Article URL: https://pages.ethanmdavidson.com/ai-physics-breakthrough\nComments URL: https://news.ycombinator.com/item?id=50678273\nPoints: 106\n# Comments: 32",
+  "ord": 1
+ },
+ "https://www.qbitai.com/2026/11/513577.html": {
+  "title": "200亿美元…史上最贵AI自媒体",
+  "source": "量子位",
+  "ts": 1795876736.0,
+  "desc": "这可能是有史以来，ROI（投资回报率）最高的个人博客。",
+  "ord": 0
+ },
+ "https://www.qbitai.com/2026/11/513555.html": {
+  "title": "谷歌Tibo亲授Gemini 4 Neon内部打开方式！第一步：删光旧规则",
+  "source": "量子位",
+  "ts": 1795876155.0,
+  "desc": "这两天转投Gemini的有福了！",
+  "ord": 1
+ },
+ "https://www.qbitai.com/2026/11/513535.html": {
+  "title": "刚刚，8192张昇腾训出285B大模型！权重开源，32页训练手册全公开",
+  "source": "量子位",
+  "ts": 1795875170.0,
+  "desc": "国产芯片训千亿大模型，终于有人把施工图纸摊开了",
+  "ord": 2
+ },
+ "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/": {
+  "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+  "source": "TechCrunch AI",
+  "ts": 1795874400.0,
+  "desc": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+  "ord": 1
+ },
+ "https://www.qbitai.com/2026/11/513507.html": {
+  "title": "xAI联创张国栋戴自航创业，90天搓出互联网时光机",
+  "source": "量子位",
+  "ts": 1795870382.0,
+  "desc": "这还只是热身",
+  "ord": 3
+ },
+ "https://scriptor-pro.github.io/luciole-mono/": {
+  "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+  "source": "Hacker News 头版",
+  "ts": 1795870215.0,
+  "desc": "TLDR : Atkinson Hyperlegible Mono alternativeLuciole Mono is a vibe-clauded derivative of Luciole.Luciole was designed for visually impaired readers by Laurent Bourcellier and Jonathan Perez, at the Centre Technique Régional pour la Déficience Visuelle (typographies.fr)Please tell me what you think ",
+  "ord": 2
+ },
+ "https://www.qbitai.com/2026/11/513484.html": {
+  "title": "最新：黎曼猜想证明通过独立验证！",
+  "source": "量子位",
+  "ts": 1795869757.0,
+  "desc": "六种检查全通过",
+  "ord": 4
+ },
+ "https://www.qbitai.com/2026/11/513463.html": {
+  "title": "用Claude证明黎曼猜想的90后数学家，收到了致命威胁",
+  "source": "量子位",
+  "ts": 1795868748.0,
+  "desc": "为了证明黎曼猜想，他已经准备了十几年",
+  "ord": 5
+ },
+ "https://malspark.com/blog/malicious-gguf-models-hugging-face/": {
+  "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+  "source": "Hacker News 头版",
+  "ts": 1795867024.0,
+  "desc": "Article URL: https://malspark.com/blog/malicious-gguf-models-hugging-face/\nComments URL: https://news.ycombinator.com/item?id=50676752\nPoints: 165\n# Comments: 58",
+  "ord": 3
+ },
+ "https://xinyadu.github.io/blog/claude-code-sabotage.html": {
+  "title": "Claude Code sabotage: preliminary benchmarking",
+  "source": "Hacker News 头版",
+  "ts": 1795862260.0,
+  "desc": "Article URL: https://xinyadu.github.io/blog/claude-code-sabotage.html\nComments URL: https://news.ycombinator.com/item?id=50676390\nPoints: 652\n# Comments: 221",
+  "ord": 4
+ },
  "https://www.qbitai.com/2026/11/513428.html": {
   "title": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
   "source": "量子位",
@@ -32,7 +130,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795831142.339553,
   "desc": "",
-  "ord": 28
+  "ord": 26
  },
  "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai": {
   "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
@@ -88,14 +186,14 @@
   "source": "Hugging Face Trending",
   "ts": 1795805864.3298163,
   "desc": "",
-  "ord": 24
+  "ord": 23
  },
  "https://huggingface.co/sand-ai/MAGI-2-preview": {
   "title": "sand-ai/MAGI-2-preview Image-Text-to-Video • Updated Aug 5 • 334",
   "source": "Hugging Face Trending",
   "ts": 1795805864.3298163,
   "desc": "",
-  "ord": 26
+  "ord": 27
  },
  "https://thesoapbox.email/archive/3": {
   "title": "I'm Scared of AI",
@@ -641,7 +739,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795669336.482212,
   "desc": "",
-  "ord": 23
+  "ord": 24
  },
  "https://twitter.com/thsottiaux/status/2125784147889393806": {
   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
@@ -1131,7 +1229,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795584830.6081126,
   "desc": "",
-  "ord": 18
+  "ord": 17
  },
  "https://www.leiphone.com/category/industrynews/9aHVg0PkWKreUOax.html": {
   "title": "搭载线控数字底盘，第三代唐售价18.79万-21.99万元",
@@ -3329,7 +3427,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795376280.5030785,
   "desc": "",
-  "ord": 17
+  "ord": 18
  },
  "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/": {
   "title": "Why data centers are at the center of the Big Tech backlash",
@@ -3623,7 +3721,7 @@
   "source": "Hugging Face Trending",
   "ts": 1795234035.606287,
   "desc": "",
-  "ord": 27
+  "ord": 28
  },
  "https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html": {
   "title": "享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款",
@@ -4100,103 +4198,5 @@
   "ts": 1795132800.0,
   "desc": "",
   "ord": 1
- },
- "https://openai.com/business/customer-stories/hebbia": {
-  "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-  "source": "OpenAI News",
-  "ts": 1795132800.0,
-  "desc": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-  "ord": 1
- },
- "https://git-aarvin.github.io/mei/": {
-  "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-  "source": "Hacker News 头版",
-  "ts": 1795131335.0,
-  "desc": "Article URL: https://git-aarvin.github.io/mei/\nComments URL: https://news.ycombinator.com/item?id=50568130\nPoints: 110\n# Comments: 59",
-  "ord": 0
- },
- "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing": {
-  "title": "Apple is hiring engineers to build its own AI agent",
-  "source": "The Verge AI",
-  "ts": 1795127501.0,
-  "desc": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic ",
-  "ord": 0
- },
- "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings": {
-  "title": "A brief history of Nvidia’s recent stock fluctuations",
-  "source": "The Verge AI",
-  "ts": 1795125575.0,
-  "desc": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wip",
-  "ord": 1
- },
- "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/": {
-  "title": "Meta’s new Muse Charm device may cost $300",
-  "source": "TechCrunch AI",
-  "ts": 1795125486.0,
-  "desc": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-  "ord": 2
- },
- "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/": {
-  "title": "What’s With All These Outages?",
-  "source": "WIRED AI",
-  "ts": 1795125421.0,
-  "desc": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
-  "ord": 0
- },
- "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/": {
-  "title": "These tech outages are giving Y2K, AI agent style",
-  "source": "TechCrunch AI",
-  "ts": 1795124551.0,
-  "desc": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-  "ord": 3
- },
- "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB": {
-  "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB Text Generation • 8B • Updated 27 days ago • 172k • 617",
-  "source": "Hugging Face Trending",
-  "ts": 1795120531.0521662,
-  "desc": "",
-  "ord": 29
- },
- "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/": {
-  "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
-  "source": "WIRED AI",
-  "ts": 1795120457.0,
-  "desc": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
-  "ord": 1
- },
- "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price": {
-  "title": "Meta’s Muse Charm might cost $300",
-  "source": "The Verge AI",
-  "ts": 1795119737.0,
-  "desc": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\"",
-  "ord": 0
- },
- "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/": {
-  "title": "The unfolding Jensen Huang scandal: a timeline",
-  "source": "TechCrunch AI",
-  "ts": 1795119529.0,
-  "desc": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-  "ord": 0
- },
- "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats": {
-  "title": "Google is putting AI chats right on the homepage",
-  "source": "The Verge AI",
-  "ts": 1795118706.0,
-  "desc": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]",
-  "ord": 1
- },
- "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/": {
-  "title": "Anthropic’s IPO could deliver $156 billion to charity",
-  "source": "TechCrunch AI",
-  "ts": 1795115445.0,
-  "desc": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-  "ord": 1
- },
- "https://www.youtube.com/watch?v=lwfewYL7X0o": {
-  "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-  "source": "Hacker News 头版",
-  "ts": 1795114036.0,
-  "desc": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o\nComments URL: https://news.ycombinator.com/item?id=50564366\nPoints: 22\n# Comments: 23",
-  "ord": 0
  }
 }
